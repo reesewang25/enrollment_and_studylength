@@ -1,0 +1,502 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00496145</url>
+  </required_header>
+  <id_info>
+    <org_study_id>76357</org_study_id>
+    <secondary_id>NIH NR053250-04</secondary_id>
+    <nct_id>NCT00496145</nct_id>
+  </id_info>
+  <brief_title>Spanish Diabetes Self-Management Program</brief_title>
+  <acronym>SDSMP</acronym>
+  <official_title>Spanish Diabetes Self-Management Program</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Stanford University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Type II diabetes is a growing health concern for Latinos who not only have a higher incidence&#xD;
+      of the disease but also suffer great morbidity. At the same time due to poverty, language,&#xD;
+      low literacy and lack of continuity of care, this population is largely excluded from current&#xD;
+      diabetes education programs. To assist with this problem we propose to evaluate 1) a&#xD;
+      community-based, peer-led Spanish Diabetes Self-Management Program that is culturally&#xD;
+      appropriate and acceptable based on self-efficacy theory, and 2) the effects of long-term,&#xD;
+      self-tailored educational reinforcement offered by means of automated telephone disease&#xD;
+      management messages. Should this research be successful it will provide an evidenced based&#xD;
+      public health diabetes education model for use with Latino populations throughout the United&#xD;
+      States.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Diabetes self-management education is increasingly recognized in best practice guidelines and&#xD;
+      reimbursement policies as a critical ingredient of appropriate health services, especially&#xD;
+      for the Latino population. Latinos, in addition to carrying a heavy burden of diabetes and&#xD;
+      related comorbid conditions, encounter limited access to health care and health education due&#xD;
+      to economic, language and cultural barriers. The proposed project is a health status and&#xD;
+      health care utilization outcome study. It is unique in that: 1) it will evaluate a low-cost&#xD;
+      replicable, community-based, diabetes education model, 2) it will study the long-term effects&#xD;
+      of a low-cost, easily replicable reinforcement system, ATDM calls, and 3) it targets&#xD;
+      Spanish-speakers, who are at high risk for type 2 diabetes, for diabetes-related&#xD;
+      complications, and who are under-served by existing programs.&#xD;
+&#xD;
+      The background for this study is derived from our long-standing programs of research on&#xD;
+      chronic disease self-management and automated telephone disease management (ATDM) as well as&#xD;
+      the research of others. This research has demonstrated that: 1) Self-management programs and&#xD;
+      ATDM programs can improve health-related quality of life, metabolic control, and health care&#xD;
+      utilization. 2) The effects of these programs on health-related quality of life and health&#xD;
+      care utilization are mediated partially by enhancement of perceived self-efficacy to cope&#xD;
+      with the consequences of chronic disease. 3) Self-management education has a potential for&#xD;
+      achieving substantial financial savings through decreased use of inpatient and outpatient&#xD;
+      health care.&#xD;
+&#xD;
+      Information about the outcomes of health self-management programs for Latinos is more&#xD;
+      fragmentary. However, analyses of our Spanish language Arthritis Self-Management Program and&#xD;
+      analysis of a pilot of our Spanish Diabetes Self-Management Program suggest that&#xD;
+      self-management programs can be extended successfully to Latinos. Work by Piette has&#xD;
+      demonstrated that 1) monolingual Spanish speakers can and will use automated telephone&#xD;
+      disease management (ATDM) calls as part of their care, 2) Latinos will use ATDM calls to&#xD;
+      access health education, and 3) ATDM-supported diabetes care can improve health-related&#xD;
+      quality of life, metabolic control and self-management behaviors.&#xD;
+&#xD;
+      BACKGROUND AND SIGNIFICANCE&#xD;
+&#xD;
+      Six factors contribute to the significance of the proposed research. These include 1) the&#xD;
+      growing population of Latinos in the United States, 2) the disproportional burden of diabetes&#xD;
+      in the Latino population, 3) the costs of diabetes care coupled with decreasing access to&#xD;
+      care for the uninsured and underinsured, 4) the lack of well developed and evaluated diabetes&#xD;
+      education interventions for Latinos, 5) growing evidence that psychosocial interventions for&#xD;
+      diabetes can impact both health status and health care costs, and 6) evidence that perceived&#xD;
+      self-efficacy is an important mediator of changes in health related quality of life.&#xD;
+&#xD;
+      Growing Latino Population&#xD;
+&#xD;
+      Approximately 22 million Latinos representing 9% of the total population are currently living&#xD;
+      in the United States1 and Latinos are expected to be the largest minority group early in this&#xD;
+      century.2 One third of the nation's Latino population lives in California,3 and 60% of this&#xD;
+      7.7 million are foreign born.4, 5 By 2007 slightly more than one third of California's&#xD;
+      population is expected to be Latino.5&#xD;
+&#xD;
+      Latinos have the lowest level of education of any demographic group in the United States.&#xD;
+      Only 45% of Latinos in California, compared to 50% nationally, have completed high school.3&#xD;
+      Approximately 400,000 Latinos are 65 or older. Between 1983 and 1988 this group grew at a&#xD;
+      rate of nearly 27%, making it the fastest growing group for any elderly population in the&#xD;
+      United States.6 California Latinos have twice the poverty rate as whites.5&#xD;
+&#xD;
+      Burden of Diabetes&#xD;
+&#xD;
+      Certain factors endemic among Latinos, such as lower socioeconomic status, less formal&#xD;
+      education, language and cultural barriers, and reduced access to health care, all contribute&#xD;
+      to the morbidity and mortality associated with diabetes.&#xD;
+&#xD;
+      Morbidity&#xD;
+&#xD;
+      Morbidity data suggest that 14% of Latinos suffer from diabetes.7 Data from several studies&#xD;
+      indicate that the prevalence of diabetes is nearly 3 times greater among Latinos than&#xD;
+      non-Latinos.5, 7-9 It is also metabolically more severe, placing them at greater risk for&#xD;
+      medical complications such as diabetic retinopathy, neuropathy, end-stage renal disease and&#xD;
+      peripheral vascular disease.10-15 The high rate of morbidity is likely to continue in the&#xD;
+      future as Latinos have more risk factors, especially physical inactivity, unfavorable body&#xD;
+      fat distribution and obesity for women, and higher blood pressure.16, 17&#xD;
+&#xD;
+      Mortality National mortality statistics for Latinos, even if they are available, are not&#xD;
+      reliable. Until recently, neither national data sets nor death certificates contained Latino&#xD;
+      identifiers.4 Despite this, there have been some comparative studies of mortality rates&#xD;
+      between Latinos and non-Latino whites by specific causes. While these studies have&#xD;
+      limitations, they do suggest that mortality rates due to diabetes are higher for both Latino&#xD;
+      men and women than for non-Latinos.18 These rates are especially high among Mexican and&#xD;
+      Puerto Rican women, appearing as the fourth leading cause of death for these two groups.19&#xD;
+      The single greatest complication of diabetes across Latinos is heart disease. While data are&#xD;
+      not available on the heart disease mortality that is secondary to diabetes, we do know that&#xD;
+      cardiovascular disease is the leading cause of death among Mexican Americans, who make up 63%&#xD;
+      of the U.S. Latino population. Within this group, Spanish speakers have the highest cardiac&#xD;
+      mortality.16 Although cardiovascular mortality is declining in this country, it is declining&#xD;
+      more slowly in the Latino population and is still the leading cause of death among older&#xD;
+      Latinos.20&#xD;
+&#xD;
+      Costs and Access&#xD;
+&#xD;
+      Over one third of the Latinos in the United States are completely uninsured,21 and the rate&#xD;
+      of growth of the uninsured Latino population is greater than that of the non-Latino&#xD;
+      population.22 While 76% of white non-elderly Californians have private health insurance, only&#xD;
+      43% of Latinos do.21 Even when covered by insurance, Latinos have lower outpatient&#xD;
+      utilization rates than whites, especially those who are not English-speaking.2 However, twice&#xD;
+      as many Latinos report using emergency room services for primary care when compared to&#xD;
+      whites.23 Latinos also enter hospitals via emergency rooms more than whites, and have longer&#xD;
+      and more expensive hospital stays.24 This is especially important because hospitalization&#xD;
+      accounts for 60% of all costs associated with diabetes.25 In addition to being uninsured,&#xD;
+      language and cultural barriers also contribute to the under utilization of preventive health&#xD;
+      care among Latinos. Spanish-speaking Latinos encounter obstacles when seeking health care&#xD;
+      within the complicated health care system, and are less likely to find a regular source of&#xD;
+      medical care.2 The patterns of health care utilization described above suggest that diabetes&#xD;
+      self-management education may assist the Latino population in reducing emergency room use and&#xD;
+      days in hospital.&#xD;
+&#xD;
+      Diabetes Patient Education Programs for Latinos&#xD;
+&#xD;
+      While there is a growing epidemiological literature on the health status of Latinos, we have&#xD;
+      been able to find only two published articles on interventions for U.S. adult Latinos with&#xD;
+      diabetes. One article reported on the feasibility of a pilot, community-based, diabetes&#xD;
+      patient education and group support program for Spanish-speaking diabetics, which included&#xD;
+      the use of group discussions and videos to teach diabetes-specific management skills.26 The&#xD;
+      other study, by Piette, is discussed in section B.7.2. While there are many diabetes programs&#xD;
+      targeting Latinos, few of these appear to have been rigorously evaluated.&#xD;
+&#xD;
+      Evidence Suggesting the Effectiveness of Psychosocial Self-Management Programs for Diabetes&#xD;
+&#xD;
+      There is growing evidence that psychosocial programs are effective for people with chronic&#xD;
+      disease in general and diabetes in particular. As documented by Mazzuca in a meta-analysis, a&#xD;
+      large range of health status changes can be expected. The mean effect size of these changes&#xD;
+      is approximately .3.27 Programs have been shown to lower blood pressure;28-30 reduce&#xD;
+      mortality from hypertension,31 melanoma,32 from hematologic malignancies,33 and from breast&#xD;
+      cancer;34 and, for people with diabetes, increased health-related quality of life and&#xD;
+      metabolic control.26, 35-43&#xD;
+&#xD;
+      Several reviews establish the efficacy of psychosocial interventions for people with&#xD;
+      diabetes.36, 44, 45 From the literature it is clear that psychosocial interventions can help&#xD;
+      patients improve metabolic control and diabetes self-management behaviors. Some evidence also&#xD;
+      exists for improvements in health-related quality of life.&#xD;
+&#xD;
+      Most diabetes education studies are short term. The following are exceptions. Mulrow and&#xD;
+      colleagues conducted an intervention for low-literacy type 2 diabetics. Initial weight loss&#xD;
+      was not sustained at 11- month follow-up.46 Rubin and colleagues, however, conducted a coping&#xD;
+      skills training program that did demonstrate sustained benefits in terms of emotional&#xD;
+      well-being at one year.47 Studies such as those of Weinberger and Piette used continuing&#xD;
+      interventions.38, 48 Both of these studies demonstrated sustained improvement in terms of&#xD;
+      metabolic control and health-related quality of life.&#xD;
+&#xD;
+      In summary, there is evidence that diabetes educational interventions can improve metabolic&#xD;
+      control and quality of life. The need for reinforcement is less clear, although it appears&#xD;
+      that programs with continuing interventions seem to produce better long-term results than do&#xD;
+      shorter programs.&#xD;
+&#xD;
+      PRELIMINARY STUDIES&#xD;
+&#xD;
+      Overview&#xD;
+&#xD;
+      This proposed study is possible because of the convergence of six lines of inquiry: 1)&#xD;
+      outcome studies that have demonstrated the influence of chronic disease self-management in&#xD;
+      improving the health status of both English- and Spanish-speaking patients, 2) outcome&#xD;
+      studies which have demonstrated the effectiveness of an automated telephone intervention in&#xD;
+      improving the health status of Latinos with diabetes, 3) a pilot study of a diabetes&#xD;
+      self-management program for Latinos, 4) methodological studies which have established&#xD;
+      effective means for recruiting and collecting data from Spanish-speaking people with chronic&#xD;
+      conditions, 5) the availability of valid self-administered instruments, which have been&#xD;
+      translated into Spanish and validated with Spanish-speaking individuals throughout the United&#xD;
+      States and abroad; and 6) theoretical studies that identify mechanisms by which&#xD;
+      self-management interventions affect health status.&#xD;
+&#xD;
+      The Chronic Disease Self-Management Program Study (English)&#xD;
+&#xD;
+      The Chronic Disease Self-Management Program study was designed to test the general&#xD;
+      applicability of self-management programs to mixed groups having different chronic diseases.&#xD;
+      In this study, 1,140 persons 40 years of age or older with at least one of the targeted&#xD;
+      diseases (heart disease, lung disease, stroke and/or arthritis) were randomized to receive a&#xD;
+      7-week (2.5 hours per week) peer-led, community-based self-management program or to usual&#xD;
+      care control status. Treatment groups included patients with different chronic diseases.&#xD;
+      After six months, the controls received the Chronic Disease Self-Management Program. Subjects&#xD;
+      participating in the program were followed for between one and three years. Content of the&#xD;
+      English Chronic Disease Self-Management Program was based on a literature review and input&#xD;
+      from 11 focus groups.71, 72 The self-management activities focused on the skills needed to&#xD;
+      manage the tasks involved in dealing with chronic illness as described by Corbin and&#xD;
+      Strauss.73 These include: 1) treatment tasks necessitated by the illness such as exercise,&#xD;
+      symptom management, taking medication(s), and communicating with health care providers, 2)&#xD;
+      tasks needed to maintain or alter one's life roles in the face of the chronic condition, and&#xD;
+      3) emotional tasks such as dealing with anger, depression and an uncertain future. The course&#xD;
+      development was informed by self-efficacy theory and taught using efficacy-enhancing&#xD;
+      strategies that included emphasis on skills mastery, modeling, reinterpretation of symptoms,&#xD;
+      and social persuasion.&#xD;
+&#xD;
+      In the English Chronic Disease Self-Management Program, participants' mean age was 65 and 65%&#xD;
+      of participants were female. Subjects had an average of 2.3 chronic diseases and 7% had&#xD;
+      diabetes. Treatment subjects, when compared with control subjects, demonstrated improvements&#xD;
+      at 6 months in weekly minutes of exercise, frequency of cognitive symptom management,&#xD;
+      communication with the physician, self-reported health, health distress, fatigue, disability,&#xD;
+      and social/role activities limitation. They also had fewer hospitalizations, and fewer days&#xD;
+      in the hospital (p&lt;.05)74 (publication included in Appendix 1).&#xD;
+&#xD;
+      The whole study population, including the original intervention group and the control group,&#xD;
+      receiving the intervention after a six-month wait were followed for three years. Each year&#xD;
+      for three years compared to baseline, ER/outpatient visits and health distress were reduced&#xD;
+      (p&lt;.05). Disability increased at the expected rate (p&lt;.05). There were no other significant&#xD;
+      changes in any of the outcome variables. There was evidence that increased perceived&#xD;
+      self-efficacy was associated with decreased health distress, which in turn was marginally&#xD;
+      associated with future reductions in outpatient visits.&#xD;
+&#xD;
+      Spanish Diabetes Self-Management Pilot&#xD;
+&#xD;
+      As part of a project supported by the Hospital Council of Santa Clara County, we developed&#xD;
+      and evaluated a community-based, peer-led diabetes self-management program for Spanish&#xD;
+      speakers, using a three-month pre-test/post-test design. Like our previous programs, this&#xD;
+      course was based on a needs assessment conducted with four groups of diabetic Latinos. In&#xD;
+      addition we conducted three focus groups with nutritionists and diabetes educators working in&#xD;
+      the Northern California Kaiser Permanente system. The purpose of these later groups was to&#xD;
+      identify content and key messages to include in the program. The program was then reviewed by&#xD;
+      diabetes nurse educators, nutritionists, and a diabetologist.&#xD;
+&#xD;
+      Courses were offered by two different organizations between the summers of 1998 and 1999.&#xD;
+      Program participants completed human subject's requirements and filled out baseline&#xD;
+      questionnaires through the mail or by telephone before the first session of the SDSM pilot&#xD;
+      program. The questionnaires were then sent to Stanford, where the Patient Education Research&#xD;
+      Center staff collected missing data by telephone. Three-month post-intervention data were&#xD;
+      again collected either through the mail or by telephone. One hundred and nine of the people&#xD;
+      participating in the SCSM pilot program completed data collection.&#xD;
+&#xD;
+      Program participants made significant (p&lt;.05) improvements in health behaviors (exercise,&#xD;
+      diet, practice of relaxation techniques, examining feet, communication with provider).&#xD;
+      Similarly, health status improved as measured both by health-related quality of life&#xD;
+      variables (self-reported health, fatigue, physical discomfort, health distress, and&#xD;
+      role/activity limitations) and self-reported fasting blood glucose levels (p&lt;.05). No&#xD;
+      significant improvements were found in health care utilization. There were trends, however,&#xD;
+      toward less utilization (specifically, less ER use and fewer hospitalizations).&#xD;
+&#xD;
+      Automated Telephone Disease Management Studies&#xD;
+&#xD;
+      Piette and colleagues conducted a feasibility study in Department of Veterans Affairs (VA)&#xD;
+      outpatient clinics to determine whether low-income patients with diabetes were able and&#xD;
+      willing to use their touch-tone telephones to provide information about their health and&#xD;
+      self-care.78 During one month, patients completed 216 (83%) of all assessment attempts and&#xD;
+      reported a number of health problems that might otherwise have gone undetected by their&#xD;
+      clinicians. Patients overwhelmingly reported that they found the ATDM calls helpful (98%),&#xD;
+      and that they had no difficulty responding to the calls (98%). The majority also reported&#xD;
+      that they would like to receive ATDM calls as part of their usual care (89%), and that&#xD;
+      receiving such calls would make them more satisfied with their VA care (77%).&#xD;
+&#xD;
+      Two follow-up randomized trials were conducted. The first study determined the impact of&#xD;
+      ATDM-supported diabetes care for 280 low-income English- and Spanish-speaking patients&#xD;
+      recruited from indigent-care clinics. Intervention patients received 12-months of biweekly&#xD;
+      ATDM calls with follow-up by a diabetes nurse educator. Control patients received usual care.&#xD;
+      The second randomized trial evaluated a similar intervention tailored to VA care. In this&#xD;
+      study, 301 patients were enrolled and randomized to 12-months of ATDM-supported telephone&#xD;
+      care or usual care.&#xD;
+&#xD;
+      Patients in these studies completed ATDM assessments consistently over the twelve months of&#xD;
+      their participation and were satisfied with their experience79 (publication included in&#xD;
+      Appendix 1). Across both studies, patients successfully completed more than 4,000 bi-weekly&#xD;
+      ATDM assessments or 71% of all assessment attempts. Only 4% of attempts were terminated&#xD;
+      because the patient hung up the telephone prematurely. Patients reported self-monitored blood&#xD;
+      glucose levels during 70% of successful assessments. In their 12-month follow-up survey, 87%&#xD;
+      of patients reported that they were &quot;moderately&quot; or &quot;very&quot; satisfied with the ATDM calls.&#xD;
+      Eighty-six percent said that receiving such calls would make them more satisfied with their&#xD;
+      health care, and 79% said that they personally would choose to receive similar calls in the&#xD;
+      future. Spanish-speaking patients responded at least as consistently as English-speakers and&#xD;
+      were more satisfied with the system. This is despite the fact that more than half of all the&#xD;
+      Spanish-speakers reported no formal education.&#xD;
+&#xD;
+      Data from these studies indicate that patients with diabetes are interested in receiving&#xD;
+      self-care education via ATDM calls. On average, Spanish-speaking patients selected optional&#xD;
+      self-care tips during 64% of their ATDM calls compared to 36% for English speakers (p &lt;&#xD;
+      .0001). Spanish speakers also selected dietary education modules more often (52% versus 28%,&#xD;
+      p &lt; .0001). After 12 months, most Spanish speakers and roughly one fourth of English speakers&#xD;
+      continued to select each message type and received a substantial amount of education as a&#xD;
+      result.&#xD;
+&#xD;
+      Data from both randomized trials suggest that ATDM-supported diabetes care can improve&#xD;
+      self-care, glycemic control, and patient-centered outcomes. Among participants in the county&#xD;
+      clinic trial, outcome data were collected at 12-months for 248 (89%) of all enrollees.&#xD;
+      Compared to the usual care group, intervention patients at follow-up reported more frequent&#xD;
+      glucose self-monitoring, foot inspection, and weight monitoring, and fewer medication&#xD;
+      adherence problems (all p &lt; .03).48 The publication is included in Appendix 1. Mean follow-up&#xD;
+      HbA1c values among intervention and control patients were 8.1% and 8.4% (p = .01), and more&#xD;
+      than twice as many intervention patients were within the normal range for HbA1c (p =.04).&#xD;
+      Intervention patients also had lower mean serum glucose levels (180mg/dl versus 221 mg/dl)&#xD;
+      and reported better glycemic control (both p &lt; .005). On average, intervention patients&#xD;
+      reported fewer diabetic symptoms than usual care patients (4.0 versus 5.4) (p&lt; .0001)&#xD;
+      including fewer symptoms of hyperglycemia (p&lt; .0005) and hypoglycemia (p &lt; .001).&#xD;
+&#xD;
+      Importantly, impacts within the Spanish-speaking subgroup were greater than those seen in the&#xD;
+      sample overall. The average HbA1c among Spanish speakers in the intervention group was 1.1%&#xD;
+      lower (95% confidence interval (CI) 0.2% to 1.9%) than among those in the usual care group,&#xD;
+      and six times as many Spanish-speaking intervention patients had normal end point HbA1c&#xD;
+      levels (18% versus 3%, p = .05). In addition, the mean serum glucose level at follow-up was&#xD;
+      71 mg/dl lower (95% CI 13 to 129 mg/dl) among Spanish-speaking patients in the intervention&#xD;
+      group, and intervention patients had 1.6 fewer symptoms than Spanish-speaking controls (95%&#xD;
+      CI = 0.0 to 3.2).&#xD;
+&#xD;
+      ATDM-supported diabetes care also had positive impacts on patient-centered outcomes81&#xD;
+      (publication included in Appendix 1). Compared to control patients, intervention patients&#xD;
+      reported greater satisfaction with care, especially with the technical quality of the&#xD;
+      services they received, their choice of providers and continuity of care, their communication&#xD;
+      with providers, and the quality of their health outcomes (all p&lt; .04). There also were&#xD;
+      improvements in patients' self-efficacy to perform self-care activities (p = .006), and&#xD;
+      perceived access to care. Compared to patients receiving usual care, those receiving the&#xD;
+      intervention reported fewer symptoms of depression at follow-up (p = .02) and fewer days in&#xD;
+      bed due to illness (p&lt; .03).&#xD;
+&#xD;
+      Data from the VA randomized trial currently are being analyzed. Preliminary findings indicate&#xD;
+      that impacts on patients' self-care, glycemic control, and satisfaction with care are similar&#xD;
+      to those just described.82&#xD;
+&#xD;
+      Summary&#xD;
+&#xD;
+      In summary, the substantial work on the diabetes self-management program development and&#xD;
+      results from randomized studies of outcomes and mediating processes provide a strong&#xD;
+      foundation for extending the self-management program to diabetes. These studies have also&#xD;
+      produced a set of validated outcome instruments, and verified strategies for data collection&#xD;
+      within the targeted population. This program of research is conducted within a conceptual&#xD;
+      framework that informs the implementation of the intervention.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2002</start_date>
+  <completion_date type="Actual">September 2006</completion_date>
+  <primary_completion_date type="Actual">September 2005</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Hemoglobin A1c, Health Distress, Symptoms of Hypoglycemia, Symptoms of Hyperglycemia</measure>
+    <time_frame>6 month and 18 month</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Amount of exercise,self-efficacy, communication with physician,fatigue, activity limitation,physician visits</measure>
+    <time_frame>6-month and 18-month</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">567</enrollment>
+  <condition>Type 2 Diabetes</condition>
+  <arm_group>
+    <arm_group_label>treatment</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Spanish Diabetes Self-Management Program</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>control</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>usual-care control group</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>Spanish Diabetes Self-Management Program</intervention_name>
+    <description>small-group self management education program</description>
+    <arm_group_label>treatment</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Diagnosed with type 2 diabetes&#xD;
+&#xD;
+          -  Speaks and understands Spanish language&#xD;
+&#xD;
+          -  Able to attend community based diabetes education workshops&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Pregnant&#xD;
+&#xD;
+          -  Undergoing active cancer treatment&#xD;
+&#xD;
+          -  Diagnosed with insulin dependant diabetes (type 1)&#xD;
+&#xD;
+          -  Pre or borderline diabetes&#xD;
+&#xD;
+          -  Prior or concurrent participation in other diabetes self-management program&#xD;
+&#xD;
+          -  Clinical diagnosis of Alzheimer's Disease&#xD;
+&#xD;
+          -  Mental health condition preventing group participation or cognitive ability&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kate R. Lorig, R.N., DrPH</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Stanford University Patient Education Research Center, Department of Medicine</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford Patient Education Research Center</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Lorig K, Gonzlez V. Community-based diabetes self-management education: definition and case study. Diabetes Spectrum 2000;13:234-238.</citation>
+  </reference>
+  <reference>
+    <citation>Piette JD, Weinberger M, McPhee SJ, Mah CA, Kraemer FB, Crapo LM. Do automated calls with nurse follow-up improve self-care and glycemic control among vulnerable patients with diabetes? Am J Med. 2000 Jan;108(1):20-7. doi: 10.1016/s0002-9343(99)00298-3.</citation>
+    <PMID>11059437</PMID>
+  </reference>
+  <reference>
+    <citation>Holman H, Lorig K. Perceived self-efficacy in self-management of chronic disease In: Schwartz R, ed. Self-Efficacy: Thought Control of Action. Washington: Hemisphere Publishing; 1992:305-323.</citation>
+  </reference>
+  <reference>
+    <citation>Lorig K, Gonzalez VM, Ritter P. Community-based Spanish language arthritis education program: a randomized trial. Med Care. 1999 Sep;37(9):957-63. doi: 10.1097/00005650-199909000-00011.</citation>
+    <PMID>10493473</PMID>
+  </reference>
+  <reference>
+    <citation>Lorig KR, Sobel DS, Stewart AL, Brown BW Jr, Bandura A, Ritter P, Gonzalez VM, Laurent DD, Holman HR. Evidence suggesting that a chronic disease self-management program can improve health status while reducing hospitalization: a randomized trial. Med Care. 1999 Jan;37(1):5-14. doi: 10.1097/00005650-199901000-00003.</citation>
+    <PMID>10413387</PMID>
+  </reference>
+  <reference>
+    <citation>Piette JD, Weinberger M, McPhee SJ. The effect of automated calls with telephone nurse follow-up on patient-centered outcomes of diabetes care: a randomized, controlled trial. Med Care. 2000 Feb;38(2):218-30. doi: 10.1097/00005650-200002000-00011.</citation>
+    <PMID>10659695</PMID>
+  </reference>
+  <reference>
+    <citation>Piette JD, Weinberger M, Kraemer FB, McPhee SJ. Impact of automated calls with nurse follow-up on diabetes treatment outcomes in a Department of Veterans Affairs Health Care System: a randomized controlled trial. Diabetes Care. 2001 Feb;24(2):202-8. doi: 10.2337/diacare.24.2.202.</citation>
+    <PMID>11213866</PMID>
+  </reference>
+  <reference>
+    <citation>Ritter PL, Stewart AL, Kaymaz H, Sobel DS, Block DA, Lorig KR. Self-reports of health care utilization compared to provider records. J Clin Epidemiol. 2001 Feb;54(2):136-41. doi: 10.1016/s0895-4356(00)00261-4.</citation>
+    <PMID>11166528</PMID>
+  </reference>
+  <reference>
+    <citation>Lorig KR, Ritter PL, Jacquez A. Outcomes of border health Spanish/English chronic disease self-management programs. Diabetes Educ. 2005 May-Jun;31(3):401-9. doi: 10.1177/0145721705276574.</citation>
+    <PMID>15919640</PMID>
+  </reference>
+  <verification_date>April 2016</verification_date>
+  <study_first_submitted>July 3, 2007</study_first_submitted>
+  <study_first_submitted_qc>July 3, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 4, 2007</study_first_posted>
+  <last_update_submitted>April 18, 2016</last_update_submitted>
+  <last_update_submitted_qc>April 18, 2016</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 19, 2016</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Stanford University</investigator_affiliation>
+    <investigator_full_name>Kate Lorig</investigator_full_name>
+    <investigator_title>Principle Investigator</investigator_title>
+  </responsible_party>
+  <keyword>diabetes</keyword>
+  <keyword>self management</keyword>
+  <keyword>patient education</keyword>
+  <keyword>telephone reinforcement</keyword>
+  <keyword>Spanish Diabetes</keyword>
+  <keyword>Tomando Control de su Diabetes</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

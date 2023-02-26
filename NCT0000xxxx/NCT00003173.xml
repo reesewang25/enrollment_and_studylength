@@ -1,0 +1,279 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003173</url>
+  </required_header>
+  <id_info>
+    <org_study_id>97-089</org_study_id>
+    <secondary_id>P30CA008748</secondary_id>
+    <secondary_id>MSKCC-97089A3</secondary_id>
+    <secondary_id>NYU-97-7</secondary_id>
+    <secondary_id>NCI-G97-1366</secondary_id>
+    <nct_id>NCT00003173</nct_id>
+  </id_info>
+  <brief_title>High-Dose Thiotepa Plus Peripheral Stem Cell Transplantation in Treating Patients With Refractory Solid Tumors</brief_title>
+  <official_title>High-Dose Thiotepa With Autologous Stem Cell Rescue in Patients With Malignancies Refractory to Conventional Chemotherapy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining chemotherapy with peripheral stem cell transplantation&#xD;
+      may allow the doctor to give higher doses of chemotherapy drugs and kill more tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of high-dose thiotepa plus peripheral stem&#xD;
+      cell transplantation in treating patients with refractory solid tumors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Evaluate the efficacy and toxicity of sequential cycles of high dose thiotepa with stem&#xD;
+           cell rescue and filgrastim in patients with malignancies refractory to conventional&#xD;
+           chemotherapy or for whom conventional therapy is not available.&#xD;
+&#xD;
+        -  Evaluate the effectiveness of autologous stem cells in restoring hematopoiesis following&#xD;
+           high dose thiotepa.&#xD;
+&#xD;
+      OUTLINE: Patients are stratified by type of tumor (neuroectodermal CNS tumor vs&#xD;
+      non-neuroectodermal CNS tumor vs non-CNS small round blue cell tumor vs other non-CNS tumor).&#xD;
+&#xD;
+      Autologous stem cells are obtained prior to the administration of thiotepa. Patients who do&#xD;
+      not have peripheral blood stem cells available may undergo a bone marrow harvest instead.&#xD;
+      Thiotepa is administered as a 3 hour infusion daily for 3 consecutive days. Stem cells are&#xD;
+      reinfused approximately 72 hours following the completion of thiotepa. Filgrastim is&#xD;
+      administered the day following reinfusion of stem cells and continues until there is&#xD;
+      sufficient hematopoietic recovery.&#xD;
+&#xD;
+      The second course of thiotepa is administered 4 weeks following the first course in patients&#xD;
+      who have responding or stable disease, adequate stem cells, and no unacceptable toxicity.&#xD;
+      Patients receive a maximum of 2 courses.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: Approximately 36 patients will be accrued for this study over 2 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1997</start_date>
+  <completion_date type="Actual">May 2003</completion_date>
+  <primary_completion_date type="Actual">May 2003</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <condition>Childhood Germ Cell Tumor</condition>
+  <condition>Extragonadal Germ Cell Tumor</condition>
+  <condition>Ovarian Cancer</condition>
+  <condition>Retinoblastoma</condition>
+  <condition>Testicular Germ Cell Tumor</condition>
+  <condition>Unspecified Adult Solid Tumor, Protocol Specific</condition>
+  <condition>Unspecified Childhood Solid Tumor, Protocol Specific</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>filgrastim</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>thiotepa</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>autologous bone marrow transplantation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>peripheral blood stem cell transplantation</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Malignant solid tumors&#xD;
+&#xD;
+          -  Must have failed conventional treatment or for whom conventional therapy is not&#xD;
+             available&#xD;
+&#xD;
+          -  Measurable disease by MRI or CT scan&#xD;
+&#xD;
+               -  Intraocular retinoblastomas may be measured by direct visualization&#xD;
+&#xD;
+               -  Germ cell tumors may be measured by tumor markers&#xD;
+&#xD;
+          -  No known bone marrow involvement&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  Any age&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Lansky 60-100% for patients 16 and under&#xD;
+&#xD;
+          -  Karnofsky 60-100% for patients over 16&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  At least 8 weeks&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  Absolute neutrophil count at least 1,000/mm^3&#xD;
+&#xD;
+          -  Platelet count at least 75,000/mm^3&#xD;
+&#xD;
+          -  If parameters not met, must have adequate stem cell yield&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin no greater than 1.5 times the upper limit of normal (ULN)&#xD;
+&#xD;
+          -  SGOT and SGPT no greater than 2.5 times the ULN (unless liver involvement by tumor)&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine within normal limits OR&#xD;
+&#xD;
+          -  Creatinine clearance at least 70 mL/min&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  Fractional shortening greater than 28% on echocardiogram OR&#xD;
+&#xD;
+          -  Ejection fraction at least 55% on RNCA prior to first cycle of thiotepa&#xD;
+&#xD;
+        Pulmonary:&#xD;
+&#xD;
+          -  DLCO greater than 55% of predicted (only required if there is clinical evidence of&#xD;
+             pulmonary dysfunction)&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  Prior bone marrow or peripheral blood stem cell rescue allowed&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  At least 4 weeks since prior chemotherapy if absolute neutrophil count is less than&#xD;
+             1,000/mm^3 or platelet count is less than 75,000/mm^3, and recovered (i.e. adequate&#xD;
+             stem cells collected to predict hematopoietic recovery)&#xD;
+&#xD;
+          -  No concurrent chemotherapy except for dexamethasone for antiedema effects&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  No concurrent use of corticosteroids used solely as antiemetics&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  At least 4 weeks since radiotherapy if absolute neutrophil count is less than&#xD;
+             1,000/mm^3 or platelet count is less than 75,000/mm^3, and recovered (i.e. adequate&#xD;
+             stem cells collected to predict hematopoietic recovery)&#xD;
+&#xD;
+          -  No concurrent radiotherapy&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Not specified&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ira Dunkel, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>NYU School of Medicine's Kaplan Comprehensive Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2013</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>April 22, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 23, 2003</study_first_posted>
+  <last_update_submitted>March 6, 2013</last_update_submitted>
+  <last_update_submitted_qc>March 6, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">March 7, 2013</last_update_posted>
+  <keyword>intraocular retinoblastoma</keyword>
+  <keyword>recurrent retinoblastoma</keyword>
+  <keyword>childhood central nervous system germ cell tumor</keyword>
+  <keyword>stage III malignant testicular germ cell tumor</keyword>
+  <keyword>recurrent malignant testicular germ cell tumor</keyword>
+  <keyword>unspecified childhood solid tumor, protocol specific</keyword>
+  <keyword>unspecified adult solid tumor, protocol specific</keyword>
+  <keyword>childhood germ cell tumor</keyword>
+  <keyword>stage III ovarian germ cell tumor</keyword>
+  <keyword>stage IV ovarian germ cell tumor</keyword>
+  <keyword>recurrent ovarian germ cell tumor</keyword>
+  <keyword>extragonadal germ cell tumor</keyword>
+  <keyword>adult central nervous system germ cell tumor</keyword>
+  <keyword>childhood teratoma</keyword>
+  <keyword>childhood malignant testicular germ cell tumor</keyword>
+  <keyword>childhood malignant ovarian germ cell tumor</keyword>
+  <keyword>childhood extragonadal germ cell tumor</keyword>
+  <keyword>recurrent childhood malignant germ cell tumor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Germ Cell and Embryonal</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+    <mesh_term>Retinoblastoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Thiotepa</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

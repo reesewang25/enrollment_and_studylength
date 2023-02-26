@@ -1,0 +1,238 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00001521</url>
+  </required_header>
+  <id_info>
+    <org_study_id>960033</org_study_id>
+    <secondary_id>96-CH-0033</secondary_id>
+    <nct_id>NCT00001521</nct_id>
+  </id_info>
+  <brief_title>Three Drug Combination Therapy Versus Conventional Treatment of Children With Congenital Adrenal Hyperplasia</brief_title>
+  <official_title>An Open, Randomized, Long-Term Clinical Trial of Flutamide, Testolactone, and Reduced Hydrocortisone Dose vs. Conventional Treatment of Children With Congenital Adrenal Hyperplasia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study was developed to determine if a combination of four drugs (flutamide,&#xD;
+      testolactone, reduced hydrocortisone dose, and fludrocortisone) can normalize growth in&#xD;
+      children with congenital adrenal hyperplasia.&#xD;
+&#xD;
+      The study will take 60 children, boys and girls and divide them into 2 groups based on the&#xD;
+      medications given. Group one will receive the new four- drug combination. Group two will&#xD;
+      receive the standard treatment for congenital adrenal hyperplasia (hydrocortisone and&#xD;
+      fludrocortisone).&#xD;
+&#xD;
+      The boys in group one will take the medication until the age of 14 at which time they will&#xD;
+      stop taking the four drug combination and begin receiving the standard treatment for&#xD;
+      congenital adrenal hyperplasia. Girls in group one will take the four drug combination until&#xD;
+      the age of 13, at which time they will stop and begin receiving the standard treatment for&#xD;
+      congenital adrenal hyperplasia plus flutamide. Flutamide will be given to the girls until six&#xD;
+      months after their first menstrual period.&#xD;
+&#xD;
+      All of the children will be followed until they reach their final adult height. The&#xD;
+      effectiveness of the treatment will be determined by measuring the patient's adult height,&#xD;
+      body mass index, and bone density. &lt;TAB&gt;...&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      To test the hypothesis that the regimen of flutamide (an antiandrogen), testolactone or&#xD;
+      letrozole (an inhibitor of androgen-to-estrogen conversion), and reduced hydrocortisone dose&#xD;
+      can normalize the growth and adult stature of children with congenital adrenal hyperplasia,&#xD;
+      and can avoid the complications of supraphysiologic glucocorticoid dosage, 60 children with&#xD;
+      this disorder will be randomized to receive either the above regimen or conventional&#xD;
+      treatment until they have reached age 13 years in a girl or age 14 in a boy. After these ages&#xD;
+      boys will receive the conventional treatment and girls will receive conventional treatment&#xD;
+      plus flutamide. In girls, flutamide will be continued until 6 months after menarche. All&#xD;
+      children will be followed until they have attained final adult height. The principal outcome&#xD;
+      measures will be adult height, body mass index, and bone density.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date type="Actual">June 8, 1995</start_date>
+  <completion_date type="Anticipated">December 31, 2023</completion_date>
+  <primary_completion_date type="Anticipated">December 31, 2023</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Adult height</measure>
+    <time_frame>at 13 for boys; 14 for girls</time_frame>
+    <description>The primary outcome variable is adult height which will be expressed in SD units relative to the normal population.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>hormone levels (plasma, urine)</measure>
+    <time_frame>at study conclusion and analysis</time_frame>
+    <description>hormone levels</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Predicted adult height (Bayley-Pinneau)</measure>
+    <time_frame>at study conclusion and analysis</time_frame>
+    <description>adult height</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Weight velocity (SD units)</measure>
+    <time_frame>at study conclusion and analysis</time_frame>
+    <description>body mass index, and bone density</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Growth velocity (SD units)</measure>
+    <time_frame>at study conclusion and analysis</time_frame>
+    <description>adult height, body mass index, and bone density</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">62</enrollment>
+  <condition>Congenital Adrenal Hyperplasia (CAH)</condition>
+  <arm_group>
+    <arm_group_label>Investigational 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>boys/flutamide, letrozole, and reduced hydrocortisone dose or conventional treatment (with hydrocortisone and fludrocortisone ) until the age of 14</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Investigational 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>girls/flutamide, letrozole, and reduced hydrocortisone dose, the Letrozole will discontinue at 13 y.o. and continue flutamide until 2 years after menarche or when final height is reached, whichever occurs first</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Flutamide</intervention_name>
+    <description>Non steroidal anti-androgen that prevents the action of androgens by blocking receptor sites in target tissue. It may also produce changes in testosterone and estradiol</description>
+    <arm_group_label>Investigational 1</arm_group_label>
+    <arm_group_label>Investigational 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Letrozole</intervention_name>
+    <description>Armomatase inhibitor.</description>
+    <arm_group_label>Investigational 1</arm_group_label>
+    <arm_group_label>Investigational 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Hydrocortisone</intervention_name>
+    <description>reduced hydrocortisone dose can normalize the growth and adult stature of children with congenital adrenal hyperplasia</description>
+    <arm_group_label>Investigational 1</arm_group_label>
+    <arm_group_label>Investigational 2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fludrocortisone</intervention_name>
+    <description>Since hydrocortisone dosage will be reduced , some patients may develop symptoms or signs of adrenal insufficiency. Patients will continue to receive an optimal fludrocortisone dose</description>
+    <arm_group_label>Investigational 1</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+        Subjects will be boys with bone ages 2 to 13 years and girls with bone ages 2 to 11 years&#xD;
+        with classic 21-hydroxylase.&#xD;
+&#xD;
+        Subjects must either not yet have undergone pubertal activation of the&#xD;
+        hypothalamic-pituitary-gonadal axis, or, if pubertal activation has occurred, must be&#xD;
+        receiving an LHRH agonist to suppress secondary central precocious puberty.&#xD;
+&#xD;
+        Children with a bone age of 1 to 2 years may enroll in the protocol for optimization of&#xD;
+        conventional therapy, but will not be randomized to a study arm until the bone age reaches&#xD;
+        2.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Children who have concurrent illnesses requiring glucocorticoid treatment (such as severe&#xD;
+        asthma), or requiring drugs that markedly alter hydrocortisone metabolism (such as&#xD;
+        anticonvulsants), and children who cannot be brought into reasonable control with&#xD;
+        conventional treatment (an unusual occurrence).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Deborah P Merke, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_1996-CH-0033.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Urban MD, Lee PA, Migeon CJ. Adult height and fertility in men with congenital virilizing adrenal hyperplasia. N Engl J Med. 1978 Dec 21;299(25):1392-6. doi: 10.1056/NEJM197812212992505.</citation>
+    <PMID>152409</PMID>
+  </reference>
+  <reference>
+    <citation>New MI, Gertner JM, Speiser PW, del Balzo P. Growth and final height in classical and nonclassical 21-hydroxylase deficiency. Acta Paediatr Jpn. 1988;30 Suppl:79-88. No abstract available.</citation>
+    <PMID>3146882</PMID>
+  </reference>
+  <reference>
+    <citation>Klingensmith GJ, Garcia SC, Jones HW, Migeon CJ, Blizzard RM. Glucocorticoid treatment of girls with congenital adrenal hyperplasia: effects on height, sexual maturation, and fertility. J Pediatr. 1977 Jun;90(6):996-1004. doi: 10.1016/s0022-3476(77)80581-7.</citation>
+    <PMID>870661</PMID>
+  </reference>
+  <verification_date>August 11, 2022</verification_date>
+  <study_first_submitted>November 3, 1999</study_first_submitted>
+  <study_first_submitted_qc>November 3, 1999</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 4, 1999</study_first_posted>
+  <last_update_submitted>January 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Congenital Adrenal Hyperplasia (CAH)</keyword>
+  <keyword>Intervention</keyword>
+  <keyword>Children</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Adrenal Hyperplasia, Congenital</mesh_term>
+    <mesh_term>Adrenogenital Syndrome</mesh_term>
+    <mesh_term>Adrenocortical Hyperfunction</mesh_term>
+    <mesh_term>Hyperplasia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hydrocortisone</mesh_term>
+    <mesh_term>Fludrocortisone</mesh_term>
+    <mesh_term>Letrozole</mesh_term>
+    <mesh_term>Flutamide</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>Undecided</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

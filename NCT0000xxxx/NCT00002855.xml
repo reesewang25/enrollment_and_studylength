@@ -1,0 +1,347 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00002855</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DM95-231</org_study_id>
+    <secondary_id>P30CA016672</secondary_id>
+    <secondary_id>MDA-DM-95231</secondary_id>
+    <secondary_id>NCI-G96-1044</secondary_id>
+    <secondary_id>CDR0000065105</secondary_id>
+    <nct_id>NCT00002855</nct_id>
+  </id_info>
+  <brief_title>Chemotherapy Plus Hormone Therapy Versus Androgen Suppression in Treating Patients With Metastatic or Unresectable Prostate Cancer</brief_title>
+  <official_title>A Phase 3 Trial of Androgen Ablation Alone vs. Chemo/Hormonal Therapy as Initial Treatment of Unresectable/Metastatic Adenocarcinoma of the Prostate</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>M.D. Anderson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>M.D. Anderson Cancer Center</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining hormone therapy with chemotherapy and androgen&#xD;
+      suppression may kill more tumor cells. It is not yet known which treatment regimen is more&#xD;
+      effective for prostate cancer.&#xD;
+&#xD;
+      PURPOSE: Randomized phase III trial to compare the effectiveness of chemotherapy plus hormone&#xD;
+      therapy versus androgen suppression alone as initial therapy in patients with prostate cancer&#xD;
+      that is metastatic or that cannot be removed surgically.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the clinical benefit, as measured by time to progression and overall survival,&#xD;
+           of chemo/hormonal therapy compared to androgen ablation alone, when given as the initial&#xD;
+           systemic treatment in patients with acinar adenocarcinoma of the prostate that is not&#xD;
+           amenable to local therapy.&#xD;
+&#xD;
+        -  Validate the clinical significance of PSA criteria for progression.&#xD;
+&#xD;
+      OUTLINE: This is a randomized study. Patients are randomized to 1 of 2 treatment arms.&#xD;
+&#xD;
+        -  Arm I: Patients are treated with medical or surgical castration followed by an&#xD;
+           anti-androgen therapy with either flutamide, bicalutamide, or nilutamide.&#xD;
+&#xD;
+        -  Arm II: Patients receive chemo/hormonal therapy for 3 eight week courses, followed by&#xD;
+           total androgen blockade. Each course consists of 6 weeks of cytotoxic therapy with&#xD;
+           doxorubicin, ketoconazole, vinblastine, and estramustine followed by 2 weeks of rest.&#xD;
+           These patients are also maintained on hydrocortisone both during treatment and during&#xD;
+           rest.&#xD;
+&#xD;
+      Patients in arm II have a long-term central venous access device inserted.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 368 patients will be accrued for this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1996</start_date>
+  <completion_date type="Actual">June 2005</completion_date>
+  <primary_completion_date type="Actual">June 2005</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Time to Progression</measure>
+    <time_frame>From baseline to post treatment (minimally 24+ weeks)</time_frame>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">306</enrollment>
+  <condition>Prostate Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arm I: Medical or surgical castration followed by an anti-androgen therapy with either flutamide, bicalutamide, or nilutamide.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Arm II: Chemo/hormonal therapy for 3 x 8-week courses, followed by total androgen blockade. Each course consists of 6 weeks of cytotoxic therapy with doxorubicin, ketoconazole, vinblastine, and estramustine followed by 2 weeks rest. Maintained on hydrocortisone both during treatment and during rest.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bicalutamide</intervention_name>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>Casodex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxorubicin hydrochloride</intervention_name>
+    <arm_group_label>Arm II</arm_group_label>
+    <other_name>Adriamycin</other_name>
+    <other_name>Adriamycin PFS</other_name>
+    <other_name>Adriamycin RDF</other_name>
+    <other_name>Rubex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Estramustine Phosphate Sodium</intervention_name>
+    <arm_group_label>Arm II</arm_group_label>
+    <other_name>Emcyt</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Flutamide</intervention_name>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>Eulexin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ketoconazole</intervention_name>
+    <arm_group_label>Arm II</arm_group_label>
+    <other_name>Nizoral</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nilutamide</intervention_name>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>Anandron</other_name>
+    <other_name>Nilandron</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Therapeutic Hydrocortisone</intervention_name>
+    <arm_group_label>Arm II</arm_group_label>
+    <other_name>A-hydroCort</other_name>
+    <other_name>Cortef</other_name>
+    <other_name>Cortenema</other_name>
+    <other_name>Cortifoam</other_name>
+    <other_name>Hydrocortone</other_name>
+    <other_name>Solu-Cortef</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vinblastine</intervention_name>
+    <arm_group_label>Arm II</arm_group_label>
+    <other_name>Velban</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Conventional Surgery</intervention_name>
+    <description>Surgical castration</description>
+    <arm_group_label>Arm I</arm_group_label>
+    <other_name>Castration</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically proven acinar adenocarcinoma of the prostate&#xD;
+&#xD;
+          -  Metastatic or locally advanced disease that either is not appropriately treated with&#xD;
+             surgery or radiation, or has recurred following previous &quot;definitive&quot; local therapy&#xD;
+&#xD;
+          -  No CNS metastases&#xD;
+&#xD;
+          -  No histologic subtypes, such as pure ductal or any component of small cell carcinoma&#xD;
+&#xD;
+          -  Elevated PSA (at least 1.0 ng/mL in patients with prior prostatectomy or 4.0 ng/mL in&#xD;
+             those with prostate in place)&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Zubrod 0-2&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  At least 3 years&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  Absolute neutrophil count greater than 1,500/mm^3&#xD;
+&#xD;
+          -  Platelet count greater than 100,000/mm^3&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Conjugated bilirubin no greater than 0.8 mg/dL or total bilirubin no greater than 1.5&#xD;
+             mg/dL&#xD;
+&#xD;
+          -  Transaminase no greater than 4 times upper limit of normal&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine clearance at least 40 mL/min&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  No evidence of bifascicular block on EKG&#xD;
+&#xD;
+          -  No evidence of active ischemia on EKG&#xD;
+&#xD;
+          -  No prior history of transient ischemic attack&#xD;
+&#xD;
+          -  No evidence of congestive heart failure&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No active peptic ulcer disease&#xD;
+&#xD;
+          -  No regular use of antacid or H2 blockers&#xD;
+&#xD;
+          -  No known or predicted achlorhydria&#xD;
+&#xD;
+          -  No concurrent use of terfenadine, astemizole, omeprazole, or cisapride&#xD;
+&#xD;
+          -  No second malignancy unless curatively treated&#xD;
+&#xD;
+          -  No history of deep venous thrombosis&#xD;
+&#xD;
+          -  No history of pulmonary embolism&#xD;
+&#xD;
+          -  No serious co-morbidity&#xD;
+&#xD;
+          -  HIV negative&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  No prior cytotoxic systemic therapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Prior androgen deprivation therapy allowed if given for no more than 6 months to&#xD;
+             downstage primary&#xD;
+&#xD;
+          -  No androgen deprivation therapy within 1 year prior to study&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  No prior cytotoxic systemic therapy (including systemic strontium-89 irradiation)&#xD;
+&#xD;
+          -  Prior definitive radiotherapy to the prostate and/or one metastatic site allowed&#xD;
+&#xD;
+          -  At least 8 weeks since radiotherapy to the pelvis&#xD;
+&#xD;
+          -  At least 3 weeks since radiotherapy to a single metastatic site&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Prior prostatectomy allowed&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No concurrent anti-anginal therapy or aggressive anticoagulants&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Randall E. Millikan, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Texas - MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030-4009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.mdanderson.org</url>
+    <description>UT MD Anderson Cancer Center Website</description>
+  </link>
+  <results_reference>
+    <citation>Millikan RE, Wen S, Pagliaro LC, Brown MA, Moomey B, Do KA, Logothetis CJ. Phase III trial of androgen ablation with or without three cycles of systemic chemotherapy for advanced prostate cancer. J Clin Oncol. 2008 Dec 20;26(36):5936-42. doi: 10.1200/JCO.2007.15.9830. Epub 2008 Nov 24.</citation>
+    <PMID>19029421</PMID>
+  </results_reference>
+  <verification_date>October 2018</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>October 30, 2018</last_update_submitted>
+  <last_update_submitted_qc>October 30, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 31, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>adenocarcinoma of the prostate</keyword>
+  <keyword>stage III prostate cancer</keyword>
+  <keyword>stage IV prostate cancer</keyword>
+  <keyword>recurrent prostate cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ketoconazole</mesh_term>
+    <mesh_term>Hydrocortisone</mesh_term>
+    <mesh_term>Hydrocortisone 17-butyrate 21-propionate</mesh_term>
+    <mesh_term>Hydrocortisone acetate</mesh_term>
+    <mesh_term>Hydrocortisone hemisuccinate</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Liposomal doxorubicin</mesh_term>
+    <mesh_term>Bicalutamide</mesh_term>
+    <mesh_term>Vinblastine</mesh_term>
+    <mesh_term>Flutamide</mesh_term>
+    <mesh_term>Estramustine</mesh_term>
+    <mesh_term>Nilutamide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

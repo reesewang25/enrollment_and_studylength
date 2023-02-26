@@ -1,0 +1,386 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000691</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 093</org_study_id>
+    <secondary_id>11068</secondary_id>
+    <nct_id>NCT00000691</nct_id>
+  </id_info>
+  <brief_title>A Phase II Dose-Ranging, Open-Labelled Trial of Foscarnet Salvage Therapy for AIDS Patients With Sight-Threatening CMV Retinitis Who Cannot Be Treated With Ganciclovir Due To Myelosuppression or Treatment Failure</brief_title>
+  <official_title>A Phase II Dose-Ranging, Open-Labelled Trial of Foscarnet Salvage Therapy for AIDS Patients With Sight-Threatening CMV Retinitis Who Cannot Be Treated With Ganciclovir Due To Myelosuppression or Treatment Failure</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <brief_summary>
+    <textblock>
+      To examine the usefulness and safety of the antiviral drug foscarnet in treating AIDS&#xD;
+      patients with cytomegalovirus (CMV) infection that is causing sight-threatening inflammation&#xD;
+      of the retina in one or both eyes (CMV retinitis). Because of the seriousness of&#xD;
+      sight-threatening CMV retinitis in AIDS patients and a lack of other available treatments for&#xD;
+      those patients who cannot be treated with ganciclovir (DHPG) (because of its toxic effect on&#xD;
+      the body's blood-forming cells, because it did not control the disease, or because patient's&#xD;
+      blood cell or platelet counts are too low to begin with), it is worthwhile to try an&#xD;
+      immediate trial with foscarnet. AMENDED: ACTG 093 was originally designed as a randomized&#xD;
+      dose-ranging study of foscarnet maintenance therapy. Patients enrolled between March 17,&#xD;
+      1989, and January 1, 1990, received either 60 mg/kg/day or 90/mg/kg day as maintenance&#xD;
+      therapy following the 2 week induction period. Based on the preliminary results of ACTG&#xD;
+      015/915, which studied maintenance doses of foscarnet of 60 mg/kg/day, 90 mg/kg/day and 120&#xD;
+      mg/kg/day, the 60-mg/kg/day and 90/mg/kg/day arms of this study have been closed. All&#xD;
+      patients entering the study beginning January 2, 1990 will receive foscarnet maintenance&#xD;
+      therapy on a 120/mg/kg/day algorithm following induction.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Because of the seriousness of sight-threatening CMV retinitis in AIDS patients and a lack of&#xD;
+      other available treatments for those patients who cannot be treated with ganciclovir (DHPG)&#xD;
+      (because of its toxic effect on the body's blood-forming cells, because it did not control&#xD;
+      the disease, or because patient's blood cell or platelet counts are too low to begin with),&#xD;
+      it is worthwhile to try an immediate trial with foscarnet. AMENDED: ACTG 093 was originally&#xD;
+      designed as a randomized dose-ranging study of foscarnet maintenance therapy. Patients&#xD;
+      enrolled between March 17, 1989, and January 1, 1990, received either 60 mg/kg/day or&#xD;
+      90/mg/kg day as maintenance therapy following the 2 week induction period. Based on the&#xD;
+      preliminary results of ACTG 015/915, which studied maintenance doses of foscarnet of 60&#xD;
+      mg/kg/day, 90 mg/kg/day and 120 mg/kg/day, the 60-mg/kg/day and 90/mg/kg/day arms of this&#xD;
+      study have been closed. All patients entering the study beginning January 2, 1990 will&#xD;
+      receive foscarnet maintenance therapy on a 120/mg/kg/day algorithm following induction.&#xD;
+&#xD;
+      AMENDED: The ACTG 093 optional extended maintenance therapy period will conclude on January&#xD;
+      2, 1991 in order to facilitate timely analysis of this study. All patients who wish to&#xD;
+      continue foscarnet therapy should be referred to Astra Protocol 90-FOS-14 at telephone number&#xD;
+      800-292-5775. Original design: Patients are placed into two groups: (1) patients who have a&#xD;
+      sight-threatening lesion in the retina of an eye with vision that can be saved (corrected&#xD;
+      vision of 20/100 or better) and who cannot be treated with DHPG, and (2) patients whose&#xD;
+      retinitis has quickly gotten worse and/or has shown resistance to DHPG treatment. Both groups&#xD;
+      will receive a beginning (induction) dose of foscarnet by vein (IV) for 2 weeks, followed by&#xD;
+      a maintenance dose for 8 weeks with an option to continue up to 24 weeks. AMENDED: Patients&#xD;
+      entering the study on or after 01/02/90 receive the standard two week course of foscarnet&#xD;
+      induction therapy and receive maintenance therapy. Treatment is given for a ten week study&#xD;
+      period or until progression occurs or toxicity endpoints are reached. If retinitis is stable&#xD;
+      and foscarnet well-tolerated, maintenance therapy may be extended for a period not to exceed&#xD;
+      1 year.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">August 1992</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment>156</enrollment>
+  <condition>Cytomegalovirus Retinitis</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Foscarnet sodium</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  Aerosolized pentamidine for Pneumocystis carinii pneumonia (PCP) prophylaxis.&#xD;
+&#xD;
+          -  Oral antibiotics if patient is hematologically stable on that regimen for at least 30&#xD;
+             days prior to study entry.&#xD;
+&#xD;
+          -  Therapy with vancomycin.&#xD;
+&#xD;
+          -  Drug therapy for Kaposi's sarcoma if patient is hematologically stable for at least 30&#xD;
+             days prior to study entry.&#xD;
+&#xD;
+          -  Initiate or resume zidovudine (AZT) in 2nd week of foscarnet maintenance therapy at&#xD;
+             dose of 100 or 200 mg q4h at investigator's discretion.&#xD;
+&#xD;
+          -  Initiate or continue erythropoietin therapy via the treatment IND mechanism.&#xD;
+&#xD;
+          -  Initiate or continue therapy with investigational triazoles for disseminated fungal&#xD;
+             infections. Caution should be used in concurrent use of foscarnet and ciprofloxacin,&#xD;
+             as such use has appeared to exacerbate renal failure in one patient.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  Oral antibiotics if patient is hematologically stable on that regimen for at least 30&#xD;
+             days prior to study entry.&#xD;
+&#xD;
+          -  Drug therapy for Kaposi's sarcoma if patient is hematologically stable for at least 30&#xD;
+             days prior to study entry.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Co-existing Condition:&#xD;
+&#xD;
+        Patients with the following are excluded:&#xD;
+&#xD;
+          -  Corneal, lens, or vitreous opacification that precludes examination of the fundi.&#xD;
+&#xD;
+          -  Clinically significant pulmonary or neurologic impairment, including intubation or&#xD;
+             coma.&#xD;
+&#xD;
+          -  Karnofsky performance status = or &lt; 50.&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Immunomodulators.&#xD;
+&#xD;
+          -  Biologic response modifiers.&#xD;
+&#xD;
+          -  Investigational agents (other than erythropoietin and investigational triazoles).&#xD;
+&#xD;
+          -  Ganciclovir.&#xD;
+&#xD;
+          -  Didanosine (ddI).&#xD;
+&#xD;
+          -  Systemic acyclovir.&#xD;
+&#xD;
+          -  CMV hyperimmune serum / globulin.&#xD;
+&#xD;
+          -  Interferons.&#xD;
+&#xD;
+          -  Nephrotoxic agents including aminoglycosides, amphotericin B, parenteral pentamidine.&#xD;
+&#xD;
+          -  Caution should be used in the concurrent use of foscarnet and ciprofloxacin, as such&#xD;
+             use has appeared to exacerbate renal failure in one patient.&#xD;
+&#xD;
+        Patients with the following are excluded:&#xD;
+&#xD;
+          -  Corneal, lens, or vitreous opacification that precludes examination of the fundi.&#xD;
+&#xD;
+          -  Clinically significant pulmonary or neurologic impairment, including intubation or&#xD;
+             coma.&#xD;
+&#xD;
+          -  Unwilling or unable to suspend zidovudine treatment until 2nd week of foscarnet&#xD;
+             maintenance therapy.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Foscarnet for cytomegalovirus retinitis.&#xD;
+&#xD;
+          -  Systemic acyclovir.&#xD;
+&#xD;
+          -  Immunomodulators.&#xD;
+&#xD;
+          -  Biologic response modifiers.&#xD;
+&#xD;
+          -  Investigational agents (other than erythropoietin and investigational triazoles).&#xD;
+&#xD;
+        AIDS patients with active cytomegalovirus (CMV) retinitis who cannot be treated with&#xD;
+        ganciclovir. At least one pending CMV culture from both blood (buffy-coat) and urine must&#xD;
+        be obtained prior to study entry. Patients must be able to give informed consent. Patients&#xD;
+        with a history of a seizure disorder or central nervous system mass lesion will be&#xD;
+        included.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>MA Jacobson</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>C Crumpacker</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>USC CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ucsf Aids Crs</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Miami AIDS CRS</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Adult AIDS CRS</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital ACTG CRS</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington U CRS</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY - Buffalo, Erie County Medical Ctr.</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NY Univ. HIV/AIDS CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cornell University A2201</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Rochester ACTG CRS</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Univ. Med. Ctr. Adult CRS</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Harb GE, Bacchetti P, Jacobson MA. Survival of patients with AIDS and cytomegalovirus disease treated with ganciclovir or foscarnet. AIDS. 1991 Aug;5(8):959-65. doi: 10.1097/00002030-199108000-00006.</citation>
+    <PMID>1663770</PMID>
+  </reference>
+  <reference>
+    <citation>Jacobson MA, Drew WL, Feinberg J, O'Donnell JJ, Whitmore PV, Miner RD, Parenti D. Foscarnet therapy for ganciclovir-resistant cytomegalovirus retinitis in patients with AIDS. J Infect Dis. 1991 Jun;163(6):1348-51. doi: 10.1093/infdis/163.6.1348.</citation>
+    <PMID>1645385</PMID>
+  </reference>
+  <reference>
+    <citation>Jacobson MA, Gambertoglio JG, Aweeka FT, Causey DM, Portale AA. Foscarnet-induced hypocalcemia and effects of foscarnet on calcium metabolism. J Clin Endocrinol Metab. 1991 May;72(5):1130-5. doi: 10.1210/jcem-72-5-1130.</citation>
+    <PMID>1827127</PMID>
+  </reference>
+  <reference>
+    <citation>Jacobson MA, Wulfsohn M, Feinberg JE, Davis R, Power M, Owens S, Causey D, Heath-Chiozzi ME, Murphy RL, Cheung TW, et al. Phase II dose-ranging trial of foscarnet salvage therapy for cytomegalovirus retinitis in AIDS patients intolerant of or resistant to ganciclovir (ACTG protocol 093). AIDS Clinical Trials Group of the National Institute of Allergy and Infectious Diseases. AIDS. 1994 Apr;8(4):451-9. doi: 10.1097/00002030-199404000-00006.</citation>
+    <PMID>8011248</PMID>
+  </reference>
+  <reference>
+    <citation>Reddy MM, Grieco MH, McKinley GF, Causey DM, van der Horst CM, Parenti DM, Hooton TM, Davis RB, Jacobson MA. Effect of foscarnet therapy on human immunodeficiency virus p24 antigen levels in AIDS patients with cytomegalovirus retinitis. J Infect Dis. 1992 Sep;166(3):607-10. doi: 10.1093/infdis/166.3.607.</citation>
+    <PMID>1323624</PMID>
+  </reference>
+  <reference>
+    <citation>Farese RV Jr, Schambelan M, Hollander H, Stringari S, Jacobson MA. Nephrogenic diabetes insipidus associated with foscarnet treatment of cytomegalovirus retinitis. Ann Intern Med. 1990 Jun 15;112(12):955-6. doi: 10.7326/0003-4819-112-12-955. No abstract available.</citation>
+    <PMID>2160217</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>November 2, 1999</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2001</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 31, 2001</study_first_posted>
+  <last_update_submitted>October 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Retinitis</keyword>
+  <keyword>AIDS-Related Opportunistic Infections</keyword>
+  <keyword>Ganciclovir</keyword>
+  <keyword>Drug Evaluation</keyword>
+  <keyword>Foscarnet</keyword>
+  <keyword>Cytomegalovirus Infections</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Antiviral Agents</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Cytomegalovirus Retinitis</mesh_term>
+    <mesh_term>Retinitis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Foscarnet</mesh_term>
+    <mesh_term>Phosphonoacetic Acid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

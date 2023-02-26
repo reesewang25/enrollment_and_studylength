@@ -1,0 +1,246 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003166</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2012-03120</org_study_id>
+    <secondary_id>CWRU 3Y97</secondary_id>
+    <secondary_id>U01CA062502</secondary_id>
+    <nct_id>NCT00003166</nct_id>
+  </id_info>
+  <brief_title>Bryostatin and Vincristine in B-Cell Malignancies</brief_title>
+  <official_title>A Phase I Trial of Combination Bryostatin 1 (NSC 339555) and Vincristine in B-Cell Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      This phase I trial is studying the side effects and best dose of bryostatin-1 when given&#xD;
+      together with vincristine in treating patients with chronic lymphocytic leukemia,&#xD;
+      non-Hodgkin's lymphoma, or multiple myeloma. Drugs used in chemotherapy use different ways to&#xD;
+      stop cancer cells from dividing so they stop growing or die. Combining more than one drug may&#xD;
+      kill more cancer cells&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To determine the maximum tolerated dose of bryostatin 1 as a 24 hour infusion and&#xD;
+      vincristine when administered sequentially.&#xD;
+&#xD;
+      II. To determine the effect of this combination on programmed cell death (apoptosis).&#xD;
+&#xD;
+      III. To determine the immunomodulatory effect of bryostatin 1. IV. To observe patients for&#xD;
+      clinical antitumor response after giving combination bryostatin 1 and vincristine.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study of bryostatin 1.&#xD;
+&#xD;
+      Patients receive bryostatin 1 IV over 24 hours followed immediately by vincristine IV.&#xD;
+      Treatment repeats every 2 weeks in the absence of disease progression or unacceptable&#xD;
+      toxicity. Patients completing 6 courses of therapy may receive subsequent courses every 3&#xD;
+      weeks and then every 4 weeks after 24 months of treatment. Patients may return to a 2- or&#xD;
+      3-week treatment course at the discretion of the principal investigator.&#xD;
+&#xD;
+      Cohorts of 3 patients receive escalating doses of bryostatin 1 until the maximum tolerated&#xD;
+      dose (MTD) is determined. The MTD is defined as the dose preceding that at which at least 1&#xD;
+      of 3 patients experience dose-limiting toxicity.&#xD;
+&#xD;
+      Patients are followed every 3 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1998</start_date>
+  <primary_completion_date type="Actual">July 2001</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>MTD</measure>
+    <time_frame>2 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Response rates</measure>
+    <time_frame>Up to 11 years</time_frame>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">18</enrollment>
+  <condition>Recurrent Adult Burkitt Lymphoma</condition>
+  <condition>Recurrent Adult Diffuse Large Cell Lymphoma</condition>
+  <condition>Recurrent Adult Diffuse Mixed Cell Lymphoma</condition>
+  <condition>Recurrent Adult Immunoblastic Large Cell Lymphoma</condition>
+  <condition>Recurrent Adult Lymphoblastic Lymphoma</condition>
+  <condition>Recurrent Grade 3 Follicular Lymphoma</condition>
+  <condition>Recurrent Mantle Cell Lymphoma</condition>
+  <condition>Refractory Chronic Lymphocytic Leukemia</condition>
+  <condition>Refractory Multiple Myeloma</condition>
+  <condition>Stage III Multiple Myeloma</condition>
+  <arm_group>
+    <arm_group_label>Treatment (bryostatin 1, vincristine sulfate)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive bryostatin 1 IV over 24 hours followed immediately by vincristine IV. Treatment repeats every 2 weeks in the absence of disease progression or unacceptable toxicity. Patients completing 6 courses of therapy may receive subsequent courses every 3 weeks and then every 4 weeks after 24 months of treatment. Patients may return to a 2- or 3-week treatment course at the discretion of the principal investigator.&#xD;
+Cohorts of 3 patients receive escalating doses of bryostatin 1 until the MTD is determined. The MTD is defined as the dose preceding that at which at least 1 of 3 patients experience dose-limiting toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>bryostatin 1</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (bryostatin 1, vincristine sulfate)</arm_group_label>
+    <other_name>B705008K112</other_name>
+    <other_name>BRYO</other_name>
+    <other_name>Bryostatin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vincristine sulfate</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Treatment (bryostatin 1, vincristine sulfate)</arm_group_label>
+    <other_name>leurocristine sulfate</other_name>
+    <other_name>VCR</other_name>
+    <other_name>Vincasar PFS</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Treatment (bryostatin 1, vincristine sulfate)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients with biopsy proven B-cell malignancies [e.g. chronic lymphocytic leukemia&#xD;
+             (CLL), non-Hodgkin's lymphoma (NHL), multiple myeloma (MM)]; HIV-associated lymphomas&#xD;
+             and acute leukemias are not eligible&#xD;
+&#xD;
+          -  Performance status: ECOG 0, 1, or 2&#xD;
+&#xD;
+          -  Life expectancy of at least 12 weeks&#xD;
+&#xD;
+          -  Patients with aggressive NHL will be enrolled after having failed all possible therapy&#xD;
+             with curative intent&#xD;
+&#xD;
+          -  Patients with CLL must have failed an alkylating agent-containing regimen as well as&#xD;
+             fludarabine chemotherapy&#xD;
+&#xD;
+          -  Patients with multiple myeloma must have received at least one prior chemotherapy&#xD;
+             regimen and not be eligible for a dose intensification treatment approach&#xD;
+&#xD;
+          -  At least 4 weeks must have elapsed since prior large-field radiation therapy&#xD;
+&#xD;
+          -  Patients must have been off previous anti-cancer therapy for at least 3 weeks (6 weeks&#xD;
+             for BCNU and mitomycin C) and recovered from all treatment related toxicity&#xD;
+&#xD;
+          -  Prior vincristine therapy is allowed&#xD;
+&#xD;
+          -  Sexually active men and women must use an accepted and effective method of&#xD;
+             contraception&#xD;
+&#xD;
+          -  In women of child-bearing age, a pregnancy test may be done at the discretion of the&#xD;
+             investigator&#xD;
+&#xD;
+          -  Must have given written informed consent&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with brain metastasis, leptomeningeal involvement, primary CNS NHL, and acute&#xD;
+             leukemia are ineligible&#xD;
+&#xD;
+          -  Patients with HIV infection are ineligible&#xD;
+&#xD;
+          -  WBC &lt; 3000/ul&#xD;
+&#xD;
+          -  Granulocytes &lt; 1500/ul&#xD;
+&#xD;
+          -  Platelets &lt; 50,000/ul&#xD;
+&#xD;
+          -  Hemoglobin =&lt; 8.5 g/dl&#xD;
+&#xD;
+          -  Bilirubin &gt; 1.5 mg/dl&#xD;
+&#xD;
+          -  AST and ALT &gt; 2 times normal&#xD;
+&#xD;
+          -  Creatinine &gt; 2.0 mg/dl, and/or actual creatinine clearance &lt; 40 ml/min/1.73 m^2; all&#xD;
+             patients are required to have a 24 hr creatinine clearance&#xD;
+&#xD;
+          -  Clinical evidence of bleeding diathesis&#xD;
+&#xD;
+          -  ECOG Performance status 3 or 4&#xD;
+&#xD;
+          -  Patients who are pregnant or lactating; vincristine can cause fetal harm&#xD;
+&#xD;
+          -  Patients with clinically apparent neuropathy are ineligible (&gt;= grade 2 neuropathy)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Brenda Cooper</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Case Western Reserve University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Case Western Reserve University</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2013</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>March 18, 2004</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 19, 2004</study_first_posted>
+  <last_update_submitted>January 10, 2013</last_update_submitted>
+  <last_update_submitted_qc>January 10, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">January 11, 2013</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Burkitt Lymphoma</mesh_term>
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+    <mesh_term>Leukemia, Lymphocytic, Chronic, B-Cell</mesh_term>
+    <mesh_term>Lymphoma, Mantle-Cell</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Large B-Cell, Diffuse</mesh_term>
+    <mesh_term>Lymphoma, Large-Cell, Immunoblastic</mesh_term>
+    <mesh_term>Plasmablastic Lymphoma</mesh_term>
+    <mesh_term>Recurrence</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Vincristine</mesh_term>
+    <mesh_term>Bryostatin 1</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

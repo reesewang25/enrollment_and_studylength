@@ -1,0 +1,98 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00005492</url>
+  </required_header>
+  <id_info>
+    <org_study_id>5009</org_study_id>
+    <secondary_id>R03HL058436</secondary_id>
+    <nct_id>NCT00005492</nct_id>
+  </id_info>
+  <brief_title>Pooled Analysis of NHANES I/II--Race, Gender, and CHD</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <brief_summary>
+    <textblock>
+      To conduct a pooled analysis of NHANES I/II data on race, gender, and coronary heart disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:&#xD;
+&#xD;
+      Over the last 25 years, a sustained and marked decline in death rates from coronary heart&#xD;
+      disease (CHD) has occurred for all major segments of the U.S. population. Recently, however,&#xD;
+      the decline has proceeded less rapidly in blacks than in whites, and in women than men. These&#xD;
+      trends have focused further attention on possible heterogeneity in the risk factor patterns&#xD;
+      among the demographic sub-groups. Previous studies of CHD risk factors in blacks and whites&#xD;
+      using the First National Health and Examination Survey Epidemiologic Follow-up Study&#xD;
+      (NHEFS-I, 11-year follow-up), including this group's own work, demonstrate its potential&#xD;
+      strengths, while at the same time foundering on the problem of low statistical power. With&#xD;
+      the extension of the follow-up of NHANES-I cohort (1971-1974) to 1987 (14 years) and the&#xD;
+      completion of 14-year follow-up for NHANES II cohort (1976-1980), a strong rationale exists&#xD;
+      to undertake a &quot;pooling project.&quot; The resulting data set would provide optimal&#xD;
+      characterization of CHD risk at the national level.&#xD;
+&#xD;
+      DESIGN NARRATIVE:&#xD;
+&#xD;
+      The study sought to determine whether data from NHANES I and NHANES II could be pooled. To&#xD;
+      accomplish this, the distribution of baseline measures was assessed and a determination was&#xD;
+      made whether the same logistic prediction equations fitted both studies. Also, gender-race&#xD;
+      differences were examined in individual exposure-outcome relationships, patterns of&#xD;
+      co-morbidity, and population attributable risks.&#xD;
+&#xD;
+      The study completion date listed in this record was obtained from the &quot;End Date&quot; entered in&#xD;
+      the Protocol Registration and Results System (PRS) record.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1997</start_date>
+  <completion_date type="Actual">July 2000</completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <eligibility>
+    <criteria>
+      <textblock>
+        No eligibility criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Youlian Liao</last_name>
+    <affiliation>Loyola University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Liao Y, McGee DL, Cooper RS, Sutkowski MB. How generalizable are coronary risk prediction models? Comparison of Framingham and two national cohorts. Am Heart J. 1999 May;137(5):837-45. doi: 10.1016/s0002-8703(99)70407-2.</citation>
+    <PMID>10220632</PMID>
+  </reference>
+  <verification_date>March 2005</verification_date>
+  <study_first_submitted>May 25, 2000</study_first_submitted>
+  <study_first_submitted_qc>May 25, 2000</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 26, 2000</study_first_posted>
+  <last_update_submitted>February 17, 2016</last_update_submitted>
+  <last_update_submitted_qc>February 17, 2016</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 18, 2016</last_update_posted>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

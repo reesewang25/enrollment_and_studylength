@@ -1,0 +1,144 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00002465</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000076422</org_study_id>
+    <secondary_id>SVMC-V89-0296</secondary_id>
+    <secondary_id>NCI-V89-0296</secondary_id>
+    <nct_id>NCT00002465</nct_id>
+  </id_info>
+  <brief_title>High-Dose Megestrol in Treating Patients With Metastatic Breast Cancer, Endometrial Cancer, or Mesothelioma</brief_title>
+  <official_title>Phase I/II Study of High-Dose Megestrol in Breast or Endometrial Carcinoma or Mesothelioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>St. Vincent Medical Center - Los Angeles</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Some hormones can stimulate the growth of some types of cancer cells. Hormone&#xD;
+      therapy using megestrol may fight cancer by reducing the production of these hormones.&#xD;
+&#xD;
+      PURPOSE: Phase I/II trial to study the effectiveness of high-dose megestrol in treating&#xD;
+      patients with metastatic breast cancer, endometrial cancer, or mesothelioma which cannot be&#xD;
+      treated with surgery or radiation therapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES: I. Evaluate the clinical effects of high-dose oral megestrol in improving&#xD;
+      regression rate and prolonging survival in patients with breast or endometrial carcinoma or&#xD;
+      mesothelioma. II. Evaluate the immune, endocrine, and clinical effects of this regimen, with&#xD;
+      particular attention to effects on cachexia.&#xD;
+&#xD;
+      OUTLINE: This is a randomized study. Patients are stratified by performance status, dominant&#xD;
+      site of disease, and prior treatment with megestrol. Breast cancer patients are randomized to&#xD;
+      one of 3 doses of oral megestrol (800, 1,280, or 1,600 mg/day, divided qid). Female patients&#xD;
+      with other tumor types are nonrandomly assigned to receive oral megestrol at 1,600 mg/day.&#xD;
+      Male patients are nonrandomly assigned to a dose-finding study of megestrol. The first&#xD;
+      patient cohort receives megestrol at 480 mg/day in 3 divided doses, with further escalation&#xD;
+      for subsequent cohorts as tolerated. All patients continue therapy for at least 8 weeks, with&#xD;
+      treatment discontinued upon progression. Measurable lesions are evaluated every 2 months.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: 9 evaluable breast cancer patients at each dose level will be entered; 14&#xD;
+      patients will be required for each of the other disease categories. (As of 11/92, the study&#xD;
+      is temporarily closed to patients with prostate cancer.)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Active, not recruiting</last_known_status>
+  <start_date>December 1987</start_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <condition>Breast Cancer</condition>
+  <condition>Endometrial Cancer</condition>
+  <condition>Malignant Mesothelioma</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>megestrol acetate</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS: Histologically documented metastatic breast or endometrial&#xD;
+        carcinoma or mesothelioma not amenable to surgical and/or radiotherapeutic cure or&#xD;
+        long-term control Measurable soft tissue, bony, or visceral lesions required Indicator&#xD;
+        lesions other than blastic bony metastases and pleural effusions required for breast cancer&#xD;
+        Hormone receptor status (breast cancer): Estrogen-receptor-positive and/or&#xD;
+        progesterone-receptor-positive&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS: Age: At least 18 Sex (breast cancer): Not specified Menopausal&#xD;
+        status (breast cancer): Any status Performance status: Not specified Life expectancy: At&#xD;
+        least 3 months Hematopoietic: Not specified Hepatic: Not specified Renal: Not specified&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY: Biologic therapy: At least 4 weeks since therapy Chemotherapy: At&#xD;
+        least 4 weeks since therapy Endocrine therapy: Breast cancer: At least disease&#xD;
+        stabilization achieved following tamoxifen or other hormonal manipulation if such treatment&#xD;
+        given previously At least 4 weeks since therapy Nonbreast cancer patients may be entered&#xD;
+        immediately after conventional doses of megestrol or other hormones Radiotherapy: At least&#xD;
+        4 weeks since therapy Concomitant radiotherapy to nonindicator lesions allowed Surgery: At&#xD;
+        least 4 weeks since therapy&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Charles L. Wiseman, MD, FACP</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>St. Vincent Medical Center - Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90057</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2007</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>July 16, 2004</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 19, 2004</study_first_posted>
+  <last_update_submitted>November 5, 2013</last_update_submitted>
+  <last_update_submitted_qc>November 5, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">November 6, 2013</last_update_posted>
+  <keyword>stage IV breast cancer</keyword>
+  <keyword>recurrent breast cancer</keyword>
+  <keyword>advanced malignant mesothelioma</keyword>
+  <keyword>recurrent malignant mesothelioma</keyword>
+  <keyword>stage IV endometrial carcinoma</keyword>
+  <keyword>recurrent endometrial carcinoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Endometrial Neoplasms</mesh_term>
+    <mesh_term>Mesothelioma</mesh_term>
+    <mesh_term>Mesothelioma, Malignant</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Megestrol</mesh_term>
+    <mesh_term>Megestrol Acetate</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

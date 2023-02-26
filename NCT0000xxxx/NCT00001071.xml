@@ -1,0 +1,217 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00001071</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 285</org_study_id>
+    <secondary_id>11261</secondary_id>
+    <nct_id>NCT00001071</nct_id>
+  </id_info>
+  <brief_title>A Study of Stem Cells and Filgrastim</brief_title>
+  <official_title>A Pilot Study of Stem Cell Mobilization and Harvesting From the Peripheral Blood Using Filgrastim</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <brief_summary>
+    <textblock>
+      To determine the safety of stem cell harvesting after administration of filgrastim ( G-CSF )&#xD;
+      to mobilize bone marrow stem cells into the peripheral blood in patients at various stages of&#xD;
+      HIV-1 infection as well as in HIV-negative volunteers. To determine the surface phenotypic&#xD;
+      and functional characteristics as well as the viral load in the stem cells obtained following&#xD;
+      this procedure.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients and volunteers receive seven daily subcutaneous injections of G-CSF. On days 5 and 6&#xD;
+      of drug administration, patients have peripheral blood mononuclear cells harvested by&#xD;
+      leukapheresis. HIV-positive patients are stratified into three cohorts based on CD4 count and&#xD;
+      presence of symptoms. If no increase in number of harvested stem cells and no grade 4 bone&#xD;
+      pain toxicity occur in two of the first three patients in a cohort, then the last three&#xD;
+      patients in that cohort will receive a dose escalation. Patients are followed for 24 weeks.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">October 1998</completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment>24</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Filgrastim</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  PCP prophylaxis.&#xD;
+&#xD;
+          -  Antiretroviral therapy in patients with CD4 counts &lt;= 500 cells/mm3.&#xD;
+&#xD;
+          -  Narcotic analgesics for grade 3/4 bone pain toxicity.&#xD;
+&#xD;
+        Patients must have:&#xD;
+&#xD;
+          -  HIV infection.&#xD;
+&#xD;
+          -  HIV infected patients with CD4 count &gt; 500 cells/mm3 must be asymptomatic. Patients&#xD;
+             with CD4 count 200-500 cells/mm3 may be either asymptomatic or symptomatic but must&#xD;
+             not have AIDS. Patients with CD4 count &lt; 200 cells/mm3 may or may not have&#xD;
+             AIDS-defining conditions.&#xD;
+&#xD;
+          -  No antiretroviral therapy within the past 30 days in patients with asymptomatic&#xD;
+             disease and CD4 count &gt; 500 cells/mm3.&#xD;
+&#xD;
+          -  Stable antiretroviral therapy for the past 60 days if CD4 count &lt;= 500 cells/mm3.&#xD;
+&#xD;
+          -  Suitable venous access.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  Prior antiretroviral therapy.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Co-existing Condition:&#xD;
+&#xD;
+        Patients with the following symptoms or conditions are excluded:&#xD;
+&#xD;
+          -  Current malignancy.&#xD;
+&#xD;
+          -  Any medication condition that interferes with study evaluation.&#xD;
+&#xD;
+          -  Known hypersensitivity to E. coli-derived proteins (e.g., insulin, human growth&#xD;
+             hormones).&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Acute treatment for serious opportunistic infection.&#xD;
+&#xD;
+          -  Systemic cytotoxic chemotherapy.&#xD;
+&#xD;
+        Concurrent Treatment:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Systemic radiation therapy.&#xD;
+&#xD;
+        Patients with the following prior conditions are excluded:&#xD;
+&#xD;
+          -  Prior malignancy.&#xD;
+&#xD;
+          -  Leukapheresis or lymphopheresis within the past 180 days.&#xD;
+&#xD;
+          -  Significant active CNS disease or seizures within the past year.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  G-CSF or GM-CSF within the past 6 months.&#xD;
+&#xD;
+          -  Investigational antiretrovirals within the past 30 days.&#xD;
+&#xD;
+          -  Treatment for opportunistic infection within the past 14 days.&#xD;
+&#xD;
+        Active alcohol or substance abuse.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Schooley R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Miles S</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Pomerantz R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>UCLA CARE Center CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Hospital CRS</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Schooley R, Mladenovil J, Campbell T, Pomerantz R, Miles S, Wong R, Landay A. ACTG 285: G-CSF (Filgrastim) for mobilization of CD34+ cells from the bone marrow of HIV-1 infected persons. Int Conf AIDS. 1998;12:838 (abstract no 42323)</citation>
+  </reference>
+  <reference>
+    <citation>Schooley RT, Mladenovic J, Sevin A, Chiu S, Miles SA, Pomerantz RJ, Campbell TB, Bell D, Ambruso D, Wong R, Landay A, Coombs RW, Fox L, Kamoun M, Jacovini J. Reduced mobilization of CD34+ stem cells in advanced human immunodeficiency virus type 1 disease. J Infect Dis. 2000 Jan;181(1):148-57. doi: 10.1086/315168.</citation>
+    <PMID>10608761</PMID>
+  </reference>
+  <reference>
+    <citation>Campbell TB, Sevin A, Coombs RW, Peterson GC, Rosandich M, Kuritzkes DR, Mladenovic J, Landay A, Wong R, Ambruso D, Miles S, Pomerantz RJ, Schooley RT. Changes in human immunodeficiency virus type 1 virus load during mobilization and harvesting of hemopoietic progenitor cells. Adult AIDS Clinical Trials Group 285 Study Team. Blood. 2000 Jan 1;95(1):48-55.</citation>
+    <PMID>10607683</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>November 2, 1999</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2001</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 31, 2001</study_first_posted>
+  <last_update_submitted>October 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Granulocyte Colony-Stimulating Factor</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Stem Cells</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lenograstim</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

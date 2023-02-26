@@ -1,0 +1,342 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000744</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CPCRA 010</org_study_id>
+    <secondary_id>11562</secondary_id>
+    <nct_id>NCT00000744</nct_id>
+  </id_info>
+  <brief_title>A Randomized, Prospective, Double-Blind Study Comparing Fluconazole With Placebo for Primary and Secondary Prophylaxis of Mucosal Candidiasis in HIV-Infected Women</brief_title>
+  <official_title>A Randomized, Prospective, Double-Blind Study Comparing Fluconazole With Placebo for Primary and Secondary Prophylaxis of Mucosal Candidiasis in HIV-Infected Women</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Pfizer</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <brief_summary>
+    <textblock>
+      To compare the efficacy of fluconazole versus placebo for the prevention of Candida&#xD;
+      esophagitis and vaginal/oropharyngeal candidiasis, including a comparison of the development&#xD;
+      of clinical resistance.&#xD;
+&#xD;
+      Fluconazole has been shown to be effective in preventing or suppressing candidiasis in&#xD;
+      HIV-negative women. An increasing likelihood of oral and esophageal candidiasis in&#xD;
+      conjunction with progressive immunosuppression raises the question of the potential role of&#xD;
+      prophylactic antifungal therapy in high-risk persons.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Fluconazole has been shown to be effective in preventing or suppressing candidiasis in&#xD;
+      HIV-negative women. An increasing likelihood of oral and esophageal candidiasis in&#xD;
+      conjunction with progressive immunosuppression raises the question of the potential role of&#xD;
+      prophylactic antifungal therapy in high-risk persons.&#xD;
+&#xD;
+      Four hundred HIV-infected women are randomized to receive fluconazole or placebo weekly for&#xD;
+      up to 2 years. Patients undergo follow-up every 3 months or more often if signs and symptoms&#xD;
+      of mucosal candidiasis occur.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">December 1995</completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double</masking>
+  </study_design_info>
+  <enrollment>400</enrollment>
+  <condition>Candidiasis</condition>
+  <condition>Candidiasis, Esophageal</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Fluconazole</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Patients must have:&#xD;
+&#xD;
+          -  Evidence of HIV infection.&#xD;
+&#xD;
+          -  CD4+ count &lt;= 300 cells/mm3 or &lt;= 20 percent of total lymphocyte count.&#xD;
+&#xD;
+          -  Reasonably good health with a life expectancy of at least 6 months.&#xD;
+&#xD;
+          -  Pelvic exam including Pap smear or colposcopy performed within the past 90 days.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  Topical or systemic treatment or prophylaxis with an antifungal agent.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Co-existing Condition:&#xD;
+&#xD;
+        Patients with the following symptoms and conditions are excluded:&#xD;
+&#xD;
+          -  Current diagnosis of Candida esophagitis.&#xD;
+&#xD;
+          -  Known intolerance to azoles.&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Systemic treatment or prophylaxis with an antifungal agent.&#xD;
+&#xD;
+        Patients with the following prior conditions are excluded:&#xD;
+&#xD;
+          -  Past history of Candida esophagitis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>P Schuman</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>L Capps</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Community Consortium of San Francisco</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Denver CPCRA / Denver Public Hlth</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80204</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wilmington Hosp / Med Ctr of Delaware</name>
+      <address>
+        <city>Wilmington</city>
+        <state>Delaware</state>
+        <zip>19899</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Veterans Administration Med Ctr / Regional AIDS Program</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20422</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AIDS Research Consortium of Atlanta</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>AIDS Research Alliance - Chicago</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60657</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Louisiana Comm AIDS Rsch Prog / Tulane Univ Med</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Comprehensive AIDS Alliance of Detroit</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Henry Ford Hosp</name>
+      <address>
+        <city>Detroit</city>
+        <state>Michigan</state>
+        <zip>48202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Jersey Community Research Initiative</name>
+      <address>
+        <city>Newark</city>
+        <state>New Jersey</state>
+        <zip>07103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bronx Lebanon Hosp Ctr</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10456</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Addiction Research and Treatment Corp</name>
+      <address>
+        <city>Brooklyn</city>
+        <state>New York</state>
+        <zip>11201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Clinical Directors Network of Region II</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10011</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harlem AIDS Treatment Group / Harlem Hosp Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10037</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Portland Veterans Adm Med Ctr / Rsch &amp; Education Grp</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Richmond AIDS Consortium</name>
+      <address>
+        <city>Richmond</city>
+        <state>Virginia</state>
+        <zip>23298</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Schuman P, Capps L, Peng G, Vazquez J, el-Sadr W, Goldman AI, Alston B, Besch CL, Vaughn A, Thompson MA, Cobb MN, Kerkering T, Sobel JD. Weekly fluconazole for the prevention of mucosal candidiasis in women with HIV infection. A randomized, double-blind, placebo-controlled trial. Terry Beirn Community Programs for Clinical Research on AIDS. Ann Intern Med. 1997 May 1;126(9):689-96. doi: 10.7326/0003-4819-126-9-199705010-00003.</citation>
+    <PMID>9139554</PMID>
+  </reference>
+  <reference>
+    <citation>Capps L, Peng G, Doyle M, El-Sadr W, Neaton JD. Sexually transmitted infections in women infected with the human immunodeficiency virus. Terry Beirn Community Programs for Clinical Research on AIDS (CPCRA). Sex Transm Dis. 1998 Sep;25(8):443-7. doi: 10.1097/00007435-199809000-00012.</citation>
+    <PMID>9773440</PMID>
+  </reference>
+  <reference>
+    <citation>Vazquez JA, Sobel JD, Peng G, Steele-Moore L, Schuman P, Holloway W, Neaton JD. Evolution of vaginal Candida species recovered from human immunodeficiency virus-infected women receiving fluconazole prophylaxis: the emergence of Candida glabrata? Terry Beirn Community Programs for Clinical Research in AIDS (CPCRA). Clin Infect Dis. 1999 May;28(5):1025-31. doi: 10.1086/514746.</citation>
+    <PMID>10452629</PMID>
+  </reference>
+  <reference>
+    <citation>Vazquez JA, Peng G, Sobel JD, Steele-Moore L, Schuman P, Holloway W, Neaton JD. Evolution of antifungal susceptibility among Candida species isolates recovered from human immunodeficiency virus-infected women receiving fluconazole prophylaxis. Clin Infect Dis. 2001 Oct 1;33(7):1069-75. doi: 10.1086/322641. Epub 2001 Sep 5.</citation>
+    <PMID>11528582</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>November 2, 1999</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2001</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 31, 2001</study_first_posted>
+  <last_update_submitted>October 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Fluconazole</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Candidiasis</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Candidiasis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Fluconazole</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

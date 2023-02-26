@@ -1,0 +1,238 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003332</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000066296</org_study_id>
+    <secondary_id>P30CA016087</secondary_id>
+    <secondary_id>NYU-9703</secondary_id>
+    <secondary_id>NCI-G98-1423</secondary_id>
+    <nct_id>NCT00003332</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy Followed by Chemotherapy and Radiation Therapy and/or Surgery in Treating Patients Who Have Pancreatic Cancer</brief_title>
+  <official_title>Phase I/II Study of Induction Chemotherapy With Gemcitabine and Cisplatin Followed by Combined Chemo-radiation and/or Surgical Resection for Locally Advanced Pancreatic Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining more than one drug with radiation therapy and/or surgery&#xD;
+      may kill more tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase I/II trial to study the effectiveness of combination chemotherapy, consisting&#xD;
+      of gemcitabine and cisplatin, followed by chemotherapy and radiation therapy and/or surgery&#xD;
+      in treating patients who have pancreatic cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the response rate of patients with locally advanced pancreatic cancer after&#xD;
+           induction therapy with gemcitabine and cisplatin.&#xD;
+&#xD;
+        -  Determine the maximum tolerated dose of gemcitabine and cisplatin chemotherapy combined&#xD;
+           with radiation therapy in these patients.&#xD;
+&#xD;
+        -  Determine the overall response rates in these patients after this combined modality&#xD;
+           regimen following induction chemotherapy.&#xD;
+&#xD;
+        -  Determine the resectability rate for locally advanced pancreatic lesions treated with&#xD;
+           this regimen.&#xD;
+&#xD;
+        -  Determine the time to failure for the entire treatment program.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study.&#xD;
+&#xD;
+      Patients receive gemcitabine IV over 30 minutes on days 1, 8, and 15. Following gemcitabine,&#xD;
+      patients receive cisplatin IV over 1 hour on days 1, 8, and 15. Course is repeated every 4&#xD;
+      weeks. After 2 courses of induction chemotherapy, disease is restaged.&#xD;
+&#xD;
+      Patients may then receive radiotherapy in addition to chemotherapy. Radiotherapy is given&#xD;
+      daily for 5 weeks and 3 days. During radiotherapy, cohorts of 3 patients are treated with&#xD;
+      escalating doses of gemcitabine and cisplatin administered as described above in induction&#xD;
+      chemotherapy. The maximum tolerated dose (MTD) is defined as the lowest dose at which no more&#xD;
+      than 2 of 6 or 2 of 3 patients experience dose limiting toxicity. When the MTD has been&#xD;
+      determined, additional patients accrued into the study receive the dose level immediately&#xD;
+      below the MTD.&#xD;
+&#xD;
+      If after 2 courses of induction chemotherapy with gemcitabine and cisplatin the tumor is&#xD;
+      radiographically considered resectable by operating surgeon, the patient undergoes surgical&#xD;
+      exploration or laparoscopy for staging and verification of resectability. If the tumor is&#xD;
+      found to be resectable without evidence of distant disease, the patient undergoes complete&#xD;
+      surgical resection and radiation plus adjuvant gemcitabine and cisplatin.&#xD;
+&#xD;
+      Patients are followed every 3 months until death.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: Approximately 15-36 patients will be accrued for the Phase I portion of&#xD;
+      this study and there will be 14-25 patients accrued into the Phase II portion of this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1997</start_date>
+  <primary_completion_date type="Actual">October 2004</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment type="Anticipated">36</enrollment>
+  <condition>Pancreatic Cancer</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cisplatin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>gemcitabine hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>surgical procedure</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically or cytologically confirmed localized adenocarcinoma of the pancreas&#xD;
+             that is considered unresectable&#xD;
+&#xD;
+          -  Measurable or evaluable disease&#xD;
+&#xD;
+          -  No metastatic disease&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 and over&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  ECOG 0-1&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  At least 12 weeks&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  Granulocyte count at least 2,000/mm^3&#xD;
+&#xD;
+          -  Platelet count at least 100,000/mm^3&#xD;
+&#xD;
+          -  Hemoglobin at least 9 g/dL&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin less than 3.0 mg/dL&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine no greater than 1.5 mg/dL&#xD;
+&#xD;
+          -  Creatinine clearance at least 60 mL/min&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No serious concurrent systemic disorder&#xD;
+&#xD;
+          -  No active infection or uncontrolled infection&#xD;
+&#xD;
+          -  Not pregnant&#xD;
+&#xD;
+          -  Effective contraception required of all fertile patients&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  No prior chemotherapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  No prior radiotherapy&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  At least 1 month since any prior investigational agent&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Howard S. Hochster, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>NYU School of Medicine's Kaplan Comprehensive Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2011</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>March 25, 2011</last_update_submitted>
+  <last_update_submitted_qc>March 25, 2011</last_update_submitted_qc>
+  <last_update_posted type="Estimate">March 28, 2011</last_update_posted>
+  <keyword>stage I pancreatic cancer</keyword>
+  <keyword>stage II pancreatic cancer</keyword>
+  <keyword>stage III pancreatic cancer</keyword>
+  <keyword>adenocarcinoma of the pancreas</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pancreatic Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Gemcitabine</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

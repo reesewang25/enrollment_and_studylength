@@ -1,0 +1,250 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00001355</url>
+  </required_header>
+  <id_info>
+    <org_study_id>930119</org_study_id>
+    <secondary_id>93-I-0119</secondary_id>
+    <nct_id>NCT00001355</nct_id>
+  </id_info>
+  <brief_title>Detection and Characterization of Host Defense Defects</brief_title>
+  <official_title>Detection and Characterization of Host Defense Defects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>University of Miami</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of South Florida</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This protocol is designed to evaluate selected patients with documented recurrent or unusual&#xD;
+      infections and their family members for clinical and laboratory correlates of immune&#xD;
+      abnormalities. It allows long term follow up of patients with host defense defects and&#xD;
+      permits the periodic study of their blood, urine, saliva, skin, stool and vaginal specimens&#xD;
+      or wound drainage from such patients or their family members for medically indicated purposes&#xD;
+      and research studies related to understanding the genetic and biochemical bases of these&#xD;
+      diseases. This protocol may help provide patients and materials for the development of&#xD;
+      therapies for these diseases.&#xD;
+&#xD;
+      This study will:&#xD;
+&#xD;
+        1. Determine the biochemical and genetic causes of inherited immune diseases affecting&#xD;
+           phagocytes (white blood cells that defend against bacterial and fungal infections)&#xD;
+&#xD;
+        2. Try to develop better ways to diagnose and treat patients with these diseases, and to&#xD;
+           prevent, diagnose and treat their infections&#xD;
+&#xD;
+      Patients and family members may undergo the following procedures:&#xD;
+&#xD;
+        -  A personal and family medical history, physical examination and other procedures, which&#xD;
+           may include various blood tests; urinalysis; saliva collection; imaging studies such as&#xD;
+           chest X-ray, computed tomography (CT) or magnetic resonance imaging (MRI); and lung&#xD;
+           function studies, dental examination or eye examinations, if medically indicated.&#xD;
+&#xD;
+        -  Patients who have draining wounds will have fluid collected from these wounds for&#xD;
+           biochemical study.&#xD;
+&#xD;
+        -  Tissues removed as part of medical care, such as pieces of lung, liver, or teeth, or&#xD;
+           biopsies of these tissues will be studied.&#xD;
+&#xD;
+        -  Patients who have an immune problem that investigators wish to study further will be&#xD;
+           asked to return to NIH for follow-up visits at irregular intervals, but at least every 6&#xD;
+           months. The visits will include an updated medical history, examination directed at the&#xD;
+           particular medical problem related to the immune disorder, follow-up of abnormal tests&#xD;
+           or treatment, and collection of blood, saliva, urine, or wound fluid for study.&#xD;
+&#xD;
+        -  Patients may have genetic testing and must be willing to have specimens stored for&#xD;
+           future research.&#xD;
+&#xD;
+        -  Family members will have a medical history, saliva or urine collection, and chest X-ray&#xD;
+           or other imaging study, if medically indicated.&#xD;
+&#xD;
+        -  Normal volunteers who have had tissue biopsies or pieces of tissue removed as part of&#xD;
+           medical care, such as pieces of lung, liver, or teeth, will have these tissues studied.&#xD;
+&#xD;
+        -  NIH does not cover the cost of the initial screening visit for travel or lodging. A&#xD;
+           financial assessment may determine if the patient is eligible for financial assistance.&#xD;
+           This study does not enroll children under the age of 2.&#xD;
+&#xD;
+        -  Patients will be asked to obtain their medical records, previous test results, or&#xD;
+           imaging studies prior to the first visit.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This protocol is designed to evaluate selected patients with documented recurrent or unusual&#xD;
+      infections and their family members for clinical and in vitro correlates of immune&#xD;
+      abnormalities. It will also allow long term follow up of patients with host defense defects&#xD;
+      and permit us to periodically obtain blood, urine, saliva, skin, breast milk, stool and&#xD;
+      vaginal specimens or wound drainage from such patients or their family members for medically&#xD;
+      indicated purposes and research studies related to understanding the genetic and biochemical&#xD;
+      bases of these diseases. This protocol may help provide patients and materials for the&#xD;
+      development of therapies for these diseases in the future.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">September 1, 1993</start_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Improved disease if either normalization or sustained improvement is observed.</measure>
+    <time_frame>Complete withdrawal from steroid or sustained reduction to low dose antimicrobials or immune modulators.</time_frame>
+    <description>The primary endpoint of this study will be determination of a discrete diagnosis of an infecting agent, an underlying susceptibility trait, or both.</description>
+  </primary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Immune Defects</condition>
+  <arm_group>
+    <arm_group_label>Healthy Volunteer</arm_group_label>
+    <description>Healthy Volunteer to serve as controls</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patient</arm_group_label>
+    <description>Patients known to have or suspected of having an immune defect significantly or primarily involving the phagocytes</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patient Relatives</arm_group_label>
+    <description>blood relatives of patients</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants known to have or suspected of having an immune defect and their blood&#xD;
+        relatives are eligible for enrollment.@@@&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+        Patients known to have or suspected of having an immune defect significantly or primarily&#xD;
+        involving the phagocytes will be eligible for enrollment, as well as their blood relatives.&#xD;
+        Such syndromes include but are not limited to those listed above. Eligibility will not be&#xD;
+        limited based on sex, race, or disability. Patients or patient relatives must be over 1&#xD;
+        month of age.&#xD;
+&#xD;
+        The patient and patient relative cohorts will include the following special populations:&#xD;
+&#xD;
+          -  Children: Children are included in this study because immune defects maypresent in&#xD;
+             early childhood, and early diagnosis or characterization may benefit subjects.&#xD;
+&#xD;
+          -  Decisionally impaired adults: Patients and patient relatives will be able to provide&#xD;
+             informed consent for themselves or if they lack the capacity to provide informed&#xD;
+             consent, the study team will obtain consent from the legally authorized&#xD;
+             representative. Patients with underlying immune disorders, autoimmune phenomena or&#xD;
+             severe infections may sometimes present with delirium, encephalopathy, or coma and are&#xD;
+             therefore unable to provide informed consent. Excluding patients who are unable to&#xD;
+             provide consent could adversely impact patient access to medical therapy at the NIH as&#xD;
+             well as adversely impact research recruitment. Excluding patients unable to provide&#xD;
+             consent would also essentially prohibit us from evaluating patients at higher risk for&#xD;
+             adverse outcomes and therefore skew our understanding of disease. Similarly, enrolled&#xD;
+             patient subjects who lose the ability to provide ongoing consent during study&#xD;
+             participation may continue in the study. The risks and benefits of participation for&#xD;
+             subjects unable to consent should be identical to those described for less vulnerable&#xD;
+             patients. The process for obtaining consent for these individuals is described below.&#xD;
+&#xD;
+        Healthy volunteers will be healthy adults between the age of 18 and 80 years of either sex,&#xD;
+        and they must be able to provide informed consents for themselves.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        The presence of an acquired abnormality which leads to immune defects, such as HIV,&#xD;
+        cytotoxic chemotherapy or malignancy could be grounds for possible exclusion if, in the&#xD;
+        opinion of the investigator, the presence of such disease process interfered with&#xD;
+        evaluation.&#xD;
+&#xD;
+        Individuals with dementia that impairs obtaining informed consent are excluded from&#xD;
+        enrolling as healthy volunteers, although such subjects may enroll in the patient or&#xD;
+        relative cohorts if consent can be obtained as described below.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Month</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Steven M Holland, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute of Allergy and Infectious Diseases (NIAID)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Dawn Shaw, R.N.</last_name>
+    <phone>(301) 401-4740</phone>
+    <email>dawn.shaw2@nih.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Steven M Holland, M.D.</last_name>
+    <phone>(301) 402-7684</phone>
+    <email>sholland@mail.nih.gov</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>France</country>
+  </removed_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_1993-I-0119.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <verification_date>January 24, 2023</verification_date>
+  <study_first_submitted>November 3, 1999</study_first_submitted>
+  <study_first_submitted_qc>November 3, 1999</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 4, 1999</study_first_posted>
+  <last_update_submitted>January 25, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 25, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 26, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Immune Deficiency</keyword>
+  <keyword>Infection</keyword>
+  <keyword>Phagocytes</keyword>
+  <keyword>Cytokines</keyword>
+  <keyword>Genetics</keyword>
+  <keyword>Natural History</keyword>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>.We will share human data generated in this study for future research as follows:@@@@@@ (Summation)Identified data in the Biomedical Translational Research Information System (BTRIS, automatic for activities in the NIH CC).@@@@@@ (Summation)De-identified or identified data with approved outside collaborators under appropriate agreements.@@@@@@ (Summation)Data sharing may be complicated or limited in certain cases by contractual obligations or agreements with outside collaborators, such as cooperative research and development agreements, clinical trial agreements, other restraints, etc.</ipd_description>
+    <ipd_info_type>Statistical Analysis Plan (SAP)</ipd_info_type>
+    <ipd_time_frame>IPD and supporting information will be available after completion of the study. No end date.</ipd_time_frame>
+    <ipd_access_criteria>Data will be shared through:@@@@@@ (Summation)BTRIS (automatic for activities in the NIH CC).@@@@@@ (Summation)Approved outside collaborators under appropriate individual agreements.@@@@@@ (Summation)Publication and/or public presentations.@@@@@@Data might be shared before publication.@@@@@@The PI will review all requests for sharing data.</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

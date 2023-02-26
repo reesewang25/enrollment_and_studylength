@@ -1,0 +1,359 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00004847</url>
+  </required_header>
+  <id_info>
+    <org_study_id>000093</org_study_id>
+    <secondary_id>00-CH-0093</secondary_id>
+    <nct_id>NCT00004847</nct_id>
+  </id_info>
+  <brief_title>Diagnosis of Pheochromocytoma</brief_title>
+  <official_title>Diagnosis, Pathophysiology, and Molecular Biology of Pheochromocytoma and Paraganglioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The goal of this study is to develop better methods of diagnosis, localization, and treatment&#xD;
+      for pheochromocytomas. These tumors, which usually arise from the adrenal glands, are often&#xD;
+      difficult to detect with current methods. Pheochromocytomas release chemicals called&#xD;
+      catecholamines, causing high blood pressure. Undetected, the tumors can lead to severe&#xD;
+      medical consequences, including stroke, heart attack and sudden death, in situations that&#xD;
+      would normally pose little or no risk, such as surgery, general anesthesia or childbirth.&#xD;
+&#xD;
+      Patients with pheochromocytoma may be eligible for this study. Candidates will be screened&#xD;
+      with a medical history and physical examination, electrocardiogram, and blood and urine&#xD;
+      tests. Study participants will undergo blood, urine, and imaging tests, described below, to&#xD;
+      detect pheochromocytoma. If a tumor is found, the patient will be offered surgery. If surgery&#xD;
+      is not feasible (for example, if there are multiple tumors that cannot be removed),&#xD;
+      evaluations will continue in follow-up visits. If the tumor cannot be found, the patient will&#xD;
+      be offered medical treatment and efforts to detect the tumor will continue. Main diagnostic&#xD;
+      and research tests may include the following:&#xD;
+&#xD;
+        1. Blood tests - mainly measurements of plasma or urine catecholamines and metanephrines as&#xD;
+           well as methoxytyramine. If necessary the clonidine suppression test can be carried out.&#xD;
+&#xD;
+        2. Standard imaging tests - Non-investigational imaging tests include computed tomography&#xD;
+           (CT), magnetic resonance imaging (MRI), sonography, and 123I-MIBG scintigraphy and FDG&#xD;
+           (positron emission tomography) PET/CT. These scans may be done before and/or after&#xD;
+           surgical removal of pheochromocytoma.&#xD;
+&#xD;
+        3. Research PET scanning is done using an injection of radioactive compounds. Patients may&#xD;
+           undergo 18F-FDOPA, 18F-DA, as well as 68Ga-DOTATATE PET/CT . Each scan takes up to about&#xD;
+           2 hours.&#xD;
+&#xD;
+        4. Genetic testing - A small blood sample is collected for DNA analysis and other analyses.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Pheochromocytomas (PHEOs) and paragangliomas (PGLs) are rare and clinically important&#xD;
+      chromaffin cell tumors that typically arise from the adrenal gland or from extra-adrenal&#xD;
+      paraganglia, respectively. The clinical features and consequences of PHEO/PGL result from the&#xD;
+      release of catecholamines (norepinephrine and epinephrine). An undetected PHEO/PGL poses a&#xD;
+      hazard to patients undergoing surgery, childbirth, or general anesthesia, due to the&#xD;
+      potential for excess catecholamine secretion, which can result in significant, often&#xD;
+      catastrophic outcomes. Diagnosing and localizing a PHEO/PGL can be challenging. Plasma and&#xD;
+      urinary catecholamines as well as their metabolites and radio-iodinated&#xD;
+      metaiodobenzylguanidine (MIBG) scanning can yield false-positive/negative results in patients&#xD;
+      harboring the tumor. Computed tomography (CT) and magnetic resonance imaging (MRI) lack&#xD;
+      sufficient specificity. The molecular mechanisms by which genotypic changes predispose to the&#xD;
+      development of PHEO/PGL remain unknown - even in patients with identified mutations.&#xD;
+      Moreover, in patients with hereditary predispositions, PHEOs/PGLs differ in terms of their&#xD;
+      growth, malignant potential, catecholamine phenotype, responses to standard screening tests,&#xD;
+      various imaging modalities and therefore subsequently, different therapeutic options. This&#xD;
+      protocol focuses on developmental, molecular, genetic, epigenetic, proteomic, metabolomics,&#xD;
+      immunologic and other types of studies to investigate the bases for predisposition to develop&#xD;
+      PHEOs/PGLs and for expression of different neurochemical and other phenotypes and malignant&#xD;
+      potentials including therapeutic responses. Furthermore, this protocol will also use new&#xD;
+      imaging approaches, for example [18F]-6F-dopamine ([18F]-6F-DA), and&#xD;
+      [18F]-L-3,4-dihydroxyphenylalanine ([18F]-FDOPA) positron emission tomography (PET)/CT, as&#xD;
+      well as PET/MRI scanning and dynamic contrast-enhanced MRI.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date type="Actual">March 22, 2000</start_date>
+  <completion_date type="Anticipated">November 30, 2048</completion_date>
+  <primary_completion_date type="Anticipated">November 30, 2048</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To study specific genotypes, biochemical and imaging phenotypes of patients with various pheochromocytomas and paragangliomas.To stuty potential treatment options for metastatic pheochromocytoma and paraganglioma using cell cultures, cell ...</measure>
+    <time_frame>Baseline</time_frame>
+    <description>To study specific genotypes, biochemical and imaging phenotypes of patients with various pheochromocytomas and paragangliomas.To stuty potential treatment options for metastatic pheochromocytoma and paraganglioma using cell cultures, cell lines, animal</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>To educate health care professionals and patients about pheochromocytoma and paraganglioma</measure>
+    <time_frame>end of study</time_frame>
+    <description>To educate health care professionals and patients about pheochromocytoma and paraganglioma</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Pheochromocytoma</condition>
+  <condition>Endocrine Disease</condition>
+  <condition>Endocrine Diseases</condition>
+  <arm_group>
+    <arm_group_label>Adults or children with suspected PHEO/PGL</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients are adults or children of any age with known, sporadic or familial PHEO/PGL</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>([18F]-DOPA)</intervention_name>
+    <description>is L 3, 4 dihydroxyphenylalanine (L-DOPA) labeled with the radioactive isotope 18F. In general, PPGLs belong to the group of neuroendocrine tumors. This heterogeneous group of tumors takes up amino acids, transforms them into biogenic amines (dopamine and serotonin) by decarboxylation and stores the amines in vesicles. L DOPA is a precursor of catecholamines (dopamine, norepinephrine and epinephrine). Epinephrine conversion to dopamine is catalyzed by the aromatic amino acid decarboxylase. According to previous and current studies, [18F]-DOPA PET is highly sensitive and specific for detection of PHEO/PGL67-69. However, there are only a few reports in the literature using [18F]-DOPA as a PET agent and particularly for patients with metastatic PPGLs. PET imaging will be done together with either a CT, an MRI or both modalities.</description>
+    <arm_group_label>Adults or children with suspected PHEO/PGL</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>([18F]-6F-DA)</intervention_name>
+    <description>is an imaging agent developed at the NIH, that may improve specificity and sensitivity in the localization of PPGLs. [18F]-6F-DA enters cells via the membrane norepinephrine transporter. Once inside cells, [18F]-6F-DA is translocated via the vesicular monoamine transporter into storage vesicles, where the radioactivity is concentrated. After injection of [18F]-6F-DA, the much faster disappearance of [18F]-6F-DA-derived radioactivity from the bloodstream and non-neuronal cells than from chromaffin cells should enable rapid visualization of PPGLs by PET scanning.</description>
+    <arm_group_label>Adults or children with suspected PHEO/PGL</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+        Patients are eligible for inclusioni this study if they are adults or children of age 3&#xD;
+        years old and up with known, sporadic or familial PHEO/PGL, on the basis of one or more of&#xD;
+        the following:&#xD;
+&#xD;
+          1. High levels of blood or urinary catecholamines, metanephrines, methoxytyramine or&#xD;
+             chromogranin A.&#xD;
+&#xD;
+          2. Highly suspected presence of PHEO/PGL based on imaging studies, even with normal&#xD;
+             biochemistry.&#xD;
+&#xD;
+          3. Personal or family history of PHEO/PGL or genetic mutations known to predispose&#xD;
+             individuals to develop PHEO/PGL.&#xD;
+&#xD;
+        Patients can be studied to provide blood/urine samples for biochemical, proteomic, and/or&#xD;
+        genetic and epigenetic analysis.&#xD;
+&#xD;
+        Signed informed consent is required.&#xD;
+&#xD;
+        Patients must be willing to return to NIH for follow-up evaluation.&#xD;
+&#xD;
+        Patients must have an outside general practitioner or endocrinologist. Patients with&#xD;
+        metastatic disease must also have an outside oncologist.&#xD;
+&#xD;
+        Patients with PHEO/PGL will be accepted through clinician or self- referrals.&#xD;
+&#xD;
+        Family Member of Patients Arm (Linkage Analysis)&#xD;
+&#xD;
+        Participants are eligible for inclusion in this arm if they are:&#xD;
+&#xD;
+          -  Adult family members of patients enrolled in this study:&#xD;
+&#xD;
+          -  The index family member in this study has a suspected hereditary disorder of PHEO/PGL&#xD;
+             based on previous genetic testing and other suspicious hereditory patterns such as&#xD;
+             family history of multiple individuals with PHEO/PGL: early age of disease onset:&#xD;
+             multiplicity of primary tumors: recurrence, etc. and&#xD;
+&#xD;
+          -  Signed informed consent form is required&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Potential patients will be excluded on the basis of one or more of the following:&#xD;
+&#xD;
+          1. Pregnant (based on a pregnancy test done either outside the NIH or at the NIH) or&#xD;
+             breastfeeding women&#xD;
+&#xD;
+          2. Severe cardiac dysfunction&#xD;
+&#xD;
+          3. Currently on dialysis&#xD;
+&#xD;
+             A pregnancy test is performed in women of childbearing age (up to age 55). If after&#xD;
+             enrollment to this protocol, a patient is found to have a positive pregnancy test, her&#xD;
+             participation in this protocol will be put on hold until she is no longer pregnant or&#xD;
+             breastfeeding.&#xD;
+&#xD;
+             Research scans are contraindicated in patients with proven myelodysplastic syndrome.&#xD;
+             Patients who are not willing to return to the NIH (e.g., after surgery or an initial&#xD;
+             evaluation) for more than 2 years may be removed from the protocol.&#xD;
+&#xD;
+             If the patient is eligible for a surgery and chooses to receive surgical intervention&#xD;
+             at a place outside of the NIH, his/her decision may affect future participation in the&#xD;
+             study. We also understand that due to extenuating circumstances the patient may need&#xD;
+             to pursue the surgery somewhere else. Under those circumstances, our team will provide&#xD;
+             a list of necessary criteria for continued follow-up (i.e. tissue transfer, follow-up&#xD;
+             tests, etc.).&#xD;
+&#xD;
+               -  The patient will need to inform the research team ahead of time about the surgeon&#xD;
+                  and institution that will be performing the surgery, so that the team can aid in&#xD;
+                  facilitating the appropriate arrangements for tissue transfer.&#xD;
+&#xD;
+               -  The patient will need to consult with the outside surgeon to develop a plan for&#xD;
+                  sending a sample of tumor tissue to the NIH research team.&#xD;
+&#xD;
+               -  If the surgeon is not consulted or the sample is not transferred, we may inform&#xD;
+                  participants that their enrollment in the study may no longer be scientifically&#xD;
+                  appropriate. In this case, the research team will work with the participant to&#xD;
+                  develop a plan to obtain medical records to facilitate transfer of care in&#xD;
+                  patient s preferred facility.&#xD;
+&#xD;
+             Pregnant and breastfeeding women will not be included in the protocol because their&#xD;
+             participation as a demographic is not essential to this study. The information we are&#xD;
+             seeking can be acquired from a cohort of non-pregnant patients. The exclusion of&#xD;
+             pregnant women does not preclude these patients from receiving appropriate care and&#xD;
+             management from an outside facility&#xD;
+&#xD;
+             SPECIFIC INCLUSION/EXCLUSION CRITERIA FOR IMAGING STUDIES WITHIN OUR PROTOCOL:&#xD;
+&#xD;
+             In adult patients:&#xD;
+&#xD;
+             Imaging studies are not done in patients that have the following exclusion criteria:&#xD;
+&#xD;
+               -  Pregnant and breastfeeding women.&#xD;
+&#xD;
+               -  Patients with a body weight exceeding the weight limitations of current Clinical&#xD;
+                  Center PET/CT/MRI scanners or patients who are not able to enter the bore of&#xD;
+                  PET/CT/MRI scanners due to increased BMI.&#xD;
+&#xD;
+               -  Inability to lie still for the entire imaging time (e.g., cough, severe&#xD;
+                  arthritis, etc.).&#xD;
+&#xD;
+               -  Inability to complete the needed investigational and standard-of-care imaging&#xD;
+                  examinations due to other reasons (e.g., severe claustrophobia, radiation phobia,&#xD;
+                  etc.)&#xD;
+&#xD;
+               -  Any additional medical conditions, serious illness or other extenuating&#xD;
+                  circumstance that, in the opinion of the Principal Investigator, may&#xD;
+                  significantly interfere with study compliance.&#xD;
+&#xD;
+             Additionally, DCE-MRI is not done in patients with acute or chronic renal&#xD;
+             insufficiency since gadolinium chelate injection is contraindicated in those patients.&#xD;
+             Patients with impaired kidney function, based on the measurements of a creatinine&#xD;
+             clearance, will not undergo DCE-MRI. DCE-MRI is also not done in patients with severe&#xD;
+             claustrophobia or who have iron or metal in the MRI scan site, in patients with&#xD;
+             pacemakers or defibrillators or in patients with an allergy to gadolinium. Very&#xD;
+             rarely, gadolinium at the site of injection or the dosed limb can cause skin and soft&#xD;
+             tissue necrosis, thrombosis, fasciitis, and compartment syndrome requiring surgical&#xD;
+             intervention.&#xD;
+&#xD;
+             In pediatric patients:&#xD;
+&#xD;
+             Inclusion criteria for research PET imaging in children:&#xD;
+&#xD;
+               -  Children over 10 years old with very high suspicion of sporadic or familial&#xD;
+                  PHEO/PGL based oon at least one of the following&#xD;
+&#xD;
+                    -  The presence of new onset of symptoms typical of PHEO/PL such as&#xD;
+                       hypertension or hypertensive episodes, sweating, headaches, pallor,&#xD;
+                       palpitations, drug resistant hypertension, etc.&#xD;
+&#xD;
+                    -  Family history of PHEO/PGL or genetic mutations known to predispose&#xD;
+                       individuals to develop these tumors&#xD;
+&#xD;
+                    -  The presence of a tumor on conventional imaging including ultrasound, CT&#xD;
+                       and/or MRI or [123I]-MIBG or PET imaging not limited to [18F]-FDG.&#xD;
+&#xD;
+               -  Children must give written informed assent and be willing to return to the NIH&#xD;
+                  for follow-up.&#xD;
+&#xD;
+               -  Female patients of childbearing age must have a negative pregnancy test prior to&#xD;
+                  any treatment or test involving radioactivity or radiation exposure in accordance&#xD;
+                  with NIH Clinical Center policies. They should be abstinent or use appropriate&#xD;
+                  contraception while taking part in the study which involves radiation.&#xD;
+&#xD;
+             Exclusion criteria for research PET imaging in children:&#xD;
+&#xD;
+               -  Children of less than 10 years of age.&#xD;
+&#xD;
+               -  Children with impaired mental capacity that precludes informed assent.&#xD;
+&#xD;
+               -  Pregnant or breastfeeding female adolescents.&#xD;
+&#xD;
+               -  Inability to lie still for the entire imaging time (e.g., cough, turbulent&#xD;
+                  children, severe claustrophobia, etc.).&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Karel Pacak, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Alberta Derkyi, C.R.N.P.</last_name>
+    <phone>(301) 827-3355</phone>
+    <email>alberta.derkyi@nih.gov</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Karel Pacak, M.D.</last_name>
+    <phone>(301) 402-4594</phone>
+    <email>karel@mail.nih.gov</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>For more information at the NIH Clinical Center contact Office of Patient Recruitment (OPR)</last_name>
+      <phone>800-411-1222</phone>
+      <phone_ext>TTY dial 711</phone_ext>
+      <email>ccopr@nih.gov</email>
+    </contact>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Netherlands</country>
+  </removed_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_2000-CH-0093.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <verification_date>January 11, 2023</verification_date>
+  <study_first_submitted>March 2, 2000</study_first_submitted>
+  <study_first_submitted_qc>March 2, 2000</study_first_submitted_qc>
+  <study_first_posted type="Estimate">March 3, 2000</study_first_posted>
+  <last_update_submitted>January 18, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 18, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 19, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Genetics</keyword>
+  <keyword>Metanephrines</keyword>
+  <keyword>PET</keyword>
+  <keyword>Catecholamines</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pheochromocytoma</mesh_term>
+    <mesh_term>Endocrine System Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

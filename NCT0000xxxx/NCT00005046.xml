@@ -1,0 +1,190 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00005046</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000067638</org_study_id>
+    <secondary_id>GOG-9904</secondary_id>
+    <secondary_id>GP-700-9901</secondary_id>
+    <nct_id>NCT00005046</nct_id>
+  </id_info>
+  <brief_title>Paclitaxel in Treating Patients With Recurrent or Persistent Ovarian or Primary Peritoneal Cancer</brief_title>
+  <official_title>A Phase I Open Label Assessment of the Safety and Pharmacokinetics of Intraperitoneal PACLIMER Microspheres (Polilactofate/Paclitaxel) in Patients With Ovarian Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Gynecologic Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>GOG Foundation</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die.&#xD;
+&#xD;
+      PURPOSE: Phase I trial to study the effectiveness of paclitaxel in treating patients who have&#xD;
+      recurrent or persistent ovarian or primary peritoneal cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES: I. Determine the safety and tolerability of intraperitoneal administration of&#xD;
+      paclitaxel (Paclimer microspheres) in patients with recurrent or persistent ovarian or&#xD;
+      primary peritoneal carcinoma. II. Determine and confirm the maximum tolerated dose of this&#xD;
+      regimen in this patient population. III. Determine plasma paclitaxel concentrations at&#xD;
+      selected times after intraperitoneal administration of Paclimer microspheres in these&#xD;
+      patients.&#xD;
+&#xD;
+      OUTLINE: This is a dose escalation study. Patients receive intraperitoneal paclitaxel&#xD;
+      (Paclimer microspheres) every 8 weeks for 2 courses. Cohorts of 1-3 patients receive&#xD;
+      escalating doses of intraperitoneal paclitaxel (Paclimer microspheres) until the maximum&#xD;
+      tolerated dose (MTD) is determined. The MTD is defined as the dose preceding that at which 2&#xD;
+      of 3 patients experience dose limiting toxicities. Once the probable MTD is determined, an&#xD;
+      additional cohort of 8 patients is accrued to confirm the MTD. The MTD is confirmed as the&#xD;
+      dose level at which at least 6 of 8 patients demonstrate acceptable safety and tolerability.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A maximum of 24 patients will be accrued for this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>April 2000</start_date>
+  <primary_completion_date type="Actual">January 2007</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <condition>Ovarian Cancer</condition>
+  <condition>Primary Peritoneal Cavity Cancer</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>chemotherapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>paclitaxel</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS: Recurrent or persistent ovarian and/or primary peritoneal&#xD;
+        carcinoma Adequate potential intraperitoneal fluid distribution with no gross fluid&#xD;
+        loculations and adhesions that would significantly affect intraperitoneal drug distribution&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS: Age: 21 and over Performance status: GOG 0-2 Life expectancy: At&#xD;
+        least 6 months Hematopoietic: Absolute neutrophil count at least 1,500/mm3 WBC at least&#xD;
+        3,000/mm3 Platelet count at least 100,000/mm3 Granulocyte count at least 1,500/mm3 Hepatic:&#xD;
+        Bilirubin no greater than 1.5 times upper limit of normal Renal: Creatinine less than 2.0&#xD;
+        mg/dL Other: No other sufficiently severe medical problems unrelated to malignancy that&#xD;
+        would preclude study compliance or cause exposure to undue risks No prior unmanageable&#xD;
+        reaction to paclitaxel&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: At least 4 weeks&#xD;
+        since prior myelosuppressive chemotherapy (6 weeks for nitrosourea and mitomycin) and&#xD;
+        recovered Endocrine therapy: Not specified Radiotherapy: At least 4 weeks since prior&#xD;
+        radiotherapy to major bone marrow containing areas Surgery: Not specified Other: At least 1&#xD;
+        month since other prior investigational agents&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>21 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Deborah K. Armstrong, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Chao Family Comprehensive Cancer Center</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Chicago Cancer Research Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637-1470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University Cancer Center</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202-5289</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington University School of Medicine</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cleveland Clinic Taussig Cancer Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44195</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Armstrong DK, Fleming GF, Markman M, Bailey HH. A phase I trial of intraperitoneal sustained-release paclitaxel microspheres (Paclimer) in recurrent ovarian cancer: a Gynecologic Oncology Group study. Gynecol Oncol. 2006 Nov;103(2):391-6. doi: 10.1016/j.ygyno.2006.02.029. Epub 2006 Apr 19.</citation>
+    <PMID>16626792</PMID>
+  </results_reference>
+  <verification_date>July 2008</verification_date>
+  <study_first_submitted>April 6, 2000</study_first_submitted>
+  <study_first_submitted_qc>November 3, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 4, 2003</study_first_posted>
+  <last_update_submitted>May 24, 2013</last_update_submitted>
+  <last_update_submitted_qc>May 24, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">May 27, 2013</last_update_posted>
+  <keyword>recurrent ovarian epithelial cancer</keyword>
+  <keyword>primary peritoneal cavity cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Ovarian Epithelial</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

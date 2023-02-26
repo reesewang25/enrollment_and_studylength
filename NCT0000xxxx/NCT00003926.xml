@@ -1,0 +1,340 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003926</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1997LS053</org_study_id>
+    <secondary_id>UMN-MT-9713</secondary_id>
+    <secondary_id>UMN-9712M00074</secondary_id>
+    <nct_id>NCT00003926</nct_id>
+  </id_info>
+  <brief_title>Amifostine to Protect From Side Effects of PSCT in Treating Patients With Solid Tumors</brief_title>
+  <official_title>A Phase I Study of the Chemoprotectant Amifostine With Autologous Stem Cell Transplantation for High Risk or Relapsed Pediatric Solid Tumors and Brain Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Masonic Cancer Center, University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Masonic Cancer Center, University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining chemotherapy with peripheral stem cell transplantation&#xD;
+      may allow the doctor to give higher doses of chemotherapy drugs and kill more tumor cells.&#xD;
+      Chemoprotective drugs such as amifostine may protect normal cells from the side effects of&#xD;
+      high-dose chemotherapy.&#xD;
+&#xD;
+      PURPOSE: Phase I trial to study the effectiveness of amifostine in protecting from the side&#xD;
+      effects of peripheral stem cell transplantation in treating patients who have high-risk or&#xD;
+      relapsed solid tumors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the dose-limiting toxicity of amifostine chemoprotection with peripheral blood&#xD;
+           stem cell transplantation plus chemotherapy in patients with high-risk or relapsed solid&#xD;
+           tumors or brain tumors.&#xD;
+&#xD;
+        -  Determine response or time to disease progression in patients treated with this regimen.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study of amifostine. Patients are stratified according to&#xD;
+      age (1 to 18 vs 19 to 45 years).&#xD;
+&#xD;
+      All patients receive filgrastim (G-CSF) IV for 1 week. On day 6 of G-CSF administration,&#xD;
+      patients undergo peripheral blood stem cell (PBSC) harvest followed by chemotherapy.&#xD;
+&#xD;
+      Patients receive oral busulfan every 6 hours on days -8 to -6 followed by melphalan IV over&#xD;
+      30 minutes on days -5 and -4 and thiotepa IV over 2 hours on days -3 and -2. Patients receive&#xD;
+      amifostine IV over 5 minutes beginning 30 minutes prior to melphalan and thiotepa&#xD;
+      administration on days -5 to -1. PBSC are reinfused on day 0.&#xD;
+&#xD;
+      Cohorts of 3-6 patients receive escalating doses of amifostine until the maximum tolerated&#xD;
+      dose is determined. The MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6&#xD;
+      patients experience dose-limiting toxicity.&#xD;
+&#xD;
+      Patients are followed on day 50; at 3, 6, and 9 months; and at 1, 2, and 3 years post PBSC&#xD;
+      transplantation.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A maximum of 60 patients (30 per stratum) will be accrued for this study&#xD;
+      within 3 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Withdrawn due to slow accrual&#xD;
+  </why_stopped>
+  <start_date>November 1998</start_date>
+  <completion_date type="Actual">August 2003</completion_date>
+  <primary_completion_date type="Actual">August 2002</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">13</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <condition>Childhood Germ Cell Tumor</condition>
+  <condition>Chordoma</condition>
+  <condition>Kidney Cancer</condition>
+  <condition>Liver Cancer</condition>
+  <condition>Neuroblastoma</condition>
+  <condition>Ovarian Cancer</condition>
+  <condition>Retinoblastoma</condition>
+  <condition>Sarcoma</condition>
+  <arm_group>
+    <arm_group_label>Solid/brain tumor patients (1-18 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with solid tumor or brain tumor in the 1-18 years old stratum.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Solid/brain tumor patients (19-45 years)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with solid tumor or brain tumor in the 19-45 years old stratum.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>amifostine trihydrate</intervention_name>
+    <description>Patients receive amifostine intravenous (IV) over 5 minutes beginning 30 minutes prior to melphalan and thiotepa administration on days -5 to -1.&#xD;
+Cohorts of 3-6 patients receive escalating doses of amifostine until the maximum tolerated dose is determined.</description>
+    <arm_group_label>Solid/brain tumor patients (1-18 years)</arm_group_label>
+    <arm_group_label>Solid/brain tumor patients (19-45 years)</arm_group_label>
+    <other_name>Ethyol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>busulfan</intervention_name>
+    <description>Patients receive oral busulfan every 6 hours on days -8 to -6.</description>
+    <arm_group_label>Solid/brain tumor patients (1-18 years)</arm_group_label>
+    <arm_group_label>Solid/brain tumor patients (19-45 years)</arm_group_label>
+    <other_name>Busulfex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>filgrastim</intervention_name>
+    <description>All patients receive filgrastim (G-CSF) IV for 1 week.</description>
+    <arm_group_label>Solid/brain tumor patients (1-18 years)</arm_group_label>
+    <arm_group_label>Solid/brain tumor patients (19-45 years)</arm_group_label>
+    <other_name>granulocyte colony-stimulating factor</other_name>
+    <other_name>G-CSF</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>melphalan</intervention_name>
+    <description>melphalan intravenous (IV) over 30 minutes on days -5 and -4</description>
+    <arm_group_label>Solid/brain tumor patients (1-18 years)</arm_group_label>
+    <arm_group_label>Solid/brain tumor patients (19-45 years)</arm_group_label>
+    <other_name>Alkeran</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>thiotepa</intervention_name>
+    <description>thiotepa intravenous (IV) over 2 hours on days -3 and -2.</description>
+    <arm_group_label>Solid/brain tumor patients (1-18 years)</arm_group_label>
+    <arm_group_label>Solid/brain tumor patients (19-45 years)</arm_group_label>
+    <other_name>Thioplex</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>peripheral blood stem cell transplantation (PBSC)</intervention_name>
+    <description>PBSC are reinfused on day 0</description>
+    <arm_group_label>Solid/brain tumor patients (1-18 years)</arm_group_label>
+    <arm_group_label>Solid/brain tumor patients (19-45 years)</arm_group_label>
+    <other_name>bone marrow transplant</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically confirmed high-risk or relapsed solid tumors or brain tumors,&#xD;
+             including:&#xD;
+&#xD;
+               -  Metastatic or relapsed Ewing's sarcoma&#xD;
+&#xD;
+               -  Metastatic or relapsed rhabdomyosarcoma&#xD;
+&#xD;
+               -  Refractory Wilms' tumor&#xD;
+&#xD;
+               -  Diffuse anaplastic Wilms' tumor&#xD;
+&#xD;
+               -  Stage III or IV neuroblastoma&#xD;
+&#xD;
+               -  Recurrent retinoblastoma&#xD;
+&#xD;
+               -  Metastatic or relapsed germ cell tumors&#xD;
+&#xD;
+               -  Metastatic or relapsed other soft tissue sarcomas&#xD;
+&#xD;
+               -  Small cell ovarian sarcoma&#xD;
+&#xD;
+               -  Metastatic or relapsed primitive neuroectodermal tumors of the bone&#xD;
+&#xD;
+               -  Recurrent brain tumors&#xD;
+&#xD;
+               -  Desmoplastic small round cell tumors&#xD;
+&#xD;
+               -  Recurrent or metastatic chordomas&#xD;
+&#xD;
+               -  Metastatic or relapsed hepatoblastoma&#xD;
+&#xD;
+          -  Patients receive peripheral blood stem cell transplantation only if in complete&#xD;
+             remission or in very good partial remission with no disease progression&#xD;
+&#xD;
+          -  Must have radiologic, nuclear image, or histologic verification of relapse&#xD;
+&#xD;
+          -  Age 1 to 45&#xD;
+&#xD;
+          -  Performance status:Karnofsky 70-100%&#xD;
+&#xD;
+          -  Absolute neutrophil count greater than 1,000/mm^3&#xD;
+&#xD;
+          -  Platelet count greater than 100,000/mm^3&#xD;
+&#xD;
+          -  Hemoglobin count at least 10 g/dL&#xD;
+&#xD;
+          -  Bilirubin less than 2 times upper limit of normal (ULN)&#xD;
+&#xD;
+          -  SGOT or SGPT less than 2.5 times ULN&#xD;
+&#xD;
+          -  Creatinine less than 2 times ULN&#xD;
+&#xD;
+          -  Creatinine clearance greater than 70 mL/min&#xD;
+&#xD;
+          -  Cardiac shortening fraction greater than 30%&#xD;
+&#xD;
+          -  Cardiac ejection fraction greater than 45%&#xD;
+&#xD;
+          -  At least 1 week since prior hematopoietic growth factor and recovered&#xD;
+&#xD;
+          -  At least 3 weeks since prior chemotherapy (6 weeks for nitrosoureas) and recovered&#xD;
+&#xD;
+          -  Recovered from any prior therapy&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Osteogenic sarcoma&#xD;
+&#xD;
+          -  Less than 4 months&#xD;
+&#xD;
+          -  Uncontrolled bleeding&#xD;
+&#xD;
+          -  Congestive heart failure&#xD;
+&#xD;
+          -  Uncontrolled hypertension&#xD;
+&#xD;
+          -  Asthma&#xD;
+&#xD;
+          -  Pregnant or nursing&#xD;
+&#xD;
+          -  Uncontrolled metabolic disease&#xD;
+&#xD;
+          -  Active severe infection&#xD;
+&#xD;
+          -  Allergy to aminothiol compounds&#xD;
+&#xD;
+          -  Prior bone marrow transplantation&#xD;
+&#xD;
+          -  Other concurrent investigational agents&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>45 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John P. Perentesis, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Masonic Cancer Center, University of Minnesota</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Minnesota Cancer Center</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>November 2017</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>May 1, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 2, 2003</study_first_posted>
+  <last_update_submitted>November 27, 2017</last_update_submitted>
+  <last_update_submitted_qc>November 27, 2017</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 29, 2017</last_update_posted>
+  <responsible_party>
+    <name_title>John Perentesis, MD</name_title>
+    <organization>Masonic Cancer Center, University of Minnesota</organization>
+  </responsible_party>
+  <keyword>soft tissue sarcoma</keyword>
+  <keyword>regional neuroblastoma</keyword>
+  <keyword>disseminated neuroblastoma</keyword>
+  <keyword>recurrent Wilms tumor</keyword>
+  <keyword>recurrent retinoblastoma</keyword>
+  <keyword>recurrent adult brain tumor</keyword>
+  <keyword>adult rhabdomyosarcoma</keyword>
+  <keyword>ovarian germ cell tumor</keyword>
+  <keyword>chordoma</keyword>
+  <keyword>ovarian sarcoma</keyword>
+  <keyword>unresectable neuroblastoma</keyword>
+  <keyword>desmoplastic small round cell tumor</keyword>
+  <keyword>rhabdomyosarcoma</keyword>
+  <keyword>Ewing sarcoma</keyword>
+  <keyword>neuroectodermal tumor</keyword>
+  <keyword>teratoma</keyword>
+  <keyword>malignant testicular germ cell tumor</keyword>
+  <keyword>malignant ovarian germ cell tumor</keyword>
+  <keyword>extragonadal germ cell tumor</keyword>
+  <keyword>malignant germ cell tumor</keyword>
+  <keyword>hepatoblastoma</keyword>
+  <keyword>liver cancer</keyword>
+  <keyword>medulloblastoma</keyword>
+  <keyword>cerebellar astrocytoma</keyword>
+  <keyword>brain stem glioma</keyword>
+  <keyword>glioma</keyword>
+  <keyword>cerebral astrocytoma</keyword>
+  <keyword>ependymoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Sarcoma</mesh_term>
+    <mesh_term>Liver Neoplasms</mesh_term>
+    <mesh_term>Neuroblastoma</mesh_term>
+    <mesh_term>Neoplasms, Germ Cell and Embryonal</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+    <mesh_term>Retinoblastoma</mesh_term>
+    <mesh_term>Chordoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melphalan</mesh_term>
+    <mesh_term>Busulfan</mesh_term>
+    <mesh_term>Thiotepa</mesh_term>
+    <mesh_term>Lenograstim</mesh_term>
+    <mesh_term>Amifostine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

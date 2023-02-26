@@ -1,0 +1,245 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00006519</url>
+  </required_header>
+  <id_info>
+    <org_study_id>010025</org_study_id>
+    <secondary_id>01-C-0025</secondary_id>
+    <nct_id>NCT00006519</nct_id>
+  </id_info>
+  <brief_title>Capravirine to Treat Children With HIV Infection</brief_title>
+  <official_title>A Phase I Study of Capravirine (AG 1549), a Novel Non-Nucleoside Reverse Transcriptase Inhibitor in Children With HIV Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <brief_summary>
+    <textblock>
+      This study will test the safety, side effects and anti-HIV activity of different doses of&#xD;
+      capravirine in children and adolescents with HIV infection. Capravirine belongs to a class of&#xD;
+      drugs called non-nucleoside reverse transcriptase inhibitors (NNRTIs), which prevent the&#xD;
+      virus from replicating (making more copies of itself). Other NNRTIs are nevirapine,&#xD;
+      delavirdine and efavirenz.&#xD;
+&#xD;
+      HIV-infected children between the ages of 4 months and 21 years may be eligible for this&#xD;
+      study if they: 1) have received less than 6 weeks of treatment with antiretroviral drugs; 2)&#xD;
+      have not benefited from antiretroviral therapy after 12 weeks of treatment; 3) cannot&#xD;
+      continue antiretroviral treatment because of harmful side effects.&#xD;
+&#xD;
+      For the first week of the study, participants will have a 1-week &quot;washout period&quot; in which&#xD;
+      they will receive no anti-HIV therapy. During this time, they will have physical, eye and&#xD;
+      neuropsychologic examinations, blood and urine tests, echocardiogram, electrocardiogram&#xD;
+      (EKG), chest X-ray, head CT scan and skin tests. These physical exams and tests will be&#xD;
+      repeated throughout the study to determine changes in health.&#xD;
+&#xD;
+      After the washout period, patients will take capravirine once a day in the morning for 6&#xD;
+      days. After each dose, a small amount of blood will be drawn at 8 different times over 12&#xD;
+      hours to measure the activity of the drug and HIV blood levels. A heparin lock will be placed&#xD;
+      in the vein to avoid multiple needlesticks. After the 6 days of capravirine there will be&#xD;
+      another washout period, this time for 21 days. During this time, doctors will determine the&#xD;
+      optimum combination therapy for the individual patient.&#xD;
+&#xD;
+      After the second washout, patients will begin combination therapy with capravirine plus at&#xD;
+      least two other anti-HIV medicines. (These may include a reverse transcriptase inhibitor such&#xD;
+      as zidovudine, didanosine, lamuvidine, zalcitabine, or stavudine, and maybe one or more&#xD;
+      protease inhibitors such as ritonavir, nelfinavir, saquinavir, indinavir or amprenavir.) For&#xD;
+      the first week, patients will have a daily blood test to determine HIV blood levels.&#xD;
+      Afterwards, treatment will continue on an outpatient basis with clinic visits every 4 to 8&#xD;
+      weeks for physical exams, lab tests and other procedures as required. The study will last&#xD;
+      approximately 48 weeks. Patients who benefit from capravirine therapy may be able to continue&#xD;
+      to receive the drug from the drug company sponsor or as part of another study, or the&#xD;
+      protocol for this study may be amended to lengthen the treatment period.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This is a pediatric phase I dose escalation study to determine a biologically active dose and&#xD;
+      to obtain information concerning the safety, tolerability, and pharmacokinetics of&#xD;
+      capravirine (AG&#xD;
+      1549)(5-[(3,5-dichlorophenyl)thio]-4-(1-methylethyl)-1-(4-pyridinylmethyl)-1H-imidazol-2-meth&#xD;
+      anol carbamate), a potent non-nucleoside HIV-1 reverse transcriptase (RT) inhibitor, that&#xD;
+      induces a novel pattern of resistance mutations. In addition to obtaining needed biological&#xD;
+      activity, pediatric safety, tolerability, and pharmacokinetic data, the study will utilize&#xD;
+      capravirine's potent antiretroviral activity and novel resistance mutation pattern, together&#xD;
+      with serial measurements of plasma HIV viral load, flow cytometry, and genotypic and&#xD;
+      phenotypic viral resistance analysis to conduct pilot studies in pediatric HIV pathogenesis,&#xD;
+      the response to antiretroviral therapy, and to develop strategies to optimize the management&#xD;
+      of pediatric antiretroviral therapy. We will also use initial viral decay dynamics and other&#xD;
+      patient characteristics to model predictions for the long-term response to antiretroviral&#xD;
+      therapy. We will enroll children who have become refractory to or have experienced toxicity&#xD;
+      on prior therapy. The study will include resistance testing on the failing regimen, a one&#xD;
+      week period off antiretrovirals (washout period), an initial 6 days of capravirine&#xD;
+      monotherapy followed by capravirine in combination with the optimal antiretroviral therapy as&#xD;
+      determined by their baseline viral resistance mutation pattern and history. The patients will&#xD;
+      be followed for at least 48 weeks to assess long-term tolerability and toxicity, and to&#xD;
+      assess the clinical, virological, and immunological response to capravirine.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 2000</start_date>
+  <completion_date>October 2004</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment>96</enrollment>
+  <condition>HIV Infection</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Capravirine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA:&#xD;
+&#xD;
+        Age: Two age groups will be enrolled and studied separately.&#xD;
+&#xD;
+        Group 1: 4 months to less than 2 years.&#xD;
+&#xD;
+        Group 2: 2 years to less than 21 years.&#xD;
+&#xD;
+        Gender and Ethnicity: There will be no restriction as to genderor ethnicity. A resonable&#xD;
+        effort will be made to include chldren of both genders and all ethnic backgrounds.&#xD;
+&#xD;
+        HIV-infected children between the ages of 4 months and 21 years.&#xD;
+&#xD;
+        An indication for treatment with antiretrovirals.&#xD;
+&#xD;
+        One of the following: Children failing current treatment after at least 12 weeks of therapy&#xD;
+        as defined by the most recent Guidelines for the Use of Antiretroviral Agents in n&#xD;
+        Pediatric HIV Infection or accepted practice OR Intolerant to or are showing evidence of&#xD;
+        toxicity from other antiretroviral treatments.&#xD;
+&#xD;
+        HIV RNA greater than or equal to 5,000 copies per/mL within the past 3 months (may be from&#xD;
+        outside institution).&#xD;
+&#xD;
+        Women of childbearing age must agree to avoid becoming pregnant while on study and for 4&#xD;
+        months afterwards.&#xD;
+&#xD;
+        Hematologic Function:&#xD;
+&#xD;
+        Total WBC greater than 1,500/mm(3),&#xD;
+&#xD;
+        Absolute neutrophil count greater than 750/mm(3),&#xD;
+&#xD;
+        Hemoglobin greater than 8.0 gm/dL, and&#xD;
+&#xD;
+        Platelet count greater than 75,000/mm(3) at study entry.&#xD;
+&#xD;
+        Hepatic Function:&#xD;
+&#xD;
+        Liver transaminases must be less than or equal to 3.0 times the upper limit of normal;&#xD;
+&#xD;
+        Serum amylase less than 1.5 times the upper limit of normal and if abnormal, fractionated&#xD;
+        pancreatic amylase less than 45 U/L;&#xD;
+&#xD;
+        Lipase less than 1.5 times the upper limit of normal;&#xD;
+&#xD;
+        Creatinine phosphokinase (CPK) less than 2.5 times the upper limit of normal.&#xD;
+&#xD;
+        Renal Function:&#xD;
+&#xD;
+        Patients must have an age-adjusted normal serum creatinine OR a creatinine clearance&#xD;
+        greater than or equal to 70 mL/min/1.73:&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Therapeutic regimens including:&#xD;
+&#xD;
+        Immunomodulating agents (within 30 days of entry), other than GCSF, erythropoeitin,&#xD;
+        corticosteroids, IVIG, or anti-D;&#xD;
+&#xD;
+        Treatment with chemotherapeutic agents (including hydroxyurea) or radiation therapy within&#xD;
+        the past 6 weeks;&#xD;
+&#xD;
+        Current chronic use of medications known to inhibit or induce cytochrome P450, including&#xD;
+        but not limited to: isoniazid, rifampin, rifabutin, astemizole, terfenadine, cisapride,&#xD;
+        triazolam, midazolam, nifedipine, diltiazem, verapamil, cimetidine, dexamethasone,&#xD;
+        carbamazepine, phenytoin, phenobarbital, propoxyphene, quinidine, amiodarone, or ergot&#xD;
+        alkaloids, azole antifungals (ketoconazole, fluconazole, itraconazole), or macrolide&#xD;
+        antibiotics (erythromycin, clarithromycin);&#xD;
+&#xD;
+        Current use of highly plasma protein bound drugs including but not limited to, warfarin and&#xD;
+        phenytoin;&#xD;
+&#xD;
+        Current use, or use within the last 28 days, of any investigational agent.&#xD;
+&#xD;
+        Clinically significant, unrelated systemic illness (serious infections or significant&#xD;
+        cardiac, pulmonary, hepatic or other organ dysfunction) which in the judgement of the&#xD;
+        Principal Investigator or Chairperson would compromise the patient's ability to tolerate&#xD;
+        this therapy or is likely to interfere with the study procedures or results will be&#xD;
+        excluded.&#xD;
+&#xD;
+        Weighting less than 10 kg.&#xD;
+&#xD;
+        Pregnant or breast feeding females will be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>National Cancer Institute (NCI)</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Carpenter CC, Cooper DA, Fischl MA, Gatell JM, Gazzard BG, Hammer SM, Hirsch MS, Jacobsen DM, Katzenstein DA, Montaner JS, Richman DD, Saag MS, Schechter M, Schooley RT, Thompson MA, Vella S, Yeni PG, Volberding PA. Antiretroviral therapy in adults: updated recommendations of the International AIDS Society-USA Panel. JAMA. 2000 Jan 19;283(3):381-90. doi: 10.1001/jama.283.3.381.</citation>
+    <PMID>10647802</PMID>
+  </reference>
+  <reference>
+    <citation>Cavert W, Notermans DW, Staskus K, Wietgrefe SW, Zupancic M, Gebhard K, Henry K, Zhang ZQ, Mills R, McDade H, Schuwirth CM, Goudsmit J, Danner SA, Haase AT. Kinetics of response in lymphoid tissues to antiretroviral therapy of HIV-1 infection. Science. 1997 May 9;276(5314):960-4. doi: 10.1126/science.276.5314.960. Erratum In: Science 1997 May 30;276(5317):1321.</citation>
+    <PMID>9139661</PMID>
+  </reference>
+  <reference>
+    <citation>Condra JH. Resistance to HIV protease inhibitors. Haemophilia. 1998 Jul;4(4):610-5. doi: 10.1046/j.1365-2516.1998.440610.x.</citation>
+    <PMID>9873802</PMID>
+  </reference>
+  <verification_date>October 2004</verification_date>
+  <study_first_submitted>November 23, 2000</study_first_submitted>
+  <study_first_submitted_qc>November 23, 2000</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 24, 2000</study_first_posted>
+  <last_update_submitted>July 10, 2006</last_update_submitted>
+  <last_update_submitted_qc>July 10, 2006</last_update_submitted_qc>
+  <last_update_posted type="Estimate">July 11, 2006</last_update_posted>
+  <keyword>Pharmacokinetic</keyword>
+  <keyword>Pediatric AIDS</keyword>
+  <keyword>Resistance Testing</keyword>
+  <keyword>Combination Therapy</keyword>
+  <keyword>Viral Drug Dynamics</keyword>
+  <keyword>Treatment Experienced</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>Communicable Diseases</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Capravirine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

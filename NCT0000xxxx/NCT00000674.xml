@@ -1,0 +1,447 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000674</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 077P</org_study_id>
+    <secondary_id>11052</secondary_id>
+    <secondary_id>ACTG 077 PILOT</secondary_id>
+    <nct_id>NCT00000674</nct_id>
+  </id_info>
+  <brief_title>A Pilot Study of Oral Clindamycin and Pyrimethamine for the Treatment of Toxoplasmic Encephalitis in Patients With AIDS</brief_title>
+  <official_title>A Pilot Study of Oral Clindamycin and Pyrimethamine for the Treatment of Toxoplasmic Encephalitis in Patients With AIDS</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Upjohn</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Glaxo Wellcome</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <brief_summary>
+    <textblock>
+      To collect information on the effectiveness and toxicity of clindamycin plus pyrimethamine&#xD;
+      and leucovorin calcium for the treatment of acute toxoplasmic encephalitis in adult patients&#xD;
+      with AIDS. Toxoplasmic encephalitis (encephalitis caused by Toxoplasma gondii) is the most&#xD;
+      frequent cause of focal central nervous system infection in patients with AIDS. If untreated,&#xD;
+      the encephalitis is fatal. At present, it is standard practice to give a combination of&#xD;
+      pyrimethamine and sulfadiazine to treat toxoplasmic encephalitis. The high frequency of&#xD;
+      sulfonamide-induced toxicity in AIDS patients often makes completion of a full course of&#xD;
+      therapy difficult. There is some information that high doses of parenteral (such as by&#xD;
+      injection) clindamycin used with pyrimethamine may be as effective as pyrimethamine plus&#xD;
+      sulfadiazine in the management of the acute phase of toxoplasmic encephalitis in patients&#xD;
+      with AIDS. Administration of parenteral clindamycin for prolonged periods of time, however,&#xD;
+      is costly, requires hospitalization, and is inconvenient for the patient. There is some&#xD;
+      indication that treatment of AIDS patients with acute toxoplasmic encephalitis with oral&#xD;
+      clindamycin may be effective. Leucovorin calcium is useful in preventing&#xD;
+      pyrimethamine-associated bone marrow toxicity.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Toxoplasmic encephalitis (encephalitis caused by Toxoplasma gondii) is the most frequent&#xD;
+      cause of focal central nervous system infection in patients with AIDS. If untreated, the&#xD;
+      encephalitis is fatal. At present, it is standard practice to give a combination of&#xD;
+      pyrimethamine and sulfadiazine to treat toxoplasmic encephalitis. The high frequency of&#xD;
+      sulfonamide-induced toxicity in AIDS patients often makes completion of a full course of&#xD;
+      therapy difficult. There is some information that high doses of parenteral (such as by&#xD;
+      injection) clindamycin used with pyrimethamine may be as effective as pyrimethamine plus&#xD;
+      sulfadiazine in the management of the acute phase of toxoplasmic encephalitis in patients&#xD;
+      with AIDS. Administration of parenteral clindamycin for prolonged periods of time, however,&#xD;
+      is costly, requires hospitalization, and is inconvenient for the patient. There is some&#xD;
+      indication that treatment of AIDS patients with acute toxoplasmic encephalitis with oral&#xD;
+      clindamycin may be effective. Leucovorin calcium is useful in preventing&#xD;
+      pyrimethamine-associated bone marrow toxicity.&#xD;
+&#xD;
+      Amended: Projected accrual increased to 50 patients. Original design: Patients receive study&#xD;
+      medications for a total of 6 weeks unless there are intervening events that require the&#xD;
+      discontinuation of study therapy. Patients are initially treated in the hospital (minimum of&#xD;
+      7 days). Patients who are considered responders at day 7 may complete therapy on an&#xD;
+      outpatient basis. Nonresponders at day 7 may also be managed on an outpatient basis when it&#xD;
+      is medically appropriate.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">August 1992</completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <enrollment>30</enrollment>
+  <condition>Toxoplasmosis, Cerebral</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pyrimethamine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Leucovorin calcium</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Clindamycin</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  Erythropoietin.&#xD;
+&#xD;
+          -  Aerosolized pentamidine for prophylaxis against Pneumocystis carinii pneumonia (PCP).&#xD;
+&#xD;
+          -  Immunoglobulin therapy.&#xD;
+&#xD;
+          -  Alpha interferon.&#xD;
+&#xD;
+          -  Patients entering study on isoniazid (INH) may continue INH therapy.&#xD;
+&#xD;
+          -  Use of corticosteroids is discouraged. If corticosteroids are needed for the&#xD;
+             management of intracranial hypertension or cranial mass effect, use of dexamethasone&#xD;
+             is encouraged (4 g orally 4 times daily for 3 days and thereafter tapered over the&#xD;
+             next 10 to 14 days).&#xD;
+&#xD;
+        Patients are admitted into the study if they have:&#xD;
+&#xD;
+          -  Laboratory evidence of HIV infection or if they have an undetermined HIV infection&#xD;
+             status if they belong to a high-risk group for HIV infection.&#xD;
+&#xD;
+          -  Either a definite or presumptive diagnosis of toxoplasmic encephalitis. Patient or&#xD;
+             appropriate family member, or legal designee must be able to understand and sign a&#xD;
+             written informed consent.&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  HIV encephalopathy.&#xD;
+&#xD;
+        AMENDED:&#xD;
+&#xD;
+          -  Allows patients who have relapsed. Patients with a previous diagnosis of toxoplasmic&#xD;
+             encephalitis based on histopathology or documented neuroradiological response to&#xD;
+             pyrimethamine and sulfonamides or pyrimethamine and clindamycin and who have relapsed&#xD;
+             toxoplasmic encephalitis. Relapse must be documented by definite progression of&#xD;
+             lesions or appearance of new lesions compatible with toxoplasmic encephalitis.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        Allowed if liver enzymes stable for 6 weeks prior to study entry:&#xD;
+&#xD;
+          -  Rifampin.&#xD;
+&#xD;
+          -  Isoniazid.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Co-existing Condition:&#xD;
+&#xD;
+        Patients with the following are excluded:&#xD;
+&#xD;
+          -  Infections of the central nervous system.&#xD;
+&#xD;
+          -  Malabsorption syndrome (3 or more loose stools a day for at least 4 weeks associated&#xD;
+             with an unintentional weight loss of at least 10 percent of body weight).&#xD;
+&#xD;
+          -  History of sensitivity to the study medication.&#xD;
+&#xD;
+          -  Malignancies requiring the use of cytotoxic chemotherapy.&#xD;
+&#xD;
+          -  Coma.&#xD;
+&#xD;
+          -  Diffuse central white matter lesions.&#xD;
+&#xD;
+          -  Negative serology for Toxoplasma as performed at the Palo Alto Medical Foundation&#xD;
+             (unless biopsy is positive).&#xD;
+&#xD;
+          -  Lymphoma of the central nervous system.&#xD;
+&#xD;
+          -  Cerebral Kaposi's sarcoma.&#xD;
+&#xD;
+          -  Hemorrhagic diathesis or active bleeding disorder.&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Erythromycin or other macrolides.&#xD;
+&#xD;
+          -  Sulfonamides.&#xD;
+&#xD;
+          -  Immunomodulators.&#xD;
+&#xD;
+          -  Cytotoxic chemotherapy.&#xD;
+&#xD;
+          -  Amphotericin.&#xD;
+&#xD;
+          -  Dapsone.&#xD;
+&#xD;
+          -  Rifamycins.&#xD;
+&#xD;
+          -  Ganciclovir.&#xD;
+&#xD;
+          -  Allopurinol.&#xD;
+&#xD;
+          -  Antifolates.&#xD;
+&#xD;
+          -  Azidothymidine and other antiretrovirals and investigational agents not specifically&#xD;
+             allowed.&#xD;
+&#xD;
+          -  Folate supplements.&#xD;
+&#xD;
+          -  Isoniazid (INH) therapy may not be started while on therapy.&#xD;
+&#xD;
+        Concurrent Treatment:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Lymphocyte replacement.&#xD;
+&#xD;
+        Patients with the following are excluded:&#xD;
+&#xD;
+          -  Negative HIV antibodies by a federally licensed ELISA (as determined at or after study&#xD;
+             entry), unless there is documentation of a previously positive HIV culture or p24&#xD;
+             antigen.&#xD;
+&#xD;
+          -  Coma.&#xD;
+&#xD;
+          -  Diffuse central white matter lesions.&#xD;
+&#xD;
+          -  Negative serology for Toxoplasma as performed at the Palo Alto Medical Foundation&#xD;
+             (unless biopsy is positive).&#xD;
+&#xD;
+          -  Lymphoma of the central nervous system.&#xD;
+&#xD;
+          -  Cerebral Kaposi's sarcoma.&#xD;
+&#xD;
+          -  Hemorrhagic diathesis or active bleeding disorder.&#xD;
+&#xD;
+          -  Unable to take oral medications reliably.&#xD;
+&#xD;
+          -  Any medical or social condition which, in the opinion of the investigator, would&#xD;
+             adversely affect either participation and/or compliance in this study.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Treatment for toxoplasmic encephalitis.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Remington JS</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Luft B</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>USC CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Stanford CRS</name>
+      <address>
+        <city>Palo Alto</city>
+        <state>California</state>
+        <zip>94304</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ucsd, Avrc Crs</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. of Miami AIDS CRS</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Adult AIDS CRS</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington U CRS</name>
+      <address>
+        <city>St. Louis</city>
+        <state>Missouri</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>SUNY - Buffalo, Erie County Medical Ctr.</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NY Univ. HIV/AIDS CRS</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cornell University A2201</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Ctr.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Unc Aids Crs</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>27599</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Univ. Med. Ctr. Adult CRS</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Pitt CRS</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Luft BJ, Hafner R, Korzun AH, Leport C, Antoniskis D, Bosler EM, Bourland DD 3rd, Uttamchandani R, Fuhrer J, Jacobson J, et al. Toxoplasmic encephalitis in patients with the acquired immunodeficiency syndrome. Members of the ACTG 077p/ANRS 009 Study Team. N Engl J Med. 1993 Sep 30;329(14):995-1000. doi: 10.1056/NEJM199309303291403.</citation>
+    <PMID>8366923</PMID>
+  </reference>
+  <verification_date>May 2012</verification_date>
+  <study_first_submitted>November 2, 1999</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2001</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 31, 2001</study_first_posted>
+  <last_update_submitted>May 17, 2012</last_update_submitted>
+  <last_update_submitted_qc>May 17, 2012</last_update_submitted_qc>
+  <last_update_posted type="Estimate">May 18, 2012</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Toxoplasmosis</keyword>
+  <keyword>AIDS-Related Opportunistic Infections</keyword>
+  <keyword>Pyrimethamine</keyword>
+  <keyword>Leucovorin</keyword>
+  <keyword>Drug Evaluation</keyword>
+  <keyword>Drug Therapy, Combination</keyword>
+  <keyword>Encephalitis</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Clindamycin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Toxoplasmosis</mesh_term>
+    <mesh_term>Toxoplasmosis, Cerebral</mesh_term>
+    <mesh_term>Encephalitis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leucovorin</mesh_term>
+    <mesh_term>Clindamycin</mesh_term>
+    <mesh_term>Clindamycin palmitate</mesh_term>
+    <mesh_term>Clindamycin phosphate</mesh_term>
+    <mesh_term>Pyrimethamine</mesh_term>
+    <mesh_term>Calcium</mesh_term>
+    <mesh_term>Levoleucovorin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

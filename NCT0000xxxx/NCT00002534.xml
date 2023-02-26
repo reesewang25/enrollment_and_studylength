@@ -1,0 +1,209 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00002534</url>
+  </required_header>
+  <id_info>
+    <org_study_id>93-045</org_study_id>
+    <secondary_id>CDR0000078464</secondary_id>
+    <secondary_id>NCI-H93-0293</secondary_id>
+    <nct_id>NCT00002534</nct_id>
+  </id_info>
+  <brief_title>Bone Marrow Transplantation in Treating Patients With Acute Leukemia in First or Second Remission</brief_title>
+  <official_title>A RANDOMIZED TRIAL OF UNMODIFIED VERSUS T-CELL DEPLETED ALLOGENEIC HLA-IDENTICAL BONE MARROW TRANSPLANTATION FOR THE TREATMENT OF ACUTE LEUKEMIAS</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing&#xD;
+      so they stop growing or die. Combining chemotherapy with bone marrow transplantation may&#xD;
+      allow the doctor to give higher doses of chemotherapy drugs and kill more cancer cells.&#xD;
+&#xD;
+      PURPOSE: Randomized phase III trial to compare the effectiveness of bone marrow&#xD;
+      transplantation using untreated or treated bone marrow in treating patients with acute&#xD;
+      leukemia in first or second remission.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES: I. Compare the efficacy of T-cell-depleted vs unmodified allogeneic marrow rescue&#xD;
+      with regard to disease-free survival, post-transplantation leukemic relapse rate, incidence&#xD;
+      and severity of graft-versus-host disease, quality of engraftment and hematopoietic&#xD;
+      reconstitution, and immunoreconstitution following transplantation in patients with acute&#xD;
+      leukemia in first or second remission.&#xD;
+&#xD;
+      OUTLINE: This is a randomized study. Patients are stratified according to disease (acute&#xD;
+      lymphocytic leukemia (ALL) vs acute myeloid leukemia (AML), and age (20 and under vs over&#xD;
+      20). Patients are randomized to one of two treatment arms. Patients under age 5 are&#xD;
+      nonrandomly assigned to Arm I and those over age 55 are nonrandomly assigned to Arm II. Arm&#xD;
+      I: Patients receive total body radiotherapy on days -7 through -4 followed by&#xD;
+      cyclophosphamide IV on days -3 and -2. Patients undergo allogeneic bone marrow&#xD;
+      transplantation (ABMT) IV over 2-4 hours on day 0. Patients also receive standard graft vs&#xD;
+      host disease prophylaxis with cyclosporine and methotrexate. Arm II: Patients receive total&#xD;
+      body radiotherapy on days -9 through -6, thiotepa IV on days -5 and -4, and cyclophosphamide&#xD;
+      as in Arm I. Patients undergo T-cell depleted ABMT IV over 15 minutes on day 0. Patients over&#xD;
+      age 15 receiving bone marrow from female donors over age 30 or from male donors of any age&#xD;
+      also receive graft rejection prophylaxis consisting of antithymocyte globulin IV over 6-8&#xD;
+      hours on days -5 and -4 and oral methylprednisolone twice daily on days -5 and -4. Beginning&#xD;
+      2 months following transplantation, adult patients with AML and a prior history of CNS&#xD;
+      disease, all adult patients with ALL, and all pediatric patients (ALL and ANLL) receive CNS&#xD;
+      leukemia prophylaxis with cytarabine intrathecally with the diagnostic lumbar puncture and&#xD;
+      then monthly for 5 months (1 year in patients with a prior history of CNS leukemia).&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 128 patients will be randomized. At an anticipated accrual rate&#xD;
+      of 35 patients/year, accrual is expected to be completed in 4 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1993</start_date>
+  <completion_date type="Actual">April 2003</completion_date>
+  <primary_completion_date type="Actual">April 2003</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <condition>Leukemia</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>anti-thymocyte globulin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cyclophosphamide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cytarabine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>methylprednisolone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>thiotepa</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>allogeneic bone marrow transplantation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>in vitro-treated bone marrow transplantation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>low-LET electron therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>low-LET photon therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS: Acute leukemias in the following categories: Histologically&#xD;
+        documented ANLL in first remission (CR1) or second remission (CR2) Pediatric ANLL patients&#xD;
+        in CR1 eligible provided they are not enrolled on protocol CCG-2891 ALL in CR1 presenting&#xD;
+        with at least 1 of the following high-risk features: WBC at presentation greater than&#xD;
+        50,000/mm3 (200,000/mm3 in pediatric patients) Hypoploidy as measured by flow cytometry&#xD;
+        Pseudodiploidy with translocations t(9;22), t(4;11), and t(8;14) CR not achieved until&#xD;
+        after 4 weeks of induction therapy ALL in CR2 that has relapsed in the bone marrow&#xD;
+        following a first remission regardless of time of relapse Acute biphenotypic leukemia&#xD;
+        (mixed myeloid and lymphoid lineage at presentation) in CR1 or CR2, i.e., patients&#xD;
+        classified as lymphoblastic or myeloblastic based on FAB morphology and histochemistry&#xD;
+        features Adult acute undifferentiated leukemia (no evidence of lymphoid or myeloid&#xD;
+        differentiation) and in CR1 or CR2 Patients in this category are analyzed separately CR&#xD;
+        defined as no evidence of leukemia at time of transplantation as documented by&#xD;
+        normocellular bone marrow aspirate containing no more than 5% blasts no more than 2 weeks&#xD;
+        prior to cytoreduction Normal diagnostic LP or Ommaya reservoir tap required no more than 2&#xD;
+        weeks prior to start of cytoreduction in all ALL patients and in ANLL patients at risk for&#xD;
+        CNS disease No extramedullary disease at time of transplantation HLA-identical,&#xD;
+        MLC-compatible related donor required Donor must be healthy and willing to undergo general&#xD;
+        anesthesia and donation procedure For T-cell depletion, donor should be able to have a&#xD;
+        volume of 15 ml/kg patient body weight harvested safely&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS: Age: Any age (5 to 55 to be eligible for randomization)&#xD;
+        Performance status: Karnofsky (or Lansky) 70-100% Life expectancy: Greater than 8 weeks&#xD;
+        Hematopoietic: See Disease Characteristics Hepatic: Bilirubin less than 1.5 mg/dl SGOT no&#xD;
+        greater than 3 times upper limit of normal (ULN) (both parameters stable for at least 4&#xD;
+        weeks prior to transplantation) Renal: Creatinine less than 2 times ULN and stable for at&#xD;
+        least 4 weeks prior to transplantation OR Creatinine clearance at least 70 mL/min&#xD;
+        Cardiovascular: Fractional shortening greater than 28% on echocardiogram (23-28% if FS&#xD;
+        increases as a response to stress on supine bicycle ergometer) LVEF at least 50% on&#xD;
+        echocardiogram or MUGA Other: In good clinical condition at time of transplantation with no&#xD;
+        medical problems that would significantly increase the risk of the procedure No infection&#xD;
+        at time of transplantation Not pregnant or nursing&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY: See Disease Characteristics&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Farid Boulad, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2013</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>April 21, 2004</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 22, 2004</study_first_posted>
+  <last_update_submitted>June 24, 2013</last_update_submitted>
+  <last_update_submitted_qc>June 24, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">June 26, 2013</last_update_posted>
+  <keyword>recurrent childhood acute lymphoblastic leukemia</keyword>
+  <keyword>recurrent childhood acute myeloid leukemia</keyword>
+  <keyword>recurrent adult acute myeloid leukemia</keyword>
+  <keyword>recurrent adult acute lymphoblastic leukemia</keyword>
+  <keyword>adult acute myeloid leukemia in remission</keyword>
+  <keyword>adult acute lymphoblastic leukemia in remission</keyword>
+  <keyword>childhood acute myeloid leukemia in remission</keyword>
+  <keyword>childhood acute lymphoblastic leukemia in remission</keyword>
+  <keyword>acute undifferentiated leukemia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cytarabine</mesh_term>
+    <mesh_term>Methylprednisolone</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Thiotepa</mesh_term>
+    <mesh_term>Antilymphocyte Serum</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

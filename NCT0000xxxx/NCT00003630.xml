@@ -1,0 +1,135 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003630</url>
+  </required_header>
+  <id_info>
+    <org_study_id>98-046</org_study_id>
+    <secondary_id>CDR0000066713</secondary_id>
+    <secondary_id>NCI-G98-1479</secondary_id>
+    <nct_id>NCT00003630</nct_id>
+  </id_info>
+  <brief_title>Arsenic Trioxide in Treating Patients With Advanced Solid Tumors</brief_title>
+  <official_title>Phase I Study of Arsenic Trioxide</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die.&#xD;
+&#xD;
+      PURPOSE: Phase I trial to study the effectiveness of arsenic trioxide in treating patients&#xD;
+      who have advanced solid tumors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES: I. Determine the maximum tolerated dose (MTD) of arsenic trioxide in adult and&#xD;
+      pediatric patients with advanced solid tumors. II. Determine the pattern of clinical adverse&#xD;
+      experience of arsenic trioxide in this patient population. III. Evaluate evidence of clinical&#xD;
+      responsiveness to this treatment regimen.&#xD;
+&#xD;
+      OUTLINE: This is a dose escalation, open label study. Patients are stratified by age&#xD;
+      (pediatric vs adult). Patients receive arsenic trioxide IV over 1-2 hours once daily for 3&#xD;
+      consecutive days then once weekly for 5 weeks. Patients with stable or responding disease&#xD;
+      receive additional courses of therapy every 8 weeks for up to 1 year in the absence of&#xD;
+      disease progression or unacceptable toxicity. Patients receive escalating doses of arsenic&#xD;
+      trioxide until the maximum tolerated dose (MTD) is determined. The MTD is defined as the dose&#xD;
+      preceding that at which 2 or more patients out of 6 experience dose limiting toxicity.&#xD;
+      Patients are followed for at least 1 month after treatment.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: Approximately 48 patients will be accrued for this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1998</start_date>
+  <completion_date type="Actual">August 2000</completion_date>
+  <primary_completion_date type="Actual">August 2000</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <condition>Unspecified Adult Solid Tumor, Protocol Specific</condition>
+  <condition>Unspecified Childhood Solid Tumor, Protocol Specific</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>arsenic trioxide</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS: Histologically confirmed advanced solid tumor Relapsed from or&#xD;
+        resistant to at least 1 course of standard anticancer therapy AND/OR Lack of standard&#xD;
+        therapy that is known to be beneficial in the underlying disease&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS: Age: Not specified Performance status: ECOG 0-3 Life expectancy:&#xD;
+        Not specified Hematopoietic: WBC at least 3,000/mm3 Platelet count at least 100,000/mm3&#xD;
+        Hepatic: Bilirubin no greater than 2.5 times upper limit of normal (ULN) Renal: Creatinine&#xD;
+        no greater than 2.5 times ULN Other: Not pregnant or nursing Negative pregnancy test&#xD;
+        Fertile patients must use effective contraception during and for at least 4 months&#xD;
+        following study No active serious infections that are not controlled by antibiotics&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY: Biologic therapy: See Disease Characteristics Chemotherapy: See&#xD;
+        Disease Characteristics No other concurrent chemotherapy Endocrine therapy: See Disease&#xD;
+        Characteristics Radiotherapy: See Disease Characteristics No concurrent radiotherapy&#xD;
+        Surgery: See Disease Characteristics Other: No other concurrent investigational agents&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Steven Soignet, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>June 2013</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>June 23, 2004</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 24, 2004</study_first_posted>
+  <last_update_submitted>June 20, 2013</last_update_submitted>
+  <last_update_submitted_qc>June 20, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">June 24, 2013</last_update_posted>
+  <keyword>unspecified childhood solid tumor, protocol specific</keyword>
+  <keyword>unspecified adult solid tumor, protocol specific</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Arsenic Trioxide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,198 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00006496</url>
+  </required_header>
+  <id_info>
+    <org_study_id>937</org_study_id>
+    <secondary_id>R01HL060710</secondary_id>
+    <nct_id>NCT00006496</nct_id>
+  </id_info>
+  <brief_title>Molecular Epidemiology of ARDS</brief_title>
+  <official_title>Molecular Epidemiology of Acute Respiratory Distress Syndrome</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Massachusetts General Hospital</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Massachusetts General Hospital</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To examine the possible relationship between genetic factors and the acute respiratory&#xD;
+      distress syndrome (ARDS).&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:&#xD;
+&#xD;
+      The acute respiratory distress syndrome (ARDS) remains a major cause of morbidity and&#xD;
+      mortality around the world. In the United States alone there are 150,000 cases per year.&#xD;
+      Although there have been significant scientific advances in understanding the clinical and&#xD;
+      pathophysical aspects of the syndrome, there is as yet no specific therapy for ARDS.&#xD;
+      Moreover, although major risk factors for the development of ARDS include sepsis, aspiration,&#xD;
+      and multiple trauma, only a minority of patients with these risk factors develop ARDS.&#xD;
+      Individual differences in susceptibility to chronic disease have been a subject of active&#xD;
+      molecular epidemiologic investigations for the past decade. In particular, risk factors for&#xD;
+      cancer conferred by heritable polymorphisms and various metabolic functions have been&#xD;
+      reported. More recently, a polymorphism of endothelial nitrate oxide synthase has been&#xD;
+      associated with an increased susceptibility to coronary-artery disease, and polymorphisms in&#xD;
+      GSTM1 have been associated with an increased risk of developing asbestosis. A recent study of&#xD;
+      tumor necrosis factor (TNF) polymorphisms has been associated with poor outcome in ARDS.&#xD;
+&#xD;
+      DESIGN NARRATIVE:&#xD;
+&#xD;
+      The case-control study examined the association between specific polymorphisms in several&#xD;
+      genes coding for specific inflammatory responses and for surfactant protein and their&#xD;
+      potential association with increased susceptibility to ARDS. The first objective was to&#xD;
+      assess the role of candidate-gene polymorphisms as risk factors for ARDS in a case-control&#xD;
+      study. The second objective was to assess the relationship between genotype and phenotype for&#xD;
+      candidate markers in cases and controls. The third objective was to assess the role of these&#xD;
+      polymorphisms in clinical outcome (survival, recovery) using patients from both the proposed&#xD;
+      case-control study and the multicenter case series and clinical trial sponsored by the NHLBI&#xD;
+      ARDS network. By combining both a large case-control study and case series from the network,&#xD;
+      the study had the advantages of sufficient case ascertainment, statistical power, diagnostic&#xD;
+      standardization, uniform outcome criteria and study efficiency. Overall, the results of this&#xD;
+      study should provide new insights into the epidemiology of ARDS and allow for possible&#xD;
+      preventive strategies as well as possible modifications of therapeutic interventions for the&#xD;
+      Network Phase III trials.&#xD;
+&#xD;
+      The investigators test the hypothesis that there is an increased risk of ARDS in patients&#xD;
+      with heritable traits relating to inflammatory cytokines and surfactant. They are examining&#xD;
+      risk and prognosis, and examining case and control genetics in relation to cytokine levels.&#xD;
+      They also plan to do a case-series analysis from a separate study of the ARDS network. They&#xD;
+      will examine TNF alpha and beta, interleukin-1 receptor antagonist, surfactant protein B and&#xD;
+      interleukin-10 (IL-10).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Active, not recruiting</overall_status>
+  <start_date>February 2000</start_date>
+  <completion_date type="Anticipated">December 2023</completion_date>
+  <primary_completion_date type="Anticipated">August 2023</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Risk of ARDS</measure>
+    <time_frame>From admission to ICU</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Mortality</measure>
+    <time_frame>From admission to ICU to 60 days</time_frame>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Multi-organ Failure</measure>
+    <time_frame>From admission to ICU</time_frame>
+  </other_outcome>
+  <enrollment type="Anticipated">4000</enrollment>
+  <condition>Acute Respiratory Distress Syndrome</condition>
+  <condition>Lung Diseases</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      Blood will be collected for DNA extraction and plasma cytokine measurements&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        All patients admitted to ICU with risk factors for ARDS&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Eligibility Criteria:&#xD;
+&#xD;
+        All those with risk factors for ARDS - eg, pneumonia, trauma, sepsis.&#xD;
+&#xD;
+        Vulnerable populations (incarcerated, pregnant, etc.) will be excluded from enrollment. The&#xD;
+        following medical conditions will also exclude from study:&#xD;
+&#xD;
+          1. immunocompromised patients&#xD;
+&#xD;
+          2. patients with chronic lung disease that may appear like ARDS&#xD;
+&#xD;
+          3. pulmonary vasculitis patients&#xD;
+&#xD;
+          4. patients with diffuse alveolar hemorrhage&#xD;
+&#xD;
+          5. patients treated with immune-modulating agents within 3 weeks of admission&#xD;
+&#xD;
+          6. patients unable to intubate because of DNI order or patient is placed on comfort&#xD;
+             measures only&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David Christiani, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Harvard University School of Public Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Massachusetts General Hospital</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02114</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Gong MN, Wei Z, Xu LL, Miller DP, Thompson BT, Christiani DC. Polymorphism in the surfactant protein-B gene, gender, and the risk of direct pulmonary injury and ARDS. Chest. 2004 Jan;125(1):203-11. doi: 10.1378/chest.125.1.203.</citation>
+    <PMID>14718442</PMID>
+  </reference>
+  <reference>
+    <citation>Gong MN, Thompson BT, Williams P, Pothier L, Boyce PD, Christiani DC. Clinical predictors of and mortality in acute respiratory distress syndrome: potential role of red cell transfusion. Crit Care Med. 2005 Jun;33(6):1191-8. doi: 10.1097/01.ccm.0000165566.82925.14.</citation>
+    <PMID>15942330</PMID>
+  </reference>
+  <verification_date>April 2022</verification_date>
+  <study_first_submitted>November 16, 2000</study_first_submitted>
+  <study_first_submitted_qc>November 16, 2000</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 17, 2000</study_first_posted>
+  <last_update_submitted>April 14, 2022</last_update_submitted>
+  <last_update_submitted_qc>April 14, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">April 15, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>Massachusetts General Hospital</investigator_affiliation>
+    <investigator_full_name>David Christopher Christiani</investigator_full_name>
+    <investigator_title>Professor of Medicine</investigator_title>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome</mesh_term>
+    <mesh_term>Respiratory Distress Syndrome, Newborn</mesh_term>
+    <mesh_term>Acute Lung Injury</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

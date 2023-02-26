@@ -1,0 +1,724 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003913</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1330.00</org_study_id>
+    <secondary_id>FHCRC-1330.00</secondary_id>
+    <secondary_id>UMN-MT-9817</secondary_id>
+    <secondary_id>NCI-G99-1523</secondary_id>
+    <secondary_id>CDR0000067092</secondary_id>
+    <nct_id>NCT00003913</nct_id>
+    <nct_alias>NCT00053755</nct_alias>
+  </id_info>
+  <brief_title>Umbilical Cord Blood Transplantation in Treating Patients With Hematologic Cancer or Nonmalignant Hematologic Disease</brief_title>
+  <official_title>A Multicenter Study of Unrelated Umbilical Cord Blood as an Alternate Source of Stem Cells for Transplantation</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Fred Hutchinson Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Fred Hutchinson Cancer Center</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing&#xD;
+      so they stop growing or die. Umbilical cord blood transplantation may be able to replace&#xD;
+      immune cells that were destroyed by the chemotherapy or radiation therapy that was used to&#xD;
+      kill cancer cells.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of umbilical cord blood transplantation&#xD;
+      plus combination chemotherapy in treating patients who have hematologic cancer or&#xD;
+      nonmalignant hematologic disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the efficacy of umbilical cord blood transplantation, as measured by durable&#xD;
+           neutrophil engraftment, in patients with malignant or nonmalignant hematological&#xD;
+           disease.&#xD;
+&#xD;
+        -  Determine the disease-free survival and long-term survival in patients treated with this&#xD;
+           regimen.&#xD;
+&#xD;
+        -  Determine the incidence of neutrophil engraftment, primary and secondary graft failure,&#xD;
+           platelet engraftment, and RBC engraftment in patients treated with this regimen.&#xD;
+&#xD;
+        -  Determine the incidence and severity of acute and chronic graft-versus-host disease,&#xD;
+           complications (infection, veno-occlusive disease, interstitial pneumonitis), relapse,&#xD;
+           other malignancies, lymphoproliferative disorders, and posttransplantation&#xD;
+           myelodysplasia in patients treated with this regimen.&#xD;
+&#xD;
+        -  Determine the immune reconstitution in patients treated with this regimen.&#xD;
+&#xD;
+      OUTLINE: This is a multicenter study. Patients are stratified according to disease group&#xD;
+      (malignant vs nonmalignant). Patients with malignant disease are further stratified according&#xD;
+      to quality of HLA match (1 or 2/6 vs 3/6 vs 4/6 vs 5/6 or 6/6), cell dose, and age.&#xD;
+&#xD;
+      Patients are assigned to one of three conditioning regimens, depending on disease.&#xD;
+&#xD;
+        -  Group A (malignant disease ): Patients undergo total body irradiation (TBI) once on day&#xD;
+           -8 and twice daily on days -7 to -4. Male patients with acute lymphocytic leukemia (ALL)&#xD;
+           undergo radiotherapy boost to testes. Patients receive cyclophosphamide (CTX) IV on days&#xD;
+           -3 and -2 and methylprednisolone (MePRDL) IV and anti-thymocyte globulin (ATG) IV on&#xD;
+           days -3 to -1.&#xD;
+&#xD;
+        -  Group B (inborn errors of metabolism/storage disease): Patients receive oral busulfan&#xD;
+           (BU) every 6 hours on days -6 and -5, CTX IV on days -4 and -3, and MePRDL IV and ATG IV&#xD;
+           every 12 hours on days -2 and -1.&#xD;
+&#xD;
+        -  Group C (other nonmalignant diseases): Patients receive oral BU every 6 hours on days -9&#xD;
+           to -6, CTX IV on days -5 to -2, and MePRDL IV and ATG IV on days -3 to -1.&#xD;
+&#xD;
+      Patients in all groups receive cord blood IV over a maximum of 30 minutes on day 0. Patients&#xD;
+      also receive MePRDL IV with the first half of the infusion administered immediately before&#xD;
+      the cord blood infusion and filgrastim (G-CSF) IV beginning 4 hours after transplantation and&#xD;
+      continuing until blood counts recover.&#xD;
+&#xD;
+      Patients are followed at 30, 60, and 90 days; at 6 months; and then annually thereafter.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: Approximately 390 patients will be accrued for this study within 5 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 1998</start_date>
+  <completion_date type="Actual">August 2005</completion_date>
+  <primary_completion_date type="Actual">August 2005</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <enrollment type="Anticipated">390</enrollment>
+  <condition>Leukemia</condition>
+  <condition>Lymphoma</condition>
+  <condition>Myelodysplastic Syndromes</condition>
+  <condition>Myelodysplastic/Myeloproliferative Diseases</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>anti-thymocyte globulin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>filgrastim</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>busulfan</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cyclophosphamide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>methylprednisolone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>umbilical cord blood transplantation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  One of the following diagnoses:&#xD;
+&#xD;
+               -  Acute myeloid leukemia (AML), with or without myelodysplastic syndromes&#xD;
+&#xD;
+                    -  Not in first complete remission (CR)* with translocations t(8;21) and inv&#xD;
+                       (16) unless failure of first-line induction therapy&#xD;
+&#xD;
+                    -  Not in first CR* with translocations t(15;17) abnormality unless:&#xD;
+&#xD;
+                         -  Failure of first-line induction therapy OR&#xD;
+&#xD;
+                         -  Molecular evidence of persistent disease&#xD;
+&#xD;
+                    -  Not in first CR with Down syndrome&#xD;
+&#xD;
+                    -  Patients with third or greater medullary relapse or refractory disease&#xD;
+                       (other than primary induction failures) receive busulfan/melphalan&#xD;
+                       conditioning regimen NOTE: * CR defined by no greater than 5% blasts in&#xD;
+                       marrow&#xD;
+&#xD;
+               -  Acute lymphocytic leukemia (ALL)&#xD;
+&#xD;
+                    -  Not in first CR OR&#xD;
+&#xD;
+                    -  High-risk ALL in first CR, with high risk defined as one of the following:&#xD;
+&#xD;
+                         -  Hypoploidy (no greater than 44 chromosomes)&#xD;
+&#xD;
+                         -  Pseudodiploidy with translocations or molecular evidence of t(9;22),&#xD;
+                            11q23, or t(8;14) (except B-cell ALL) with or without MLL gene&#xD;
+                            arrangement&#xD;
+&#xD;
+                         -  Elevated WBC at presentation&#xD;
+&#xD;
+                              -  Age 6-12 months: greater than 100,000/mm^3&#xD;
+&#xD;
+                              -  Age 10-17 years: greater than 200,000/mm^3&#xD;
+&#xD;
+                              -  Age 18: greater than 20,000/mm^3&#xD;
+&#xD;
+                         -  Failed to achieve CR after 4 weeks of induction therapy&#xD;
+&#xD;
+                    -  Patients with B-ALL must not be in first CR, must meet at least one of the&#xD;
+                       high-risk criteria specified above, or must not meet any of the following&#xD;
+                       criteria:&#xD;
+&#xD;
+                         -  Translocation t(8;14)&#xD;
+&#xD;
+                         -  Blasts have surface immunoglobulins&#xD;
+&#xD;
+                         -  CD10 positive&#xD;
+&#xD;
+                    -  Patients with third or greater medullary relapse or refractory disease&#xD;
+                       (other than primary induction failures) receive busulfan/melphalan&#xD;
+                       conditioning regimen&#xD;
+&#xD;
+               -  Chronic myelogenous leukemia, meeting criteria for 1 of the following:&#xD;
+&#xD;
+                    -  Accelerated phase&#xD;
+&#xD;
+                    -  Chronic phase if 1 year from diagnosis without a matched unrelated bone&#xD;
+                       marrow donor AND unresponsive to or unable to tolerate interferon&#xD;
+&#xD;
+                    -  Blast crisis, defined as greater than 30% promyelocytes plus blasts in bone&#xD;
+                       marrow&#xD;
+&#xD;
+                         -  Patients receive busulfan/melphalan conditioning regimen&#xD;
+&#xD;
+               -  Acute undifferentiated leukemia (AUL), infant leukemia, or biphenotypic leukemia&#xD;
+&#xD;
+                    -  Patients with third or greater medullary relapse or refractory disease&#xD;
+                       (other than primary induction failures) receive busulfan/melphalan&#xD;
+                       conditioning regimen&#xD;
+&#xD;
+               -  Juvenile myelomonocytic leukemia meeting the following criteria:&#xD;
+&#xD;
+                    -  No Philadelphia chromosome&#xD;
+&#xD;
+                    -  Bone marrow blasts less than 30%&#xD;
+&#xD;
+                    -  Peripheral blood monocytes greater than 1,000/mm^3&#xD;
+&#xD;
+                    -  At least 2 of the following:&#xD;
+&#xD;
+                         -  Peripheral blood spontaneous growth and/or sargramostim (GM-CSF)&#xD;
+                            hypersensitivity&#xD;
+&#xD;
+                         -  Increased hemoglobin F for age&#xD;
+&#xD;
+                         -  Clonal abnormalities (e.g., monosomy 7 or RAS mutations)&#xD;
+&#xD;
+                         -  Peripheral blood with myeloid precursors&#xD;
+&#xD;
+                         -  WBC greater than 10,000/mm^3&#xD;
+&#xD;
+               -  Myelodysplastic syndromes defined by the following:&#xD;
+&#xD;
+                    -  Refractory anemia (RA)&#xD;
+&#xD;
+                    -  RA with ringed sideroblasts&#xD;
+&#xD;
+                    -  RA with excess blasts (RAEB)&#xD;
+&#xD;
+                    -  RAEB in transformation&#xD;
+&#xD;
+                    -  Chronic myelomonocytic leukemia&#xD;
+&#xD;
+               -  Paroxysmal nocturnal hemoglobinuria&#xD;
+&#xD;
+               -  Hodgkin's lymphoma or non-Hodgkin's lymphoma beyond first CR or primary induction&#xD;
+                  failures AND chemosensitive (greater than 50% reduction in tumor mass size)&#xD;
+&#xD;
+               -  Inborn error of metabolism including, but not limited to, Hurler's syndrome,&#xD;
+                  adrenoleukodystrophy (ALD), Maroteaux-Lamy syndrome, globoid cell leukodystrophy,&#xD;
+                  metachromatic leukodystrophy, fucosidosis, or mannosidosis&#xD;
+&#xD;
+                    -  For ALD patients over age 5, IQ must be at least 80&#xD;
+&#xD;
+                    -  For all other patients over age 5, IQ must be at least 70&#xD;
+&#xD;
+                    -  For all patients age 5 and under, developmental quotient or clinical&#xD;
+                       neurodevelopmental examination should demonstrate potential for&#xD;
+                       stabilization at a level of functioning where continuous life support (e.g.,&#xD;
+                       mechanical ventilation) would not be predicted to be required in the year&#xD;
+                       after transplantation&#xD;
+&#xD;
+               -  Combined immune deficiencies including, but not limited to:&#xD;
+&#xD;
+                    -  Severe combined immunodeficiency (SCID) requiring cytoreduction&#xD;
+&#xD;
+                    -  Wiskott-Aldrich syndrome&#xD;
+&#xD;
+                    -  Leukocyte adhesion defect&#xD;
+&#xD;
+                    -  Chediak-Higashi disease&#xD;
+&#xD;
+                    -  X-linked lymphoproliferative disease&#xD;
+&#xD;
+                    -  Adenosine deaminase deficiency&#xD;
+&#xD;
+                    -  Purine nucleoside phosphorylase deficiency&#xD;
+&#xD;
+                    -  X-linked SCID&#xD;
+&#xD;
+                    -  Common variable immune deficiency&#xD;
+&#xD;
+                    -  Nezelof's syndrome&#xD;
+&#xD;
+                    -  Cartilage hair hypoplasia&#xD;
+&#xD;
+          -  No dyskeratosis congenita&#xD;
+&#xD;
+          -  No ALL, AML, AUL, or biphenotypic leukemia in third or higher medullary relapse or&#xD;
+             refractory disease other than primary induction failure&#xD;
+&#xD;
+          -  No primary myelofibrosis or myelofibrosis grade 3 or worse&#xD;
+&#xD;
+          -  No active CNS leukemia involvement (CSF with WBC greater than 5/mm^3 and malignant&#xD;
+             cells on cytospin)&#xD;
+&#xD;
+          -  No consenting 5/6 or 6/6 HLA-matched related donor available&#xD;
+&#xD;
+          -  3-6/6 HLA-matched unrelated umbilical cord blood donor available&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  18 and under&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Karnofsky 70-100%, if age 16 to 18&#xD;
+&#xD;
+          -  Lansky 50-100%, if under age 16&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin less than 2.5 mg/dL&#xD;
+&#xD;
+          -  SGOT less than 5 times upper limit of normal&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine normal for age OR&#xD;
+&#xD;
+          -  Creatinine clearance or glomerular filtration rate greater than 50% lower limit of&#xD;
+             normal for age&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  If symptomatic:&#xD;
+&#xD;
+               -  LVEF greater than 40% (or shortening fraction greater than 26%) and improves with&#xD;
+                  exercise OR&#xD;
+&#xD;
+               -  Shortening fraction greater than 26%&#xD;
+&#xD;
+        Pulmonary:&#xD;
+&#xD;
+          -  If symptomatic:&#xD;
+&#xD;
+               -  DLCO, FEV_1, and FEC greater than 45% predicted OR&#xD;
+&#xD;
+               -  Oxygen saturation greater than 85% on room air&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  HIV negative&#xD;
+&#xD;
+          -  No uncontrolled viral, bacterial, or fungal infection&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  At least 1 year since prior allogeneic stem cell transplantation (SCT) with&#xD;
+             cytoreductive preparative therapy&#xD;
+&#xD;
+          -  At least 6 months since prior autologous SCT&#xD;
+&#xD;
+          -  No concurrent thrombopoietic growth factors&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  See Biologic therapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Not specified&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Colleen Delaney, MD, MSC</last_name>
+    <role>Study Chair</role>
+    <affiliation>Fred Hutchinson Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>City of Hope Comprehensive Cancer Center</name>
+      <address>
+        <city>Duarte</city>
+        <state>California</state>
+        <zip>91010-3000</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital Los Angeles</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90027-0700</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Jonsson Comprehensive Cancer Center, UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095-1781</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Orange County</name>
+      <address>
+        <city>Orange</city>
+        <state>California</state>
+        <zip>92868</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's National Medical Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010-2970</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana University Cancer Center</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202-5289</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of New Orleans</name>
+      <address>
+        <city>New Orleans</city>
+        <state>Louisiana</state>
+        <zip>70118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Warren Grant Magnuson Clinical Center - NCI Clinical Studies Support</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892-1182</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Warren Grant Magnuson Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892-1182</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber/Harvard Cancer Center at Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Spectrum Health and DeVos Children's Hospital</name>
+      <address>
+        <city>Grand Rapids</city>
+        <state>Michigan</state>
+        <zip>49503</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Minnesota Cancer Center</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Mercy Hospital</name>
+      <address>
+        <city>Kansas City</city>
+        <state>Missouri</state>
+        <zip>64108</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cardinal Glennon Children's Hospital</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Center at Hackensack University Medical Center</name>
+      <address>
+        <city>Hackensack</city>
+        <state>New Jersey</state>
+        <zip>07601</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore University Hospital</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>James P. Wilmot Cancer Center at University of Rochester Medical Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>New York</state>
+        <zip>14642</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Comprehensive Cancer Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cincinnati Children's Hospital Medical Center</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45229</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ireland Cancer Center</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106-5065</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Children's Hospital of Pittsburgh</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical City Dallas Hospital</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75230</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Fred Hutchinson Cancer Research Center</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2010</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>March 31, 2010</last_update_submitted>
+  <last_update_submitted_qc>March 31, 2010</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 2, 2010</last_update_posted>
+  <keyword>recurrent childhood acute lymphoblastic leukemia</keyword>
+  <keyword>recurrent childhood lymphoblastic lymphoma</keyword>
+  <keyword>recurrent childhood acute myeloid leukemia</keyword>
+  <keyword>relapsing chronic myelogenous leukemia</keyword>
+  <keyword>chronic phase chronic myelogenous leukemia</keyword>
+  <keyword>accelerated phase chronic myelogenous leukemia</keyword>
+  <keyword>childhood acute myeloid leukemia in remission</keyword>
+  <keyword>childhood acute lymphoblastic leukemia in remission</keyword>
+  <keyword>recurrent/refractory childhood Hodgkin lymphoma</keyword>
+  <keyword>refractory anemia</keyword>
+  <keyword>refractory anemia with ringed sideroblasts</keyword>
+  <keyword>refractory anemia with excess blasts</keyword>
+  <keyword>refractory anemia with excess blasts in transformation</keyword>
+  <keyword>chronic myelomonocytic leukemia</keyword>
+  <keyword>acute undifferentiated leukemia</keyword>
+  <keyword>secondary acute myeloid leukemia</keyword>
+  <keyword>de novo myelodysplastic syndromes</keyword>
+  <keyword>previously treated myelodysplastic syndromes</keyword>
+  <keyword>secondary myelodysplastic syndromes</keyword>
+  <keyword>recurrent childhood small noncleaved cell lymphoma</keyword>
+  <keyword>recurrent childhood large cell lymphoma</keyword>
+  <keyword>juvenile myelomonocytic leukemia</keyword>
+  <keyword>blastic phase chronic myelogenous leukemia</keyword>
+  <keyword>childhood chronic myelogenous leukemia</keyword>
+  <keyword>atypical chronic myeloid leukemia</keyword>
+  <keyword>myelodysplastic/myeloproliferative disease, unclassifiable</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Preleukemia</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Myeloproliferative Disorders</mesh_term>
+    <mesh_term>Myelodysplastic-Myeloproliferative Diseases</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Methylprednisolone</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Busulfan</mesh_term>
+    <mesh_term>Antilymphocyte Serum</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

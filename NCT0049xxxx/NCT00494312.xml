@@ -1,0 +1,264 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00494312</url>
+  </required_header>
+  <id_info>
+    <org_study_id>01-00-TL-OPI-506</org_study_id>
+    <secondary_id>U1111-1114-1564</secondary_id>
+    <nct_id>NCT00494312</nct_id>
+  </id_info>
+  <brief_title>Safety Study of Pioglitazone Compared To Glyburide on Liver Function</brief_title>
+  <official_title>A Randomized, Comparator Controlled, Double-Blind Study of the Liver Safety of Pioglitazone HCl vs Glyburide With Metformin and Insulin as Part of Step Therapy in Subjects With Type 2 (Non-Insulin Dependent) Diabetes</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Takeda</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Takeda</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine the liver safety of pioglitazone, once daily (QD),&#xD;
+      versus glyburide taken with metformin and insulin.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Type 2 diabetes generally arises from an initial state of insulin resistance that coincides&#xD;
+      with a gradual decline in insulin secretion due to beta-cell dysfunction. Together, these&#xD;
+      factors contribute to impaired glucose tolerance and eventually hyperglycemia.&#xD;
+&#xD;
+      Thiazolidinediones are selective agonists for the nuclear receptor peroxisomal&#xD;
+      proliferator-activated receptor gamma. These receptors are found in tissues with insulin&#xD;
+      action including adipose tissue, skeletal muscle and the liver. Thiazolidinediones reduce&#xD;
+      insulin resistance by enhancing insulin sensitivity in adipose tissue, muscle cells and&#xD;
+      hepatic cells without directly affecting insulin secretion. These effects improve glycemic&#xD;
+      control and result in reduced levels of circulating insulin.&#xD;
+&#xD;
+      Pioglitazone is a thiazolidinedione developed by Takeda Chemical Industries, Ltd., and&#xD;
+      depends on the presence of insulin for its mechanism of action. Glyburide is an oral&#xD;
+      antidiabetic agent of the sulfonylurea class, and impacts glycemic control by stimulating the&#xD;
+      pancreas to release insulin, an effect that is dependent upon beta-cells in the pancreatic&#xD;
+      islets.&#xD;
+&#xD;
+      Elevated levels of hepatic enzymes, hepatocellular inflammation, and viral susceptibility are&#xD;
+      known to occur with increased frequency in individuals with type 2 diabetes mellitus&#xD;
+      regardless of the type of antidiabetic therapy used. Subject to the approval of pioglitazone,&#xD;
+      the Food and Drug Administration requested a 3-year outcome study evaluating the occurrence&#xD;
+      of serious liver disease in subjects treated with pioglitazone. The present study was&#xD;
+      designed to fulfill this phase 4, postmarketing commitment to the Food and Drug&#xD;
+      Administration, pursuant to demonstrating the long-term hepatic safety of pioglitazone. This&#xD;
+      study was designed to determine whether pioglitazone is associated with a difference in the&#xD;
+      incidence of elevated levels of alanine aminotransferase, a marker of hepatocellular&#xD;
+      inflammation or injury, when compared with glyburide. Glyburide is used for treatment of&#xD;
+      patients with type 2 diabetes mellitus; its use in this study as a comparator should provide&#xD;
+      a basis for evaluating whether pioglitazone is associated with an increased risk of&#xD;
+      hepatocellular inflammation or injury.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 2000</start_date>
+  <completion_date type="Actual">June 2005</completion_date>
+  <primary_completion_date type="Actual">June 2005</primary_completion_date>
+  <phase>Phase 4</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Quadruple (Participant, Care Provider, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Incidence of liver inflammation or injury greater than 3 times the upper limit of normal, as monitored by serum alanine aminotransaminase elevation.</measure>
+    <time_frame>At All Visits</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of alanine aminotransferase greater than 8 times the upper limit of normal.</measure>
+    <time_frame>At All Visits</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of alanine aminotransferase greater than 3 times the upper limit of normal but less than or equal to 8 times the upper limit of normal on 4 consecutive measurements within a 3-month period.</measure>
+    <time_frame>At All Visits</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Incidence of alanine aminotransferase greater than 3 times the upper limit of normal and total bilirubin greater than 2 times the upper limit of normal.</measure>
+    <time_frame>At All Visits</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change from Baseline or greater than 1.5 times the upper limit of normal (whichever is greater) in the level of alanine aminotransferase, aspartate aminotransferase, total or direct bilirubin, alkaline phosphatase or gamma-glutamyl transpeptidase.</measure>
+    <time_frame>At All Visits</time_frame>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">2120</enrollment>
+  <condition>Diabetes Mellitus</condition>
+  <condition>Liver</condition>
+  <arm_group>
+    <arm_group_label>Pioglitazone QD</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Glyburide QD</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pioglitazone</intervention_name>
+    <description>Pioglitazone 15 mg or 30 mg titrated to 45 mg, tablets, orally, once daily and glyburide placebo-matching capsules, orally, once daily for up to 156 weeks.</description>
+    <arm_group_label>Pioglitazone QD</arm_group_label>
+    <other_name>Actos</other_name>
+    <other_name>AD-4833</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Glyburide</intervention_name>
+    <description>Pioglitazone placebo-matching tablets, orally, once daily and glyburide 5 mg or 10 mg titrated to 15 mg, capsules, orally, once daily for up to 156 weeks.</description>
+    <arm_group_label>Glyburide QD</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+          -  Females of childbearing potential who are sexually active must agree to use adequate&#xD;
+             contraception, and can neither be pregnant nor lactating from Screening throughout the&#xD;
+             duration of the study&#xD;
+&#xD;
+          -  Diagnosis of type 2 (non-insulin dependent) diabetes mellitus as defined by the&#xD;
+             diagnostic criteria of the American Diabetes Association and currently taking&#xD;
+             glyburide, glipizide, glimepiride, or metformin alone, or glyburide, glipizide, or&#xD;
+             glimepiride in combination with metformin&#xD;
+&#xD;
+          -  Glycosylated hemoglobin level greater than or equal to 7.0%&#xD;
+&#xD;
+          -  Fasting C-peptide level greater than or equal to 0.7 ng/mL.&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Type 1 (insulin-dependent) diabetes mellitus.&#xD;
+&#xD;
+          -  Prior exposure to a thiazolidinedione, except subjects who discontinued use of&#xD;
+             troglitazone in March or April of 2000, provided they were not experiencing adverse&#xD;
+             effects and were not then taking thiazolidinediones.&#xD;
+&#xD;
+          -  Participating in another investigational study or had participated in an&#xD;
+             investigational trial within the preceding 2 months.&#xD;
+&#xD;
+          -  History of ketoacidosis.&#xD;
+&#xD;
+          -  The subject had significant diabetic nephropathy, defined as a serum creatinine level&#xD;
+             greater than or equal to 1.5 mg/dL for men and greater than or equal to 1.4 mg/dL for&#xD;
+             women, or urinary protein excretion greater than or equal to 2 plus as measured by the&#xD;
+             Combistix (or equivalent) method, except subjects with proteinuria are eligible if&#xD;
+             repeat testing within 2 weeks indicates the proteinuria had resolved.&#xD;
+&#xD;
+          -  Anemia with a hemoglobin level less than12 g/dL for men and less than10 g/dL for&#xD;
+             women.&#xD;
+&#xD;
+          -  The subject had a history of drug or alcohol abuse within the preceding 2 years.&#xD;
+&#xD;
+          -  The subject had a diastolic blood pressure greater than100 mm Hg or a systolic blood&#xD;
+             pressure greater than180 mm Hg.&#xD;
+&#xD;
+          -  The subject had evidence of ongoing cardiac rhythm disturbance, delayed QT waves, or&#xD;
+             second-degree atrioventricular heart block. Uncomplicated first-degree&#xD;
+             atrioventricular block was allowed.&#xD;
+&#xD;
+          -  Significant cardiovascular disease including, but not limited to, New York Heart&#xD;
+             Association Functional (Cardiac) Classification III or IV.&#xD;
+&#xD;
+          -  History of myocardial infarction, acute cardiovascular event, or cerebrovascular&#xD;
+             accident within the preceding 6 months.&#xD;
+&#xD;
+          -  Previous history of cancer that was not in remission for at least 5 years before&#xD;
+             administration of the first dose of study drug. Except, basal cell or Stage I squamous&#xD;
+             cell carcinoma.&#xD;
+&#xD;
+          -  The subject had a BMI less than 20 or greater than 48 (calculated as weight&#xD;
+             [kg]/height [m2]).&#xD;
+&#xD;
+          -  Alanine aminotransferase level greater than or equal 2.5time the upper limit of normal&#xD;
+             or a history of liver disease, jaundice, hepatitis, or biliary tract disease (except&#xD;
+             for uncomplicated and treated gall stones by either lithotomy or cholecystectomy).&#xD;
+&#xD;
+          -  Unwilling or unable to comply with the protocol or attend scheduled appointments.&#xD;
+&#xD;
+          -  Unable to understand verbal and/or written English or any other language in which a&#xD;
+             certified translation of the informed consent is available.&#xD;
+&#xD;
+          -  Evidence of acute or unstable chronic pulmonary disease or, if a chest x-ray was&#xD;
+             available, has unexplained pulmonary lesions.&#xD;
+&#xD;
+          -  Is required to take or continues taking any disallowed medication, prescription&#xD;
+             medication, herbal treatment or over-the counter medication that may interfere with&#xD;
+             evaluation of the study medication, including:&#xD;
+&#xD;
+               -  Antidiabetic agents other than study drug and companion medications (metformin&#xD;
+                  and insulin).&#xD;
+&#xD;
+               -  Weight loss agents, including pharmaceuticals and over-the-counter brands.&#xD;
+&#xD;
+               -  Continuous (greater than 2 weeks) steroid therapy or expected recurrent steroid&#xD;
+                  therapy, including all injectable, inhaled, topical, and oral steroid&#xD;
+                  formulations.&#xD;
+&#xD;
+               -  Niacin therapy.&#xD;
+&#xD;
+          -  Chronic condition for which the recurrent use of glucocorticoids could be expected&#xD;
+&#xD;
+          -  Any other serious disease or condition at screening or randomization that might have&#xD;
+             affected life expectancy or made it difficult to successfully manage and follow the&#xD;
+             subject according to the protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>VP Clinical Science Strategy</last_name>
+    <role>Study Director</role>
+    <affiliation>Takeda</affiliation>
+  </overall_official>
+  <results_reference>
+    <citation>Tolman KG, Fonseca V, Tan MH, Dalpiaz A. Narrative review: hepatobiliary disease in type 2 diabetes mellitus. Ann Intern Med. 2004 Dec 21;141(12):946-56. doi: 10.7326/0003-4819-141-12-200412210-00011.</citation>
+    <PMID>15611492</PMID>
+  </results_reference>
+  <verification_date>February 2012</verification_date>
+  <study_first_submitted>June 27, 2007</study_first_submitted>
+  <study_first_submitted_qc>June 28, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 29, 2007</study_first_posted>
+  <last_update_submitted>February 27, 2012</last_update_submitted>
+  <last_update_submitted_qc>February 27, 2012</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 28, 2012</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Glucose Metabolism Disorder</keyword>
+  <keyword>Dysmetabolic Syndrome</keyword>
+  <keyword>Type II Diabetes</keyword>
+  <keyword>Diabetes Mellitus</keyword>
+  <keyword>Lipoatrophic</keyword>
+  <keyword>Dyslipidemia</keyword>
+  <keyword>Liver</keyword>
+  <keyword>Drug Therapy</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Diabetes Mellitus</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pioglitazone</mesh_term>
+    <mesh_term>Glyburide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

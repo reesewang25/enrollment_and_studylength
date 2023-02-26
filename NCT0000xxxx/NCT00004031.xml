@@ -1,0 +1,4033 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00004031</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000065658</org_study_id>
+    <secondary_id>S9704</secondary_id>
+    <secondary_id>U10CA032102</secondary_id>
+    <nct_id>NCT00004031</nct_id>
+  </id_info>
+  <brief_title>SWOG-9704 Chemoradiotherapy and Peripheral Stem Cell Transplantation Compared With Combination Chemotherapy in Treating Patients With Non-Hodgkin's Lymphoma</brief_title>
+  <official_title>SWOG-9704 A Randomized Phase III Trial Comparing Early High Dose Chemoradiotherapy and an Autologous Stem Cell Transplant to Conventional Dose CHOP Chemotherapy Plus Rituximab for CD20+ B Cell Lymphomas (With Possible Late Autologous Stem Cell Transplant) for Patients With Diffuse Aggressive Non-Hodgkin's Lymphoma in the High-Intermediate and High Risk International Classification Prognostic Groups</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Southwest Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cancer and Leukemia Group B</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Eastern Cooperative Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>NCIC Clinical Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Southwest Oncology Group</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing&#xD;
+      so they stop growing or die. Radiation therapy uses high-energy x-rays to damage cancer&#xD;
+      cells. Peripheral stem cell transplantation may allow the doctor to give higher doses of&#xD;
+      chemotherapy and radiation and kill more cancer cells. It is not yet known whether&#xD;
+      chemoradiotherapy plus peripheral stem cell transplantation is more effective than&#xD;
+      combination chemotherapy alone in treating non-Hodgkin's lymphoma.&#xD;
+&#xD;
+      PURPOSE: This randomized phase III trial is studying chemoradiotherapy and peripheral stem&#xD;
+      cell transplantation to see how well they work compared to combination chemotherapy in&#xD;
+      treating patients with stage II, stage III, or stage IV non-Hodgkin's lymphoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Compare the overall survival and progression-free survival of patients with&#xD;
+           intermediate- or high-grade non-Hodgkin's lymphoma treated with high-dose&#xD;
+           chemoradiotherapy and autologous peripheral blood stem cell transplantation (APBSCT) vs&#xD;
+           conventional dose cyclophosphamide, doxorubicin, vincristine, and prednisone (CHOP) (or&#xD;
+           CHOP plus rituximab for CD20+ disease) with possible late APBSCT.&#xD;
+&#xD;
+        -  Compare the toxic effects of these regimens in this patient population.&#xD;
+&#xD;
+      OUTLINE: This is a randomized study. Patients are stratified according to disease risk&#xD;
+      (intermediate-high vs high).&#xD;
+&#xD;
+      Patients receive CHOP chemotherapy comprising cyclophosphamide IV over 15 minutes,&#xD;
+      doxorubicin IV, and vincristine IV on day 1 and oral prednisone on days 1-5. Patients with&#xD;
+      CD20-positive disease also receive rituximab IV on day 1 (or day 0 during course 1 only).&#xD;
+      Treatment repeats every 3 weeks for 5 courses in the absence of disease progression or&#xD;
+      unacceptable toxicity.&#xD;
+&#xD;
+      Within 35 days of completing the fifth course, patients with partial or complete response are&#xD;
+      randomized to one of two treatment arms.&#xD;
+&#xD;
+        -  Arm I: Patients receive CHOP (or CHOP plus rituximab [CHOP-R]) as above. Treatment&#xD;
+           repeats every 3 weeks for 3 additional courses. After completion of chemotherapy,&#xD;
+           patients are encouraged to undergo harvest of peripheral blood stem cells (PBSC) for&#xD;
+           possible use at time of relapse. After completion of 8 courses, patients receive no&#xD;
+           additional therapy until disease progression or biopsy-proven disease.&#xD;
+&#xD;
+        -  Arm II: Patients receive one additional course of CHOP/CHOP-R followed by filgrastim&#xD;
+           (G-CSF), sargramostim (GM-CSF), or other colony-stimulating factors used singly or in&#xD;
+           combination according to center preference. PBSC are harvested and selected for CD34+&#xD;
+           cells. Patients under age 61 receive one of two preparative regimens: a total body&#xD;
+           irradiation (TBI)-based regimen comprising irradiation administered twice daily on days&#xD;
+           -8 to -5, etoposide IV over 4 hours on day -4, and cyclophosphamide IV over 1 hour on&#xD;
+           day -2 OR carmustine IV over 2 hours on days -6 to -4 and etoposide and cyclophosphamide&#xD;
+           as in the TBI-based regimen. Patients age 61 to 65 receive the augmented regimen&#xD;
+           comprising carmustine, etoposide, and cyclophosphamide as above. Patients receive&#xD;
+           involved field radiotherapy prior to the preparative regimen only if there is&#xD;
+           biopsy-proven residual bulk disease and at the discretion of the center. PBSC are&#xD;
+           reinfused 36-48 hours after completion of cyclophosphamide. If both bone marrow and PBSC&#xD;
+           are harvested, bone marrow is reinfused on day 0 and then PBSC are reinfused either the&#xD;
+           same day or the following day.&#xD;
+&#xD;
+      Patients are followed every 6 months for 2 years and then annually thereafter.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: Approximately 360 patients (at least 135 per treatment arm) will be&#xD;
+      accrued for this study within 5 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1997</start_date>
+  <completion_date type="Actual">October 31, 2013</completion_date>
+  <primary_completion_date type="Actual">June 1, 2008</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>2-year Overall Survival Rates</measure>
+    <time_frame>up to 2 years post registration</time_frame>
+    <description>Percentage of participants surviving 2 years post registration</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>2 Year Progression-free Survival</measure>
+    <time_frame>From registration until death</time_frame>
+    <description>Percentage of participants without disease progression up to 2 years post-registration.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Number of Patients With Gr 3 Through 5 Adverse Events That Are Related to Study Drugs</measure>
+    <time_frame>Duration of treatment and follow up until death or 3 years post registration</time_frame>
+    <description>Adverse Events (AEs) are reported by CTCAE Version 2.0. Only adverse events that are possibly, probably or definitely related to study drug are reported.&#xD;
+Higher grades indicate higher severity of adverse events.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">397</enrollment>
+  <condition>Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>CHOP/CHOP-R x 3</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 8 cycles</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 6 cycles followed by autologous stem cell transplant.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>rituximab</intervention_name>
+    <description>375 mg/m2 IV every 21 days</description>
+    <arm_group_label>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</arm_group_label>
+    <arm_group_label>CHOP/CHOP-R x 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>CHOP regimen</intervention_name>
+    <arm_group_label>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</arm_group_label>
+    <arm_group_label>CHOP/CHOP-R x 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>carmustine</intervention_name>
+    <arm_group_label>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cyclophosphamide</intervention_name>
+    <arm_group_label>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</arm_group_label>
+    <arm_group_label>CHOP/CHOP-R x 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>doxorubicin hydrochloride</intervention_name>
+    <arm_group_label>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</arm_group_label>
+    <arm_group_label>CHOP/CHOP-R x 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>etoposide</intervention_name>
+    <arm_group_label>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>prednisone</intervention_name>
+    <arm_group_label>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</arm_group_label>
+    <arm_group_label>CHOP/CHOP-R x 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vincristine sulfate</intervention_name>
+    <arm_group_label>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</arm_group_label>
+    <arm_group_label>CHOP/CHOP-R x 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>bone marrow ablation with stem cell support</intervention_name>
+    <arm_group_label>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</arm_group_label>
+    <arm_group_label>CHOP/CHOP-R x 3</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>peripheral blood stem cell transplantation</intervention_name>
+    <arm_group_label>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+    <arm_group_label>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically proven intermediate- or high-grade non-Hodgkin's lymphoma&#xD;
+&#xD;
+          -  Ann Arbor classification of &quot;bulky&quot; stage II, III, or IV&#xD;
+&#xD;
+          -  Must be classified as high-intermediate or high-risk according to International Age&#xD;
+             Adjusted Index&#xD;
+&#xD;
+          -  Bidimensionally measurable disease&#xD;
+&#xD;
+          -  No lymphoblastic, transformed, or mantle cell lymphomas&#xD;
+&#xD;
+          -  No CNS involvement by lymphoma&#xD;
+&#xD;
+          -  CD20 status confirmed by immunocytochemistry or flow cytometry&#xD;
+&#xD;
+          -  Must have either bilateral or unilateral bone marrow aspiration and biopsy ≥ 42 days&#xD;
+             before first course of cyclophosphamide, doxorubicin, vincristine, and prednisone&#xD;
+             (CHOP) therapy (or CHOP plus rituximab [CHOP-R] for CD20+ disease) OR within 42 days&#xD;
+             prior to registration if CHOP/CHOP-R therapy has not begun&#xD;
+&#xD;
+          -  Must have bilateral bone marrow aspiration and biopsy within 28 days of randomization&#xD;
+&#xD;
+               -  Bone marrow involvement with lymphoma is allowed, provided there is an&#xD;
+                  improvement of at least 50% if used as an evaluable site of disease&#xD;
+&#xD;
+          -  No prior lymphoma, Hodgkin's lymphoma, myelodysplastic syndromes, or leukemia NOTE: A&#xD;
+             new classification scheme for adult non-Hodgkin's lymphoma has been adopted by PDQ.&#xD;
+             The terminology of &quot;indolent&quot; or &quot;aggressive&quot; lymphoma will replace the former&#xD;
+             terminology of &quot;low&quot;, &quot;intermediate&quot;, or &quot;high&quot; grade lymphoma. However, this protocol&#xD;
+             uses the former terminology.&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  15 to 65&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin no greater than 1.5 times upper limit of normal (ULN)&#xD;
+&#xD;
+          -  No nonlymphoma-related hepatic dysfunction&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine no greater than 2 times ULN&#xD;
+&#xD;
+          -  Creatinine clearance at least 60 mL/min&#xD;
+&#xD;
+          -  No nonlymphoma-related renal dysfunction&#xD;
+&#xD;
+          -  No history of grade 3 hemorrhagic cystitis due to cyclophosphamide&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  No coronary artery disease, cardiomyopathy, congestive heart failure, or dysrhythmia&#xD;
+             requiring therapy&#xD;
+&#xD;
+          -  MUGA scan or 2-D echocardiogram required if patient's history is questionable&#xD;
+&#xD;
+          -  Ejection fraction normal&#xD;
+&#xD;
+        Pulmonary:&#xD;
+&#xD;
+          -  DLCO or FEV_1 at least 60% of predicted&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  HIV negative&#xD;
+&#xD;
+          -  No other malignancy within the past 5 years except basal cell or squamous cell skin&#xD;
+             cancer or carcinoma in situ of the cervix&#xD;
+&#xD;
+          -  No allergy to etoposide&#xD;
+&#xD;
+          -  No active bacterial, fungal, or viral infection&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  No prior monoclonal antibody therapy for lymphoma except if included in a single&#xD;
+             course of CHOP/CHOP-R&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  No prior chemotherapy for lymphoma except for a single course of CHOP/CHOP-R* NOTE:&#xD;
+             *Prednisone or other corticosteroids not considered prior chemotherapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  See Chemotherapy&#xD;
+&#xD;
+          -  Prior corticosteroids allowed&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  No prior radiotherapy for lymphoma&#xD;
+&#xD;
+          -  No prior thoracic radiotherapy or radiotherapy greater than 2,000 cGy to any other&#xD;
+             site&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Not specified&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Patrick J. Stiff, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Loyola University</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Thomas C. Shea, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>UNC Lineberger Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>David P. Schenkein, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Tufts Medical Center Cancer Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Stephen Couban, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Cancer Care Nova Scotia</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Oregon Health &amp; Science University</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97201</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Tom Baker Cancer Centre - Calgary</name>
+      <address>
+        <city>Calgary</city>
+        <state>Alberta</state>
+        <zip>T2N 4N2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cross Cancer Institute at University of Alberta</name>
+      <address>
+        <city>Edmonton</city>
+        <state>Alberta</state>
+        <zip>T6G 1Z2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CancerCare Manitoba</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3E 0V9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Moncton Hospital</name>
+      <address>
+        <city>Moncton</city>
+        <state>New Brunswick</state>
+        <zip>E1C 6Z8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Doctor H. Bliss Murphy Cancer Centre</name>
+      <address>
+        <city>St. John's</city>
+        <state>Newfoundland and Labrador</state>
+        <zip>AIB 3V6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nova Scotia Cancer Centre</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H 1V7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Margaret and Charles Juravinski Cancer Centre</name>
+      <address>
+        <city>Hamilton</city>
+        <state>Ontario</state>
+        <zip>L8V 5C2</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>London Regional Cancer Program at London Health Sciences Centre</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 4L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Odette Cancer Centre at Sunnybrook</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Notre-Dame du CHUM</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2L 4M1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Du Sacre-Coeur de Montreal</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H4J 1C5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Quebec</name>
+      <address>
+        <city>Quebec City</city>
+        <state>Quebec</state>
+        <zip>G1R 2J6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital du Saint-Sacrement - Quebec</name>
+      <address>
+        <city>Quebec City</city>
+        <state>Quebec</state>
+        <zip>G1S 4L8</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Saskatoon Cancer Centre at the University of Saskatchewan</name>
+      <address>
+        <city>Saskatoon</city>
+        <state>Saskatchewan</state>
+        <zip>S7N 4H4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Stiff PJ, Unger JM, Cook J, et al.: Randomized phase III U.S./Canadian intergroup trial (SWOG S9704) comparing CHOP ± R for eight cycles to CHOP ± R for six cycles followed by autotransplant for patients with high-intermediate (H-Int) or high IPI grade diffuse aggressive non-Hodgkin lymphoma (NHL). [Abstract] J Clin Oncol 29 (Suppl 15): A-8001, 2011.</citation>
+  </results_reference>
+  <verification_date>January 2021</verification_date>
+  <study_first_submitted>December 10, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <results_first_submitted>November 18, 2020</results_first_submitted>
+  <results_first_submitted_qc>January 29, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">February 2, 2021</results_first_posted>
+  <last_update_submitted>January 29, 2021</last_update_submitted>
+  <last_update_submitted_qc>January 29, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stage III grade 3 follicular lymphoma</keyword>
+  <keyword>stage III adult diffuse small cleaved cell lymphoma</keyword>
+  <keyword>stage III adult diffuse mixed cell lymphoma</keyword>
+  <keyword>stage III adult diffuse large cell lymphoma</keyword>
+  <keyword>stage III adult immunoblastic large cell lymphoma</keyword>
+  <keyword>stage III adult Burkitt lymphoma</keyword>
+  <keyword>stage IV grade 3 follicular lymphoma</keyword>
+  <keyword>stage IV adult diffuse small cleaved cell lymphoma</keyword>
+  <keyword>stage IV adult diffuse mixed cell lymphoma</keyword>
+  <keyword>stage IV adult diffuse large cell lymphoma</keyword>
+  <keyword>stage IV adult immunoblastic large cell lymphoma</keyword>
+  <keyword>stage IV adult Burkitt lymphoma</keyword>
+  <keyword>contiguous stage II grade 3 follicular lymphoma</keyword>
+  <keyword>contiguous stage II adult diffuse small cleaved cell lymphoma</keyword>
+  <keyword>contiguous stage II adult diffuse mixed cell lymphoma</keyword>
+  <keyword>contiguous stage II adult immunoblastic large cell lymphoma</keyword>
+  <keyword>contiguous stage II adult diffuse large cell lymphoma</keyword>
+  <keyword>contiguous stage II adult Burkitt lymphoma</keyword>
+  <keyword>noncontiguous stage II grade 3 follicular lymphoma</keyword>
+  <keyword>noncontiguous stage II adult diffuse small cleaved cell lymphoma</keyword>
+  <keyword>noncontiguous stage II adult diffuse mixed cell lymphoma</keyword>
+  <keyword>noncontiguous stage II adult immunoblastic large cell lymphoma</keyword>
+  <keyword>noncontiguous stage II adult diffuse large cell lymphoma</keyword>
+  <keyword>noncontiguous stage II adult Burkitt lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Non-Hodgkin</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Carmustine</mesh_term>
+    <mesh_term>Rituximab</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Liposomal doxorubicin</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <pre_assignment_details>397 participants were registered, of whom 27 were ineligible. Of the 370 eligible participants, 117 were excluded from randomization and so only 253 underwent randomization.</pre_assignment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>CHOP/CHOP-R x 3</title>
+          <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 8 cycles&#xD;
+rituximab: 375 mg/m2 IV every 21 days&#xD;
+CHOP regimen&#xD;
+cyclophosphamide&#xD;
+doxorubicin hydrochloride&#xD;
+prednisone&#xD;
+vincristine sulfate&#xD;
+bone marrow ablation with stem cell support</description>
+        </group>
+        <group group_id="P2">
+          <title>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</title>
+          <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 6 cycles followed by autologous stem cell transplant.&#xD;
+rituximab: 375 mg/m2 IV every 21 days&#xD;
+CHOP regimen&#xD;
+carmustine&#xD;
+cyclophosphamide&#xD;
+doxorubicin hydrochloride&#xD;
+etoposide&#xD;
+prednisone&#xD;
+vincristine sulfate&#xD;
+bone marrow ablation with stem cell support&#xD;
+peripheral blood stem cell transplantation&#xD;
+radiation therapy</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="128"/>
+                <participants group_id="P2" count="125"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>Assessed for Adverse Events</title>
+              <participants_list>
+                <participants group_id="P1" count="123"/>
+                <participants group_id="P2" count="113"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="103"/>
+                <participants group_id="P2" count="104"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="25"/>
+                <participants group_id="P2" count="21"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Refusal unrelated to adverse events</title>
+              <participants_list>
+                <participants group_id="P1" count="2"/>
+                <participants group_id="P2" count="11"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Progression/relapse</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+                <participants group_id="P2" count="4"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Other- not protocol specified</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="3"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Reason under review</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Eligible participants that were randomized to study arms.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>CHOP/CHOP-R x 3</title>
+          <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 8 cycles&#xD;
+rituximab: 375 mg/m2 IV every 21 days&#xD;
+CHOP regimen&#xD;
+cyclophosphamide&#xD;
+doxorubicin hydrochloride&#xD;
+prednisone&#xD;
+vincristine sulfate&#xD;
+bone marrow ablation with stem cell support</description>
+        </group>
+        <group group_id="B2">
+          <title>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</title>
+          <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 6 cycles followed by autologous stem cell transplant.&#xD;
+rituximab: 375 mg/m2 IV every 21 days&#xD;
+CHOP regimen&#xD;
+carmustine&#xD;
+cyclophosphamide&#xD;
+doxorubicin hydrochloride&#xD;
+etoposide&#xD;
+prednisone&#xD;
+vincristine sulfate&#xD;
+bone marrow ablation with stem cell support&#xD;
+peripheral blood stem cell transplantation&#xD;
+radiation therapy</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="128"/>
+            <count group_id="B2" value="125"/>
+            <count group_id="B3" value="253"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="51.3" lower_limit="19.8" upper_limit="65.8"/>
+                    <measurement group_id="B2" value="49.6" lower_limit="18.5" upper_limit="66.2"/>
+                    <measurement group_id="B3" value="50.6" lower_limit="18.5" upper_limit="66.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age, Customized</title>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>% &gt;=60 years</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="18"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="56"/>
+                    <measurement group_id="B2" value="49"/>
+                    <measurement group_id="B3" value="105"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="72"/>
+                    <measurement group_id="B2" value="76"/>
+                    <measurement group_id="B3" value="148"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="6"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="113"/>
+                    <measurement group_id="B2" value="106"/>
+                    <measurement group_id="B3" value="219"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="28"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="119"/>
+                    <measurement group_id="B2" value="109"/>
+                    <measurement group_id="B3" value="228"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>WHO B Cell Histology</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>WHO B Cell Histology</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="114"/>
+                    <measurement group_id="B2" value="110"/>
+                    <measurement group_id="B3" value="224"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diffuse Large B-Cell,Not Otherwise Specified</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="78"/>
+                    <measurement group_id="B2" value="86"/>
+                    <measurement group_id="B3" value="164"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>WHO T Cell Histology</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>WHO T Cell Histology</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="15"/>
+                    <measurement group_id="B3" value="29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Peripheral T, Not otherwise Specified</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                    <measurement group_id="B2" value="6"/>
+                    <measurement group_id="B3" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Immunophenotyping</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>B cell CHOP-R</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="76"/>
+                    <measurement group_id="B2" value="75"/>
+                    <measurement group_id="B3" value="151"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>B cell CHOP</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="40"/>
+                    <measurement group_id="B2" value="35"/>
+                    <measurement group_id="B3" value="75"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Stage</title>
+          <description>Staging based on the Ann Arbor staging criteria and on extent of disease at the time of diagnosis. Bulky disease determination made after surgical resection.&#xD;
+Stage II: involvement of 2 or more lymph nodes on same side of diaphragm or localized involvement of an extralymphatic organ or site&#xD;
+Stage III: lymph nodes on both sides of diaphragm which may be accompanied by localized involvement of an extralymphatic organ or site&#xD;
+Stage IV: diffuse or disseminated involvement of one or more extralymphatic organs with/without associated lymph node or isolated extralymphatic organ involvement</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Bulky II</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>III</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="44"/>
+                    <measurement group_id="B3" value="47"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>IV</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="78"/>
+                    <measurement group_id="B2" value="78"/>
+                    <measurement group_id="B3" value="156"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Performance status &gt;= 2</title>
+          <description>Participants were graded according to the SWOG grading scale&#xD;
+2: Ambulatory and capable of all self-care but unable to carry out any work activities. Up and about more that 50% of waking hours&#xD;
+3: Capable of only limited self-care; confined to bed or chair more than 50% of waking hours.&#xD;
+4: Completely disabled. Cannot carry on any self-care. Totally confined to bed or chair.&#xD;
+5: Dead</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                    <measurement group_id="B2" value="48"/>
+                    <measurement group_id="B3" value="92"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Elevated LDH</title>
+          <description>Serum LDH greater than institutional upper limit of normal</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="104"/>
+                    <measurement group_id="B2" value="106"/>
+                    <measurement group_id="B3" value="210"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>B Symptoms</title>
+          <description>Staging based on the Ann Arbor staging criteria&#xD;
+B symptoms- fever, sweats, weight loss &gt; 10% of body weight</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="81"/>
+                    <measurement group_id="B2" value="75"/>
+                    <measurement group_id="B3" value="156"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>International Prognostic Index: High</title>
+          <description>Number of risks factors (stage III or IV disease, serum LDH greater than normal, performance status of 2-4) participants have.&#xD;
+High-Intermediate risk: 2 risk factors High risk: 3 risk factors</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="44"/>
+                    <measurement group_id="B2" value="44"/>
+                    <measurement group_id="B3" value="88"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Extra nodal Sites &gt;=2</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="29"/>
+                    <measurement group_id="B2" value="31"/>
+                    <measurement group_id="B3" value="60"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Bone marrow involvement- Yes</title>
+          <description>Presence of lymphoma in the bone marrow based off of bone marrow biopsy done within 42 days prior to the first cycle of therapy</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="50"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>2-year Overall Survival Rates</title>
+        <description>Percentage of participants surviving 2 years post registration</description>
+        <time_frame>up to 2 years post registration</time_frame>
+        <population>Eligible participants that were randomized to study arms.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CHOP/CHOP-R x 3</title>
+            <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 8 cycles&#xD;
+rituximab: 375 mg/m2 IV every 21 days&#xD;
+CHOP regimen&#xD;
+cyclophosphamide&#xD;
+doxorubicin hydrochloride&#xD;
+prednisone&#xD;
+vincristine sulfate&#xD;
+bone marrow ablation with stem cell support</description>
+          </group>
+          <group group_id="O2">
+            <title>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</title>
+            <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 6 cycles followed by autologous stem cell transplant.&#xD;
+rituximab: 375 mg/m2 IV every 21 days&#xD;
+CHOP regimen&#xD;
+carmustine&#xD;
+cyclophosphamide&#xD;
+doxorubicin hydrochloride&#xD;
+etoposide&#xD;
+prednisone&#xD;
+vincristine sulfate&#xD;
+bone marrow ablation with stem cell support&#xD;
+peripheral blood stem cell transplantation&#xD;
+radiation therapy</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>2-year Overall Survival Rates</title>
+          <description>Percentage of participants surviving 2 years post registration</description>
+          <population>Eligible participants that were randomized to study arms.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="128"/>
+                <count group_id="O2" value="125"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="71.1" lower_limit="63.2" upper_limit="78.9"/>
+                    <measurement group_id="O2" value="73.7" lower_limit="66.0" upper_limit="81.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>2 Year Progression-free Survival</title>
+        <description>Percentage of participants without disease progression up to 2 years post-registration.</description>
+        <time_frame>From registration until death</time_frame>
+        <population>Eligible participants that were randomized to study arms.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CHOP/CHOP-R x 3</title>
+            <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 8 cycles&#xD;
+rituximab: 375 mg/m2 IV every 21 days&#xD;
+CHOP regimen&#xD;
+cyclophosphamide&#xD;
+doxorubicin hydrochloride&#xD;
+prednisone&#xD;
+vincristine sulfate&#xD;
+bone marrow ablation with stem cell support</description>
+          </group>
+          <group group_id="O2">
+            <title>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</title>
+            <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 6 cycles followed by autologous stem cell transplant.&#xD;
+rituximab: 375 mg/m2 IV every 21 days&#xD;
+CHOP regimen&#xD;
+carmustine&#xD;
+cyclophosphamide&#xD;
+doxorubicin hydrochloride&#xD;
+etoposide&#xD;
+prednisone&#xD;
+vincristine sulfate&#xD;
+bone marrow ablation with stem cell support&#xD;
+peripheral blood stem cell transplantation&#xD;
+radiation therapy</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>2 Year Progression-free Survival</title>
+          <description>Percentage of participants without disease progression up to 2 years post-registration.</description>
+          <population>Eligible participants that were randomized to study arms.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="128"/>
+                <count group_id="O2" value="125"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="55.4" lower_limit="46.9" upper_limit="64.1"/>
+                    <measurement group_id="O2" value="69.1" lower_limit="61.0" upper_limit="77.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Number of Patients With Gr 3 Through 5 Adverse Events That Are Related to Study Drugs</title>
+        <description>Adverse Events (AEs) are reported by CTCAE Version 2.0. Only adverse events that are possibly, probably or definitely related to study drug are reported.&#xD;
+Higher grades indicate higher severity of adverse events.</description>
+        <time_frame>Duration of treatment and follow up until death or 3 years post registration</time_frame>
+        <population>Patients who received at least one dose of protocol treatment.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>CHOP/CHOP-R x 3</title>
+            <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 8 cyclesXXrituximab: 375 mg/m2 IV every 21 daysXXCHOP regimenXXcyclophosphamideXXdoxorubicin hydrochlorideXXprednisoneXXvincristine sulfateXXbone marrow ablation with stem cell support</description>
+          </group>
+          <group group_id="O2">
+            <title>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</title>
+            <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 6 cycles followed by autologous stem cell transplant.XXrituximab: 375 mg/m2 IV every 21 daysXXCHOP regimenXXcarmustineXXcyclophosphamideXXdoxorubicin hydrochlorideXXetoposideXXprednisoneXXvincristine sulfateXXbone marrow ablation with stem cell supportXXperipheral blood stem cell transplantationXXradiation therapy</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Gr 3 Through 5 Adverse Events That Are Related to Study Drugs</title>
+          <description>Adverse Events (AEs) are reported by CTCAE Version 2.0. Only adverse events that are possibly, probably or definitely related to study drug are reported.&#xD;
+Higher grades indicate higher severity of adverse events.</description>
+          <population>Patients who received at least one dose of protocol treatment.</population>
+          <units>Participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="123"/>
+                <count group_id="O2" value="113"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Abdominal pain/cramping</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Alkaline phosphatase increase</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Allergic reaction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Allergic rhinitis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Alopecia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="43"/>
+                    <measurement group_id="O2" value="36"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="57"/>
+                    <measurement group_id="O2" value="89"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anorexia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anxiety/agitation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Apnea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Arthralgia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Arthritis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Ataxia (incoordination)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Bicarbonate decrease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Bilirubin increase</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Blurred vision</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Bone pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Bruising</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>CO diffusion capacity decrease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cardiac ischemia/infarction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cardiovascular-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Catheter related infection</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Chest pain,not cardio or pleur</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Colitis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Confusion</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Conjunctivitis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Constipation/bowel obstruction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="14"/>
+                    <measurement group_id="O2" value="24"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cough</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Creatinine increase</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cushingoid appearance</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dehydration</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Delusions</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Depression</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diarrhea without colostomy</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="49"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dizziness/light headedness</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dizziness/vertigo, NOS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Double vision</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dry skin</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dyspepsia/heartburn</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dyspnea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="17"/>
+                    <measurement group_id="O2" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dysuria</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Ear-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Earache</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Edema</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Endocrine-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Epistaxis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Erectile impotence</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Eryth/rash/eruption/desq, NOS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Erythema multiforme/blistering</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Esophagitis/dysphagia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Eye-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>FEV1 decrease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fatigue/malaise/lethargy</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="47"/>
+                    <measurement group_id="O2" value="67"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Febrile neutropenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="10"/>
+                    <measurement group_id="O2" value="44"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fever without neutropenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fever, NOS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Flu-like symptoms-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Flushing</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="18"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Focal dermatitis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>GGT increase</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>GI Mucositis, NOS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>GI-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>GU-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>GVHD</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Gastritis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Gynecomastia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hallucinations</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hand-foot skin reaction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Headache</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hematuria</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hemorrhage-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hiccoughs</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hot flashes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hyperglycemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="21"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hyperkalemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypermagnesemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypernatremia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypertension</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hyperuricemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypoalbuminemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypocalcemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypoglycemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypokalemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypomagnesemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hyponatremia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypophosphatemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypotension</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypoxia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Infection w/o 3-4 neutropenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Infection with 3-4 neutropenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="6"/>
+                    <measurement group_id="O2" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Infection, unk ANC</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Inner ear-hearing loss</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Insomnia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Invol. movement/restlessness</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Joint,muscle,bone-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Keratitis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>LVEF decrease/CHF</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Leukopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="68"/>
+                    <measurement group_id="O2" value="81"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Liver-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Local injection site reaction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Lung-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Lymphedema</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Lymphopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="59"/>
+                    <measurement group_id="O2" value="80"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Melena/ GI bleeding</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Memory loss</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Menses changes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Metabolic-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mouth dryness</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Muscle weakness (not neuro)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Myalgia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Myalgia/arthralgia, NOS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nail changes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nausea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="31"/>
+                    <measurement group_id="O2" value="66"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neuro-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neuropathic pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neutropenia/granulocytopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="60"/>
+                    <measurement group_id="O2" value="89"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>PRBC transfusion</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pain-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Palpitations</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Partial thromboplast time inc</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pericar. effusion/pericarditis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Personality/behavioral change</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Petechiae/purpura</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Phlebitis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pigmentation changes/yellowing</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Platelet transfusion</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="37"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pleural effusions</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pneumonitis/infiltrates</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="10"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Proctitis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Proteinuria</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Prothrombin time increase</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pruritus</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pulmonary edema</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pulmonary fibrosis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>RT-GI mucositis, NOS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>RT-esophagitis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>RT-focal dermatitis, NOS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>RT-pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>RT-pharyngeal dysphagia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Rash/desquamation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="35"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Rectal bleeding/hematochezia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Rectal/anal fistula</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Rectal/perirectal pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Renal failure</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Reportable adverse event, NOS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Respiratory infect w/ neutrop</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Respiratory infect w/o neutrop</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Respiratory infection, unk ANC</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Rigors/chills</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SGOT (AST) increase</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="15"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SGPT (ALT) increase</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SIADH</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Salivary gland changes</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Second primary</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sense of smell</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sensory neuropathy</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="46"/>
+                    <measurement group_id="O2" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sinus bradycardia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sinus tachycardia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Skin-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Somnolence/consciousness loss</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Stomatitis/pharyngitis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="12"/>
+                    <measurement group_id="O2" value="57"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Supraventricular arrhythmia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Surgery-wound infection</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sweating</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Syncope</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Syndrome-other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Taste disturbance</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thrombocytopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="61"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thrombosis/embolism</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Transplant-diarrhea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Transplant-granulocytopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Transplant-leukopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Transplant-pRBC transfusion</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Transplant-plt transfusion</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Transplant-rash/desquamation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Transplant-stomatitis/pharyng</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Transplant-thrombocytopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="13"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Tremor</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Urinary electrolyte wasting</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Urinary frequency/urgency</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Urinary retention</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Urinary tr infect w/ neutrop</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Urinary tr infect w/o neutrop</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>VOD associated weight gain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Vaginal bleeding</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Vaginal dryness</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Vaginitis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Vision,NOS</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Voice change/stridor/larynx</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Vomiting</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15"/>
+                    <measurement group_id="O2" value="40"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Weakness (motor neuropathy)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="13"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Weight gain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Weight loss</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="11"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Duration of treatment and follow up until death or 3 years post registration</time_frame>
+      <desc>Of 253 eligible participants, 17 did not receive protocol therapy so were not assessed for AEs. Therefore only 236 participants were assessed for AEs.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>CHOP/CHOP-R x 3</title>
+          <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 8 cyclesXXrituximab: 375 mg/m2 IV every 21 daysXXCHOP regimenXXcyclophosphamideXXdoxorubicin hydrochlorideXXprednisoneXXvincristine sulfateXXbone marrow ablation with stem cell support</description>
+        </group>
+        <group group_id="E2">
+          <title>CHOP/CHOP-R x 1 + Autologous Stem Cell Transplant</title>
+          <description>Cyclophosphamide 750 mg/m2 IV Day 1 Doxorubicin 50 mg/m2 IV Day 1 Prednisone 100 mg/day PO Days 1-5 Vincristine 1.4 mg/m2 IV Day 1 Rituximab 375 mg/m2 IV Day 1 This regimen is repeated every 21 days for 6 cycles followed by autologous stem cell transplant.XXrituximab: 375 mg/m2 IV every 21 daysXXCHOP regimenXXcarmustineXXcyclophosphamideXXdoxorubicin hydrochlorideXXetoposideXXprednisoneXXvincristine sulfateXXbone marrow ablation with stem cell supportXXperipheral blood stem cell transplantationXXradiation therapy</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>CTCAE (2.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="51" subjects_at_risk="128"/>
+                <counts group_id="E2" subjects_affected="39" subjects_at_risk="125"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>LVEF decrease/CHF</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Stomatitis/pharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Reportable adverse event, NOS</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Syndrome-other</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Infection with 3-4 neutropenia</sub_title>
+                <description>Infection with grade 3-4 neutropenia [present or life-threatening sepsis (e.g., septic shock)]</description>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Second primary</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dyspnea</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Pneumonitis/infiltrates</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary fibrosis</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>CTCAE (2.0)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="108" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="106" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anemia</sub_title>
+                <counts group_id="E1" subjects_affected="57" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="89" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Febrile neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="10" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="44" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>PRBC transfusion</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="32" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Platelet transfusion</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="37" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Sinus tachycardia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain/cramping</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Constipation/bowel obstruction</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="24" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea without colostomy</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="49" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Dyspepsia/heartburn</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Esophagitis/dysphagia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>GI Mucositis, NOS</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Mouth dryness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="31" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="66" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Stomatitis/pharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="56" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="40" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Edema</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="32" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Fatigue/malaise/lethargy</sub_title>
+                <counts group_id="E1" subjects_affected="47" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="67" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Fever without neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Pain-other</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Rigors/chills</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Sweating</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Allergic reaction</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Infection w/o 3-4 neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Infection with 3-4 neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="17" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Catheter related infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alkaline phosphatase increase</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Bilirubin increase</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Creatinine increase</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Leukopenia</sub_title>
+                <counts group_id="E1" subjects_affected="68" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="81" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Lymphopenia</sub_title>
+                <counts group_id="E1" subjects_affected="59" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="80" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia/granulocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="60" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="89" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>SGOT (AST) increase</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>SGPT (ALT) increase</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="61" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Transplant-leukopenia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Transplant-thrombocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Weight gain</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Weight loss</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="11" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anorexia</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="32" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Hyperglycemia</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="21" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Hypoalbuminemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Hypocalcemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="13" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Hypokalemia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Hypomagnesemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Hyponatremia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Hypophosphatemia</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Chest pain,not cardio or pleur</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Muscle weakness (not neuro)</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="19" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ataxia (incoordination)</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Dizziness/light headedness</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="26" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Sensory neuropathy</sub_title>
+                <counts group_id="E1" subjects_affected="46" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="40" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Taste disturbance</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="16" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Weakness (motor neuropathy)</sub_title>
+                <counts group_id="E1" subjects_affected="13" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anxiety/agitation</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="12" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" subjects_affected="15" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="32" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Dyspnea</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="26" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Hiccoughs</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Pneumonitis/infiltrates</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Alopecia</sub_title>
+                <counts group_id="E1" subjects_affected="43" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="36" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Pruritus</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Rash/desquamation</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="35" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Skin-other</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Flushing</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="18" subjects_at_risk="113"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="123"/>
+                <counts group_id="E2" subjects_affected="15" subjects_at_risk="113"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Study Statistician</name_or_title>
+      <organization>SWOG Statistics and Data Management Center</organization>
+      <phone>2066674623</phone>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

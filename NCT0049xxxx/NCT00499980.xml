@@ -1,0 +1,172 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00499980</url>
+  </required_header>
+  <id_info>
+    <org_study_id>OSU-04117</org_study_id>
+    <nct_id>NCT00499980</nct_id>
+  </id_info>
+  <brief_title>Near Infrared/ Ultrasound Dual Modal Imaging for Breast Cancer Diagnosis</brief_title>
+  <acronym>NIR</acronym>
+  <official_title>A Prospective Pilot Clinical Trial Evaluating the Utility of a Dynamic Near Infrared Imaging Device for Characterizing Suspicious Breast Lesions</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ohio State University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>ViOptix Canada</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ohio State University</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate a dynamic near infrared imaging device for&#xD;
+      characterizing suspicious breast lesions&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Breast cancer is the leading cause of cancer among women in the United States. It has always&#xD;
+      been the hope that devising methods of earlier detection would lead to improvement of&#xD;
+      long-term survival. Therefore, the development of novel, more selective, and noninvasive&#xD;
+      diagnostic techniques is a priority. Mammography is currently the most commonly used breast&#xD;
+      imaging modality for both screening and diagnostic purposes. Additionally, breast ultrasound&#xD;
+      imaging and breast magnetic resonance imaging (MRI) are generally used to supplement or help&#xD;
+      confirm any indeterminate or suspicious finding prior to consideration of a breast biopsy.&#xD;
+      However, these conventional imaging methods lack information about tissue function and have&#xD;
+      lower diagnostic accuracy.&#xD;
+&#xD;
+      Most recently, near infrared (NIR, of wavelength 700-900 nm) optical diffuse spectroscopic&#xD;
+      imaging has been investigated as a novel diagnostic tool for breast cancer. In the&#xD;
+      near-infrared (NIR) light spectrum, oxygenated hemoglobin and deoxygenated hemoglobin are the&#xD;
+      major chromospheres in tissue, and the absorption spectrums of the two hemoglobin states&#xD;
+      differ across these wavelengths. Thus, there have been many contemporary attempts to use the&#xD;
+      intra-tissue absorption and scattering of NIR light to quantify functional tissue parameters&#xD;
+      such as hemoglobin concentration (HbT) and oxygen saturation (StO2), including tumor&#xD;
+      differentiation within the human breast. To a very good approximation, NIR photons diffuse&#xD;
+      through relatively thick tissues, such as several centimeters of a human breast. Functional&#xD;
+      imaging with NIR light offers several novel tissue parameters that differentiate tumors from&#xD;
+      normal breast tissue. For example, hemoglobin de-saturation in tumors may be increased due to&#xD;
+      the high oxygen demand of cancers and blood volume may be increased over that of normal&#xD;
+      background tissue due to the greater vascularization and metabolic needs of cancers.&#xD;
+&#xD;
+      While NIR imaging provides additional physiological parameters that potentially help to&#xD;
+      improve the specificity of breast cancer diagnosis, its relatively low spatial resolution&#xD;
+      makes it unsuitable for morphological analysis. The resolution of a NIR system is&#xD;
+      intrinsically limited by the diffusive nature of the near infrared light in tissue.&#xD;
+      Currently, typical instruments can distinguish simple structures of approximately 1 cm in&#xD;
+      size; sharp edges are typically blurred by a few millimeters. It was proposed that the&#xD;
+      imaging technique combining near infrared and ultrasound modalities has the potential to&#xD;
+      fully utilize their complementary features and overcome their deficiencies. This protocol&#xD;
+      defines the clinical study to prove the concept of the near infrared/ ultrasound dual modal&#xD;
+      imaging and to evaluate its sensitivity and specificity for breast cancer diagnosis.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2005</start_date>
+  <completion_date type="Actual">August 2005</completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Defined Population</observational_model>
+    <time_perspective>Other</time_perspective>
+  </study_design_info>
+  <enrollment type="Actual">50</enrollment>
+  <condition>Breast Neoplasms</condition>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Female&#xD;
+&#xD;
+          -  Non-pregnant (as defined by previous tubal ligation, no menses for last 12 consecutive&#xD;
+             months, or a negative quantitative serum pregnancy test on the day of the procedure.)&#xD;
+&#xD;
+          -  Age: 18 years or older&#xD;
+&#xD;
+          -  Suspicious lesion (BIRAD 4 or 5) identified by mammography and/or by ultrasound.&#xD;
+&#xD;
+          -  A breast biopsy has been scheduled&#xD;
+&#xD;
+          -  The suspicious lesion size is between 0.5 cm and 2 cm.&#xD;
+&#xD;
+          -  The suspicious lesion depth is less than 3 cm from skin surface.&#xD;
+&#xD;
+          -  The suspicious lesion should be clearly evident by ultrasound imaging&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patient with the biopsy performed to the suspicious lesion in the past 2 months on the&#xD;
+             same breast will be excluded from the study&#xD;
+&#xD;
+          -  Patient with tattoos overlying the area of the suspicious lesion will be excluded from&#xD;
+             the study&#xD;
+&#xD;
+          -  Patients with prior breast radiation therapy will be excluded from the study&#xD;
+&#xD;
+          -  Patients with prior breast reduction surgery or breast augmentation surgery to the&#xD;
+             same breast will be excluded from the study&#xD;
+&#xD;
+          -  Patients with previous surgical biopsy at or near the site of the suspicious lesion&#xD;
+             will be excluded from the study&#xD;
+&#xD;
+          -  Patients with prior history of breast cancer in the same breast will be excluded from&#xD;
+             the study&#xD;
+&#xD;
+          -  Patient who does not sign the consent form will be excluded from the study&#xD;
+&#xD;
+          -  Patients that have not completed all studies of mammography and/or clinical&#xD;
+             ultrasound, P-Scan, Terason ultrasound and biopsy will be excluded from this study.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ronald X Xu, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Department of Biomedical Engineering, OSU</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>JamesCare Breast Health Center</name>
+      <address>
+        <city>Dublin</city>
+        <state>Ohio</state>
+        <zip>43210</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2007</verification_date>
+  <study_first_submitted>July 11, 2007</study_first_submitted>
+  <study_first_submitted_qc>July 11, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 12, 2007</study_first_posted>
+  <last_update_submitted>July 11, 2007</last_update_submitted>
+  <last_update_submitted_qc>July 11, 2007</last_update_submitted_qc>
+  <last_update_posted type="Estimate">July 12, 2007</last_update_posted>
+  <keyword>Breast cancer</keyword>
+  <keyword>Spectroscopy, Near-Infrared</keyword>
+  <keyword>Oximetry</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

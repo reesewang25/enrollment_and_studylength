@@ -1,0 +1,389 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00005797</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MCC-11281</org_study_id>
+    <secondary_id>MCC-IRB-4188</secondary_id>
+    <secondary_id>NCI-G00-1759</secondary_id>
+    <nct_id>NCT00005797</nct_id>
+  </id_info>
+  <brief_title>Bone Marrow Transplant in Treating Patients With Hematologic Cancers</brief_title>
+  <official_title>Allogeneic Bone Marrow Transplantation for Hematologic Malignancies: A Treatment Approach Based on Risk of Relapse and Toxicity</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>H. Lee Moffitt Cancer Center and Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>H. Lee Moffitt Cancer Center and Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Giving chemotherapy drugs and total-body irradiation before a donor bone marrow&#xD;
+      transplant helps stop the growth of cancer cells. It also helps stop the patient's immune&#xD;
+      system from rejecting the donor's stem cells. When the healthy stem cells from a donor are&#xD;
+      infused into the patient they may help the patient's bone marrow make stem cells, red blood&#xD;
+      cells, white blood cells, and platelets.&#xD;
+&#xD;
+      PURPOSE: This phase II trial is studying how well donor bone marrow transplant works in&#xD;
+      treating patients with hematologic cancers.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the progression free survival (PFS) and overall survival (OS) of patients with&#xD;
+           low risk myeloid disorders or older allogeneic recipients who are treated with high dose&#xD;
+           busulfan and cyclophosphamide and allogeneic bone marrow transplantation (BMT).&#xD;
+&#xD;
+        -  Determine the PFS and OS in patients with lymphoid and high risk myeloid disorders who&#xD;
+           are treated with etoposide, total body irradiation, and allogeneic BMT.&#xD;
+&#xD;
+        -  Evaluate the toxicities of these 2 regimens when combined with cyclosporine and&#xD;
+           methotrexate as graft versus host disease prophylaxis in these patients.&#xD;
+&#xD;
+        -  Evaluate the PFS and OS of allogeneic BMT in patients with multiple myeloma and chronic&#xD;
+           lymphocytic leukemia.&#xD;
+&#xD;
+      OUTLINE:&#xD;
+&#xD;
+        -  Regimen A: Patients with chronic myelogenous leukemia (CP1, AP/CP2) and other&#xD;
+           myeloproliferative disorders, myelodysplastic disorders, acute myelogenous leukemia&#xD;
+           (CR1), or multiple myeloma (not eligible to receive total body irradiation due to prior&#xD;
+           radiation) are treated with high dose busulfan and cyclophosphamide followed by&#xD;
+           allogeneic bone marrow transplantation (BMT). Patients receive oral busulfan every 6&#xD;
+           hours on days -7 to -4 and cyclophosphamide IV over 1 hour on days -3 and -2. Allogeneic&#xD;
+           bone marrow is infused on day 0.&#xD;
+&#xD;
+        -  Regimen B: Patients with acute myelogenous leukemia (at least CR2, relapsed), acute&#xD;
+           lymphoid leukemia (ALL), any acute leukemia with CNS involvement, multiple myeloma, or&#xD;
+           chronic lymphocytic leukemia are treated with total body irradiation and etoposide&#xD;
+           followed by allogeneic BMT. Patients receive total body irradiation (TBI) on days -7 to&#xD;
+           -4 for a total of 11 fractions and etoposide IV over 4 hours on day -3. Male patients&#xD;
+           with ALL receive a testicular boost in 2 fractions on 2 successive days during TBI.&#xD;
+           Allogeneic bone marrow is infused on day 0.&#xD;
+&#xD;
+      Patients in both regimens receive cyclosporine and methotrexate as graft versus host disease&#xD;
+      prophylaxis.&#xD;
+&#xD;
+      Patients are followed weekly for 3 months and then monthly for 1 year.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: At least 50 patients with low risk myeloid disease, 50 patients with&#xD;
+      lymphoid malignancies, and 60 patients with high risk myeloid disease will be accrued for&#xD;
+      this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 1993</start_date>
+  <completion_date type="Actual">July 2007</completion_date>
+  <primary_completion_date type="Actual">July 2007</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Relapse-free survival</measure>
+    <time_frame>5 years post transplant</time_frame>
+    <description>Relapse free survival 5 post transplant deteremiend by the Kaplan-Meier product-limit method.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">125</enrollment>
+  <condition>Chronic Myeloproliferative Disorders</condition>
+  <condition>Leukemia</condition>
+  <condition>Multiple Myeloma and Malignant Plasma Cell Neoplasms</condition>
+  <condition>Myelodysplastic Syndromes</condition>
+  <condition>Myelodysplastic/Myeloproliferative Neoplasms</condition>
+  <arm_group>
+    <arm_group_label>BuCy2</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Busulfan &amp; Cyclophosphamide</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>VP16/TBI</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Fractionated Total Body Irradiation + VP-16</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>busulfan</intervention_name>
+    <description>administered on Day -7 through Day -4. The total dose is 12.8 mg/kg</description>
+    <arm_group_label>BuCy2</arm_group_label>
+    <other_name>Busulfex®</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclophosphamide</intervention_name>
+    <description>administered at a dose of 60 mg/kg on each of two successive days (Days -3 and -2)</description>
+    <arm_group_label>BuCy2</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>VP-16</intervention_name>
+    <description>administered as a single infusion on Day -3. The dose is 60 mg/kg and is calculated on actual body weight unless the patient's weight is &gt;/= 150% of IBW, in which case adjusted body weight will be used.</description>
+    <arm_group_label>VP16/TBI</arm_group_label>
+    <other_name>Etoposide (VP-16; Vepesid(R) brand only)</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>Fractionated Total Body Irradiation (FTBI)</intervention_name>
+    <description>FTBI is performed on day -7 through day -4. The total dose of radiation is 1,320 cGy.</description>
+    <arm_group_label>VP16/TBI</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed diagnosis of:&#xD;
+&#xD;
+               -  Acute myelogenous leukemia&#xD;
+&#xD;
+                    -  Complete remission (CR) 1 - ALL except good cytogenetics defined as [(inv16,&#xD;
+                       t(8,21), t(15,17)]&#xD;
+&#xD;
+                    -  CR2&#xD;
+&#xD;
+                    -  Induction failures&#xD;
+&#xD;
+                    -  Relapsed OR&#xD;
+&#xD;
+               -  Acute lymphocytic leukemia (ALL)&#xD;
+&#xD;
+                    -  CR1 - high risk defined as overt CNS involvement, 1 or more risk factors&#xD;
+                       (age 30 and over, WBC at least 20,000/mm^3, at least 4 weeks to CR1, myeloid&#xD;
+                       phenotype)&#xD;
+&#xD;
+                    -  CR2&#xD;
+&#xD;
+                    -  Induction failures&#xD;
+&#xD;
+                    -  Relapsed OR&#xD;
+&#xD;
+               -  Chronic myelogenous leukemia&#xD;
+&#xD;
+                    -  Chronic phase (CP) 1&#xD;
+&#xD;
+                    -  Accelerated phase (AP)/CP2 OR&#xD;
+&#xD;
+               -  Chronic lymphocytic leukemia&#xD;
+&#xD;
+                    -  At diagnosis - RAI stage III/IV or Binet C&#xD;
+&#xD;
+                         -  Must undergo 1 induction regimen&#xD;
+&#xD;
+                    -  Relapsed - any stage&#xD;
+&#xD;
+                         -  Must have received no more than 3 regimens for diagnosis OR&#xD;
+&#xD;
+               -  Multiple myeloma&#xD;
+&#xD;
+                    -  At diagnosis - stage II/III (primary refractory or sensitive)&#xD;
+&#xD;
+                    -  Relapsed no more than 2 times - sensitive disease&#xD;
+&#xD;
+                    -  Plasma cell leukemia OR&#xD;
+&#xD;
+               -  Myelodysplasia&#xD;
+&#xD;
+                    -  All subtypes eligible OR&#xD;
+&#xD;
+               -  Myeloproliferative disorders&#xD;
+&#xD;
+                    -  Poor response to medical therapy OR&#xD;
+&#xD;
+                    -  Cytogenetic abnormalities&#xD;
+&#xD;
+          -  Must have a related donor who is genotypic 6 out of 6 HLA A, B, and DR match&#xD;
+&#xD;
+               -  Molecular DR matching required&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  15 to 55&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Karnofsky 80-100%&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin no greater than 2.0 mg/dL&#xD;
+&#xD;
+          -  SGOT/SGPT no greater than 3 times upper limit of normal&#xD;
+&#xD;
+          -  PT/PTT normal&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine no greater than 2.0 mg/dL&#xD;
+&#xD;
+          -  Creatinine clearance at least 60 mL/min&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  LVEF at least 45% by MUGA scan or echocardiography&#xD;
+&#xD;
+          -  No myocardial infarction within the past 6 months&#xD;
+&#xD;
+          -  No arrhythmias controlled by therapy&#xD;
+&#xD;
+        Pulmonary:&#xD;
+&#xD;
+          -  FEV_1 at least 50% predicted&#xD;
+&#xD;
+          -  DLCO at least 50% predicted&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  No diabetes mellitus or thyroid disease that is not medically controlled&#xD;
+&#xD;
+          -  No psychosocial disorder that would preclude study compliance&#xD;
+&#xD;
+          -  No active serious infections&#xD;
+&#xD;
+          -  HIV negative&#xD;
+&#xD;
+          -  Donor must be HIV negative&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Not specified&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>55 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Teresa Field, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>H. Lee Moffitt Cancer Center and Research Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>H. Lee Moffitt Cancer Center and Research Institute at University of South Florida</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612-9497</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2012</verification_date>
+  <study_first_submitted>June 2, 2000</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>December 9, 2020</last_update_submitted>
+  <last_update_submitted_qc>December 9, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">December 10, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>refractory multiple myeloma</keyword>
+  <keyword>stage II multiple myeloma</keyword>
+  <keyword>stage III multiple myeloma</keyword>
+  <keyword>stage III chronic lymphocytic leukemia</keyword>
+  <keyword>stage IV chronic lymphocytic leukemia</keyword>
+  <keyword>recurrent adult acute myeloid leukemia</keyword>
+  <keyword>recurrent adult acute lymphoblastic leukemia</keyword>
+  <keyword>refractory chronic lymphocytic leukemia</keyword>
+  <keyword>chronic phase chronic myelogenous leukemia</keyword>
+  <keyword>accelerated phase chronic myelogenous leukemia</keyword>
+  <keyword>adult acute myeloid leukemia in remission</keyword>
+  <keyword>adult acute lymphoblastic leukemia in remission</keyword>
+  <keyword>polycythemia vera</keyword>
+  <keyword>primary myelofibrosis</keyword>
+  <keyword>essential thrombocythemia</keyword>
+  <keyword>refractory anemia</keyword>
+  <keyword>refractory anemia with ringed sideroblasts</keyword>
+  <keyword>refractory anemia with excess blasts</keyword>
+  <keyword>refractory anemia with excess blasts in transformation</keyword>
+  <keyword>chronic myelomonocytic leukemia</keyword>
+  <keyword>previously treated myelodysplastic syndromes</keyword>
+  <keyword>refractory cytopenia with multilineage dysplasia</keyword>
+  <keyword>chronic eosinophilic leukemia</keyword>
+  <keyword>chronic neutrophilic leukemia</keyword>
+  <keyword>atypical chronic myeloid leukemia, BCR-ABL1 negative</keyword>
+  <keyword>myelodysplastic/myeloproliferative neoplasm, unclassifiable</keyword>
+  <keyword>adult acute myeloid leukemia with t(8;21)(q22;q22)</keyword>
+  <keyword>adult acute myeloid leukemia with t(16;16)(p13;q22)</keyword>
+  <keyword>adult acute myeloid leukemia with inv(16)(p13;q22)</keyword>
+  <keyword>adult acute myeloid leukemia with 11q23 (MLL) abnormalities</keyword>
+  <keyword>adult acute myeloid leukemia with t(15;17)(q22;q12)</keyword>
+  <keyword>childhood myelodysplastic syndromes</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+    <mesh_term>Preleukemia</mesh_term>
+    <mesh_term>Plasmacytoma</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Myeloproliferative Disorders</mesh_term>
+    <mesh_term>Myelodysplastic-Myeloproliferative Diseases</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Busulfan</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

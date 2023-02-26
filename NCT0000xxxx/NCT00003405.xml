@@ -1,0 +1,246 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003405</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000066413</org_study_id>
+    <secondary_id>P01CA075606</secondary_id>
+    <secondary_id>RUSH-AML-9754</secondary_id>
+    <secondary_id>ALZA-RUSH-AML-9754</secondary_id>
+    <secondary_id>NCI-V98-1445</secondary_id>
+    <nct_id>NCT00003405</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy Plus Biological Therapy in Treating Patients With Acute Myelogenous Leukemia</brief_title>
+  <official_title>Treatment Protocol for Patients With Standard Risk Acute Myelogenous Leukemia and Its Variants: Induction Using High-Dose Cytarabine, Mitoxantrone and Ethyol; Consolidation With Cytarabine and Idarubicin and Maintenance With 13 Cis Retinoic Acid and Alpha Interferon</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Rush University Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Rush University Medical Center</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing&#xD;
+      so they stop growing or die. Biological therapies use different ways to stimulate the immune&#xD;
+      system and stop cancer cell from growing. Combining more than one chemotherapy drug with&#xD;
+      biological therapy may kill more cancer cells.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of combination chemotherapy, isotretinoin,&#xD;
+      and interferon alfa in treating patients who have acute myelogenous leukemia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES: I. Assess the efficacy of high dose cytarabine with mitoxantrone and amifostine&#xD;
+      as induction therapy for patients with previously untreated standard risk acute myelogenous&#xD;
+      leukemia (AML). II. Assess the effects of amifostine on the biology of AML cells in vivo in&#xD;
+      these patients. III. Determine whether there is a relationship between cytokine production&#xD;
+      before and during remission induction therapy and treatment outcome.&#xD;
+&#xD;
+      OUTLINE: Prior to treatment, patients undergo bone marrow aspirate and biopsy. On day -3,&#xD;
+      patients receive idoxuridine IV over 60 minutes followed immediately by a bone marrow&#xD;
+      aspirate and biopsy. Patients then receive amifostine IV over 5-7 minutes on the same day.&#xD;
+      Prior to chemotherapy on day 1, patient receive broxuridine IV over 60 minutes immediately&#xD;
+      followed by bone marrow aspirate and biopsy. Chemotherapy on day 1 consists of amifostine&#xD;
+      followed by cytarabine IV over 3 hours repeated every 12 hours and mitoxantrone IV over 1&#xD;
+      hour immediately after the second infusion of cytarabine. This course is repeated on day 5&#xD;
+      after another bone marrow biopsy and aspirate. Starting on day 6, patients receive amifostine&#xD;
+      3 times a week until day 28 or beyond. Patients who respond to treatment continue on to&#xD;
+      receive three courses of consolidation therapy. Consolidation courses 1 and 3 consist of&#xD;
+      cytarabine continuous IV on days 1-7 and idarubicin IV over 30 minutes on days 1, 2, and 3.&#xD;
+      Consolidation course 2 consists of cytarabine IV over 75 minutes repeated every 12 hours for&#xD;
+      4 days. Twenty-four hours after each course of consolidation therapy, patients receive&#xD;
+      isotretinoin orally every day and interferon alfa subcutaneously every other day.&#xD;
+      Isotretinoin and interferon alfa therapy are stopped 4 days prior to day 1 of the next course&#xD;
+      of consolidation therapy. Following recovery from course 3 of consolidation therapy, patients&#xD;
+      continue to receive isotretinoin/interferon alfa until relapse. Patients in complete&#xD;
+      remission after the 3 courses of consolidation therapy receive isotretinoin/interferon alfa&#xD;
+      for 3 years. Patients are followed every 3 months for the first year, then every 6 months for&#xD;
+      the next 2 years.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: There will be 40-45 patients accrued into this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Withdrawn</overall_status>
+  <why_stopped>
+    No enrollment&#xD;
+  </why_stopped>
+  <start_date>April 1998</start_date>
+  <completion_date>April 1999</completion_date>
+  <primary_completion_date>April 1999</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment type="Actual">0</enrollment>
+  <condition>Leukemia</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>recombinant interferon alfa</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>amifostine trihydrate</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>bromodeoxyuridine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cytarabine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>idarubicin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>idoxuridine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>isotretinoin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>mitoxantrone hydrochloride</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS: Histologically confirmed previously untreated acute myelogenous&#xD;
+        leukemia (AML) FAB M1, M2, M4, M5, M6, or M7 No AML secondary to chemotherapy, radiation&#xD;
+        therapy, or toxic agents No history of myelodysplastic syndromes If possible, patient&#xD;
+        should be enrolled on protocol RUSH-CYL-9003&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS: Age: 70 and under Performance status: 0-3 Life expectancy: Not&#xD;
+        specified Hematopoietic: Not specified Hepatic: Bilirubin greater than 2.0 mg/dL and no&#xD;
+        greater than 3.0 mg/dL allowed with 50% reduction in drug doses Renal: Creatinine less than&#xD;
+        3.0 mg/dL Cardiovascular: No overt congestive heart failure No uncontrollable ventricular&#xD;
+        arrhythmias No uncontrollable hypertension If cardiac ejection fraction is less than 45% of&#xD;
+        predicted, an echocardiogram and a cardiac consult must be obtained to ascertain cardiac&#xD;
+        tolerance of anthracycline therapy Neurological: No cerebellar dysfunction Other: Fever,&#xD;
+        infection, or other complications of disease allowed Not pregnant or nursing Effective&#xD;
+        contraception required of all fertile patients&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY: Biologic therapy: At least 2 weeks since prior interferon At&#xD;
+        least 2 weeks since prior hematopoietic growth factors (including erythropoietin)&#xD;
+        Chemotherapy: At least 2 weeks since prior chemotherapy Endocrine therapy: At least 2 weeks&#xD;
+        since prior steroids Radiotherapy: Not specified Surgery: Not specified Other: At least 2&#xD;
+        weeks since prior retinoids&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>0 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Philip D. Bonomi, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Rush University Medical Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Cook County Hospital</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612-9985</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush Cancer Institute</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Angelo P. Creticos, M.D. Cancer Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60657</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush-Riverside Cancer Center</name>
+      <address>
+        <city>Kankakee</city>
+        <state>Illinois</state>
+        <zip>60901</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>May 21, 2004</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 24, 2004</study_first_posted>
+  <last_update_submitted>October 6, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 6, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 14, 2021</last_update_posted>
+  <keyword>untreated adult acute myeloid leukemia</keyword>
+  <keyword>untreated childhood acute myeloid leukemia and other myeloid malignancies</keyword>
+  <keyword>adult acute erythroid leukemia (M6)</keyword>
+  <keyword>adult acute myeloblastic leukemia without maturation (M1)</keyword>
+  <keyword>adult acute myeloblastic leukemia with maturation (M2)</keyword>
+  <keyword>adult acute myelomonocytic leukemia (M4)</keyword>
+  <keyword>adult acute monoblastic leukemia (M5a)</keyword>
+  <keyword>adult acute megakaryoblastic leukemia (M7)</keyword>
+  <keyword>childhood acute myeloblastic leukemia without maturation (M1)</keyword>
+  <keyword>childhood acute myeloblastic leukemia with maturation (M2)</keyword>
+  <keyword>childhood acute myelomonocytic leukemia (M4)</keyword>
+  <keyword>childhood acute monoblastic leukemia (M5a)</keyword>
+  <keyword>childhood acute monocytic leukemia (M5b)</keyword>
+  <keyword>childhood acute erythroleukemia (M6)</keyword>
+  <keyword>childhood acute megakaryocytic leukemia (M7)</keyword>
+  <keyword>adult acute monocytic leukemia (M5b)</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Leukemia, Myeloid</mesh_term>
+    <mesh_term>Leukemia, Myeloid, Acute</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Interferons</mesh_term>
+    <mesh_term>Cytarabine</mesh_term>
+    <mesh_term>Interferon-alpha</mesh_term>
+    <mesh_term>Bromodeoxyuridine</mesh_term>
+    <mesh_term>5-bromouridine</mesh_term>
+    <mesh_term>Idoxuridine</mesh_term>
+    <mesh_term>Mitoxantrone</mesh_term>
+    <mesh_term>Idarubicin</mesh_term>
+    <mesh_term>Isotretinoin</mesh_term>
+    <mesh_term>Amifostine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

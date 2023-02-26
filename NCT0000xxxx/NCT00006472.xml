@@ -1,0 +1,240 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00006472</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000068295</org_study_id>
+    <secondary_id>WHC-99692</secondary_id>
+    <secondary_id>NCI-V00-1633</secondary_id>
+    <nct_id>NCT00006472</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy Plus Radiation Therapy Followed By Surgery in Treating Patients With Stage I, Stage II, or Stage III Esophageal Cancer</brief_title>
+  <official_title>Esophageal Cancer: A Phase II Study of Paclitaxel, Carboplatin and 5-Fluorouracil With Simultaneous Radiotherapy Followed by Surgical Resection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medstar Health Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medstar Health Research Institute</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor cells.&#xD;
+      Giving chemotherapy drugs and radiation therapy before surgery may shrink the tumor so that&#xD;
+      it can be removed during surgery.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of combination chemotherapy plus radiation&#xD;
+      therapy given before surgery in treating patients who have stage I, stage II, or stage III&#xD;
+      esophageal cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES: I. Determine the total response rate in patients with stage I, II, or III&#xD;
+      esophageal cancer treated with paclitaxel, carboplatin, and fluorouracil with concurrent&#xD;
+      radiotherapy followed by surgical resection. II. Determine the overall survival of these&#xD;
+      patients treated with this regimen. II. Determine the toxicity of this regimen in this&#xD;
+      patient population.&#xD;
+&#xD;
+      OUTLINE: Patients receive paclitaxel IV over 1 hour followed by carboplatin IV over 30&#xD;
+      minutes on days 1 and 22, and fluorouracil IV continuously on days 1-42. Patients undergo&#xD;
+      radiotherapy concurrently with chemotherapy daily 5 days a week for 5 weeks. Patients then&#xD;
+      undergo surgical resection within 3-5 weeks following completion of therapy. Patients are&#xD;
+      followed every 3 months for 6 months, every 6 months for 1 year, and then annually&#xD;
+      thereafter.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 47 patients will be accrued for this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <start_date>January 2000</start_date>
+  <completion_date type="Actual">September 10, 2002</completion_date>
+  <primary_completion_date type="Actual">November 15, 2001</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">4</enrollment>
+  <condition>Esophageal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Single arm study</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Taxol® (Paclitaxel), Carboplatin and 5-Fluorouracil with Simultaneous Radiotherapy Followed by Surgical Resection</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>carboplatin</intervention_name>
+    <description>Carboplatin AUC 6 days 1 and 22</description>
+    <arm_group_label>Single arm study</arm_group_label>
+    <other_name>paraplatin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>fluorouracil</intervention_name>
+    <description>5FU 225mg/m2 continuous infusion on days 1-42 during radiation</description>
+    <arm_group_label>Single arm study</arm_group_label>
+    <other_name>5FU</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>paclitaxel</intervention_name>
+    <description>taxol</description>
+    <arm_group_label>Single arm study</arm_group_label>
+    <other_name>200mg/m2 days 1 and 22</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>conventional surgery</intervention_name>
+    <arm_group_label>Single arm study</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+    <description>The initial fields should be treated AP:PA when possible to a dose of 4500 cGy in 180 cGy fractions</description>
+    <arm_group_label>Single arm study</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS: Histologically confirmed squamous cell carcinoma or adenocarcinoma&#xD;
+        of the upper, middle, or lower third esophagus Stage I, II, or III disease Measurable&#xD;
+        disease No distant metastases Negative liver biopsy Negative bone scan unless due to benign&#xD;
+        disease No tracheobronchial involvement No vocal cord paralysis No phrenic nerve&#xD;
+        involvement No celiac axis lymph node involvement unless due to primary cancer at&#xD;
+        gastroesophageal junction No evidence of disseminated cancer&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS: Age: Not specified Performance status: ECOG 0-2 Life expectancy:&#xD;
+        Not specified Hematopoietic: Absolute neutrophil count at least 1,500/mm3 Platelet count at&#xD;
+        least 100,000/mm3 Hemoglobin at least 10 g/dL Hepatic: Bilirubin no greater than 1.5 mg/dL&#xD;
+        SGOT/SGPT no greater than 2 times upper limit of normal (ULN) Alkaline phosphatase no&#xD;
+        greater than 2 times ULN Renal: Creatinine no greater than 1.5 mg/dL Creatinine clearance&#xD;
+        at least 60 mL/min Cardiovascular: No uncontrolled or severe cardiovascular disease No&#xD;
+        congestive heart failure No myocardial infarction within the past 6 months No severe or&#xD;
+        uncontrolled hypertension (systolic greater than 150 mmHg and diastolic greater than 100&#xD;
+        mmHg) Pulmonary: FEV1/FVC at least 75% predicted Arterial blood saturation at least 92%&#xD;
+        Other: Not pregnant or nursing Negative pregnancy test Fertile patients must use effective&#xD;
+        contraception No other malignancy except curatively treated nonmelanoma skin cancer or&#xD;
+        carcinoma in situ of the cervix No other serious medical illness that would limit survival&#xD;
+        to fewer than 2 years No active uncontrolled bacterial, viral, or fungal infection No&#xD;
+        active uncontrolled duodenal ulcer No psychiatric disorder that would preclude study&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: No prior&#xD;
+        chemotherapy Endocrine therapy: Not specified Radiotherapy: No prior chest radiotherapy&#xD;
+        Surgery: No prior surgical resection of tumor Other: No prior therapy for esophageal cancer&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David J. Perry, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Medstar Health Research Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Washington Cancer Institute</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Washington Hospital Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Union Memorial Hospital</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21218</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harbor Hospital Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21225</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Franklin Square Hospital Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21237</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Good Samaritan Hospital of Maryland</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2002</verification_date>
+  <study_first_submitted>November 6, 2000</study_first_submitted>
+  <study_first_submitted_qc>February 25, 2004</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 26, 2004</study_first_posted>
+  <last_update_submitted>August 14, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 14, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2020</last_update_posted>
+  <keyword>stage I esophageal cancer</keyword>
+  <keyword>stage II esophageal cancer</keyword>
+  <keyword>stage III esophageal cancer</keyword>
+  <keyword>squamous cell carcinoma of the esophagus</keyword>
+  <keyword>adenocarcinoma of the esophagus</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Esophageal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Fluorouracil</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

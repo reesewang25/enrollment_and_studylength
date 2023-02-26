@@ -1,0 +1,1229 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00490776</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CLBH589B2212</org_study_id>
+    <nct_id>NCT00490776</nct_id>
+  </id_info>
+  <brief_title>Study of Oral LBH589 in Adult Participants With Refractory/Resistant Cutaneous T-Cell Lymphoma (CTCL)</brief_title>
+  <official_title>A Phase II Study of Oral LBH589 in Adult Patients With Cutaneous T-Cell Lymphoma Who Are Intolerant to or Have Progressed on or After Prior HDAC Inhibitor</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Novartis Pharmaceuticals</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Novartis</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study evaluated the safety and efficacy of LBH589B in adult participants with&#xD;
+      refractory/resistant Cutaneous T-Cell Lymphoma and prior Histone Deacetylase (HDAC) inhibitor&#xD;
+      therapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Recruitment was stopped on 15 June 2009 (early termination date) due to low prevalence of study&#xD;
+    population and slow accrual.&#xD;
+  </why_stopped>
+  <start_date type="Actual">July 5, 2007</start_date>
+  <completion_date type="Actual">September 22, 2009</completion_date>
+  <primary_completion_date type="Actual">September 2009</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Overall Response Rate (ORR) in Participants With Resistant Cutaneous T-Cell Lymphoma (CTCL) Treated With Oral Panobinostat by Using the Modified Severity-Weighted Assessment Tool (mSWAT)</measure>
+    <time_frame>From first dose of study drug up to disease progression or death, (up to approximately 2 years)</time_frame>
+    <description>ORR was defined as the percentage of participants with best overall response (OR) of complete response (CR) or partial response (PR) based on mSWAT score, (OR = CR + PR). mSWAT score represents the product of the percentage total body surface area (%TBSA) involvement of each lesion type (patch, plaque, and tumor or ulceration), multiplied by a weighting factor: modified SWAT score = (patch %TBSA x 1) + (plaque %TBSA x 2) + (tumor or ulcer %TBSA x 4). The sum of these 3 numbers gave the modified SWAT score, on a 0 (no lesions) to 400 (lesions covering all areas) scale. CR based on mSWAT score was defined as the absence of skin disease. PR was defined as ≥ 50% decrease of the modified SWAT score compared to the Baseline score.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Response Rate of Participants With Refractory CTCL Using the Physician's Global Assessment of Clinical Condition (PGA)</measure>
+    <time_frame>From first dose of study drug up to disease progression or death, (up to approximately 2 years)</time_frame>
+    <description>Response rate was defined as the percentage of participants with CR or PR based on PGA scale. PGA is a 7-point grading scale for the investigator's assessment of the overall extent of improvement or worsening of the participant's disease as compared to Baseline. CR corresponds to Grade 0 (Completely clear) on PGA scale and was defined as no evidence of disease; 100% improvement. PR corresponds to Grade 2 (marked improvement) on PGA scale and was defined as significant improvement (≥75% - &lt;90%); some evidence of disease remains.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Response Rate in Participants With Refractory CTCL Using Modified Skin Score</measure>
+    <time_frame>From first dose of study drug up to disease progression or death, (up to approximately 2 years)</time_frame>
+    <description>Response rate was defined as the percentage of participants with CR or PR based on mSWAT skin score. mSWAT score represents the product of the %TBSA involvement of each lesion type (patch, plaque, and tumor or ulceration), multiplied by a weighting factor: mSWAT score = (patch %TBSA x 1) + (plaque %TBSA x 2) + (tumor or ulcer %TBSA x 4). The sum of these 3 numbers gave the modified SWAT score, on a 0 (no lesions) to 400 (lesions covering all areas) scale. CR based on mSWAT score was defined as the absence of skin disease. PR was defined as ≥ 50% decrease of the modified SWAT score compared to the Baseline score.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Responses in Index Lesions in Participants With Refractory CTCL by Lesion Measurements With Photographic Supporting Documentation</measure>
+    <time_frame>From first dose of study drug up to disease progression or death (up to approximately 2 years)</time_frame>
+    <description>Index lesions in each participant were selected as four to six of the prominent lesions amenable to bi-dimensional measurements. The longest diameter and its perpendicular measurement were used to determine the surface area and a weighted sum was determined as: Lesion 1 + lesion 2 + … + lesions 6 = Total sum of weighted score where Lesion 1: cm^2 x [1 (for patch); 2 (for plaque); 4 (for tumor or ulcer)]; Lesion 2: cm^2 x [1 (for patch); 2 (for plaque); 4 (for tumor or ulcer)]; Lesion 6: cm^2 x [1 (for patch); 2 (for plaque); 4 (for tumor or ulcer)]. These lesions were photographed at Baseline and at the time of response determined by either mSWAT or PGA</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>ORR of Participants With Resistant CTCL Treated With Oral Panobinostat by Using the Modified PGA to Assess Skin Disease and the Evaluation of Disease in the Viscera, Lymph Nodes and Blood (Circulating Sézary Syndrome Cells)</measure>
+    <time_frame>From first dose of study drug up to disease progression or death, (up to approximately 2 years)</time_frame>
+    <description>ORR was defined as the percentage of participants with best OR of CR or PR based on PGA scale (OR = CR + PR). The PGA is a 7-point grading scale for the investigator's assessment of the overall extent of improvement or worsening of the participant's disease as compared to Baseline. CR corresponds to Grade 0 (completely clear) of PGA scale and was defined as no evidence of disease; 100% improvement. PR corresponds to Grade 2 (marked improvement) of PGA scale and was defined as significant improvement (≥75%-&lt;90%); some evidence of disease remains.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (DOR)</measure>
+    <time_frame>From first dose of study drug up to disease progression or death, (up to approximately 2 years)</time_frame>
+    <description>DOR was defined as the time from first documented evidence of CR or PR until the earliest date of documented progression or death due to any cause among participants who achieved a confirmed CR or PR. The DOR was calculated in two ways. The DOR among responders only included participants who responded to the drug. The overall DOR included non-responders as having a DOR of zero days.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Response (TTR)</measure>
+    <time_frame>From first dose of study drug up to study completion (approximately 2 years)</time_frame>
+    <description>TTR was defined as the time from the start of treatment until the first documented evidence of CR or PR among participants who achieved a confirmed CR or PR.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression-Free Survival (PFS)</measure>
+    <time_frame>From first dose of study drug up to disease progression or death, (up to approximately 2 years)</time_frame>
+    <description>PFS was defined as the time from the start of treatment until the earliest date of disease progression or death due to any cause, if sooner.</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">9</enrollment>
+  <condition>Cutaneous T-Cell Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Panobinostat 20 mg</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants received panobinostat, 20 milligrams (mg), capsules, orally, thrice weekly on alternate Days 1, 3, and 5 per week of a 28-day treatment cycle until unacceptable toxicity, disease progression, and/or physician's discretion to discontinue the treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Panobinostat</intervention_name>
+    <description>Panobinostat, 20 mg, hard gelatin capsules, orally, thrice weekly.</description>
+    <arm_group_label>Panobinostat 20 mg</arm_group_label>
+    <other_name>LBH589</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion criteria:&#xD;
+&#xD;
+          1. Written informed consent obtained prior to any screening procedures&#xD;
+&#xD;
+          2. Age greater than or equal to 18 years old&#xD;
+&#xD;
+          3. Participants with biopsy-confirmed stages IB-IVA mycosis fungoides or Sézary syndrome&#xD;
+             (SS). Participants with SS who have bone marrow involvement are also eligible.&#xD;
+             Participants with transformed CTCL are eligible&#xD;
+&#xD;
+          4. Participants must have been treated with an HDAC inhibitor given for the treatment of&#xD;
+             CTCL. Participants must have had disease progression on or following treatment with an&#xD;
+             HDAC inhibitor. Participants are also eligible if they had an inadequate response to&#xD;
+             an HDAC inhibitor defined as stable disease as the best response after at least 3&#xD;
+             months of therapy. Participants previously treated with an HDAC inhibitor are also&#xD;
+             eligible if they experienced intolerance due to adverse events.&#xD;
+&#xD;
+          5. Baseline multiple-gated acquisition scan (MUGA) or echocardiogram must have&#xD;
+             demonstrated left ventricular ejection fraction (LVEF) ≥ the lower limit of the&#xD;
+             institutional normal&#xD;
+&#xD;
+          6. ECOG performance status ≤ 2&#xD;
+&#xD;
+        Exclusion criteria:&#xD;
+&#xD;
+          1. Participants with a history of visceral disease including central nervous system (CNS)&#xD;
+             involvement (i.e. stage IVB CTCL). Note, participants who have SS with bone marrow&#xD;
+             involvement are eligible&#xD;
+&#xD;
+          2. Impaired cardiac function&#xD;
+&#xD;
+          3. Concomitant use of drugs with a risk of causing torsades de pointes&#xD;
+&#xD;
+          4. Participants who have received chemotherapy or any investigational drug or undergone&#xD;
+             major surgery ≤ 3 weeks prior to starting study drug or who have not recovered from&#xD;
+             side effects of such therapy&#xD;
+&#xD;
+          5. Less than 3 months since prior electron beam therapy&#xD;
+&#xD;
+          6. Women who are pregnant or breast feeding, or women of childbearing potential (WOCBP)&#xD;
+             not willing to use a double method of contraception during the study and 3 months&#xD;
+             after the end of treatment.&#xD;
+&#xD;
+        Other protocol-defined inclusion/exclusion criteria may apply.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Novartis Pharmaceuticals</last_name>
+    <role>Study Director</role>
+    <affiliation>Novartis Pharmaceuticals</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham/ The Kirklin Clinic</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35233</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCLA Medical Center School of Medicine/ Dpt of Hematology-Oncology</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Colorado Health Sciences Center/Anschutz Cancer Pavillion</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Florida Academic Dermatology Centers</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>33136</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Medical College of Georgia</name>
+      <address>
+        <city>Augusta</city>
+        <state>Georgia</state>
+        <zip>30912</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rush Presbyterian Hospital/St. Luke's Medical Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St. Louis University Cancer Cennter</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Nebraska Medical Center</name>
+      <address>
+        <city>Omaha</city>
+        <state>Nebraska</state>
+        <zip>68198</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Our Lady of Mercy Medical Center/Comprehensive Cancer Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10466</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>NYU Clinical Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Wake University Health Sciences</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27157</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Oklahoma-Tulsa</name>
+      <address>
+        <city>Tulsa</city>
+        <state>Oklahoma</state>
+        <zip>74104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Craig Okada</name>
+      <address>
+        <city>Portland</city>
+        <state>Oregon</state>
+        <zip>97239</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburg Medical Center</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>The Jones Clinic</name>
+      <address>
+        <city>Germantown</city>
+        <state>Tennessee</state>
+        <zip>38138</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>MD Anderson Cancer Center/University of Texas</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Seattle Cancer Care Alliance</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98109-102</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Saudi Arabia</country>
+  </removed_countries>
+  <verification_date>August 2021</verification_date>
+  <study_first_submitted>June 21, 2007</study_first_submitted>
+  <study_first_submitted_qc>June 21, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 25, 2007</study_first_posted>
+  <results_first_submitted>April 29, 2021</results_first_submitted>
+  <results_first_submitted_qc>May 25, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">June 18, 2021</results_first_posted>
+  <last_update_submitted>August 16, 2021</last_update_submitted>
+  <last_update_submitted_qc>August 16, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 18, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Cutaneous T-Cell Lymphoma</keyword>
+  <keyword>adults</keyword>
+  <keyword>Mycosis Fungoides</keyword>
+  <keyword>Sézary Syndrome</keyword>
+  <keyword>CTCL</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, T-Cell</mesh_term>
+    <mesh_term>Lymphoma, T-Cell, Peripheral</mesh_term>
+    <mesh_term>Lymphoma, T-Cell, Cutaneous</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Panobinostat</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>A total of 9 participants were enrolled in the study at 8 investigative sites in the USA from 5 July 2007 to 15 June 2009. Recruitment was stopped on 15 June 2009 (early termination date) due to low prevalence of study population and slow accrual.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Panobinostat 20 mg</title>
+          <description>Participants received panobinostat, 20 mg, capsules, orally, thrice weekly on alternate Days 1, 3 and 5 per week of a 28-day treatment cycle until unacceptable toxicity, disease progression and/or physician's discretion to discontinue the treatment.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="9"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Withdrawal by Subject</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Administrative Problems</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>New Cancer Therapy</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Disease Progression</title>
+              <participants_list>
+                <participants group_id="P1" count="5"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Full Analyses Set (FAS) population was defined according to the Intention-to-Treat (ITT) principle and included all participants enrolled into the study.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Panobinostat 20 mg</title>
+          <description>Participants received panobinostat, 20 mg, capsules, orally, thrice weekly on alternate Days 1, 3 and 5 per week of a 28-day treatment cycle until unacceptable toxicity, disease progression and/or physician's discretion to discontinue the treatment.</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="9"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="54.8" spread="13.29"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Overall Response Rate (ORR) in Participants With Resistant Cutaneous T-Cell Lymphoma (CTCL) Treated With Oral Panobinostat by Using the Modified Severity-Weighted Assessment Tool (mSWAT)</title>
+        <description>ORR was defined as the percentage of participants with best overall response (OR) of complete response (CR) or partial response (PR) based on mSWAT score, (OR = CR + PR). mSWAT score represents the product of the percentage total body surface area (%TBSA) involvement of each lesion type (patch, plaque, and tumor or ulceration), multiplied by a weighting factor: modified SWAT score = (patch %TBSA x 1) + (plaque %TBSA x 2) + (tumor or ulcer %TBSA x 4). The sum of these 3 numbers gave the modified SWAT score, on a 0 (no lesions) to 400 (lesions covering all areas) scale. CR based on mSWAT score was defined as the absence of skin disease. PR was defined as ≥ 50% decrease of the modified SWAT score compared to the Baseline score.</description>
+        <time_frame>From first dose of study drug up to disease progression or death, (up to approximately 2 years)</time_frame>
+        <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Panobinostat 20 mg</title>
+            <description>Participants received panobinostat, 20 mg, capsules, orally, thrice weekly on alternate Days 1, 3 and 5 per week of a 28-day treatment cycle until unacceptable toxicity, disease progression and/or physician's discretion to discontinue the treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Response Rate (ORR) in Participants With Resistant Cutaneous T-Cell Lymphoma (CTCL) Treated With Oral Panobinostat by Using the Modified Severity-Weighted Assessment Tool (mSWAT)</title>
+          <description>ORR was defined as the percentage of participants with best overall response (OR) of complete response (CR) or partial response (PR) based on mSWAT score, (OR = CR + PR). mSWAT score represents the product of the percentage total body surface area (%TBSA) involvement of each lesion type (patch, plaque, and tumor or ulceration), multiplied by a weighting factor: modified SWAT score = (patch %TBSA x 1) + (plaque %TBSA x 2) + (tumor or ulcer %TBSA x 4). The sum of these 3 numbers gave the modified SWAT score, on a 0 (no lesions) to 400 (lesions covering all areas) scale. CR based on mSWAT score was defined as the absence of skin disease. PR was defined as ≥ 50% decrease of the modified SWAT score compared to the Baseline score.</description>
+          <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Response Rate of Participants With Refractory CTCL Using the Physician's Global Assessment of Clinical Condition (PGA)</title>
+        <description>Response rate was defined as the percentage of participants with CR or PR based on PGA scale. PGA is a 7-point grading scale for the investigator's assessment of the overall extent of improvement or worsening of the participant's disease as compared to Baseline. CR corresponds to Grade 0 (Completely clear) on PGA scale and was defined as no evidence of disease; 100% improvement. PR corresponds to Grade 2 (marked improvement) on PGA scale and was defined as significant improvement (≥75% - &lt;90%); some evidence of disease remains.</description>
+        <time_frame>From first dose of study drug up to disease progression or death, (up to approximately 2 years)</time_frame>
+        <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Panobinostat 20 mg</title>
+            <description>Participants received panobinostat, 20 mg, capsules, orally, thrice weekly on alternate Days 1, 3 and 5 per week of a 28-day treatment cycle until unacceptable toxicity, disease progression and/or physician's discretion to discontinue the treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Response Rate of Participants With Refractory CTCL Using the Physician's Global Assessment of Clinical Condition (PGA)</title>
+          <description>Response rate was defined as the percentage of participants with CR or PR based on PGA scale. PGA is a 7-point grading scale for the investigator's assessment of the overall extent of improvement or worsening of the participant's disease as compared to Baseline. CR corresponds to Grade 0 (Completely clear) on PGA scale and was defined as no evidence of disease; 100% improvement. PR corresponds to Grade 2 (marked improvement) on PGA scale and was defined as significant improvement (≥75% - &lt;90%); some evidence of disease remains.</description>
+          <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Response Rate in Participants With Refractory CTCL Using Modified Skin Score</title>
+        <description>Response rate was defined as the percentage of participants with CR or PR based on mSWAT skin score. mSWAT score represents the product of the %TBSA involvement of each lesion type (patch, plaque, and tumor or ulceration), multiplied by a weighting factor: mSWAT score = (patch %TBSA x 1) + (plaque %TBSA x 2) + (tumor or ulcer %TBSA x 4). The sum of these 3 numbers gave the modified SWAT score, on a 0 (no lesions) to 400 (lesions covering all areas) scale. CR based on mSWAT score was defined as the absence of skin disease. PR was defined as ≥ 50% decrease of the modified SWAT score compared to the Baseline score.</description>
+        <time_frame>From first dose of study drug up to disease progression or death, (up to approximately 2 years)</time_frame>
+        <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Panobinostat 20 mg</title>
+            <description>Participants received panobinostat, 20 mg, capsules, orally, thrice weekly on alternate Days 1, 3 and 5 per week of a 28-day treatment cycle until unacceptable toxicity, disease progression and/or physician's discretion to discontinue the treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Response Rate in Participants With Refractory CTCL Using Modified Skin Score</title>
+          <description>Response rate was defined as the percentage of participants with CR or PR based on mSWAT skin score. mSWAT score represents the product of the %TBSA involvement of each lesion type (patch, plaque, and tumor or ulceration), multiplied by a weighting factor: mSWAT score = (patch %TBSA x 1) + (plaque %TBSA x 2) + (tumor or ulcer %TBSA x 4). The sum of these 3 numbers gave the modified SWAT score, on a 0 (no lesions) to 400 (lesions covering all areas) scale. CR based on mSWAT score was defined as the absence of skin disease. PR was defined as ≥ 50% decrease of the modified SWAT score compared to the Baseline score.</description>
+          <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Responses in Index Lesions in Participants With Refractory CTCL by Lesion Measurements With Photographic Supporting Documentation</title>
+        <description>Index lesions in each participant were selected as four to six of the prominent lesions amenable to bi-dimensional measurements. The longest diameter and its perpendicular measurement were used to determine the surface area and a weighted sum was determined as: Lesion 1 + lesion 2 + … + lesions 6 = Total sum of weighted score where Lesion 1: cm^2 x [1 (for patch); 2 (for plaque); 4 (for tumor or ulcer)]; Lesion 2: cm^2 x [1 (for patch); 2 (for plaque); 4 (for tumor or ulcer)]; Lesion 6: cm^2 x [1 (for patch); 2 (for plaque); 4 (for tumor or ulcer)]. These lesions were photographed at Baseline and at the time of response determined by either mSWAT or PGA</description>
+        <time_frame>From first dose of study drug up to disease progression or death (up to approximately 2 years)</time_frame>
+        <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Panobinostat 20 mg</title>
+            <description>Participants received panobinostat, 20 mg, capsules, orally, thrice weekly on alternate Days 1, 3 and 5 per week of a 28-day treatment cycle until unacceptable toxicity, disease progression and/or physician's discretion to discontinue the treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Responses in Index Lesions in Participants With Refractory CTCL by Lesion Measurements With Photographic Supporting Documentation</title>
+          <description>Index lesions in each participant were selected as four to six of the prominent lesions amenable to bi-dimensional measurements. The longest diameter and its perpendicular measurement were used to determine the surface area and a weighted sum was determined as: Lesion 1 + lesion 2 + … + lesions 6 = Total sum of weighted score where Lesion 1: cm^2 x [1 (for patch); 2 (for plaque); 4 (for tumor or ulcer)]; Lesion 2: cm^2 x [1 (for patch); 2 (for plaque); 4 (for tumor or ulcer)]; Lesion 6: cm^2 x [1 (for patch); 2 (for plaque); 4 (for tumor or ulcer)]. These lesions were photographed at Baseline and at the time of response determined by either mSWAT or PGA</description>
+          <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>ORR of Participants With Resistant CTCL Treated With Oral Panobinostat by Using the Modified PGA to Assess Skin Disease and the Evaluation of Disease in the Viscera, Lymph Nodes and Blood (Circulating Sézary Syndrome Cells)</title>
+        <description>ORR was defined as the percentage of participants with best OR of CR or PR based on PGA scale (OR = CR + PR). The PGA is a 7-point grading scale for the investigator's assessment of the overall extent of improvement or worsening of the participant's disease as compared to Baseline. CR corresponds to Grade 0 (completely clear) of PGA scale and was defined as no evidence of disease; 100% improvement. PR corresponds to Grade 2 (marked improvement) of PGA scale and was defined as significant improvement (≥75%-&lt;90%); some evidence of disease remains.</description>
+        <time_frame>From first dose of study drug up to disease progression or death, (up to approximately 2 years)</time_frame>
+        <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Panobinostat 20 mg</title>
+            <description>Participants received panobinostat, 20 mg, capsules, orally, thrice weekly on alternate Days 1, 3 and 5 per week of a 28-day treatment cycle until unacceptable toxicity, disease progression and/or physician's discretion to discontinue the treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>ORR of Participants With Resistant CTCL Treated With Oral Panobinostat by Using the Modified PGA to Assess Skin Disease and the Evaluation of Disease in the Viscera, Lymph Nodes and Blood (Circulating Sézary Syndrome Cells)</title>
+          <description>ORR was defined as the percentage of participants with best OR of CR or PR based on PGA scale (OR = CR + PR). The PGA is a 7-point grading scale for the investigator's assessment of the overall extent of improvement or worsening of the participant's disease as compared to Baseline. CR corresponds to Grade 0 (completely clear) of PGA scale and was defined as no evidence of disease; 100% improvement. PR corresponds to Grade 2 (marked improvement) of PGA scale and was defined as significant improvement (≥75%-&lt;90%); some evidence of disease remains.</description>
+          <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Response (DOR)</title>
+        <description>DOR was defined as the time from first documented evidence of CR or PR until the earliest date of documented progression or death due to any cause among participants who achieved a confirmed CR or PR. The DOR was calculated in two ways. The DOR among responders only included participants who responded to the drug. The overall DOR included non-responders as having a DOR of zero days.</description>
+        <time_frame>From first dose of study drug up to disease progression or death, (up to approximately 2 years)</time_frame>
+        <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Panobinostat 20 mg</title>
+            <description>Participants received panobinostat, 20 mg, capsules, orally, thrice weekly on alternate Days 1, 3 and 5 per week of a 28-day treatment cycle until unacceptable toxicity, disease progression and/or physician's discretion to discontinue the treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Response (DOR)</title>
+          <description>DOR was defined as the time from first documented evidence of CR or PR until the earliest date of documented progression or death due to any cause among participants who achieved a confirmed CR or PR. The DOR was calculated in two ways. The DOR among responders only included participants who responded to the drug. The overall DOR included non-responders as having a DOR of zero days.</description>
+          <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Response (TTR)</title>
+        <description>TTR was defined as the time from the start of treatment until the first documented evidence of CR or PR among participants who achieved a confirmed CR or PR.</description>
+        <time_frame>From first dose of study drug up to study completion (approximately 2 years)</time_frame>
+        <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Panobinostat 20 mg</title>
+            <description>Participants received panobinostat, 20 mg, capsules, orally, thrice weekly on alternate Days 1, 3 and 5 per week of a 28-day treatment cycle until unacceptable toxicity, disease progression and/or physician's discretion to discontinue the treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Response (TTR)</title>
+          <description>TTR was defined as the time from the start of treatment until the first documented evidence of CR or PR among participants who achieved a confirmed CR or PR.</description>
+          <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Progression-Free Survival (PFS)</title>
+        <description>PFS was defined as the time from the start of treatment until the earliest date of disease progression or death due to any cause, if sooner.</description>
+        <time_frame>From first dose of study drug up to disease progression or death, (up to approximately 2 years)</time_frame>
+        <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Panobinostat 20 mg</title>
+            <description>Participants received panobinostat, 20 mg, capsules, orally, thrice weekly on alternate Days 1, 3 and 5 per week of a 28-day treatment cycle until unacceptable toxicity, disease progression and/or physician's discretion to discontinue the treatment.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Progression-Free Survival (PFS)</title>
+          <description>PFS was defined as the time from the start of treatment until the earliest date of disease progression or death due to any cause, if sooner.</description>
+          <population>Since the study was terminated early due to low prevalence of study population and slow accrual Since the study was terminated early due to low accrual, no analyses were conducted for this study.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Adverse event (AE): From the first dose of study drug up to 28 days after the last dose of study drug (up to approximately 2 years); Serious Adverse Event (SAE): From the first dose of study drug up to 4 weeks after the last dose of study drug (up to approximately 2 years)</time_frame>
+      <desc>Safety population included all participants who received at least one dose of study drug and had at least one valid post-baseline assessment.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Panobinostat 20 mg</title>
+          <description>Participants received panobinostat, 20 mg, capsules, orally, thrice weekly on alternate Days 1, 3 and 5 per week of a 28-day treatment cycle until unacceptable toxicity, disease progression and/or physician's discretion to discontinue the treatment.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>MedDRA (unspecified)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperkalaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA (unspecified)</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Lymphopenia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Sinus tachycardia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ear pruritus</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dry eye</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Eye irritation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Lacrimation increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Vision blurred</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Diarrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Dry mouth</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Dyspepsia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Dysphagia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Gastrooesophageal reflux disease</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Gingival bleeding</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Haematochezia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" subjects_affected="6" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Stomatitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Toothache</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Asthenia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Gait disturbance</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Oedema peripheral</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Pyrexia</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Thirst</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hyperbilirubinaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Hordeolum</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Influenza</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Nasopharyngitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Oral candidiasis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Postoperative wound infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Respiratory tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Staphylococcal skin infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Urinary tract infection</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Injury, poisoning and procedural complications</title>
+            <event_list>
+              <event>
+                <sub_title>Postoperative fever</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Procedural pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Alanine aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Aspartate aminotransferase increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Blood thyroid stimulating hormone increased</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Electrocardiogram QT prolonged</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Lymph node palpable</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Weight decreased</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased appetite</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Hyperkalaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Hyperphosphataemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Hypertriglyceridaemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Hyponatraemia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthritis</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Groin pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Dysgeusia</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Renal injury</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Epistaxis</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Nasal mucosal disorder</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Oropharyngeal pain</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Drug eruption</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Pruritus</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Skin burning sensation</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Skin induration</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+              <event>
+                <sub_title>Lymphorrhoea</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="9"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>The terms and conditions of Novartis' agreements with its investigators may vary. However, Novartis does not prohibit any investigator from publishing. Any publications from a single site are postponed until the publication of the pooled data (i.e., data from all sites) in the clinical trial.</restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The study was terminated early due to low accrual, no formal efficacy analyses were conducted for this study.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Study Director</name_or_title>
+      <organization>Novartis Pharmaceuticals</organization>
+      <phone>862-778-8300</phone>
+      <email>Novartis.email@novartis.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

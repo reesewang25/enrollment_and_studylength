@@ -1,0 +1,1443 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003816</url>
+  </required_header>
+  <id_info>
+    <org_study_id>RP 98-15</org_study_id>
+    <secondary_id>RP 98-15</secondary_id>
+    <nct_id>NCT00003816</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy and Donor Stem Cell Transplant in Treating Patients With Aplastic Anemia or Hematologic Cancer</brief_title>
+  <official_title>Allogeneic Blood or Marrow Transplantation for Hematologic Malignancy and Aplastic Anemia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Roswell Park Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Roswell Park Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Giving chemotherapy drugs and total-body irradiation before a donor stem cell&#xD;
+      helps stop the growth of cancer or abnormal cells. It may also stop the patient's immune&#xD;
+      system from rejecting the donor's stem cells. When the healthy stem cells from a donor are&#xD;
+      infused into the patient they may help the patient's bone marrow make stem cells, red blood&#xD;
+      cells, white blood cells, and platelets. It is not yet known which combination chemotherapy&#xD;
+      regimen is most effective when given before a donor stem cell transplant in treating aplastic&#xD;
+      anemia or hematologic cancer.&#xD;
+&#xD;
+      PURPOSE: This phase II/III trial is studying different combination chemotherapy regimens to&#xD;
+      compare how well they work when given before donor stem cell transplant in treating patients&#xD;
+      with aplastic anemia or hematologic cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Compare the morbidity, mortality, and overall outcome of patients with severe aplastic&#xD;
+           anemia or hematologic malignancy treated with standard vs novel conditioning regimens&#xD;
+           followed by allogeneic stem cell transplantation.&#xD;
+&#xD;
+        -  Examine the influence of donor histocompatibility on outcome by comparing&#xD;
+           matched/related, mismatched/related (with or without T-cell depletion), and&#xD;
+           matched/unrelated transplants with stratification for type of preparative regimen.&#xD;
+&#xD;
+        -  Ensure that patients with uncommon diagnoses will be treated in a uniform fashion with&#xD;
+           the best therapy available.&#xD;
+&#xD;
+      OUTLINE: Patients are stratified according to risk of relapse (standard-risk: acute leukemia&#xD;
+      in first complete remission, chronic myelogenous leukemia in first chronic phase, lymphoma in&#xD;
+      sensitive first relapse or second remission, primary or untreated myelodysplastic syndromes,&#xD;
+      or untreated severe aplastic anemia vs high-risk: all others).&#xD;
+&#xD;
+      Patients are assigned to one of the following conditioning regimens based on diagnosis, risk&#xD;
+      of relapse, and donor relatedness:&#xD;
+&#xD;
+        -  Regimen 1: Patients receive busulfan IV over 2 hours every 6 hours on days -7 to -4 and&#xD;
+           cyclophosphamide IV over 2 hours on days -3 and -2.&#xD;
+&#xD;
+        -  Regimen 2: Patients receive cyclophosphamide IV over 2 hours on days -5 to -2 and&#xD;
+           anti-thymocyte globulin IV over 4-8 hours on days -5 to -3.&#xD;
+&#xD;
+        -  Regimen 3: Patients receive cyclophosphamide IV over 2 hours on days -5 and -4 and&#xD;
+           total-body irradiation (TBI) twice daily on days -3 to -1.&#xD;
+&#xD;
+        -  Regimen 4: Patients receive fludarabine IV over 30 minutes on days -6 to -2 and&#xD;
+           melphalan IV over 1 hour on days -3 and -2.&#xD;
+&#xD;
+        -  Regimen 5: Patients receive etoposide IV over 26 hours beginning on day -5,&#xD;
+           cyclophosphamide IV over 2 hours on day -4, and TBI twice daily on days -3 to -1.&#xD;
+&#xD;
+        -  Regimen 6: Patients receive cyclophosphamide IV over 24 hours, carboplatin IV over 24&#xD;
+           hours, and thiotepa IV over 24 hours on days -7 to -4.&#xD;
+&#xD;
+        -  Regimen 7: Patients receive fludarabine IV over 30 minutes on days -5 to -1 and&#xD;
+           anti-thymocyte globulin IV over 4-8 hours on days -5 to -2.&#xD;
+&#xD;
+        -  Regimen 8: Patients receive cyclophosphamide IV over 2 hours on days -5 and -4, TBI&#xD;
+           twice daily on days -3 to -1, and anti-thymocyte globulin IV over 4-8 hours on days -3&#xD;
+           to -1.&#xD;
+&#xD;
+        -  Regimen 9: Patients receive busulfan IV over 2 hours every 6 hours and anti-thymocyte&#xD;
+           globulin IV over 4-8 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days&#xD;
+           -3 and -2.&#xD;
+&#xD;
+      All patients then receive donor stem cell infusions on day 0. Some patients may undergo&#xD;
+      involved-field radiotherapy 4-8 weeks after transplant.&#xD;
+&#xD;
+      Patients will be taken off study after a minimum of 4 years of follow up.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: At least 405 patients will be accrued for this study within 5 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">October 19, 1998</start_date>
+  <completion_date type="Actual">July 12, 2019</completion_date>
+  <primary_completion_date type="Actual">July 12, 2019</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>CR Rate</measure>
+    <time_frame>day 100</time_frame>
+    <description>Rate of Complete Remission by Day +100</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Toxicity/TRM at Day 100</measure>
+    <time_frame>Day +100</time_frame>
+    <description>Death due to treatment related causes before day +100 after BMT</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>4 Year PFS</measure>
+    <time_frame>4 years</time_frame>
+    <description>progression free survival estimate at 4 years post BMT (events are disease progression/relapse and death due to any cause)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>4 yr OS</measure>
+    <time_frame>4-year</time_frame>
+    <description>Overall survival estimate at 4 years post BMT</description>
+  </secondary_outcome>
+  <number_of_arms>9</number_of_arms>
+  <enrollment type="Actual">361</enrollment>
+  <condition>Chronic Myeloproliferative Disorders</condition>
+  <condition>Leukemia</condition>
+  <condition>Lymphoma</condition>
+  <condition>Myelodysplastic Syndromes</condition>
+  <condition>Myelodysplastic/Myeloproliferative Diseases</condition>
+  <condition>Nonmalignant Neoplasm</condition>
+  <condition>Unspecified Adult Solid Tumor, Protocol Specific</condition>
+  <condition>Unspecified Childhood Solid Tumor, Protocol Specific</condition>
+  <arm_group>
+    <arm_group_label>Regimen 1</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive busulfan IV over 2 hours every 6 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Regimen 2</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive cyclophosphamide IV over 2 hours on days -5 to -2 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -3.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Regimen 3</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4 and total-body irradiation (TBI) twice daily on days -3 to -1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Regimen 4</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive fludarabine IV over 30 minutes on days -6 to -2 and melphalan IV over 1 hour on days -3 and -2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Regimen 5</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive etoposide IV over 26 hours beginning on day -5, cyclophosphamide IV over 2 hours on day -4, and TBI twice daily on days -3 to -1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Regimen 6</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive cyclophosphamide IV over 24 hours, carboplatin IV over 24 hours, and thiotepa IV over 24 hours on days -7 to -4.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Regimen 7</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive fludarabine IV over 30 minutes on days -5 to -1 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -2.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Regimen 8</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4, TBI twice daily on days -3 to -1, and anti-thymocyte globulin IV over 4-8 hours on days -3 to -1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Regimen 9</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive busulfan IV over 2 hours every 6 hours and anti-thymocyte globulin IV over 4-8 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>anti-thymocyte globulin</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Regimen 2</arm_group_label>
+    <arm_group_label>Regimen 7</arm_group_label>
+    <arm_group_label>Regimen 8</arm_group_label>
+    <arm_group_label>Regimen 9</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>busulfan</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Regimen 1</arm_group_label>
+    <arm_group_label>Regimen 9</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>carboplatin</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Regimen 6</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cyclophosphamide</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Regimen 1</arm_group_label>
+    <arm_group_label>Regimen 2</arm_group_label>
+    <arm_group_label>Regimen 3</arm_group_label>
+    <arm_group_label>Regimen 5</arm_group_label>
+    <arm_group_label>Regimen 6</arm_group_label>
+    <arm_group_label>Regimen 8</arm_group_label>
+    <arm_group_label>Regimen 9</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>etoposide</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Regimen 5</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>fludarabine phosphate</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Regimen 4</arm_group_label>
+    <arm_group_label>Regimen 7</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>melphalan</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Regimen 4</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>thiotepa</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Regimen 6</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>total-body irradiation</intervention_name>
+    <description>Given twice daily for 3 days</description>
+    <arm_group_label>Regimen 3</arm_group_label>
+    <arm_group_label>Regimen 5</arm_group_label>
+    <arm_group_label>Regimen 8</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Diagnosis of one of the following:&#xD;
+&#xD;
+               -  Severe aplastic anemia as defined by either of the following:&#xD;
+&#xD;
+                    -  Marrow cellularity (&lt; 25% [or 25-50% cellularity with &lt; 30% of remaining&#xD;
+                       cells hematopoietic in origin])&#xD;
+&#xD;
+                    -  At least 2 of the following abnormal peripheral blood counts:&#xD;
+&#xD;
+                         -  Reticulocyte count &lt; 1% (corrected for hematocrit)&#xD;
+&#xD;
+                         -  Platelet count &lt; 20,000/mm^3&#xD;
+&#xD;
+                         -  Neutrophil count &lt; 500/mm^3&#xD;
+&#xD;
+               -  Histologically confirmed hematologic malignancy, including any of the following:&#xD;
+&#xD;
+                    -  Acute leukemia&#xD;
+&#xD;
+                         -  Resistant or recurrent disease after combination chemotherapy with at&#xD;
+                            least one standard regimen OR in first remission and at high risk of&#xD;
+                            relapse&#xD;
+&#xD;
+                         -  Acute myeloid leukemia (AML) (antecedent myelodysplastic syndromes&#xD;
+                            [MDS], secondary AML, or high-risk cytogenetic abnormalities)&#xD;
+&#xD;
+                         -  Acute lymphoblastic leukemia (ALL) (high-risk cytogenetic&#xD;
+                            abnormalities)&#xD;
+&#xD;
+                    -  Chronic myeloid leukemia (CML)&#xD;
+&#xD;
+                         -  Chronic phase, accelerated phase, or blast phase&#xD;
+&#xD;
+                    -  Myeloproliferative disorders or MDS, including any of the following:&#xD;
+&#xD;
+                         -  Myelofibrosis&#xD;
+&#xD;
+                         -  Polycythemia vera*&#xD;
+&#xD;
+                         -  Essential thrombocythemia*&#xD;
+&#xD;
+                         -  Refractory anemia&#xD;
+&#xD;
+                         -  Refractory anemia with excess blasts&#xD;
+&#xD;
+                         -  Refractory anemia with excess blasts in transformation&#xD;
+&#xD;
+                         -  Chronic myelomonocytic leukemia NOTE: * Only if transformed to AML or&#xD;
+                            MDS&#xD;
+&#xD;
+                    -  Lymphoproliferative disease&#xD;
+&#xD;
+                         -  Recurrent or persistent, symptomatic disease after first-line&#xD;
+                            chemotherapy, including any of the following:&#xD;
+&#xD;
+                              -  Chronic lymphocytic leukemia (CLL) (≥ 20% marrow involvement)&#xD;
+&#xD;
+                              -  Waldenstrom macroglobulinemia&#xD;
+&#xD;
+                              -  Low-grade non-Hodgkin lymphoma&#xD;
+&#xD;
+                    -  Intermediate or high-grade non-Hodgkin lymphoma, meeting 1 of the following&#xD;
+                       criteria:&#xD;
+&#xD;
+                         -  Resistant or recurrent disease after combination chemotherapy with one&#xD;
+                            standard regimen&#xD;
+&#xD;
+                         -  Lymphoblastic lymphoma or small noncleaved cell lymphoma in first&#xD;
+                            remission and at high risk of relapse&#xD;
+&#xD;
+                         -  CNS disease&#xD;
+&#xD;
+                         -  Bone marrow disease and LDH greater than 300&#xD;
+&#xD;
+               -  Solid tumor that would otherwise be treated on RPCI-DS-9115 (or equivalent&#xD;
+                  autologous stem transplant protocol) AND has a syngeneic donor&#xD;
+&#xD;
+          -  Autologous bone marrow transplant not possible (or desirable) due to 1 of the&#xD;
+             following:&#xD;
+&#xD;
+               -  History of marrow tumor&#xD;
+&#xD;
+               -  Inadequate marrow dose&#xD;
+&#xD;
+               -  Abnormal marrow histology or function prior to storage&#xD;
+&#xD;
+               -  Thrombocytopenia or leukopenia&#xD;
+&#xD;
+               -  Marrow cellularity &lt; 20%&#xD;
+&#xD;
+          -  Histocompatible donor identified&#xD;
+&#xD;
+               -  Well-matched donor, as defined by 1 of the following:&#xD;
+&#xD;
+                    -  Family member matched for 5 or 6 HLA specificities (A, B, DR)*&#xD;
+&#xD;
+                    -  Unrelated donor meeting compatibility criteria of the National Marrow Donor&#xD;
+                       Program (matched for HLA A, B, and DRB1 antigens)*&#xD;
+&#xD;
+                    -  Identical twin sibling&#xD;
+&#xD;
+               -  If a compatible cord blood donor is identified and there is no suitable unrelated&#xD;
+                  donor available, patient may receive cord blood transplant NOTE: *Patients ≤ 25&#xD;
+                  years of age may be singly mismatched at the A or B loci&#xD;
+&#xD;
+        NOTE: A new classification scheme for adult non-Hodgkin's lymphoma has been adopted by PDQ.&#xD;
+        The terminology of &quot;indolent&quot; or &quot;aggressive&quot; lymphoma will replace the former terminology&#xD;
+        of &quot;low&quot;, &quot;intermediate&quot;, or &quot;high&quot; grade lymphoma. However, this protocol uses the former&#xD;
+        terminology.&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  4 to 70&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Zubrod 0-2 OR&#xD;
+&#xD;
+          -  Karnofsky 70-100%&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin &lt; 3 times normal (unless due to disease)&#xD;
+&#xD;
+          -  Alkaline phosphatase &lt; 3 times normal (unless due to disease)&#xD;
+&#xD;
+          -  SGOT &lt; 3 times normal (unless due to disease)&#xD;
+&#xD;
+          -  Hepatitis B surface antigen negative&#xD;
+&#xD;
+          -  No severe hepatic disease that would preclude study participation&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine normal&#xD;
+&#xD;
+          -  Creatinine clearance ≥ 50 mL/min&#xD;
+&#xD;
+          -  No severe renal disease that would preclude study participation&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  Cardiac ventricular ejection fraction ≥ 50% by MUGA or echocardiogram&#xD;
+&#xD;
+          -  No uncontrolled or severe cardiovascular disease (e.g., myocardial infarction,&#xD;
+             congestive heart failure, symptomatic angina, life threatening arrhythmia, or&#xD;
+             hypertension within the past 6 months)&#xD;
+&#xD;
+        Pulmonary:&#xD;
+&#xD;
+          -  DLCO or DLVA ≥ 50% predicted (corrected for hemoglobin or alveolar ventilation)&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No serious concurrent medical or psychiatric illness&#xD;
+&#xD;
+          -  No other serious organ dysfunction (unless due to underlying disease), including the&#xD;
+             following:&#xD;
+&#xD;
+               -  Uncontrolled bacterial, viral, or fungal infection&#xD;
+&#xD;
+               -  Uncontrolled peptic ulcer disease&#xD;
+&#xD;
+               -  Uncontrolled diabetes mellitus&#xD;
+&#xD;
+          -  HIV negative&#xD;
+&#xD;
+          -  Cytomegalovirus status known&#xD;
+&#xD;
+          -  Not pregnant&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  Pretransplant cytoreductive chemotherapy allowed for patients with relapsed or&#xD;
+             refractory disease&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  Not eligible for total-body irradiation if prior radiotherapy exceeded the following&#xD;
+             limits:&#xD;
+&#xD;
+               -  Mediastinum: 3,600 cGy&#xD;
+&#xD;
+               -  Heart: 3,600 cGy&#xD;
+&#xD;
+               -  Whole lungs: 1,200 cGy&#xD;
+&#xD;
+               -  Small bowel: 3,600 cGy&#xD;
+&#xD;
+               -  Kidneys: 1,200 cGy&#xD;
+&#xD;
+               -  Whole liver: 1,600 cGy&#xD;
+&#xD;
+               -  Cranial spinal: 3,600 cGy&#xD;
+&#xD;
+               -  Brain: 4,000 cGy&#xD;
+&#xD;
+               -  Retina: 4,000 cGy&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Not specified&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>4 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Philip L. McCarthy, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Roswell Park Cancer Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2021</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <results_first_submitted>June 25, 2021</results_first_submitted>
+  <results_first_submitted_qc>July 19, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 13, 2021</results_first_posted>
+  <last_update_submitted>July 19, 2021</last_update_submitted>
+  <last_update_submitted_qc>July 19, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 13, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>recurrent childhood acute lymphoblastic leukemia</keyword>
+  <keyword>recurrent cutaneous T-cell non-Hodgkin lymphoma</keyword>
+  <keyword>Burkitt lymphoma</keyword>
+  <keyword>Waldenstrom macroglobulinemia</keyword>
+  <keyword>recurrent childhood lymphoblastic lymphoma</keyword>
+  <keyword>recurrent childhood acute myeloid leukemia</keyword>
+  <keyword>recurrent adult acute myeloid leukemia</keyword>
+  <keyword>recurrent adult acute lymphoblastic leukemia</keyword>
+  <keyword>relapsing chronic myelogenous leukemia</keyword>
+  <keyword>refractory chronic lymphocytic leukemia</keyword>
+  <keyword>chronic phase chronic myelogenous leukemia</keyword>
+  <keyword>accelerated phase chronic myelogenous leukemia</keyword>
+  <keyword>blastic phase chronic myelogenous leukemia</keyword>
+  <keyword>adult acute myeloid leukemia in remission</keyword>
+  <keyword>adult acute lymphoblastic leukemia in remission</keyword>
+  <keyword>childhood acute myeloid leukemia in remission</keyword>
+  <keyword>childhood acute lymphoblastic leukemia in remission</keyword>
+  <keyword>polycythemia vera</keyword>
+  <keyword>essential thrombocythemia</keyword>
+  <keyword>refractory anemia</keyword>
+  <keyword>refractory anemia with excess blasts</keyword>
+  <keyword>refractory anemia with excess blasts in transformation</keyword>
+  <keyword>chronic myelomonocytic leukemia</keyword>
+  <keyword>T-cell large granular lymphocyte leukemia</keyword>
+  <keyword>acute undifferentiated leukemia</keyword>
+  <keyword>recurrent grade 1 follicular lymphoma</keyword>
+  <keyword>recurrent grade 2 follicular lymphoma</keyword>
+  <keyword>recurrent grade 3 follicular lymphoma</keyword>
+  <keyword>recurrent adult diffuse small cleaved cell lymphoma</keyword>
+  <keyword>recurrent adult diffuse mixed cell lymphoma</keyword>
+  <keyword>recurrent adult diffuse large cell lymphoma</keyword>
+  <keyword>recurrent adult immunoblastic large cell lymphoma</keyword>
+  <keyword>recurrent adult lymphoblastic lymphoma</keyword>
+  <keyword>recurrent adult Burkitt lymphoma</keyword>
+  <keyword>recurrent adult T-cell leukemia/lymphoma</keyword>
+  <keyword>secondary acute myeloid leukemia</keyword>
+  <keyword>de novo myelodysplastic syndromes</keyword>
+  <keyword>previously treated myelodysplastic syndromes</keyword>
+  <keyword>secondary myelodysplastic syndromes</keyword>
+  <keyword>prolymphocytic leukemia</keyword>
+  <keyword>intraocular lymphoma</keyword>
+  <keyword>recurrent childhood small noncleaved cell lymphoma</keyword>
+  <keyword>recurrent childhood large cell lymphoma</keyword>
+  <keyword>recurrent mantle cell lymphoma</keyword>
+  <keyword>angioimmunoblastic T-cell lymphoma</keyword>
+  <keyword>anaplastic large cell lymphoma</keyword>
+  <keyword>recurrent mycosis fungoides/Sezary syndrome</keyword>
+  <keyword>primary myelofibrosis</keyword>
+  <keyword>childhood chronic myelogenous leukemia</keyword>
+  <keyword>atypical chronic myeloid leukemia</keyword>
+  <keyword>myelodysplastic/myeloproliferative disease, unclassifiable</keyword>
+  <keyword>recurrent marginal zone lymphoma</keyword>
+  <keyword>recurrent small lymphocytic lymphoma</keyword>
+  <keyword>extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue</keyword>
+  <keyword>nodal marginal zone B-cell lymphoma</keyword>
+  <keyword>splenic marginal zone lymphoma</keyword>
+  <keyword>adult acute myeloid leukemia with t(8;21)(q22;q22)</keyword>
+  <keyword>adult acute myeloid leukemia with t(16;16)(p13;q22)</keyword>
+  <keyword>adult acute myeloid leukemia with inv(16)(p13;q22)</keyword>
+  <keyword>adult acute myeloid leukemia with 11q23 (MLL) abnormalities</keyword>
+  <keyword>adult acute myeloid leukemia with t(15;17)(q22;q12)</keyword>
+  <keyword>childhood myelodysplastic syndromes</keyword>
+  <keyword>aplastic anemia</keyword>
+  <keyword>unspecified adult solid tumor, protocol specific</keyword>
+  <keyword>unspecified childhood solid tumor, protocol specific</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Preleukemia</mesh_term>
+    <mesh_term>Anemia</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Anemia, Aplastic</mesh_term>
+    <mesh_term>Myeloproliferative Disorders</mesh_term>
+    <mesh_term>Myelodysplastic-Myeloproliferative Diseases</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Melphalan</mesh_term>
+    <mesh_term>Busulfan</mesh_term>
+    <mesh_term>Thiotepa</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Fludarabine</mesh_term>
+    <mesh_term>Fludarabine phosphate</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Antilymphocyte Serum</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>October 22, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/16/NCT00003816/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>BuCy</title>
+          <description>Patients receive busulfan IV over 2 hours every 6 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.&#xD;
+busulfan: Given IV&#xD;
+cyclophosphamide: Given IV</description>
+        </group>
+        <group group_id="P2">
+          <title>CyTBI</title>
+          <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4 and total-body irradiation (TBI) twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+        </group>
+        <group group_id="P3">
+          <title>FluMel</title>
+          <description>Patients receive fludarabine IV over 30 minutes on days -6 to -2 and melphalan IV over 1 hour on days -3 and -2.&#xD;
+fludarabine phosphate: Given IV&#xD;
+melphalan: Given IV</description>
+        </group>
+        <group group_id="P4">
+          <title>VpCyTBI</title>
+          <description>Patients receive etoposide IV over 26 hours beginning on day -5, cyclophosphamide IV over 2 hours on day -4, and TBI twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+etoposide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+        </group>
+        <group group_id="P5">
+          <title>Other</title>
+          <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4, TBI twice daily on days -3 to -1, and anti-thymocyte globulin IV over 4-8 hours on days -3 to -1. OR Patients receive cyclophosphamide IV over 2 hours on days -5 to -2 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -3. OR Patients receive cyclophosphamide IV over 24 hours, carboplatin IV over 24 hours, and thiotepa IV over 24 hours on days -7 to -4. OR Patients receive fludarabine IV over 30 minutes on days -5 to -1 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -2. OR Patients receive busulfan IV over 2 hours every 6 hours and anti-thymocyte globulin IV over 4-8 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="55"/>
+                <participants group_id="P2" count="69"/>
+                <participants group_id="P3" count="199"/>
+                <participants group_id="P4" count="23"/>
+                <participants group_id="P5" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="55"/>
+                <participants group_id="P2" count="69"/>
+                <participants group_id="P3" count="199"/>
+                <participants group_id="P4" count="23"/>
+                <participants group_id="P5" count="15"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+                <participants group_id="P3" count="0"/>
+                <participants group_id="P4" count="0"/>
+                <participants group_id="P5" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>BuCy</title>
+          <description>Patients receive busulfan IV over 2 hours every 6 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.&#xD;
+busulfan: Given IV&#xD;
+cyclophosphamide: Given IV</description>
+        </group>
+        <group group_id="B2">
+          <title>CyTBI</title>
+          <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4 and total-body irradiation (TBI) twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+        </group>
+        <group group_id="B3">
+          <title>FluMel</title>
+          <description>Patients receive fludarabine IV over 30 minutes on days -6 to -2 and melphalan IV over 1 hour on days -3 and -2.&#xD;
+fludarabine phosphate: Given IV&#xD;
+melphalan: Given IV</description>
+        </group>
+        <group group_id="B4">
+          <title>VpCyTBI</title>
+          <description>Patients receive etoposide IV over 26 hours beginning on day -5, cyclophosphamide IV over 2 hours on day -4, and TBI twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+etoposide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+        </group>
+        <group group_id="B5">
+          <title>Other</title>
+          <description>Patients receive cyclophosphamide IV over 2 hours on days -5 to -2 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -3. OR Patients receive cyclophosphamide IV over 24 hours, carboplatin IV over 24 hours, and thiotepa IV over 24 hours on days -7 to -4. OR Patients receive fludarabine IV over 30 minutes on days -5 to -1 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -2. OR Patients receive cyclophosphamide IV over 2 hours on days -5 and -4, TBI twice daily on days -3 to -1, and anti-thymocyte globulin IV over 4-8 hours on days -3 to -1.&#xD;
+OR Patients receive busulfan IV over 2 hours every 6 hours and anti-thymocyte globulin IV over 4-8 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.</description>
+        </group>
+        <group group_id="B6">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="55"/>
+            <count group_id="B2" value="69"/>
+            <count group_id="B3" value="199"/>
+            <count group_id="B4" value="23"/>
+            <count group_id="B5" value="15"/>
+            <count group_id="B6" value="361"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="46" lower_limit="6" upper_limit="59"/>
+                    <measurement group_id="B2" value="28" lower_limit="4" upper_limit="50"/>
+                    <measurement group_id="B3" value="48" lower_limit="6" upper_limit="68"/>
+                    <measurement group_id="B4" value="37" lower_limit="8" upper_limit="55"/>
+                    <measurement group_id="B5" value="41" lower_limit="6" upper_limit="52"/>
+                    <measurement group_id="B6" value="44" lower_limit="4" upper_limit="68"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="24"/>
+                    <measurement group_id="B2" value="24"/>
+                    <measurement group_id="B3" value="80"/>
+                    <measurement group_id="B4" value="7"/>
+                    <measurement group_id="B5" value="4"/>
+                    <measurement group_id="B6" value="139"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="31"/>
+                    <measurement group_id="B2" value="45"/>
+                    <measurement group_id="B3" value="119"/>
+                    <measurement group_id="B4" value="16"/>
+                    <measurement group_id="B5" value="11"/>
+                    <measurement group_id="B6" value="222"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race/Ethnicity, Customized</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Non-Hispanic White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="53"/>
+                    <measurement group_id="B2" value="68"/>
+                    <measurement group_id="B3" value="188"/>
+                    <measurement group_id="B4" value="20"/>
+                    <measurement group_id="B5" value="12"/>
+                    <measurement group_id="B6" value="341"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Non-Hispanic African American</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="8"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="3"/>
+                    <measurement group_id="B6" value="12"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Non-Hispanic Asian</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hispanic, White</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Non-Hispanic Native Am</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="0"/>
+                    <measurement group_id="B6" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="55"/>
+                    <measurement group_id="B2" value="69"/>
+                    <measurement group_id="B3" value="199"/>
+                    <measurement group_id="B4" value="23"/>
+                    <measurement group_id="B5" value="15"/>
+                    <measurement group_id="B6" value="361"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Disease</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Acute myeloid leukemia</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="89"/>
+                    <measurement group_id="B4" value="13"/>
+                    <measurement group_id="B5" value="3"/>
+                    <measurement group_id="B6" value="147"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Acute lymphoblastic leukemia</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="16"/>
+                    <measurement group_id="B4" value="5"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="54"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Chronic myeloid or lymphocytic leukemia</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="14"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="2"/>
+                    <measurement group_id="B6" value="37"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Hodgkin or Non-Hodgkin lymphoma or multiple myeloma</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="56"/>
+                    <measurement group_id="B4" value="4"/>
+                    <measurement group_id="B5" value="4"/>
+                    <measurement group_id="B6" value="72"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Myelodysplastic syndrome or myeloproliferative disorder</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="15"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="23"/>
+                    <measurement group_id="B4" value="1"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="43"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Severe Aplastic anemia</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="3"/>
+                    <measurement group_id="B6" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Solid Tumor</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                    <measurement group_id="B5" value="1"/>
+                    <measurement group_id="B6" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Risk group</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Standard</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="32"/>
+                    <measurement group_id="B2" value="42"/>
+                    <measurement group_id="B3" value="73"/>
+                    <measurement group_id="B4" value="10"/>
+                    <measurement group_id="B5" value="4"/>
+                    <measurement group_id="B6" value="161"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>High</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="27"/>
+                    <measurement group_id="B3" value="126"/>
+                    <measurement group_id="B4" value="13"/>
+                    <measurement group_id="B5" value="11"/>
+                    <measurement group_id="B6" value="200"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>CR Rate</title>
+        <description>Rate of Complete Remission by Day +100</description>
+        <time_frame>day 100</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>BuCy</title>
+            <description>Patients receive busulfan IV over 2 hours every 6 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.&#xD;
+busulfan: Given IV&#xD;
+cyclophosphamide: Given IV</description>
+          </group>
+          <group group_id="O2">
+            <title>CyTBI</title>
+            <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4 and total-body irradiation (TBI) twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+          </group>
+          <group group_id="O3">
+            <title>FluMel</title>
+            <description>Patients receive fludarabine IV over 30 minutes on days -6 to -2 and melphalan IV over 1 hour on days -3 and -2.&#xD;
+fludarabine phosphate: Given IV&#xD;
+melphalan: Given IV</description>
+          </group>
+          <group group_id="O4">
+            <title>VpCyTBI</title>
+            <description>Patients receive etoposide IV over 26 hours beginning on day -5, cyclophosphamide IV over 2 hours on day -4, and TBI twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+etoposide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+          </group>
+          <group group_id="O5">
+            <title>Other</title>
+            <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4, TBI twice daily on days -3 to -1, and anti-thymocyte globulin IV over 4-8 hours on days -3 to -1. OR Patients receive cyclophosphamide IV over 2 hours on days -5 to -2 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -3. OR Patients receive cyclophosphamide IV over 24 hours, carboplatin IV over 24 hours, and thiotepa IV over 24 hours on days -7 to -4. OR Patients receive fludarabine IV over 30 minutes on days -5 to -1 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -2. OR Patients receive busulfan IV over 2 hours every 6 hours and anti-thymocyte globulin IV over 4-8 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>CR Rate</title>
+          <description>Rate of Complete Remission by Day +100</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="55"/>
+                <count group_id="O2" value="69"/>
+                <count group_id="O3" value="199"/>
+                <count group_id="O4" value="23"/>
+                <count group_id="O5" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="42"/>
+                    <measurement group_id="O2" value="55"/>
+                    <measurement group_id="O3" value="134"/>
+                    <measurement group_id="O4" value="18"/>
+                    <measurement group_id="O5" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Toxicity/TRM at Day 100</title>
+        <description>Death due to treatment related causes before day +100 after BMT</description>
+        <time_frame>Day +100</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>BuCy</title>
+            <description>Patients receive busulfan IV over 2 hours every 6 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.&#xD;
+busulfan: Given IV&#xD;
+cyclophosphamide: Given IV</description>
+          </group>
+          <group group_id="O2">
+            <title>CyTBI</title>
+            <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4 and total-body irradiation (TBI) twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+          </group>
+          <group group_id="O3">
+            <title>FluMel</title>
+            <description>Patients receive fludarabine IV over 30 minutes on days -6 to -2 and melphalan IV over 1 hour on days -3 and -2.&#xD;
+fludarabine phosphate: Given IV&#xD;
+melphalan: Given IV</description>
+          </group>
+          <group group_id="O4">
+            <title>VpCyTBI</title>
+            <description>Patients receive etoposide IV over 26 hours beginning on day -5, cyclophosphamide IV over 2 hours on day -4, and TBI twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+etoposide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+          </group>
+          <group group_id="O5">
+            <title>Other</title>
+            <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4, TBI twice daily on days -3 to -1, and anti-thymocyte globulin IV over 4-8 hours on days -3 to -1. OR Patients receive cyclophosphamide IV over 2 hours on days -5 to -2 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -3. OR Patients receive cyclophosphamide IV over 24 hours, carboplatin IV over 24 hours, and thiotepa IV over 24 hours on days -7 to -4. OR Patients receive fludarabine IV over 30 minutes on days -5 to -1 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -2. OR Patients receive busulfan IV over 2 hours every 6 hours and anti-thymocyte globulin IV over 4-8 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Toxicity/TRM at Day 100</title>
+          <description>Death due to treatment related causes before day +100 after BMT</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="55"/>
+                <count group_id="O2" value="69"/>
+                <count group_id="O3" value="199"/>
+                <count group_id="O4" value="23"/>
+                <count group_id="O5" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="4"/>
+                    <measurement group_id="O3" value="31"/>
+                    <measurement group_id="O4" value="4"/>
+                    <measurement group_id="O5" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>4 Year PFS</title>
+        <description>progression free survival estimate at 4 years post BMT (events are disease progression/relapse and death due to any cause)</description>
+        <time_frame>4 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>BuCy</title>
+            <description>Patients receive busulfan IV over 2 hours every 6 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.&#xD;
+busulfan: Given IV&#xD;
+cyclophosphamide: Given IV</description>
+          </group>
+          <group group_id="O2">
+            <title>CyTBI</title>
+            <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4 and total-body irradiation (TBI) twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+          </group>
+          <group group_id="O3">
+            <title>FluMel</title>
+            <description>Patients receive fludarabine IV over 30 minutes on days -6 to -2 and melphalan IV over 1 hour on days -3 and -2.&#xD;
+fludarabine phosphate: Given IV&#xD;
+melphalan: Given IV</description>
+          </group>
+          <group group_id="O4">
+            <title>VpCyTBI</title>
+            <description>Patients receive etoposide IV over 26 hours beginning on day -5, cyclophosphamide IV over 2 hours on day -4, and TBI twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+etoposide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+          </group>
+          <group group_id="O5">
+            <title>Other</title>
+            <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4, TBI twice daily on days -3 to -1, and anti-thymocyte globulin IV over 4-8 hours on days -3 to -1. OR Patients receive cyclophosphamide IV over 2 hours on days -5 to -2 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -3. OR Patients receive cyclophosphamide IV over 24 hours, carboplatin IV over 24 hours, and thiotepa IV over 24 hours on days -7 to -4. OR Patients receive fludarabine IV over 30 minutes on days -5 to -1 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -2. OR Patients receive busulfan IV over 2 hours every 6 hours and anti-thymocyte globulin IV over 4-8 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>4 Year PFS</title>
+          <description>progression free survival estimate at 4 years post BMT (events are disease progression/relapse and death due to any cause)</description>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="55"/>
+                <count group_id="O2" value="69"/>
+                <count group_id="O3" value="199"/>
+                <count group_id="O4" value="23"/>
+                <count group_id="O5" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="49.1" lower_limit="36" upper_limit="62.2"/>
+                    <measurement group_id="O2" value="52.2" lower_limit="40.4" upper_limit="64"/>
+                    <measurement group_id="O3" value="33.2" lower_limit="26.7" upper_limit="39.7"/>
+                    <measurement group_id="O4" value="26.1" lower_limit="8.1" upper_limit="44.1"/>
+                    <measurement group_id="O5" value="40" lower_limit="15.3" upper_limit="64.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>4 yr OS</title>
+        <description>Overall survival estimate at 4 years post BMT</description>
+        <time_frame>4-year</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>BuCy</title>
+            <description>Patients receive busulfan IV over 2 hours every 6 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.&#xD;
+busulfan: Given IV&#xD;
+cyclophosphamide: Given IV</description>
+          </group>
+          <group group_id="O2">
+            <title>CyTBI</title>
+            <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4 and total-body irradiation (TBI) twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+          </group>
+          <group group_id="O3">
+            <title>FluMel</title>
+            <description>Patients receive fludarabine IV over 30 minutes on days -6 to -2 and melphalan IV over 1 hour on days -3 and -2.&#xD;
+fludarabine phosphate: Given IV&#xD;
+melphalan: Given IV</description>
+          </group>
+          <group group_id="O4">
+            <title>VpCyTBI</title>
+            <description>Patients receive etoposide IV over 26 hours beginning on day -5, cyclophosphamide IV over 2 hours on day -4, and TBI twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+etoposide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+          </group>
+          <group group_id="O5">
+            <title>Other</title>
+            <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4, TBI twice daily on days -3 to -1, and anti-thymocyte globulin IV over 4-8 hours on days -3 to -1. OR Patients receive cyclophosphamide IV over 2 hours on days -5 to -2 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -3. OR Patients receive cyclophosphamide IV over 24 hours, carboplatin IV over 24 hours, and thiotepa IV over 24 hours on days -7 to -4. OR Patients receive fludarabine IV over 30 minutes on days -5 to -1 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -2. OR Patients receive busulfan IV over 2 hours every 6 hours and anti-thymocyte globulin IV over 4-8 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>4 yr OS</title>
+          <description>Overall survival estimate at 4 years post BMT</description>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="55"/>
+                <count group_id="O2" value="69"/>
+                <count group_id="O3" value="199"/>
+                <count group_id="O4" value="23"/>
+                <count group_id="O5" value="15"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="56.4" lower_limit="43.3" upper_limit="69.5"/>
+                    <measurement group_id="O2" value="56.5" lower_limit="44.7" upper_limit="68.3"/>
+                    <measurement group_id="O3" value="38.2" lower_limit="31.5" upper_limit="44.9"/>
+                    <measurement group_id="O4" value="39.1" lower_limit="19.1" upper_limit="59.1"/>
+                    <measurement group_id="O5" value="53.3" lower_limit="28" upper_limit="78.6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>1 year</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>BuCy</title>
+          <description>Patients receive busulfan IV over 2 hours every 6 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.&#xD;
+busulfan: Given IV&#xD;
+cyclophosphamide: Given IV</description>
+        </group>
+        <group group_id="E2">
+          <title>CyTBI</title>
+          <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4 and total-body irradiation (TBI) twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+        </group>
+        <group group_id="E3">
+          <title>FluMel</title>
+          <description>Patients receive fludarabine IV over 30 minutes on days -6 to -2 and melphalan IV over 1 hour on days -3 and -2.&#xD;
+fludarabine phosphate: Given IV&#xD;
+melphalan: Given IV</description>
+        </group>
+        <group group_id="E4">
+          <title>VpCyTBI</title>
+          <description>Patients receive etoposide IV over 26 hours beginning on day -5, cyclophosphamide IV over 2 hours on day -4, and TBI twice daily on days -3 to -1.&#xD;
+cyclophosphamide: Given IV&#xD;
+etoposide: Given IV&#xD;
+total-body irradiation: Given twice daily for 3 days</description>
+        </group>
+        <group group_id="E5">
+          <title>Other</title>
+          <description>Patients receive cyclophosphamide IV over 2 hours on days -5 and -4, TBI twice daily on days -3 to -1, and anti-thymocyte globulin IV over 4-8 hours on days -3 to -1. OR Patients receive cyclophosphamide IV over 2 hours on days -5 to -2 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -3. OR Patients receive cyclophosphamide IV over 24 hours, carboplatin IV over 24 hours, and thiotepa IV over 24 hours on days -7 to -4. OR Patients receive fludarabine IV over 30 minutes on days -5 to -1 and anti-thymocyte globulin IV over 4-8 hours on days -5 to -2. OR Patients receive busulfan IV over 2 hours every 6 hours and anti-thymocyte globulin IV over 4-8 hours on days -7 to -4 and cyclophosphamide IV over 2 hours on days -3 and -2.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="30" subjects_at_risk="55"/>
+                <counts group_id="E2" subjects_affected="36" subjects_at_risk="69"/>
+                <counts group_id="E3" subjects_affected="150" subjects_at_risk="199"/>
+                <counts group_id="E4" subjects_affected="19" subjects_at_risk="23"/>
+                <counts group_id="E5" subjects_affected="9" subjects_at_risk="15"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="55"/>
+                <counts group_id="E2" subjects_affected="10" subjects_at_risk="69"/>
+                <counts group_id="E3" subjects_affected="62" subjects_at_risk="199"/>
+                <counts group_id="E4" subjects_affected="6" subjects_at_risk="23"/>
+                <counts group_id="E5" subjects_affected="4" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>1 yr TRM</sub_title>
+                <description>death due to transplant related causes before 1 year after BMT</description>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="55"/>
+                <counts group_id="E2" events="10" subjects_affected="10" subjects_at_risk="69"/>
+                <counts group_id="E3" events="62" subjects_affected="62" subjects_at_risk="199"/>
+                <counts group_id="E4" events="6" subjects_affected="6" subjects_at_risk="23"/>
+                <counts group_id="E5" events="4" subjects_affected="4" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>Glucksberg criteria</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="25" subjects_at_risk="55"/>
+                <counts group_id="E2" subjects_affected="35" subjects_at_risk="69"/>
+                <counts group_id="E3" subjects_affected="100" subjects_at_risk="199"/>
+                <counts group_id="E4" subjects_affected="6" subjects_at_risk="23"/>
+                <counts group_id="E5" subjects_affected="9" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>acute graft-versus-host disease</sub_title>
+                <description>overall grade II to IV acute graft versus host disease</description>
+                <counts group_id="E1" events="25" subjects_affected="25" subjects_at_risk="55"/>
+                <counts group_id="E2" events="35" subjects_affected="35" subjects_at_risk="69"/>
+                <counts group_id="E3" events="100" subjects_affected="100" subjects_at_risk="199"/>
+                <counts group_id="E4" events="6" subjects_affected="6" subjects_at_risk="23"/>
+                <counts group_id="E5" events="9" subjects_affected="9" subjects_at_risk="15"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Theresa Hahn, PhD</name_or_title>
+      <organization>Roswell Park Comprehensive Cancer Center</organization>
+      <phone>716-845-5819</phone>
+      <email>theresa.hahn@roswellpark.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

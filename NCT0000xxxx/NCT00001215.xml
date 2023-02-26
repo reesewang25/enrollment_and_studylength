@@ -1,0 +1,235 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00001215</url>
+  </required_header>
+  <id_info>
+    <org_study_id>860096</org_study_id>
+    <secondary_id>86-HG-0096</secondary_id>
+    <nct_id>NCT00001215</nct_id>
+  </id_info>
+  <brief_title>Genetic Studies of Lysosomal Storage Disorders</brief_title>
+  <official_title>Studies of Genetic Heterogeneity in Patients With Lysosomal Storage Disorders</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Human Genome Research Institute (NHGRI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to identify genetic, biochemical, and clinical factors that are&#xD;
+      associated with disease severity in people with Gaucher disease and other lysosomal storage&#xD;
+      disorders.&#xD;
+&#xD;
+      There is a vast spectrum of clinical manifestations in people with Gaucher disease as well as&#xD;
+      other lysosomal storage disorders. This study will evaluate patients with lysosomal disorders&#xD;
+      on an outpatient or inpatient basis in order to better characterize the clinical, genetic,&#xD;
+      and pathophysiological features of these disorders. Participants will be re-evaluated on an&#xD;
+      annual basis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      There is a vast spectrum of clinical manifestations encountered in individuals with lysosomal&#xD;
+      storage diseases. Lysosomal storage disorders occur when an enzyme necessary for breaking&#xD;
+      down intracellular fats, proteins, recycled products and organelles in the cell is deficient.&#xD;
+      As a result, substrate accumulates within the lysosomes affecting different organ systems.&#xD;
+      The most common lysosomal storage disease, Gaucher disease (GD), results from the inherited&#xD;
+      deficiency of the enzyme glucocerebrosidase, which breaks down the lipid glucocerebroside.&#xD;
+      The disease is characterized by extremely variable manifestations, with some patients&#xD;
+      presenting in childhood with hepatosplenomegaly, anemia, thrombocytopenia and bony problems,&#xD;
+      some in infancy with a lethal neurodegenerative course, while others remain asymptomatic into&#xD;
+      their eighth decade. GD has traditionally been divided into three clinical subtypes, type 1&#xD;
+      (non-neuronopathic), type 2 (acute neuronopathic), and type 3 (chronic neuronopathic)&#xD;
+      delineated by the absence or presence of neurologic involvement and its rate of progression.&#xD;
+      Some patients, however, defy classification into these three categories, and it may be more&#xD;
+      accurate to regard GD as a continuum of phenotypes. In addition, patients and carriers of&#xD;
+      mutations in GBA1, the gene for GD, are at increased risk for developing Parkinson disease&#xD;
+      (PD) and related neurodegenerative disorders.&#xD;
+&#xD;
+      This is a longitudinal natural history study of patients with lysosomal storage disorders&#xD;
+      with emphasis on phenotypic heterogeneity of GD and those at risk for the development of&#xD;
+      parkinsonism. Our goal is to identify genetic, biochemical, and clinical parameters that are&#xD;
+      associated with disease severity in individuals with lysosomal storage disorders to identify&#xD;
+      individuals with milder or early phenotypic manifestations, and to explore the natural&#xD;
+      history and extent of associated clinical manifestations. We also study subjects with GBA1&#xD;
+      mutations who are at higher risk for developing parkinsonism to identify early disease&#xD;
+      manifestations and potential biomarkers. Participants are evaluated at the NIH to better&#xD;
+      characterize the clinical, genetic and pathophysiological features of these disorders. In&#xD;
+      order to better understand the entire effect of the enzyme deficiencies and the function of&#xD;
+      the specific proteins involved, emphasis is placed on individuals with atypical&#xD;
+      presentations. In particular, we will focus on subjects with GD and PD, to better understand&#xD;
+      the association between the two disorders. Following an initial comprehensive workup,&#xD;
+      participants will be studied either in the inpatient wards or the outpatient clinic and will&#xD;
+      be re-evaluated at periodic intervals longitudinally.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Enrolling by invitation</overall_status>
+  <start_date type="Actual">March 8, 1995</start_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical Phenotypes</measure>
+    <time_frame>ongoing</time_frame>
+    <description>The purpose of this study is to clearly describe the clinical phenotypes of individuals with lysosomal storage diseases in order to better understand the pathophysiology of these disorders and to develop new therapies.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>development of Parkinsonism</measure>
+    <time_frame>ongoing</time_frame>
+    <description>We aim to identify factors that may be predictive of the development of Parkinsonism in an at-risk population</description>
+  </secondary_outcome>
+  <number_of_groups>3</number_of_groups>
+  <enrollment type="Anticipated">1050</enrollment>
+  <condition>Lysosomal Storage Disorders</condition>
+  <condition>Gaucher Disease</condition>
+  <condition>Parkinson Disease</condition>
+  <arm_group>
+    <arm_group_label>Control</arm_group_label>
+    <description>healthy volunteers</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Family Member</arm_group_label>
+    <description>a family member of a documented proband</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Patient</arm_group_label>
+    <description>the participant on initial screening must be found to have or be a carrier of a documented lysosomal storage disorder</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Patient (or family members of patient) must be found to have or be a carrier of a&#xD;
+        documented lysosomal storage disorder.@@@&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        -  INCLUSION/EXCLUSION CRITERIA:&#xD;
+&#xD;
+        For inclusion, the participant, of any age after birth, on initial screening must be found&#xD;
+        to have or be a carrier of a documented lysosomal storage disorder or be a family member of&#xD;
+        a documented proband. Healthy controls, &gt; 18 years of age, will be recruited through the&#xD;
+        NIH healthy volunteer pool or we will invite unaffected spouses or relatives to&#xD;
+        participate. Healthy controls are necessary to determine the frequency of motor and&#xD;
+        non-motor symptoms in the general population. Parkinson disease patients, &gt; 18 years of&#xD;
+        age, will be recruited from the Parkinson disease clinic at the NIH or by self-referral and&#xD;
+        will also be used for phenotypic comparison with GBA1-associated parkinsonism.&#xD;
+&#xD;
+        Individuals who, in the opinion of the Investigator, are unable to comply with the protocol&#xD;
+        or have medical or social conditions that would potentially increase the risk of&#xD;
+        participation will be excluded from enrolling in the study. There will be no exclusion&#xD;
+        based upon age, gender, ethnicity, socioeconomic status, or any other factor. Cognitively&#xD;
+        impaired individuals may be enrolled if the legal guardian or durable power of attorney&#xD;
+        (DPA) consents, and assent will be obtained, when appropriate because a significant portion&#xD;
+        of patients with neurodegenerative disorders may develop cognitive impairment and it is&#xD;
+        important to include this information in the clinical phenotype. Pregnant or nursing women&#xD;
+        will also be included because all evaluations and procedures in this protocol do not pose&#xD;
+        risk to the mother and the fetus as no radiation or imaging studies will be performed for&#xD;
+        research purpose. Pregnancy in patients with GD and other lysosomal storage disorders&#xD;
+        presents specific challenges with regards to skeletal, hematological, and possibly visceral&#xD;
+        complications throughout gestation. It is important to capture the natural history of the&#xD;
+        disease during pregnancy to assess benefits of initiation/continuation/discontinuation of&#xD;
+        therapy depending on clinical signs and symptoms. Information obtained from participation&#xD;
+        of this population is of great value for counseling, prevention of complications, and&#xD;
+        prognostic implications. Participants are free to refuse any evaluation without affecting&#xD;
+        participation in this protocol.&#xD;
+&#xD;
+        These are generally pan-ethnic disorders. Efforts will be made to include any patient from&#xD;
+        an under-represented minority with these disorders.&#xD;
+&#xD;
+        Family members eligible/recruited include adult obligate carrier relatives, parents and&#xD;
+        siblings of Gaucher disease probands, and/or any relative with and without parkinsonism,&#xD;
+        where noncarriers volunteer for participation to serve as controls.&#xD;
+&#xD;
+        Eligibility criteria for healthy and PD control group participants include healthy&#xD;
+        participants recruited from the Healthy volunteers office or healthy non-mutation carriers&#xD;
+        family members who voluntarily agree to participate. Patients with Parkinson disease who do&#xD;
+        not carry GBA1 mutations are eligible to participate to serve as controls&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Month</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ellen Sidransky, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Human Genome Research Institute (NHGRI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?A_1986-HG-0096.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Steward AM, Wiggs E, Lindstrom T, Ukwuani S, Ryan E, Tayebi N, Roshan Lal T, Lopez G, Schiffmann R, Sidransky E. Variation in cognitive function over time in Gaucher disease type 3. Neurology. 2019 Dec 10;93(24):e2272-e2283. doi: 10.1212/WNL.0000000000008618. Epub 2019 Nov 12.</citation>
+    <PMID>31719137</PMID>
+  </reference>
+  <reference>
+    <citation>Gary SE, Ryan E, Steward AM, Sidransky E. Recent advances in the diagnosis and management of Gaucher disease. Expert Rev Endocrinol Metab. 2018 Mar;13(2):107-118. doi: 10.1080/17446651.2018.1445524. Epub 2018 Mar 12.</citation>
+    <PMID>30058864</PMID>
+  </reference>
+  <reference>
+    <citation>Lopez G, Steward A, Ryan E, Groden C, Wiggs E, Segala L, Monestime GM, Tayebi N, Sidransky E. Clinical evaluation of sibling pairs with gaucher disease discordant for parkinsonism. Mov Disord. 2020 Feb;35(2):359-365. doi: 10.1002/mds.27916. Epub 2019 Nov 30.</citation>
+    <PMID>31785030</PMID>
+  </reference>
+  <verification_date>November 2, 2022</verification_date>
+  <study_first_submitted>November 3, 1999</study_first_submitted>
+  <study_first_submitted_qc>November 3, 1999</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 4, 1999</study_first_posted>
+  <last_update_submitted>January 21, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 21, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 25, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Variants</keyword>
+  <keyword>Chemical Phenotype</keyword>
+  <keyword>Enzyme</keyword>
+  <keyword>Phenotype</keyword>
+  <keyword>Glucocerebrosidase</keyword>
+  <keyword>Natural History</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Parkinson Disease</mesh_term>
+    <mesh_term>Gaucher Disease</mesh_term>
+    <mesh_term>Lysosomal Storage Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>Yes</sharing_ipd>
+    <ipd_description>.pending</ipd_description>
+    <ipd_info_type>Study Protocol</ipd_info_type>
+    <ipd_time_frame>pending</ipd_time_frame>
+    <ipd_access_criteria>pending</ipd_access_criteria>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

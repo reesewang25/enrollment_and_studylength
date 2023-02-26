@@ -1,0 +1,240 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00005235</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CUMC ID unknown (1116)</org_study_id>
+    <secondary_id>R01HL041552</secondary_id>
+    <nct_id>NCT00005235</nct_id>
+  </id_info>
+  <brief_title>Heart Rate Variability and Sudden Cardiac Death</brief_title>
+  <official_title>The Ability of Several Short-term Measures of RR Variability to Predict Mortality After Myocardial Infarction</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Columbia University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Columbia University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To evaluate the ability of heart rate variability to identify myocardial infarction patients&#xD;
+      at high risk of dying, particularly from sudden cardiac death.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:&#xD;
+&#xD;
+      Sudden cardiac death usually is caused by malignant ventricular arrhythmias. Malignant&#xD;
+      ventricular arrhythmias in coronary heart disease are due to an interplay among substrate&#xD;
+      such as scarred ventricles, triggering events such as spontaneous ventricular arrhythmias,&#xD;
+      and the autonomic nervous system. Non-invasive methods were needed to evaluate these three&#xD;
+      components of risk in order to develop comprehensive detection and prevention programs.&#xD;
+      Non-invasive screening tests for the arrhythmogenic substrate include left ventricular&#xD;
+      ejection fraction and signal-averaged electrocardiograms, and for triggering events, the&#xD;
+      24-hour continuous ECG recordings. Measures of heart rate variability defined as the&#xD;
+      variability of the instantaneous heart rates or heart period variability defined as&#xD;
+      variability of the normal R-R intervals may provide the means for non-invasive assessment of&#xD;
+      autonomic nervous system activity. In previous studies it has been shown that a broad band&#xD;
+      measure of heart period variability, the standard deviation of all normal R-R intervals in a&#xD;
+      continuous 24-hour ECG recording made eight to fourteen days after myocardial infarction,&#xD;
+      predicted mortality in the subsequent two to four years independently of left ventricular&#xD;
+      dysfunction and spontaneous ventricular arrhythmias.&#xD;
+&#xD;
+      The six multicenter studies from which the data were drawn included: the Multicenter Post&#xD;
+      Infarction Program (MPIP), a longitudinal, observational study of 867 patients; the&#xD;
+      Multicenter Diltiazem Post Infarction Trial (MDPIT), a double-blind, randomized,&#xD;
+      placebo-controlled trial of 2,466 patients; the Cardiac Arrhythmia Pilot Study (CAPS), a&#xD;
+      double-blind, randomized, placebo-controlled trial of 502 patients; the Cardiac Arrhythmia&#xD;
+      Suppression Trial (CAST), a double-blind, randomized, placebo-controlled trial of 4,200&#xD;
+      patients; Electrophysiologic Studies Versus Electrocardiographic Monitoring (ESVEM), a&#xD;
+      comparison of two methods for evaluating antiarrhythmic drug efficacy in 350 patients; and&#xD;
+      the Cardiac Rate/Rhythm in Normal Adults, a cross-sectional observational study of 250&#xD;
+      subjects.&#xD;
+&#xD;
+      DESIGN NARRATIVE:&#xD;
+&#xD;
+      Measurements of short and long-term heart rate and heart period variability were compared.&#xD;
+      The day-to-day reproducibility and time course of change were determined in measures of heart&#xD;
+      rate variability and heart period variability in patients with myocardial infarction. The&#xD;
+      predictive accuracy of heart rate variability measured late after myocardial infarction for&#xD;
+      subsequent mortality and development of malignant ventricular arrhythmias was determined.&#xD;
+      Heart rate and heart period variability findings after myocardial infarction were compared&#xD;
+      with those in age and sex-matched normal subjects and with those made in patients with&#xD;
+      malignant ventricular arrhythmias.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>December 1988</start_date>
+  <completion_date type="Actual">September 1993</completion_date>
+  <primary_completion_date type="Actual">September 1993</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <enrollment type="Actual">715</enrollment>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Infarction</condition>
+  <condition>Death, Sudden, Cardiac</condition>
+  <condition>Ventricular Arrhythmia</condition>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        Participants in the Multicenter Post Infarction Program (MPIP), a natural history study&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        Inclusion criteria&#xD;
+&#xD;
+        --Patients that have had myocardial infarction within 2 weeks - still in hospital and&#xD;
+        sedentary except for short walks in hospital corridors&#xD;
+&#xD;
+        Exclusion criteria&#xD;
+&#xD;
+        --Inadequate 24-hour ECG recordings&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>John Bigger, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Professor Emeritus of Medicine and Pharmacology, Columbia University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Columbia University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Bigger JT Jr, Albrecht P, Steinman RC, Rolnitzky LM, Fleiss JL, Cohen RJ. Comparison of time- and frequency domain-based measures of cardiac parasympathetic activity in Holter recordings after myocardial infarction. Am J Cardiol. 1989 Sep 1;64(8):536-8. doi: 10.1016/0002-9149(89)90436-0. No abstract available.</citation>
+    <PMID>2773799</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr, La Rovere MT, Steinman RC, Fleiss JL, Rottman JN, Rolnitzky LM, Schwartz PJ. Comparison of baroreflex sensitivity and heart period variability after myocardial infarction. J Am Coll Cardiol. 1989 Nov 15;14(6):1511-8. doi: 10.1016/0735-1097(89)90390-2.</citation>
+    <PMID>2809012</PMID>
+  </reference>
+  <reference>
+    <citation>Rottman JN, Steinman RC, Albrecht P, Bigger JT Jr, Rolnitzky LM, Fleiss JL. Efficient estimation of the heart period power spectrum suitable for physiologic or pharmacologic studies. Am J Cardiol. 1990 Dec 15;66(20):1522-4. doi: 10.1016/0002-9149(90)90551-b. No abstract available.</citation>
+    <PMID>2252008</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr, Fleiss JL. The variability of spontaneous ventricular arrhythmias in the year after myocardial infarction. J Am Coll Cardiol. 1991 Jan;17(1):9-10. doi: 10.1016/0735-1097(91)90698-9. No abstract available.</citation>
+    <PMID>1702796</PMID>
+  </reference>
+  <reference>
+    <citation>Goldsmith RL, Bigger JT Jr, Steinman RC, Fleiss JL. Comparison of 24-hour parasympathetic activity in endurance-trained and untrained young men. J Am Coll Cardiol. 1992 Sep;20(3):552-8. doi: 10.1016/0735-1097(92)90007-a.</citation>
+    <PMID>1512332</PMID>
+  </reference>
+  <reference>
+    <citation>Fleiss JL, Bigger JT Jr, Rolnitzky LM. The correlation between heart period variability and mean period length. Stat Med. 1992 Jan 15;11(1):125-9. doi: 10.1002/sim.4780110111.</citation>
+    <PMID>1557568</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr, Fleiss JL, Steinman RC, Rolnitzky LM, Kleiger RE, Rottman JN. Correlations among time and frequency domain measures of heart period variability two weeks after acute myocardial infarction. Am J Cardiol. 1992 Apr 1;69(9):891-8. doi: 10.1016/0002-9149(92)90788-z.</citation>
+    <PMID>1550018</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr, Fleiss JL, Rolnitzky LM, Steinman RC. Stability over time of heart period variability in patients with previous myocardial infarction and ventricular arrhythmias. The CAPS and ESVEM investigators. Am J Cardiol. 1992 Mar 15;69(8):718-23. doi: 10.1016/0002-9149(92)90493-i.</citation>
+    <PMID>1546643</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr, Fleiss JL, Steinman RC, Rolnitzky LM, Kleiger RE, Rottman JN. Frequency domain measures of heart period variability and mortality after myocardial infarction. Circulation. 1992 Jan;85(1):164-71. doi: 10.1161/01.cir.85.1.164.</citation>
+    <PMID>1728446</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr, Fleiss JL, Rolnitzky LM, Steinman RC, Schneider WJ. Time course of recovery of heart period variability after myocardial infarction. J Am Coll Cardiol. 1991 Dec;18(7):1643-9. doi: 10.1016/0735-1097(91)90497-w.</citation>
+    <PMID>1960309</PMID>
+  </reference>
+  <reference>
+    <citation>Kleiger RE, Bigger JT, Bosner MS, Chung MK, Cook JR, Rolnitzky LM, Steinman R, Fleiss JL. Stability over time of variables measuring heart rate variability in normal subjects. Am J Cardiol. 1991 Sep 1;68(6):626-30. doi: 10.1016/0002-9149(91)90355-o.</citation>
+    <PMID>1877480</PMID>
+  </reference>
+  <reference>
+    <citation>Cook JR, Bigger JT Jr, Kleiger RE, Fleiss JL, Steinman RC, Rolnitzky LM. Effect of atenolol and diltiazem on heart period variability in normal persons. J Am Coll Cardiol. 1991 Feb;17(2):480-4. doi: 10.1016/s0735-1097(10)80119-6.</citation>
+    <PMID>1991906</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr, Rolnitzky LM, Steinman RC, Fleiss JL. Predicting mortality after myocardial infarction from the response of RR variability to antiarrhythmic drug therapy. J Am Coll Cardiol. 1994 Mar 1;23(3):733-40. doi: 10.1016/0735-1097(94)90761-7.</citation>
+    <PMID>7509355</PMID>
+  </reference>
+  <reference>
+    <citation>Bloomfield DM, Bigger JT Jr, Pavri BB, Han J, Fleiss JL, Rolnitzky LM, Steinman RC. Vagal modulation of RR intervals during head-up tilt and the infusion of isoproterenol. Am J Cardiol. 1995 Jun 1;75(16):1145-50. doi: 10.1016/s0002-9149(99)80747-4.</citation>
+    <PMID>7762502</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr, Fleiss JL, Steinman RC, Rolnitzky LM, Schneider WJ, Stein PK. RR variability in healthy, middle-aged persons compared with patients with chronic coronary heart disease or recent acute myocardial infarction. Circulation. 1995 Apr 1;91(7):1936-43. doi: 10.1161/01.cir.91.7.1936.</citation>
+    <PMID>7895350</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT, Fleiss JL, Rolnitzky LM, Steinman RC. The ability of several short-term measures of RR variability to predict mortality after myocardial infarction. Circulation. 1993 Sep;88(3):927-34. doi: 10.1161/01.cir.88.3.927.</citation>
+    <PMID>8353919</PMID>
+  </reference>
+  <reference>
+    <citation>Kaufman ES, Bosner MS, Bigger JT Jr, Stein PK, Kleiger RE, Rolnitzky LM, Steinman RC, Fleiss JL. Effects of digoxin and enalapril on heart period variability and response to head-up tilt in normal subjects. Am J Cardiol. 1993 Jul 1;72(1):95-9. doi: 10.1016/0002-9149(93)90226-3.</citation>
+    <PMID>8517437</PMID>
+  </reference>
+  <reference>
+    <citation>Bigger JT Jr, Fleiss JL, Rolnitzky LM, Steinman RC. Frequency domain measures of heart period variability to assess risk late after myocardial infarction. J Am Coll Cardiol. 1993 Mar 1;21(3):729-36. doi: 10.1016/0735-1097(93)90106-b. Erratum In: J Am Coll Cardiol 1993 May;21(6):1537.</citation>
+    <PMID>8436755</PMID>
+  </reference>
+  <verification_date>December 2015</verification_date>
+  <study_first_submitted>May 25, 2000</study_first_submitted>
+  <study_first_submitted_qc>May 25, 2000</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 26, 2000</study_first_posted>
+  <last_update_submitted>December 22, 2015</last_update_submitted>
+  <last_update_submitted_qc>December 22, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 24, 2015</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Myocardial Infarction</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Death, Sudden, Cardiac</mesh_term>
+    <mesh_term>Infarction</mesh_term>
+    <mesh_term>Death</mesh_term>
+    <mesh_term>Death, Sudden</mesh_term>
+  </condition_browse>
+  <study_docs>
+    <study_doc>
+      <doc_type>NCBI website</doc_type>
+      <doc_url>http://www.ncbi.nlm.nih.gov/pubmed/8353919</doc_url>
+    </study_doc>
+  </study_docs>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

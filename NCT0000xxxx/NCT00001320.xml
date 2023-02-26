@@ -1,0 +1,203 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00001320</url>
+  </required_header>
+  <id_info>
+    <org_study_id>920024</org_study_id>
+    <secondary_id>92-M-0024</secondary_id>
+    <nct_id>NCT00001320</nct_id>
+  </id_info>
+  <brief_title>Neuroimaging of Dopamine Metabolism in Normal and Psychiatric Patients</brief_title>
+  <official_title>I-123 Iodobenzamide (IBZM) SPECT Studies of D2 Receptor Distribution and Function in Patients With Schizophrenia and Normal Volunteers</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Mental Health (NIMH)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <brief_summary>
+    <textblock>
+      Brain cells communicate with each other by releasing chemicals called neurotransmitters. In&#xD;
+      order for brain cells to transfer information, one cell will release a neurotransmitter that&#xD;
+      will be recognized by a receptor located on surface of another cell. One such&#xD;
+      neurotransmitter is dopamine.&#xD;
+&#xD;
+      Abnormal dopamine transmission has been seen in patients with substance abuse and different&#xD;
+      neuropsychiatric disorders including schizophrenia.&#xD;
+&#xD;
+      A radioactive drug called IZBM (I-123 iodobenzamide) can also bind to certain dopamine&#xD;
+      receptors. IZBM can be seen by Single Photon Emission Tomography (SPECT). Therefore, by using&#xD;
+      IZBM and SPECT scans, researchers can find and &quot;map&quot; the location of dopamine receptors in&#xD;
+      the brain.&#xD;
+&#xD;
+      Patients participating in this study must also have been selected for other genetic studies&#xD;
+      being conducted at the NIMH. Patients with schizophrenia will be selected from a NIMH&#xD;
+      research study titled, &quot;Neurobiological Investigation of Patients with Schizophrenia Spectrum&#xD;
+      Disorders and Their Siblings&quot; (95-M-0150). Normal patient volunteers will be selected from&#xD;
+      another NIMH study titled, &quot;Inpatient Evaluation of Neuropsychiatric Patients&quot; (89-M-0160).&#xD;
+      All aspects of clinical care and genetic analysis of these patients will be covered in these&#xD;
+      studies, while information pertaining to IBZM SPECT scans will be covered in this study.&#xD;
+&#xD;
+      This study will not directly benefit patients participating in it. However, information&#xD;
+      gathered may contribute to faster and more accurate diagnosis of schizophrenia and eventually&#xD;
+      better treatment for the disorder.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Abnormalities in dopaminergic neurotransmission have been described in substance abuse and&#xD;
+      different neuropsychiatric disorders including schizophrenia. [I-123] IBZM is a radioligand&#xD;
+      that has been widely employed for SPECT imaging of dopamine type 2 and type 3 receptors (D2&#xD;
+      and D3, respectively) and fluctuations in levels of endogenous dopamine. [I-123] IBZM SPECT&#xD;
+      has been used in the SPECT Lab of the Clinical Brain Disorders Branch for several years&#xD;
+      without adverse effects. Pharmacological effects of IBZM are unlikely due to the minimal&#xD;
+      amounts used and have not been observed. We propose to use [I-123] IBZM SPECT to explore&#xD;
+      following questions: 1) Can a previously found relationship between N-acetylaspartate (NAA)&#xD;
+      measures in the dorsolateral prefrontal cortex and striatal dopamine activity in patients&#xD;
+      with schizophrenia be replicated and is it also found in normal subjects? 2) Do allelic&#xD;
+      variants of genes for the dopamine type 2 (DRD2) and type 3 (DRD3) receptors, the dopamine&#xD;
+      transporter (SLC6A3), or enzymes involved in dopamine biosynthesis (TH) and metabolism (COMT,&#xD;
+      MAOA) affect D2 receptor availability in vivo?&#xD;
+&#xD;
+      This technical protocol describes the procedural aspects of [I-123]IBZM SPECT. It is not&#xD;
+      intended to be sufficient on its own for a clinical study. All subjects volunteering for this&#xD;
+      study will be recruited from among individuals who have previously consented to participate&#xD;
+      in clinical studies under one of two NIH protocols that include genetic testing.&#xD;
+      Schizophrenia patients will be recruited from among NIMH inpatients participating under NIH&#xD;
+      protocol #89-M-0160, &quot;Inpatient Evaluation of Neuropsychiatric Patients&quot; (Egan 1999a). Normal&#xD;
+      volunteers will be recruited from among those participating under NIH protocol #95-M-0150, &quot;A&#xD;
+      Neurobiological Investigation of Patients with Schizophrenia Spectrum Disorders and Their&#xD;
+      Siblings&quot; (Egan 1999b), which includes recruitment of a normal control group whose first&#xD;
+      degree relatives are free of mental illness. All details related to clinical care and genetic&#xD;
+      analysis are contained in those two protocols and their associated consent forms; all details&#xD;
+      related to [I-123]IBZM SPECT studies, per se, are discussed in this protocol, which requires&#xD;
+      a separate informed consent from each volunteer.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 1991</start_date>
+  <completion_date>July 2003</completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <enrollment>265</enrollment>
+  <condition>Healthy</condition>
+  <condition>Schizophrenia</condition>
+  <eligibility>
+    <criteria>
+      <textblock>
+        INCLUSION CRITERIA:&#xD;
+&#xD;
+        Patients with schizophrenia will be recruited exclusively from among inpatients who are&#xD;
+        participating in clinical studies of the Clinical Brain Disorders Branch of NIMH under NIH&#xD;
+        protocol #89-M-0160 (Egan 1999a) and for whom genetic data is already available.&#xD;
+&#xD;
+        Normal volunteers will be recruited exclusively from among individuals who have volunteered&#xD;
+        for studies under NIH protocol #95-M-0150 (Egan 1999b) as normal control subjects and for&#xD;
+        whom genetic data is already being analyzed.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Pregnancy: All women of childbearing age must undergo a pregnancy test prior to injection&#xD;
+        or radioactive isotope. If the pregnancy test is positive or if the woman has reason to&#xD;
+        believe she might be pregnant, she will be excluded from this study.&#xD;
+&#xD;
+        Breastfeeding: Women who are breastfeeding will be excluded from this study to avoid&#xD;
+        unwarranted risk to their children.&#xD;
+&#xD;
+        Iodine sensitivity: Subjects with a prior reaction to iodine, iodine compounds, or&#xD;
+        shellfish will be excluded from this study. Also, subjects with a history of thyroid&#xD;
+        disease or dysfunction will be excluded from this study.&#xD;
+&#xD;
+        Substance abuse: Subjects with a history of recent substance abuse will be excluded from&#xD;
+        this study.&#xD;
+&#xD;
+        Metal objects in body: Subjects with metal objects in their bodies as specified in our MRI&#xD;
+        protocol (91-M-0124) will be excluded from this study.&#xD;
+&#xD;
+        INCLUSION CRITERIA FOR PATIENTS WITH SCHIZOPHRENIA:&#xD;
+&#xD;
+        Prior participation as a NIMH inpatient under NIH protocol #89-M-0160.&#xD;
+&#xD;
+        Schizophrenia diagnosis according to DSM-IV criteria.&#xD;
+&#xD;
+        EXCLUSION CRITERIA FOR PATIENTS WITH SCHIZOPHRENIA:&#xD;
+&#xD;
+        Coexistence of another mental illness at the time of the study. If the patient has&#xD;
+        experienced other mental illnesses in the past (e.g. a learning disability or major&#xD;
+        depression), then this should be judged to be fully recovered.&#xD;
+&#xD;
+        INCLUSION CRITERIA FOR NORMAL CONTROLS:&#xD;
+&#xD;
+        Prior participation as a normal volunteer under NIH protocol #95-M-0150.&#xD;
+&#xD;
+        No Axis I or Axis II diagnoses.&#xD;
+&#xD;
+        EXCLUSION CRITERIA FOR NORMAL CONTROLS:&#xD;
+&#xD;
+        Subjects with an Axis I or II disorder will be excluded.&#xD;
+&#xD;
+        Subjects with concomitant medical or neurological disorders which require ongoing&#xD;
+        medication, or which may affect the central nervous system will be excluded.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>National Institute of Mental Health (NIMH)</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Knable MB, Egan MF, Heinz A, Gorey J, Lee KS, Coppola R, Weinberger DR. Altered dopaminergic function and negative symptoms in drug-free patients with schizophrenia. [123I]-iodobenzamide SPECT study. Br J Psychiatry. 1997 Dec;171:574-7. doi: 10.1192/bjp.171.6.574.</citation>
+    <PMID>9519100</PMID>
+  </reference>
+  <reference>
+    <citation>Knable MB, Heinz A, Raedler T, Weinberger DR. Extrapyramidal side effects with risperidone and haloperidol at comparable D2 receptor occupancy levels. Psychiatry Res. 1997 Sep 29;75(2):91-101. doi: 10.1016/s0925-4927(97)00023-1.</citation>
+    <PMID>9351491</PMID>
+  </reference>
+  <reference>
+    <citation>Wolf SS, Jones DW, Knable MB, Gorey JG, Lee KS, Hyde TM, Coppola R, Weinberger DR. Tourette syndrome: prediction of phenotypic variation in monozygotic twins by caudate nucleus D2 receptor binding. Science. 1996 Aug 30;273(5279):1225-7. doi: 10.1126/science.273.5279.1225.</citation>
+    <PMID>8703056</PMID>
+  </reference>
+  <verification_date>July 2003</verification_date>
+  <study_first_submitted>November 3, 1999</study_first_submitted>
+  <study_first_submitted_qc>November 3, 1999</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 4, 1999</study_first_posted>
+  <last_update_submitted>March 3, 2008</last_update_submitted>
+  <last_update_submitted_qc>March 3, 2008</last_update_submitted_qc>
+  <last_update_posted type="Estimate">March 4, 2008</last_update_posted>
+  <keyword>Parkinson's Disease</keyword>
+  <keyword>Schizophrenia</keyword>
+  <keyword>Dopamine D2/D3 receptors</keyword>
+  <keyword>Brain Imaging</keyword>
+  <keyword>SPECT</keyword>
+  <keyword>Equilibrium</keyword>
+  <keyword>Brain Scan</keyword>
+  <keyword>Brain Research</keyword>
+  <keyword>Brain Disorders</keyword>
+  <keyword>Schizoaffective Disorder</keyword>
+  <keyword>Normal Volunteer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Schizophrenia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

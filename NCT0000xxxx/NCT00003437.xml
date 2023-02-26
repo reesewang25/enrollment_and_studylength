@@ -1,0 +1,490 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003437</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000066464</org_study_id>
+    <secondary_id>MRC-LEUK-ALL97</secondary_id>
+    <secondary_id>EU-97032</secondary_id>
+    <nct_id>NCT00003437</nct_id>
+  </id_info>
+  <brief_title>Hormone Therapy Plus Chemotherapy in Treating Children With Acute Lymphoblastic Leukemia</brief_title>
+  <official_title>Medical Research Council Working Party on Leukaemia in Children UK National Lymphoblastic Leukaemia (ALL) Trial</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical Research Council</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Hormone therapy may stop the growth of cancer cells. Drugs used in chemotherapy&#xD;
+      use different ways to stop cancer cells from dividing so they stop growing or die. Combining&#xD;
+      hormone therapy with chemotherapy may kill more cancer cells. It is not yet known which&#xD;
+      hormone therapy and chemotherapy regimen is most effective for acute lymphoblastic leukemia.&#xD;
+&#xD;
+      PURPOSE: Randomized phase III trial to compare the effectiveness of different steroid therapy&#xD;
+      and chemotherapy regimens in treating children who have acute lymphoblastic leukemia.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Compare the effects of oral prednisolone vs oral dexamethasone on remission rate,&#xD;
+           event-free survival, and overall survival of children with acute lymphoblastic leukemia.&#xD;
+&#xD;
+        -  Compare the effect of oral mercaptopurine (MP) vs oral thioguanine (TG) on remission&#xD;
+           rate, event-free survival, and overall survival of this patient population.&#xD;
+&#xD;
+        -  Assess the effect of a schedule concentrating on tight control of maintenance therapy,&#xD;
+           compensating where necessary for constitutional drug resistance and avoiding poor&#xD;
+           physician or patient compliance, on event-free survival of these patients.&#xD;
+&#xD;
+        -  Compare the pharmacokinetics of MP and TG in these patients.&#xD;
+&#xD;
+        -  Collect data on the presence or absence of minimal residual disease in serial bone&#xD;
+           marrow samples to assess its clinical importance.&#xD;
+&#xD;
+      OUTLINE: This is a randomized, multicenter study. Patients are randomized twice during the&#xD;
+      study: prednisolone vs dexamethasone and mercaptopurine vs thioguanine. Patients are&#xD;
+      initially stratified according to risk status (standard vs intermediate vs high). Patients&#xD;
+      are stratified at the second randomization according to gender, age (under 2 years vs 2 to 9&#xD;
+      years vs over 9 years), WBC (under 50,000/mm^3 vs over 50,000/mm^3), steroid allocation, and&#xD;
+      early response (slow vs rapid).&#xD;
+&#xD;
+      Patients with verified CNS disease receive weekly intrathecal (IT) methotrexate until 2&#xD;
+      consecutive clear cerebrospinal fluid samples have been obtained. Cranial radiotherapy is&#xD;
+      administered over 15-21 days during weeks 5-8 concurrently with methotrexate IT in the&#xD;
+      appropriate regimen. Following radiotherapy, these patients receive monthly methotrexate IT&#xD;
+      for 1 year and then every 3 months until the end of therapy.&#xD;
+&#xD;
+      Patients with testicular infiltration receive additional radiation fractions daily for 12&#xD;
+      days to both testes during weeks 5-8.&#xD;
+&#xD;
+      Regimen A (standard-risk patients)&#xD;
+&#xD;
+        -  Remission induction: Patients receive the assigned oral steroid (prednisolone or&#xD;
+           dexamethasone) twice a day on days 1-28; vincristine IV on days 1, 8, 15, and 22; and&#xD;
+           asparaginase IM three days a week for 9 doses beginning on day 4. Patients also receive&#xD;
+           cytarabine IT on day 1 and methotrexate IT on day 8.&#xD;
+&#xD;
+        -  If bone marrow is M3 at day 15 or M2 at day 29, therapy continues on regimen C.&#xD;
+           Otherwise, patient continues on regimen A.&#xD;
+&#xD;
+        -  Consolidation: Patients taper the assigned steroid over days 29-35, plus receive&#xD;
+           vincristine IV on day 29 and methotrexate IT on days 29, 36, 43, and 50. Patients also&#xD;
+           receive oral thiopurine (mercaptopurine or thioguanine) on days 29-56.&#xD;
+&#xD;
+        -  Interim maintenance I: Patients receive the assigned oral steroid twice a day on days&#xD;
+           57-61 and 85-89 plus vincristine IV on days 57 and 85. Patients also receive the&#xD;
+           assigned oral thiopurine on days 57-105 and oral methotrexate on days 57, 64, 71, 78,&#xD;
+           85, 92, 99, and 106.&#xD;
+&#xD;
+        -  Delayed intensification I: Patients receive oral dexamethasone twice a day on days&#xD;
+           113-119 and 127-133, plus vincristine IV and daunorubicin IV over 6 hours on days 113,&#xD;
+           120, and 127. Patients also receive asparaginase IM three days a week for 6 doses&#xD;
+           beginning on day 114 or 115 and methotrexate IT on day 113. Cyclophosphamide IV over 30&#xD;
+           minutes is administered on day 141. Patients also receive oral thioguanine on days&#xD;
+           141-154, cytarabine IV or subcutaneously (SC) twice a day on days 142-145 and 149-152,&#xD;
+           and methotrexate IT on days 141 and 148.&#xD;
+&#xD;
+        -  Interim maintenance II: Patients receive the assigned oral steroid twice a day on days&#xD;
+           162-166 and 190-194 and vincristine IV on days 162 and 190. Patients also receive the&#xD;
+           assigned oral thiopurine on days 162-210 and oral methotrexate on days 162, 169, 176,&#xD;
+           183, 190, 197, 204, and 211.&#xD;
+&#xD;
+        -  Delayed intensification II: Patients receive oral dexamethasone on days 218-224 and&#xD;
+           239-245; vincristine IV and doxorubicin IV over 6 hours on days 218, 225, and 232; and&#xD;
+           methotrexate IT on day 218. Asparaginase IM is administered three days a week for 6&#xD;
+           doses beginning on day 219 or 220. Patients then receive cyclophosphamide IV over 30&#xD;
+           minutes on day 246, oral thioguanine on days 246-259, cytarabine IV or SC on days&#xD;
+           247-250 and 254-257, and methotrexate IT on days 246 and 253.&#xD;
+&#xD;
+        -  Maintenance: Treatment is given as a 12-week course for 6 courses (girls) or 11 courses&#xD;
+           (boys). Patients receive the assigned oral steroid twice a day on days 1-5, 29-33, and&#xD;
+           57-61 of each course, vincristine IV on days 1, 29, and 57 of each course, and the&#xD;
+           assigned oral thiopurine daily during each course. Methotrexate IT is administered to&#xD;
+           girls on day 1 of each course and on day 84 of course 6, while boys receive 1 dose on&#xD;
+           day 1 of course 11. Patients also receive oral methotrexate on days 8, 15, 22, 29, 36,&#xD;
+           43, 50, 57, 64, 71, and 78 of each course.&#xD;
+&#xD;
+      Regimen B (intermediate-risk patients)&#xD;
+&#xD;
+        -  Remission induction: Patients receive the assigned oral steroid, vincristine, and&#xD;
+           asparaginase as in regimen A remission induction. Patients also receive daunorubicin IV&#xD;
+           over 6 hours on days 1, 8, 15, and 22; cytarabine IT on day 1; and methotrexate IT on&#xD;
+           day 8.&#xD;
+&#xD;
+        -  If bone marrow is M3 at day 8 or M2 at day 29, therapy continues on regimen C.&#xD;
+           Otherwise, patient continues on regimen B.&#xD;
+&#xD;
+        -  Consolidation: The assigned steroid is tapered over days 29-35. Patients also receive&#xD;
+           cyclophosphamide IV over 30 minutes on days 29 and 43; cytarabine IV or SC on days&#xD;
+           30-33, 37-40, 44-47, and 51-54; oral mercaptopurine on days 29-56; and methotrexate IT&#xD;
+           on days 29, 36, 43, and 50.&#xD;
+&#xD;
+        -  Patients with M1 or M2 bone marrow on day 64 proceed to interim maintenance I.&#xD;
+&#xD;
+        -  Interim maintenance I: Patients receive the assigned steroid, vincristine, the assigned&#xD;
+           thiopurine, and oral methotrexate as in regimen A. Patients also receive methotrexate IT&#xD;
+           on days 64 and 92.&#xD;
+&#xD;
+        -  Delayed intensification I: Patients receive oral dexamethasone on days 120-126 and&#xD;
+           134-140, plus vincristine IV and doxorubicin IV over 6 hours on days 120, 127, and 134.&#xD;
+           Patients also receive asparaginase IM three days a week for 6 doses beginning on day 121&#xD;
+           or 122 and methotrexate IT on day 120. Patients then receive cyclophosphamide IV over 30&#xD;
+           minutes on day 148, oral thioguanine on days 148-161, cytarabine IV or SC on days&#xD;
+           149-152 and 156-159, and methotrexate IT on days 148 and 155.&#xD;
+&#xD;
+        -  Interim maintenance II: Patients receive the assigned oral steroid twice a day on days&#xD;
+           169-173 and 197-201; vincristine IV on days 169 and 197; the assigned oral thiopurine on&#xD;
+           days 169-217; oral methotrexate on days 176, 183, 190, 197, 204, and 211; and&#xD;
+           methotrexate IT on days 169 and 197.&#xD;
+&#xD;
+        -  Delayed intensification II: Patients receive oral dexamethasone on days 225-231 and&#xD;
+           239-245; vincristine IV and doxorubicin IV over 6 hours on days 225, 232, and 239; and&#xD;
+           methotrexate IT on day 225. Asparaginase IM is administered three days a week for 6&#xD;
+           doses beginning on day 226 or 227. Patients then receive cyclophosphamide IV over 30&#xD;
+           minutes on day 253, oral thioguanine on days 253-266, cytarabine IV or SC on days&#xD;
+           253-256 and 260-263, and methotrexate IT on days 253 and 260.&#xD;
+&#xD;
+        -  Maintenance: Treatment is administered as in regimen A.&#xD;
+&#xD;
+      Regimen C (Slow early response to regimen A or B OR high-risk patients)&#xD;
+&#xD;
+        -  Remission induction for patients switching from regimen A: Patients continue assigned&#xD;
+           oral steroid for a total of 35 days. Patients also receive vincristine IV on days 15,&#xD;
+           22, and 29, and daunorubicin IV over 6 hours on days 15 and 22. Asparaginase IM is&#xD;
+           administered 3 days a week for 6 doses. Patients receive methotrexate IT on day 29&#xD;
+           (patients with CNS disease also receive doses on days 15 and 22).&#xD;
+&#xD;
+        -  Remission induction for patients switching from regimen B: Patients continue assigned&#xD;
+           oral steroid for a total of 35 days. Patients also receive vincristine IV and&#xD;
+           daunorubicin IV over 6 hours on days 8, 15, and 22. Asparaginase IM continues three days&#xD;
+           a week for up to 6 doses. Patients also receive methotrexate IT on day 29 (patients with&#xD;
+           CNS disease also receive doses on days 14 and 21).&#xD;
+&#xD;
+        -  Consolidation: Patients receive cyclophosphamide IV over 30 minutes on days 36 and 64;&#xD;
+           cytarabine IV or SC on days 37-40, 44-47, 65-68, and 72-75; oral mercaptopurine on days&#xD;
+           36-49 and 64-77; vincristine IV on days 50, 57, 78, and 85; pegaspargase IM on days 50&#xD;
+           and 78; and methotrexate IT on days 36, 43, 50, and 57.&#xD;
+&#xD;
+        -  Interim maintenance I: Patients receive vincristine IV and methotrexate IV on days 99,&#xD;
+           109, 119, 129, and 139. Pegaspargase IM is administered on days 100 and 110 and&#xD;
+           methotrexate IT is administered on days 99 and 129 (patients with CNS disease do not&#xD;
+           receive the dose on day 129).&#xD;
+&#xD;
+        -  Patients with M1 or M2 bone marrow proceed to delayed intensification I.&#xD;
+&#xD;
+        -  Delayed intensification I:&#xD;
+&#xD;
+             -  Reinduction: Patients receive vincristine IV and doxorubicin IV over 6 hours on&#xD;
+                days 162, 169, and 176; oral dexamethasone twice a day on days 162-168 and 176-82;&#xD;
+                methotrexate IT on day 162; and pegaspargase IM on day 165.&#xD;
+&#xD;
+             -  Reconsolidation: Patients receive cyclophosphamide IV over 30 minutes on day 190,&#xD;
+                oral thioguanine on days 190-203, cytarabine IV or SC on days 191-194 and 197-200,&#xD;
+                vincristine IV on days 204 and 211, and pegaspargase IM on day 204. Methotrexate IT&#xD;
+                is administered on days 190 and 197 (patients with CNS disease do not receive the&#xD;
+                dose on day 197).&#xD;
+&#xD;
+        -  Interim maintenance II: Patients receive vincristine IV and methotrexate IV on days 218,&#xD;
+           228, 238, 248, and 258. Pegaspargase IM is administered on days 219 and 239. Patients&#xD;
+           also receive methotrexate IT on days 218 and 248 (patients with CNS disease do not&#xD;
+           receive the dose on day 248).&#xD;
+&#xD;
+        -  Delayed intensification II:&#xD;
+&#xD;
+             -  Reinduction: Patients receive vincristine IV and doxorubicin IV over 6 hours on&#xD;
+                days 274, 281, and 288; oral dexamethasone twice a day on days 274-280 and 288-294;&#xD;
+                methotrexate IT on day 274; and pegaspargase IM on day 277.&#xD;
+&#xD;
+             -  Reconsolidation: Patients receive cyclophosphamide IV over 30 minutes on day 302,&#xD;
+                oral thioguanine on days 302-315, cytarabine IV or SC on days 303-306 and 309-312,&#xD;
+                and vincristine IV on days 316 and 323.&#xD;
+&#xD;
+        -  Maintenance: Treatment is administered as in regimen A.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: Approximately 1,800 patients will be accrued for this study within 6&#xD;
+      years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Active, not recruiting</last_known_status>
+  <start_date>January 1997</start_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment type="Anticipated">1800</enrollment>
+  <condition>Leukemia</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>asparaginase</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cyclophosphamide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cytarabine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>daunorubicin hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>dexamethasone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>doxorubicin hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>mercaptopurine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>methotrexate</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>pegaspargase</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>prednisolone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>thioguanine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vincristine sulfate</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed acute lymphoblastic leukemia (ALL)&#xD;
+&#xD;
+          -  No B-ALL (Burkitt-like, t(8;14), L3 morphology, SMIg positive)&#xD;
+&#xD;
+          -  Meets criteria for one of the following risk groups:&#xD;
+&#xD;
+               -  Standard risk&#xD;
+&#xD;
+                    -  1 to 9 years old&#xD;
+&#xD;
+                    -  Highest WBC less than 50,000/mm^3&#xD;
+&#xD;
+                    -  BCR-ABL negative&#xD;
+&#xD;
+                    -  Not hypodiploid&#xD;
+&#xD;
+                    -  No MLL gene rearrangements if 12 to 24 months old&#xD;
+&#xD;
+               -  Intermediate risk&#xD;
+&#xD;
+                    -  Over 10 years old AND/OR&#xD;
+&#xD;
+                    -  WBC greater than 50,000/mm^3&#xD;
+&#xD;
+                    -  BCR-ABL negative&#xD;
+&#xD;
+                    -  Not hypodiploid&#xD;
+&#xD;
+                    -  No MLL gene rearrangement if 12 to 24 months old&#xD;
+&#xD;
+               -  High risk, defined by at least 1 of the following:&#xD;
+&#xD;
+                    -  Slow early response with regimen A or B&#xD;
+&#xD;
+                    -  BCR-ABL positive&#xD;
+&#xD;
+                    -  Hypodiploid&#xD;
+&#xD;
+                    -  MLL gene rearrangement and 12 to 24 months old&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  1 to 18&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Endocrine therapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Surgery&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Other&#xD;
+&#xD;
+          -  Previous treatment with HR1 regimens allowed&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>1 Year</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>C. Mitchell</last_name>
+    <role>Study Chair</role>
+    <affiliation>Oxford University Hospitals NHS Trust</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Oxford Radcliffe Hospital</name>
+      <address>
+        <city>Oxford</city>
+        <state>England</state>
+        <zip>0X3 9DU</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <reference>
+    <citation>Krishnan S, Wade R, Moorman AV, Mitchell C, Kinsey SE, Eden TO, Parker C, Vora A, Richards S, Saha V. Temporal changes in the incidence and pattern of central nervous system relapses in children with acute lymphoblastic leukaemia treated on four consecutive Medical Research Council trials, 1985-2001. Leukemia. 2010 Feb;24(2):450-9. doi: 10.1038/leu.2009.264. Epub 2009 Dec 17.</citation>
+    <PMID>20016529</PMID>
+  </reference>
+  <reference>
+    <citation>Mitchell C, Payne J, Wade R, Vora A, Kinsey S, Richards S, Eden T. The impact of risk stratification by early bone-marrow response in childhood lymphoblastic leukaemia: results from the United Kingdom Medical Research Council trial ALL97 and ALL97/99. Br J Haematol. 2009 Aug;146(4):424-36. doi: 10.1111/j.1365-2141.2009.07769.x. Epub 2009 Jun 22.</citation>
+    <PMID>19549269</PMID>
+  </reference>
+  <reference>
+    <citation>Ramanujachar R, Richards S, Hann I, Goldstone A, Mitchell C, Vora A, Rowe J, Webb D. Adolescents with acute lymphoblastic leukaemia: outcome on UK national paediatric (ALL97) and adult (UKALLXII/E2993) trials. Pediatr Blood Cancer. 2007 Mar;48(3):254-61. doi: 10.1002/pbc.20749.</citation>
+    <PMID>16421910</PMID>
+  </reference>
+  <reference>
+    <citation>Vora A, Ward R, Payne J, et al.: Benefit of targeted intensification for NCI high risk childhood lymphoblastic leukaemia: results of the United Kingdom Medical Research Council trial ALL97 and ALL97/99. [Abstract] Blood 108 (11): A-1869, 2006.</citation>
+  </reference>
+  <reference>
+    <citation>Little MA, Morland B, Chisholm J, Hole A, Shankar A, Devine T, Easlea D, Meyer LC, Pinkerton CR. A randomised study of prophylactic G-CSF following MRC UKALL XI intensification regimen in childhood ALL and T-NHL. Med Pediatr Oncol. 2002 Feb;38(2):98-103. doi: 10.1002/mpo.1279.</citation>
+    <PMID>11813173</PMID>
+  </reference>
+  <results_reference>
+    <citation>Ensor HM, Schwab C, Russell LJ, Richards SM, Morrison H, Masic D, Jones L, Kinsey SE, Vora AJ, Mitchell CD, Harrison CJ, Moorman AV. Demographic, clinical, and outcome features of children with acute lymphoblastic leukemia and CRLF2 deregulation: results from the MRC ALL97 clinical trial. Blood. 2011 Feb 17;117(7):2129-36. doi: 10.1182/blood-2010-07-297135. Epub 2010 Nov 24. Erratum In: Blood. 2011 May 5;117(18):5009.</citation>
+    <PMID>21106984</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Moorman AV, Ensor HM, Chilton L, et al.: Prognostic relevance of cytogenetics in childhood acute lymphoblastic leukaemia (ALL): final results from MRC ALL97. [Abstract] Blood 114 (22): A-88, 2009.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Mitchell CD, Richards SM, Kinsey SE, Lilleyman J, Vora A, Eden TO; Medical Research Council Childhood Leukaemia Working Party. Benefit of dexamethasone compared with prednisolone for childhood acute lymphoblastic leukaemia: results of the UK Medical Research Council ALL97 randomized trial. Br J Haematol. 2005 Jun;129(6):734-45. doi: 10.1111/j.1365-2141.2005.05509.x.</citation>
+    <PMID>15952999</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Roy A, Bradburn M, Moorman AV, Burrett J, Love S, Kinsey SE, Mitchell C, Vora A, Eden T, Lilleyman JS, Hann I, Saha V; Medical Research Council Childhood Leukaemia Working Party. Early response to induction is predictive of survival in childhood Philadelphia chromosome positive acute lymphoblastic leukaemia: results of the Medical Research Council ALL 97 trial. Br J Haematol. 2005 Apr;129(1):35-44. doi: 10.1111/j.1365-2141.2005.05425.x.</citation>
+    <PMID>15801953</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Mitchell CD, Richards SM, Kinsey SE, et al.: Benefit of dexamethasone compared with prednisolone for childhood acute lymphoblastic leukaemia: results of UK MRC trial ALL97/99. [Abstract] Pediatr Blood Cancer 43 (4): A-0.082, 2004.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Somervaille TC, Hann IM, Harrison G, Eden TO, Gibson BE, Hill FG, Mitchell C, Kinsey SE, Vora AJ, Lilleyman JS; MRC Childhood Leukaemia Working Party. Intraocular relapse of childhood acute lymphoblastic leukaemia. Br J Haematol. 2003 Apr;121(2):280-8. doi: 10.1046/j.1365-2141.2003.04280.x.</citation>
+    <PMID>12694250</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wallace AM, Tucker P, Williams DM, Hughes IA, Ahmed SF. Short-term effects of prednisolone and dexamethasone on circulating concentrations of leptin and sex hormone-binding globulin in children being treated for acute lymphoblastic leukaemia. Clin Endocrinol (Oxf). 2003 Jun;58(6):770-6. doi: 10.1046/j.1365-2265.2003.01790.x.</citation>
+    <PMID>12780755</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Ahmed SF, Tucker P, Mushtaq T, Wallace AM, Williams DM, Hughes IA. Short-term effects on linear growth and bone turnover in children randomized to receive prednisolone or dexamethasone. Clin Endocrinol (Oxf). 2002 Aug;57(2):185-91. doi: 10.1046/j.1365-2265.2002.01580.x.</citation>
+    <PMID>12153596</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lancaster DL, Patel N, Lennard L, Lilleyman JS. Leucocyte versus erythrocyte thioguanine nucleotide concentrations in children taking thiopurines for acute lymphoblastic leukaemia. Cancer Chemother Pharmacol. 2002 Jul;50(1):33-6. doi: 10.1007/s00280-002-0442-6. Epub 2002 Apr 27.</citation>
+    <PMID>12111109</PMID>
+  </results_reference>
+  <verification_date>February 2003</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>December 3, 2013</last_update_submitted>
+  <last_update_submitted_qc>December 3, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 4, 2013</last_update_posted>
+  <keyword>recurrent childhood acute lymphoblastic leukemia</keyword>
+  <keyword>untreated childhood acute lymphoblastic leukemia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Leukemia, Lymphoid</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cytarabine</mesh_term>
+    <mesh_term>Dexamethasone</mesh_term>
+    <mesh_term>Prednisolone</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Liposomal doxorubicin</mesh_term>
+    <mesh_term>Methotrexate</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+    <mesh_term>Daunorubicin</mesh_term>
+    <mesh_term>Asparaginase</mesh_term>
+    <mesh_term>Mercaptopurine</mesh_term>
+    <mesh_term>Pegaspargase</mesh_term>
+    <mesh_term>Thioguanine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

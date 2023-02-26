@@ -1,0 +1,533 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00006099</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000068107</org_study_id>
+    <secondary_id>MSKCC-00047</secondary_id>
+    <secondary_id>NCI-G00-1828</secondary_id>
+    <secondary_id>LUD1998-013</secondary_id>
+    <nct_id>NCT00006099</nct_id>
+  </id_info>
+  <brief_title>Monoclonal Antibody Therapy in Treating Patients Scheduled for Surgery to Remove Ovarian Cancer</brief_title>
+  <official_title>Pilot Trial of Humanized 3S193 Monoclonal Antibody (hu3S193) in Presurgical Patients With Ovarian Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Ludwig Institute for Cancer Research</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Ludwig Institute for Cancer Research</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Monoclonal antibodies can locate tumor cells and either kill them or deliver&#xD;
+      tumor-killing substances to them without harming normal cells. Giving monoclonal antibodies&#xD;
+      in different ways may kill more tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase I trial to study the effectiveness of monoclonal antibody therapy in treating&#xD;
+      patients who have ovarian cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES: The primary objective iss to determine the safety of indium (111In) monoclonal&#xD;
+      antibody (mAb) hu3S193 (111In-hu3S193) given intraperitoneally or intravenously in patients&#xD;
+      with ovarian carcinoma.&#xD;
+&#xD;
+      Secondary objectives include comparing the localization of 111In-hu3S193 in ovarian cancer&#xD;
+      tissue after intraperitoneal vs intravenous injection and the biodistribution and&#xD;
+      pharmacokinetics of this drug when administered intraperitoneally vs intravenously in these&#xD;
+      patients as well as the formation of human anti-human antibodies (HAHA) in these patients.&#xD;
+&#xD;
+      OUTLINE: Patients are assigned to 1 of 2 treatment arms on a first come sequential basis. Arm&#xD;
+      I: Patients receive indium (In 111) monoclonal antibody hu3S193 (111In-hu3S193)&#xD;
+      intraperitoneally over 30 minutes. Arm II: Patients received 111In-hu3S193 intravenously (IV)&#xD;
+      over 30 minutes. Patients were to undergo surgical debulking 3-7 days following In&#xD;
+      111In-hu3S193 administration, and biopsy samples obtained to assess radioactive uptake.&#xD;
+      Immunohistochemistry was also to be performed. Blood samples were to be obtained to assess&#xD;
+      serum radioactivity. Whole body imaging was tp be performed 3 hours after infusion of&#xD;
+      radiolabeled monoclonal antibody, on the day of surgery, and at one time point in between.&#xD;
+      Patients were followed for 30 days.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 10 patients (5 per arm) were to be accrued for this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    low study accrual&#xD;
+  </why_stopped>
+  <start_date type="Actual">August 2, 2000</start_date>
+  <completion_date type="Actual">August 12, 2002</completion_date>
+  <primary_completion_date type="Actual">February 26, 2002</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Diagnostic</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Subjects With Grade 3 Adverse Events</measure>
+    <time_frame>up to 30 days</time_frame>
+    <description>All toxicities were to be graded according to the Common Toxicity Criteria (CTC) Scale, version 2.0, March 1998.The study was to be terminated upon the occurrence of an adverse event of Grade 3 or greater severity that is considered definitely related to hu3S193.</description>
+  </primary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">1</enrollment>
+  <condition>Ovarian Cancer</condition>
+  <arm_group>
+    <arm_group_label>Intraperitoneal (IP) Infusion of 111In-hu3S193</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Hu3S193 was administered intraperitoneally at a dose of 5 mg radiolabeled with 5 millicurie (mCi) of 111In.&#xD;
+Patients received 10 mCi 99mTc-sulphur colloid IP administered in 500 ml of normal saline to assure the absence of any loculation or heterogeneous distribution of radioactivity in the peritoneal cavity. A paracentesis catheter was inserted and the hu3S193 was diluted in 100 mL of 5% human serum albumin and administered as a continuous intraperitoneal infusion over 30 minutes. This was followed immediately by 900 mL of normal saline.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Intravenous Infusion of 111In-hu3S193</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Hu3S193 was to be administered intravenously at a dose of 5 mg radiolabeled with 5 millicurie (mCi) of 111In, diluted in 100 mL of 5% human serum albumin and administered over a 30 minute period.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Monoclonal antibody hu3S193</intervention_name>
+    <description>Hu3S193 was to be administered intraperitoneally or intravenously at a dose of 5mg. Doses of hu3S193 were radiolabeled with 5 mCi of 111In.</description>
+    <arm_group_label>Intraperitoneal (IP) Infusion of 111In-hu3S193</arm_group_label>
+    <arm_group_label>Intravenous Infusion of 111In-hu3S193</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Cytologic or pathologic diagnosis consistent with ovarian carcinoma. Scheduled to undergo&#xD;
+        surgical evaluation. Karnofsky performance status of &gt; 60%.&#xD;
+&#xD;
+        Adequate organ function as defined by:&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) &gt; 1.5 x 10^9/L&#xD;
+&#xD;
+          -  Platelet count &gt; 100 x 10^9/L&#xD;
+&#xD;
+          -  Bilirubin &lt; 2.0 mg/dL&#xD;
+&#xD;
+          -  Aspartate aminotransferase (AST) and Alanine transaminase (ALT) &lt; 2.5 X upper limit of&#xD;
+             normal&#xD;
+&#xD;
+          -  Serum creatinine &lt; 2.0 mg/dL&#xD;
+&#xD;
+          -  Forced expiratory volume at one second (FEV1) and forced vital capacity (FVC)&gt; 70% of&#xD;
+             predicted&#xD;
+&#xD;
+          -  Left Ventricular Ejection Fraction &gt;50%&#xD;
+&#xD;
+        Recovered from the toxicity of any prior therapy. No evidence of active infection which&#xD;
+        requires antibiotic therapy. &gt; 18 years of age. Able to sign written informed consent.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Any significant intercurrent medical problems which may limit the amount of antibody they&#xD;
+        can tolerate, or render them ineligible for surgery.&#xD;
+&#xD;
+        Clinically significant cardiac disease (New York Heart Association Class III/IV, or&#xD;
+        abnormalities on ECG that are considered by the investigator to place the patient at&#xD;
+        increased risk), severe debilitating pulmonary disease, active infections or coagulation&#xD;
+        disorders.&#xD;
+&#xD;
+        Survival expectancy less than 12 weeks. History of autoimmune hepatitis or history of&#xD;
+        autoimmune disease. Chemotherapy, radiotherapy, or immunotherapy within four weeks prior to&#xD;
+        receiving hu3S193.&#xD;
+&#xD;
+        Psychiatric, addictive or other disorders that compromise the ability to give informed&#xD;
+        consent.&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <gender_based>Yes</gender_based>
+    <gender_description>ovarian carcinoma patients</gender_description>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Chaitanya R. Divgi, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2022</verification_date>
+  <study_first_submitted>August 3, 2000</study_first_submitted>
+  <study_first_submitted_qc>December 22, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">December 23, 2003</study_first_posted>
+  <results_first_submitted>July 20, 2021</results_first_submitted>
+  <results_first_submitted_qc>July 20, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">August 12, 2021</results_first_posted>
+  <last_update_submitted>October 3, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 3, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">October 12, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>ovarian epithelial cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Ovarian Epithelial</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Antibodies</mesh_term>
+    <mesh_term>Antibodies, Monoclonal</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Intraperitoneal (IP) Infusion of 111In-hu3S193</title>
+          <description>Hu3S193 was administered intraperitoneally (IP) at a dose of 5 mg radiolabeled with 5 millicurie (mCi) of 111In.&#xD;
+Patients received 10 mCi 99mTc-sulphur colloid IP administered in 500 ml of normal saline to assure the absence of any loculation or heterogeneous distribution of radioactivity in the peritoneal cavity. A paracentesis catheter was inserted and the hu3S193 was diluted in 100 mL of 5% human serum albumin and administered as a continuous intraperitoneal infusion over 30 minutes. This was followed immediately by 900 mL of normal saline.</description>
+        </group>
+        <group group_id="P2">
+          <title>Intravenous Infusion of 111In-hu3S193</title>
+          <description>Hu3S193 was to be administered intravenously at a dose of 5 mg radiolabeled with 5 millicurie (mCi) of 111In, diluted in 100 mL of 5% human serum albumin and administered over a 30 minute period.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>The 1 patient who entered the study.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Intraperitoneal (IP) Infusion of 111In-hu3S193</title>
+          <description>Hu3S193 was administered intraperitoneally at a dose of 5 mg radiolabeled with 5 mCi of 111In.&#xD;
+Patients received 10 mCi 99mTc-sulphur colloid IP administered in 500 ml of normal saline to assure the absence of any loculation or heterogeneous distribution of radioactivity in the peritoneal cavity. A paracentesis catheter was inserted and the hu3S193 was diluted in 100 mL of 5% human serum albumin and administered as a continuous intraperitoneal infusion over 30 minutes. This was followed immediately by 900 mL of normal saline.</description>
+        </group>
+        <group group_id="B2">
+          <title>Intravenous Infusion of 111In-hu3S193</title>
+          <description>Hu3S193 was to be administered intravenously at a dose of 5 mg radiolabeled with 5 mCi of 111In, diluted in 100 mL of 5% human serum albumin and administered over a 30 minute period.</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="1"/>
+            <count group_id="B2" value="0"/>
+            <count group_id="B3" value="1"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects With Grade 3 Adverse Events</title>
+        <description>All toxicities were to be graded according to the Common Toxicity Criteria (CTC) Scale, version 2.0, March 1998.The study was to be terminated upon the occurrence of an adverse event of Grade 3 or greater severity that is considered definitely related to hu3S193.</description>
+        <time_frame>up to 30 days</time_frame>
+        <population>The 1 patient who entered the study.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Intraperitoneal (IP) Infusion of 111In-hu3S193</title>
+            <description>Hu3S193 was administered intraperitoneally at a dose of 5 mg radiolabeled with 5 mCi of 111In.&#xD;
+Patients received 10 mCi 99mTc-sulphur colloid IP administered in 500 ml of normal saline to assure the absence of any loculation or heterogeneous distribution of radioactivity in the peritoneal cavity. A paracentesis catheter was inserted and the hu3S193 was diluted in 100 mL of 5% human serum albumin and administered as a continuous intraperitoneal infusion over 30 minutes. This was followed immediately by 900 mL of normal saline.</description>
+          </group>
+          <group group_id="O2">
+            <title>Intravenous Infusion of 111In-hu3S193</title>
+            <description>Hu3S193 was to be administered intravenously at a dose of 5 mg radiolabeled with 5 mCi of 111In, diluted in 100 mL of 5% human serum albumin and administered over a 30 minute period.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects With Grade 3 Adverse Events</title>
+          <description>All toxicities were to be graded according to the Common Toxicity Criteria (CTC) Scale, version 2.0, March 1998.The study was to be terminated upon the occurrence of an adverse event of Grade 3 or greater severity that is considered definitely related to hu3S193.</description>
+          <population>The 1 patient who entered the study.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="1"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>up to 30 days</time_frame>
+      <desc>All adverse events were to be recorded on the patient's case report form. All toxicities were to be graded according to the Common Toxicity Criteria (CTC) Scale, version 2.0, March 1998.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Intraperitoneal (IP) Infusion of 111In-hu3S193</title>
+          <description>Hu3S193 was administered intraperitoneally at a dose of 5 mg radiolabeled with 5 mCi of 111In.&#xD;
+Patients received 10 mCi 99mTc-sulphur colloid IP administered in 500 ml of normal saline to assure the absence of any loculation or heterogeneous distribution of radioactivity in the peritoneal cavity. A paracentesis catheter was inserted and the hu3S193 was diluted in 100 mL of 5% human serum albumin and administered as a continuous intraperitoneal infusion over 30 minutes. This was followed immediately by 900 mL of normal saline.</description>
+        </group>
+        <group group_id="E2">
+          <title>Intravenous Infusion of 111In-hu3S193</title>
+          <description>Hu3S193 was to be administered intravenously at a dose of 5 mg radiolabeled with 5 mCi of 111In, diluted in 100 mL of 5% human serum albumin and administered over a 30 minute period.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="1"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Jonathan Skipper PhD</name_or_title>
+      <organization>Ludwig Institute for Cancer Research</organization>
+      <phone>12124501539</phone>
+      <email>jskipper@lcr.org</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

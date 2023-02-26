@@ -1,0 +1,193 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00002963</url>
+  </required_header>
+  <id_info>
+    <org_study_id>DS 92-42</org_study_id>
+    <secondary_id>RPCI-DS-92-42</secondary_id>
+    <secondary_id>NCI-V97-1191</secondary_id>
+    <nct_id>NCT00002963</nct_id>
+  </id_info>
+  <brief_title>Photodynamic Therapy in Treating Patients With Skin Cancer</brief_title>
+  <official_title>Cutaneous Absorption and Intralesional Penetration of Topical Amino-Levulinic Acid in Basal Cell Carcinoma and Squamous Cell Carcinoma as Measured by In Situ Fluorescence and Intensified Video Fluorescence Microscopy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Roswell Park Cancer Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Roswell Park Cancer Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Photodynamic therapy uses light and drugs that make cancer cells more sensitive to&#xD;
+      light to kill tumor cells. Photodynamic therapy using aminolevulinic acid cream may be&#xD;
+      effective in treating patients with skin cancer.&#xD;
+&#xD;
+      PURPOSE: This randomized phase II trial is studying how well photodynamic therapy works in&#xD;
+      treating patients with skin cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Characterize the penetration of topically applied aminolevulinic acid (ALA) into the&#xD;
+           lesions of patients with primary basal cell and squamous cell carcinomas.&#xD;
+&#xD;
+        -  Quantitate the depth of fluorescence achievable with varying application periods of ALA&#xD;
+           in these patients.&#xD;
+&#xD;
+        -  Compare the results of tissue fluorescence with surface fluorescence measurements in&#xD;
+           these patients.&#xD;
+&#xD;
+      OUTLINE: This is a randomized study. Patients are stratified according to lesion type&#xD;
+      (superficial basal cell carcinoma (BCC) vs nodular BCC vs squamous cell carcinoma). Patients&#xD;
+      within each group are randomized to receive one of two application times: 4-5 or 20-24 hours&#xD;
+      in duration.&#xD;
+&#xD;
+      Aminolevulinic acid is topically applied either in a cream mixture or an alcohol base and an&#xD;
+      occlusive dressing placed over the lesion. After the randomized treatment duration has&#xD;
+      expired, the dressing is removed and quantitative protoporphyrin IX fluorescence measurements&#xD;
+      from the tumor and surrounding skin are mapped using a fluorometer. Routine surgical excision&#xD;
+      is then performed on the carcinoma.&#xD;
+&#xD;
+      Patients return after one to two weeks for a follow-up examination and suture removal.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: 54 patients will be accrued within 10 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>November 1993</start_date>
+  <completion_date type="Actual">June 2007</completion_date>
+  <primary_completion_date type="Actual">June 2007</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Depth of penetration of aminolevulinic acid as measured by the accumulation of protoporphyrin IX</measure>
+  </primary_outcome>
+  <condition>Non-melanomatous Skin Cancer</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>aminolevulinic acid hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>conventional surgery</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically proven basal cell carcinoma or squamous cell carcinoma&#xD;
+&#xD;
+          -  Candidate for complete surgical excision&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 and over&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No inflammation or infection of treated area&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Biopsy at least 2 weeks prior to surgery&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Allan R. Oseroff, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Roswell Park Cancer Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2013</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>January 30, 2013</last_update_submitted>
+  <last_update_submitted_qc>January 30, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">January 31, 2013</last_update_posted>
+  <keyword>basal cell carcinoma of the skin</keyword>
+  <keyword>squamous cell carcinoma of the skin</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Skin Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Aminolevulinic Acid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

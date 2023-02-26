@@ -1,0 +1,476 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00002839</url>
+  </required_header>
+  <id_info>
+    <org_study_id>EORTC-24954</org_study_id>
+    <nct_id>NCT00002839</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy Plus Radiation Therapy To Preserve the Larynx in Patients With Cancer of the Hypopharynx or Larynx</brief_title>
+  <official_title>PHASE II STUDY ON LARYNX PRESERVATION COMPARING INDUCTION CHEMOTHERAPY AND RADIOTHERAPY VERSUS ALTERNATING CHEMO-RADIOTHERAPY IN RESECTABLE HYPOPHARYNX AND LARYNX CANCERS</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>European Organisation for Research and Treatment of Cancer - EORTC</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>European Organisation for Research and Treatment of Cancer - EORTC</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor cells.&#xD;
+      Combining chemotherapy with radiation therapy may kill more tumor cells and allow doctors to&#xD;
+      preserve the part of the body where the cancer started. It is not yet known which regimen of&#xD;
+      cisplatin and fluorouracil combined with radiation therapy is more effective in treating&#xD;
+      resectable cancer of the hypopharynx or larynx.&#xD;
+&#xD;
+      PURPOSE: Randomized phase III trial to compare the effectiveness of two regimens of cisplatin&#xD;
+      and fluorouracil combined with radiation therapy in preserving the larynx in patients who&#xD;
+      have resectable cancer of the hypopharynx or larynx.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Compare relapse-free survival and larynx preservation in patients with resectable&#xD;
+           hypopharyngeal or laryngeal cancer treated with sequential vs alternating cisplatin and&#xD;
+           fluorouracil and radiotherapy.&#xD;
+&#xD;
+        -  Compare the health-related quality of life in patients treated with these regimens.&#xD;
+&#xD;
+        -  Compare the cost-effectiveness of these regimens.&#xD;
+&#xD;
+      OUTLINE: This is a randomized, multicenter study. Patients are stratified by performance&#xD;
+      status, disease site, tumor stage, node stage, and center.&#xD;
+&#xD;
+      Patients are randomized to one of two treatment arms. Both groups may receive either&#xD;
+      conventional radiotherapy in single daily fractions, 5 days per week, for 7 weeks (option 1)&#xD;
+      or hyperfractionated radiotherapy in 2 daily fractions, 5 days per week, for 4-5 weeks&#xD;
+      (option 2), according to institutional policy.&#xD;
+&#xD;
+        -  Arm I: Patients receive cisplatin and fluorouracil every 3 weeks. Patients with a&#xD;
+           complete or partial response on day 42 receive 2 additional courses of chemotherapy&#xD;
+           followed by 7 weeks of radiotherapy beginning on day 80. After radiotherapy, patients&#xD;
+           with a complete remission enter follow-up; those with a partial remission proceed to&#xD;
+           surgery. Patients with stable or progressive disease proceed immediately to surgery with&#xD;
+           or without postoperative radiotherapy.&#xD;
+&#xD;
+        -  Arm II: Patients receive cisplatin and fluorouracil every 3 weeks for 4 courses.&#xD;
+           Patients treated on radiotherapy option 1 are evaluated 2 months after completion of&#xD;
+           radiotherapy; those with a complete remission enter follow-up while all others proceed&#xD;
+           to surgery. Patients treated on option 2 are evaluated on day 42; those with a partial&#xD;
+           or complete response complete chemoradiotherapy and are then evaluated and treated like&#xD;
+           option 1 patients. Patients with stable or progressive disease on day 42 proceed to&#xD;
+           surgery with or without a third course of chemotherapy on week 7.&#xD;
+&#xD;
+      Patients are followed every 3 months for 3 years and at least every 6 months thereafter.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 564 patients will be accrued for this study within 4 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1996</start_date>
+  <primary_completion_date type="Actual">May 2004</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment type="Anticipated">564</enrollment>
+  <condition>Head and Neck Cancer</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cisplatin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>fluorouracil</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>conventional surgery</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>neoadjuvant therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically proven squamous cell carcinoma of the head and neck, including:&#xD;
+&#xD;
+               -  Stage III/IV cancer of the glottic or supraglottic larynx&#xD;
+&#xD;
+                    -  Eligible T4 tumor defined as:&#xD;
+&#xD;
+                         -  Bulging the valleculae&#xD;
+&#xD;
+                         -  Bulging the hyothyroid membrane&#xD;
+&#xD;
+                         -  Minimal thyroid cartilage invasion or suspicion of invasion on imaging&#xD;
+&#xD;
+               -  Stage II/III/IV cancer of the pyriform sinus or of the hypopharyngeal aspect of&#xD;
+                  the aryepiglottic fold (with or without extension to postcricoid area)&#xD;
+&#xD;
+                    -  No massive destruction of the thyroid cartilage&#xD;
+&#xD;
+                    -  No continuity between primary tumor and a lymph node&#xD;
+&#xD;
+          -  Operable on first attempt (as assessed by head and neck surgeon) by classical total&#xD;
+             laryngectomy with or without partial pharyngectomy&#xD;
+&#xD;
+               -  No requirement for extended surgery (circumferential pharyngolaryngectomy)&#xD;
+&#xD;
+               -  No tumor suitable for partial (functional) surgery or requiring extended surgery&#xD;
+                  that necessitates any kind of flap for closure&#xD;
+&#xD;
+               -  No N2c tumor unless no requirement for bilateral resection of internal jugular&#xD;
+                  veins&#xD;
+&#xD;
+          -  Measurable or evaluable disease by panendoscopy and CT scan or MRI&#xD;
+&#xD;
+               -  Esophagoscopy required&#xD;
+&#xD;
+               -  Bronchofiberscopy recommended&#xD;
+&#xD;
+          -  No requirement for tracheotomy&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 and over&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  ECOG 0-2 OR&#xD;
+&#xD;
+          -  WHO 0-2&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  WBC at least 4,000/mm^3&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin no greater than 2.0 times normal&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine no greater than 1.5 mg/dL OR&#xD;
+&#xD;
+          -  Creatinine clearance at least 60 mL/min&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No medical, psychological, or geographical condition that precludes study compliance&#xD;
+&#xD;
+          -  No serious nonmalignant systemic disease&#xD;
+&#xD;
+          -  No second malignancy except:&#xD;
+&#xD;
+               -  Carcinoma in situ of the cervix&#xD;
+&#xD;
+               -  Adequately treated nonmelanomatous skin cancer&#xD;
+&#xD;
+          -  No poor nutritional status unlikely to be restored to fair status within 3 weeks&#xD;
+&#xD;
+          -  No contraindication to CT scan or general anesthesia&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy&#xD;
+&#xD;
+          -  No prior anticancer biologic therapy&#xD;
+&#xD;
+        Chemotherapy&#xD;
+&#xD;
+          -  No prior anticancer chemotherapy&#xD;
+&#xD;
+        Endocrine therapy&#xD;
+&#xD;
+          -  No prior anticancer endocrine therapy&#xD;
+&#xD;
+        Radiotherapy&#xD;
+&#xD;
+          -  No prior anticancer radiotherapy&#xD;
+&#xD;
+        Surgery&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+        Other&#xD;
+&#xD;
+          -  No other prior anticancer therapy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jean-Louis Lefebvre, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Centre Oscar Lambret</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Jean-Claude Horiot, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Centre Georges Francois Leclerc</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Algemeen Ziekenhuis Middelheim</name>
+      <address>
+        <city>Antwerp</city>
+        <zip>2020</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Universitair Ziekenhuis Antwerpen</name>
+      <address>
+        <city>Edegem</city>
+        <zip>B-2650</zip>
+        <country>Belgium</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHR de Besancon - Hopital Jean Minjoz</name>
+      <address>
+        <city>Besancon</city>
+        <zip>25030</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Regional Francois Baclesse</name>
+      <address>
+        <city>Caen</city>
+        <zip>14076</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire de Dijon</name>
+      <address>
+        <city>Dijon</city>
+        <zip>21033</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre de Lutte Contre le Cancer, Georges-Francois Leclerc</name>
+      <address>
+        <city>Dijon</city>
+        <zip>21079</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Oscar Lambret</name>
+      <address>
+        <city>Lille</city>
+        <zip>59020</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Regional et Universitaire de Lille</name>
+      <address>
+        <city>Lille</city>
+        <zip>59037</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CRLCC Nantes - Atlantique</name>
+      <address>
+        <city>Nantes-Saint Herblain</city>
+        <zip>44805</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Antoine Lacassagne</name>
+      <address>
+        <city>Nice</city>
+        <zip>06189</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hopital Charles Nicolle</name>
+      <address>
+        <city>Rouen</city>
+        <zip>76031</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Alexis Vautrin</name>
+      <address>
+        <city>Vandoeuvre-les-Nancy</city>
+        <zip>54511</zip>
+        <country>France</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Rambam Medical Center</name>
+      <address>
+        <city>Haifa</city>
+        <zip>31096</zip>
+        <country>Israel</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Istituto Nazionale per lo Studio e la Cura dei Tumori</name>
+      <address>
+        <city>Milano (Milan)</city>
+        <zip>20133</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ospedale Civile Monselice</name>
+      <address>
+        <city>Monselice, Padova</city>
+        <zip>35043</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Azienda Ospedaliera &quot;Santa Maria Degli Angeli&quot;</name>
+      <address>
+        <city>Pordenone</city>
+        <zip>33170</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Vrije Universiteit Medisch Centrum</name>
+      <address>
+        <city>Amsterdam</city>
+        <zip>1007 MB</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Leiden University Medical Center</name>
+      <address>
+        <city>Leiden</city>
+        <zip>2300 CA</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Academisch Ziekenhuis Maastricht</name>
+      <address>
+        <city>Maastricht</city>
+        <zip>6202 AZ</zip>
+        <country>Netherlands</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre Hospitalier Universitaire Vaudois</name>
+      <address>
+        <city>Lausanne</city>
+        <zip>CH-1011</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Belgium</country>
+    <country>France</country>
+    <country>Israel</country>
+    <country>Italy</country>
+    <country>Netherlands</country>
+    <country>Switzerland</country>
+  </location_countries>
+  <results_reference>
+    <citation>Lefebvre JL, Rolland F, Tesselaar M, Bardet E, Leemans CR, Geoffrois L, Hupperets P, Barzan L, de Raucourt D, Chevalier D, Licitra L, Lunghi F, Stupp R, Lacombe D, Bogaerts J, Horiot JC, Bernier J, Vermorken JB; EORTC Head and Neck Cancer Cooperative Group; EORTC Radiation Oncology Group. Phase 3 randomized trial on larynx preservation comparing sequential vs alternating chemotherapy and radiotherapy. J Natl Cancer Inst. 2009 Feb 4;101(3):142-52. doi: 10.1093/jnci/djn460. Epub 2009 Jan 27.</citation>
+    <PMID>19176454</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Lefebvre J, Horiot J, Rolland F, et al.: Phase III study on larynx preservation comparing induction chemotherapy and radiotherapy versus alternating chemoradiotherapy in resectable hypopharynx and larynx cancers. EORTC protocol 24954-22950. [Abstract] J Clin Oncol 25 (Suppl 18): A-LBA6016, 303s, 2007.</citation>
+  </results_reference>
+  <verification_date>July 2018</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>July 6, 2018</last_update_submitted>
+  <last_update_submitted_qc>July 6, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">July 9, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stage II squamous cell carcinoma of the hypopharynx</keyword>
+  <keyword>stage III squamous cell carcinoma of the hypopharynx</keyword>
+  <keyword>stage IV squamous cell carcinoma of the hypopharynx</keyword>
+  <keyword>stage III squamous cell carcinoma of the larynx</keyword>
+  <keyword>stage IV squamous cell carcinoma of the larynx</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Laryngeal Diseases</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Fluorouracil</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

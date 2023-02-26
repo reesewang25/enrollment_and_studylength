@@ -1,0 +1,249 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00002338</url>
+  </required_header>
+  <id_info>
+    <org_study_id>237A</org_study_id>
+    <secondary_id>02</secondary_id>
+    <nct_id>NCT00002338</nct_id>
+  </id_info>
+  <brief_title>The Safety and Effectiveness of 935U83 in HIV-Infected Patients</brief_title>
+  <official_title>A Phase I Trial to Evaluate the Safety, Tolerance, and Pharmacokinetics of 935U83 After Multiple Dosing in Patients With HIV Infection</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Glaxo Wellcome</agency>
+      <agency_class>Industry</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>NIH AIDS Clinical Trials Information Service</source>
+  <brief_summary>
+    <textblock>
+      To assess the safety, tolerance, and steady-state pharmacokinetics of multiple oral doses of&#xD;
+      935U83 administered to patients with HIV infection. To obtain preliminary evidence of&#xD;
+      antiretroviral activity of 935U83. To prospectively evaluate the emergence of in vitro drug&#xD;
+      resistance. To determine the effects of 935U83 dosing on CD4+ cell counts.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients (10 per dose level) are randomized to receive 1 of 4 doses of 935U83 every 8 hours&#xD;
+      for 12 weeks. Five patients at each dose level must complete 4 weeks of treatment without&#xD;
+      serious toxicity before subsequent patients are entered at the next higher dose. If lack of&#xD;
+      antiretroviral effect or unacceptable toxicity is demonstrated at a particular dose level,&#xD;
+      the dose regimens may be adjusted.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment>40</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Raluridine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Recommended:&#xD;
+&#xD;
+          -  PCP prophylaxis for patients whose CD4 counts fall below 200 cells/mm3 or who develop&#xD;
+             PCP during study participation.&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  Acute treatment and secondary prophylaxis for tuberculosis, Mycobacterium avium&#xD;
+             intracellulare, toxoplasmosis, histoplasmosis, cryptococcosis, disseminated&#xD;
+             candidiasis, or cytomegalovirus infection.&#xD;
+&#xD;
+        Patients must have:&#xD;
+&#xD;
+          -  HIV infection.&#xD;
+&#xD;
+          -  CD4 count 200 - 500 cells/mm3.&#xD;
+&#xD;
+          -  No history of or current AIDS-defining indicator disease by CDC criteria.&#xD;
+&#xD;
+          -  No antiretroviral therapy within the past 6 months.&#xD;
+&#xD;
+          -  Consent of parent or guardian if less than 18 years of age.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Co-existing Condition:&#xD;
+&#xD;
+        Patient with the following symptoms or conditions are excluded:&#xD;
+&#xD;
+          -  Current evidence of chronic hepatitis of any etiology.&#xD;
+&#xD;
+          -  Seropositivity for HBsAg or hepatitis C virus by second generation ELISA.&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Cytotoxic chemotherapy.&#xD;
+&#xD;
+          -  Other antiretroviral drugs.&#xD;
+&#xD;
+          -  Immunomodulators.&#xD;
+&#xD;
+          -  Foscarnet.&#xD;
+&#xD;
+          -  GM-CSF or G-CSF.&#xD;
+&#xD;
+          -  Erythropoietin.&#xD;
+&#xD;
+        Concurrent Treatment:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Radiation therapy.&#xD;
+&#xD;
+        Patients with the following prior conditions are excluded:&#xD;
+&#xD;
+        History of chemical, viral, or alcohol-induced clinical hepatitis within the past 3 years.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        Excluded within the past 6 months:&#xD;
+&#xD;
+          -  Any antiretroviral therapy.&#xD;
+&#xD;
+          -  HIV immunotherapeutic vaccine.&#xD;
+&#xD;
+        Excluded within the past 4 weeks:&#xD;
+&#xD;
+          -  Cytotoxic chemotherapy.&#xD;
+&#xD;
+          -  Immunomodulating agents such as systemic corticosteroids, IL-2, alpha interferon, beta&#xD;
+             interferon, or gamma interferon.&#xD;
+&#xD;
+        Prior Treatment:&#xD;
+&#xD;
+        Excluded within the past 4 weeks:&#xD;
+&#xD;
+          -  Radiation therapy. Current alcohol or illicit drug use that may interfere with study&#xD;
+             compliance.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <location>
+    <facility>
+      <name>ViRx Inc</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Georgetown Univ Med Ctr</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20007</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Goodgame Med Group</name>
+      <address>
+        <city>Maitland</city>
+        <state>Florida</state>
+        <zip>32751</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana Univ Hosp</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Duke Univ Med Ctr</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Cincinnati / Holmes Hosp</name>
+      <address>
+        <city>Cincinnati</city>
+        <state>Ohio</state>
+        <zip>45267</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Pittsburgh Med School</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15261</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Riddler SA, Wang LH, Bartlett JA, Savina PM, Packard MV, McMahon DK, Blum MR, Dunn JA, Elkins MM, Mellors JW. Safety and pharmacokinetics of 5-chloro-2',3'-dideoxy-3'-fluorouridine (935U83) following oral administration of escalating single doses in human immunodeficiency virus-infected adults. Antimicrob Agents Chemother. 1996 Dec;40(12):2842-7. doi: 10.1128/AAC.40.12.2842.</citation>
+    <PMID>9124852</PMID>
+  </reference>
+  <verification_date>April 1996</verification_date>
+  <study_first_submitted>November 2, 1999</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2001</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 31, 2001</study_first_posted>
+  <last_update_submitted>June 23, 2005</last_update_submitted>
+  <last_update_submitted_qc>June 23, 2005</last_update_submitted_qc>
+  <last_update_posted type="Estimate">June 24, 2005</last_update_posted>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Antiviral Agents</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Infections</mesh_term>
+    <mesh_term>HIV Infections</mesh_term>
+    <mesh_term>Acquired Immunodeficiency Syndrome</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

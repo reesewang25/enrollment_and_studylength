@@ -1,0 +1,404 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000727</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 021</org_study_id>
+    <secondary_id>10997</secondary_id>
+    <nct_id>NCT00000727</nct_id>
+  </id_info>
+  <brief_title>A Controlled Comparative Trial of Sulfamethoxazole-Trimethoprim Versus Aerosolized Pentamidine for Secondary Prophylaxis of Pneumocystis Carinii Pneumonia in AIDS Patients Receiving Azidothymidine (AZT)</brief_title>
+  <official_title>A Controlled Comparative Trial of Trimethoprim - Sulfamethoxazole Versus Aerosolized Pentamidine for Secondary Prophylaxis of Pneumocystis Carinii Pneumonia in AIDS Patients Receiving Azidothymidine (AZT)</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <brief_summary>
+    <textblock>
+      To determine if the drug combination sulfamethoxazole-trimethoprim (SMX-TMP), given by mouth,&#xD;
+      and the drug pentamidine (PEN), given by inhaled aerosol, are effective in preventing a&#xD;
+      relapse of Pneumocystis carinii pneumonia (PCP) when they are given to patients who have&#xD;
+      recovered from a first episode of PCP and are being given zidovudine (AZT) to treat primary&#xD;
+      HIV infection.&#xD;
+&#xD;
+      AZT prolongs survival in patients with AIDS and decreases the occurrence of opportunistic&#xD;
+      infections such as PCP. However, PCP recurs in about 43 percent of patients receiving AZT,&#xD;
+      indicating a need for other treatments to reduce the relapse rate.&#xD;
+&#xD;
+      The two medications to be tested in this study, SMX/TMP and aerosolized PEN, have also been&#xD;
+      partially effective in preventing recurrence of PCP. It is hoped that the combination of AZT&#xD;
+      with these medications will be more effective than AZT or one of the medications alone.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      AZT prolongs survival in patients with AIDS and decreases the occurrence of opportunistic&#xD;
+      infections such as PCP. However, PCP recurs in about 43 percent of patients receiving AZT,&#xD;
+      indicating a need for other treatments to reduce the relapse rate.&#xD;
+&#xD;
+      The two medications to be tested in this study, SMX/TMP and aerosolized PEN, have also been&#xD;
+      partially effective in preventing recurrence of PCP. It is hoped that the combination of AZT&#xD;
+      with these medications will be more effective than AZT or one of the medications alone.&#xD;
+&#xD;
+      Patients receive the standard dose of AZT at study entry. Low body weight patients receive&#xD;
+      AZT at a lower dose. Patients are randomly assigned to one of two medications intended to&#xD;
+      prevent the recurrence of PCP. Patients assigned to SMX/TMP will take 1 capsule which&#xD;
+      contains both drugs once a day for 1 year. Patients assigned to PEN will have 1 aerosol&#xD;
+      treatment every 4 weeks for 1 year. Blood will be drawn at intervals in order to estimate&#xD;
+      blood levels of the drugs and to detect any adverse effects from the drugs. Note: Earlier&#xD;
+      versions of this protocol reflect its original design as a 3-arm study comparing aerosolized&#xD;
+      PEN, SMX/TMP, and pyrimethamine-sulfadoxine as secondary prophylaxis of PCP in AIDS patients&#xD;
+      receiving AZT. In order to reduce the effective sample size and permit the completion of&#xD;
+      accrual in a reasonable period of time, the pyrimethamine - sulfadoxine arm of this study has&#xD;
+      been discontinued. Patients randomized to this arm will be continued in this study on the&#xD;
+      original randomized therapy. Management of these patients will follow that described for&#xD;
+      SMX/TMP in the latest protocol version. AMENDED: Lower dose of AZT allowed.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">August 1991</completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment>322</enrollment>
+  <condition>Pneumonia, Pneumocystis Carinii</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pentamidine isethionate</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Pyrimethamine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sulfamethoxazole/Trimethoprim</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sulfadoxine/Pyrimethamine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zidovudine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Patients must fulfill the following criteria:&#xD;
+&#xD;
+          -  Randomization within 10 weeks of completing therapy for Pneumocystis carinii pneumonia&#xD;
+             (PCP).&#xD;
+&#xD;
+          -  Ability to tolerate oral and aerosolized therapy at the time of randomization.&#xD;
+&#xD;
+          -  Life expectancy &gt; 4 months.&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  Inhaled bronchodilators for cough and bronchospasm related to aerosolized pentamidine&#xD;
+             treatment.&#xD;
+&#xD;
+          -  Aspirin at modest doses.&#xD;
+&#xD;
+          -  Ibuprofen at modest doses.&#xD;
+&#xD;
+          -  Acetaminophen at modest doses.&#xD;
+&#xD;
+          -  Erythropoietin for management of anemia.&#xD;
+&#xD;
+          -  Allowed to treat opportunistic infections while on study:&#xD;
+&#xD;
+          -  Acyclovir.&#xD;
+&#xD;
+          -  Ketoconazole.&#xD;
+&#xD;
+          -  Amphotericin B.&#xD;
+&#xD;
+          -  Nystatin.&#xD;
+&#xD;
+          -  Clotrimazole.&#xD;
+&#xD;
+          -  Also allowed:&#xD;
+&#xD;
+          -  Ganciclovir (DHPG) for maintenance therapy of life-threatening or sight-threatening&#xD;
+             cytomegalovirus retinitis (CMV retinitis) infection only.&#xD;
+&#xD;
+          -  Zidovudine (AZT) must be discontinued during the acute induction phase of treatment&#xD;
+             and will be restarted when maintenance therapy is introduced.&#xD;
+&#xD;
+        Concurrent Treatment:&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  Local radiation therapy for Kaposi's sarcoma.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  Primary prophylactic therapy prior to Pneumocystis carinii pneumonia (PCP) episode.&#xD;
+&#xD;
+        Risk Behavior:&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  Patients maintained in a methadone maintenance program per local investigator's&#xD;
+             judgment.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+          -  Active drug or alcohol abuse which would impair performance as a study subject.&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Famotidine.&#xD;
+&#xD;
+          -  Any medications suspected of interference with the metabolism of zidovudine.&#xD;
+&#xD;
+          -  Flurazepam.&#xD;
+&#xD;
+          -  Chronic probenecid.&#xD;
+&#xD;
+          -  Phenobarbital.&#xD;
+&#xD;
+          -  Phenytoin.&#xD;
+&#xD;
+          -  Experimental therapies, except as noted.&#xD;
+&#xD;
+          -  Chronic oral bronchodilators should not be started in patients in order to maintain&#xD;
+             them on aerosolized pentamidine after they have exhibited pulmonary toxicity.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        Excluded for the 30 patients who will undergo pharmacokinetic studies:&#xD;
+&#xD;
+          -  Zidovudine (AZT) at any time.&#xD;
+&#xD;
+          -  Excluded within 7 days of study entry for the 30 patients who will undergo&#xD;
+             pharmacokinetic studies:&#xD;
+&#xD;
+          -  Trimethoprim / sulfamethoxazole.&#xD;
+&#xD;
+          -  Pyrimethamine / sulfadoxine.&#xD;
+&#xD;
+          -  Aerosolized pentamidine.&#xD;
+&#xD;
+          -  Excluded:&#xD;
+&#xD;
+          -  Pentamidine by any route for the original infection.&#xD;
+&#xD;
+          -  Prophylactic therapy for Pneumocystis carinii pneumonia (PCP) between the&#xD;
+             discontinuation of acute treatment and study entry.&#xD;
+&#xD;
+        Prior Treatment:&#xD;
+&#xD;
+        Excluded within 2 weeks of study entry:&#xD;
+&#xD;
+          -  Transfusions of blood or red blood cells.&#xD;
+&#xD;
+        Patients may not have any of the following symptoms or diseases:&#xD;
+&#xD;
+          -  Known treatment-limiting hypersensitivity to sulfonamides, trimethoprim,&#xD;
+             pyrimethamine, pentamidine, or zidovudine (AZT), especially but not limited to,&#xD;
+             exfoliative dermatitis, erythema multiforme, and Stevens-Johnson syndrome.&#xD;
+&#xD;
+          -  Development of severe hypoglycemia (serum glucose &lt; 50 mg/dl with pentamidine&#xD;
+             therapy).&#xD;
+&#xD;
+          -  History of neoplasms other than basal cell carcinoma of the skin or carcinoma in situ&#xD;
+             of the cervix, or mucocutaneous Kaposi's sarcoma.&#xD;
+&#xD;
+          -  Known visceral Kaposi's sarcoma.&#xD;
+&#xD;
+          -  Known glucose-6-phosphate dehydrogenase (G-6-PD) deficiency.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>12 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Holzman R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Hardy WD</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>USC CRS</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90033</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ucsd, Avrc Crs</name>
+      <address>
+        <city>San Diego</city>
+        <state>California</state>
+        <zip>92103</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ucsf Aids Crs</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94110</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Indiana Univ. School of Medicine, Infectious Disease Research Clinic</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bmc Actg Crs</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Minnesota, ACTU</name>
+      <address>
+        <city>Minneapolis</city>
+        <state>Minnesota</state>
+        <zip>55455</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Ctr.</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Case CRS</name>
+      <address>
+        <city>Cleveland</city>
+        <state>Ohio</state>
+        <zip>44106</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Washington AIDS CRS</name>
+      <address>
+        <city>Seattle</city>
+        <state>Washington</state>
+        <zip>98105</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Freedberg KA, Hardy WD, Holzman RS, Tosteson AN, Craven DE. Validating literature-based models with direct clinical trial results: the cost-effectiveness of secondary prophylaxis for PCP in AIDS patients. Med Decis Making. 1996 Jan-Mar;16(1):29-35. doi: 10.1177/0272989X9601600110.</citation>
+    <PMID>8717596</PMID>
+  </reference>
+  <reference>
+    <citation>Hardy WD, Feinberg J, Finkelstein DM, Power ME, He W, Kaczka C, Frame PT, Holmes M, Waskin H, Fass RJ, et al. A controlled trial of trimethoprim-sulfamethoxazole or aerosolized pentamidine for secondary prophylaxis of Pneumocystis carinii pneumonia in patients with the acquired immunodeficiency syndrome. AIDS Clinical Trials Group Protocol 021. N Engl J Med. 1992 Dec 24;327(26):1842-8. doi: 10.1056/NEJM199212243272604.</citation>
+    <PMID>1448121</PMID>
+  </reference>
+  <reference>
+    <citation>Hardy WD, Holzman RS, Avramis V, Bawdon R, Fall H, Feinberg J. Clinical and pharmacokinetic interactions of combined zidovudine (ZDV) therapy and sulfadoxine-pyrimethamine (fansidar) prophylaxis in post-PCP AIDS patients (ACTG 021). Int Conf AIDS. 1989 Jun 4-9;5:294 (abstract no TBP46)</citation>
+  </reference>
+  <reference>
+    <citation>Robins JM, Finkelstein DM. Correcting for noncompliance and dependent censoring in an AIDS Clinical Trial with inverse probability of censoring weighted (IPCW) log-rank tests. Biometrics. 2000 Sep;56(3):779-88. doi: 10.1111/j.0006-341x.2000.00779.x.</citation>
+    <PMID>10985216</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>November 2, 1999</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2001</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 31, 2001</study_first_posted>
+  <last_update_submitted>October 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 3, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Sulfadoxine</keyword>
+  <keyword>Trimethoprim-Sulfamethoxazole Combination</keyword>
+  <keyword>AIDS-Related Opportunistic Infections</keyword>
+  <keyword>Pneumonia, Pneumocystis carinii</keyword>
+  <keyword>Pentamidine</keyword>
+  <keyword>Pyrimethamine</keyword>
+  <keyword>Drug Evaluation</keyword>
+  <keyword>Administration, Inhalation</keyword>
+  <keyword>Administration, Oral</keyword>
+  <keyword>Aerosols</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>Zidovudine</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Pneumonia, Pneumocystis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Zidovudine</mesh_term>
+    <mesh_term>Pyrimethamine</mesh_term>
+    <mesh_term>Sulfadoxine</mesh_term>
+    <mesh_term>Trimethoprim</mesh_term>
+    <mesh_term>Sulfamethoxazole</mesh_term>
+    <mesh_term>Pentamidine</mesh_term>
+    <mesh_term>Trimethoprim, Sulfamethoxazole Drug Combination</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

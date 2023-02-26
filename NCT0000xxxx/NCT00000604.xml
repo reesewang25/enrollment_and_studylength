@@ -1,0 +1,120 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000604</url>
+  </required_header>
+  <id_info>
+    <org_study_id>108</org_study_id>
+    <secondary_id>R01HL048631</secondary_id>
+    <nct_id>NCT00000604</nct_id>
+  </id_info>
+  <brief_title>Influence of CPB Temperature on CABG Morbidity</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Baystate Medical Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Baystate Medical Center</source>
+  <brief_summary>
+    <textblock>
+      To compare three accepted modes of myocardial preservation, warm, tepid, and cold blood&#xD;
+      cardioplegia, coinciding with normothermic (37 degrees centigrade), tepid (32 degrees&#xD;
+      centigrade) and hypothermic (8 to 10 degrees centigrade) cardiopulmonary bypass (CPB) to&#xD;
+      define differences in neurologic function in coronary artery bypass graft (CABG) patients.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:&#xD;
+&#xD;
+      A pilot study of warm versus cold perfusion and preservation was completed in 32 patients&#xD;
+      prior to the ongoing study. The findings of the pilot study showed 53 percent of patients had&#xD;
+      evidence of new neurologic disturbance at postoperative day four. Only the neurologic&#xD;
+      dysfunction could be correlated with warm versus cold perfusion (37.5 percent warm versus 75&#xD;
+      percent cold, P less than 0.05). The changes in neurologic function had abated or clearly&#xD;
+      improved by one month of follow-up, and the distinction in neurologic dysfunction grading was&#xD;
+      no longer apparent between the two groups.&#xD;
+&#xD;
+      DESIGN NARRATIVE:&#xD;
+&#xD;
+      Patients were randomly assigned to cold, tepid, or warm blood cardioplegia, coinciding with&#xD;
+      normothermic, tepid, and hypothermic cardiopulmonary bypass. All patients received a standard&#xD;
+      anesthetic protocol combining narcotic and inhalational anesthesia. Each patient entering the&#xD;
+      study had extensive clinical data collected prospectively incorporating most aspects of&#xD;
+      measurable determinants related to myocardial preservation. Additionally, neurologic tests&#xD;
+      were performed by a blinded neurologist and rated by an objective scoring system, the Mathew&#xD;
+      scale. The studies were performed preoperatively, on the third or fourth postoperative day,&#xD;
+      and at one month following surgery. Hematologic data were measured for fibrinolytic&#xD;
+      potential.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1994</start_date>
+  <completion_date>December 1996</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Coronary Disease</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Myocardial Ischemia</condition>
+  <condition>Neurologic Manifestations</condition>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>cardiopulmonary bypass</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>heart arrest, induced</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Patients, referred for elective or urgent coronary revascularization, not having ongoing&#xD;
+        angina instability, requiring three or more bypass grafts, and under 70 years of age.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Engelman RM, Pleet AB, Rousou JA, Flack JE 3rd, Deaton DW, Kulshrestha P, Gregory CA, Pekow PS. Does cardiopulmonary bypass temperature correlate with postoperative central nervous system dysfunction? J Card Surg. 1995 Jul;10(4 Suppl):493-7. doi: 10.1111/j.1540-8191.1995.tb00683.x.</citation>
+    <PMID>7579848</PMID>
+  </reference>
+  <reference>
+    <citation>Engelman RM, Pleet AB, Rousou JA, Flack JE 3rd, Deaton DW, Gregory CA, Pekow PS. What is the best perfusion temperature for coronary revascularization? J Thorac Cardiovasc Surg. 1996 Dec;112(6):1622-32; discussion 1632-3. doi: 10.1016/S0022-5223(96)70021-1.</citation>
+    <PMID>8975854</PMID>
+  </reference>
+  <verification_date>December 2015</verification_date>
+  <study_first_submitted>October 27, 1999</study_first_submitted>
+  <study_first_submitted_qc>October 27, 1999</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 28, 1999</study_first_posted>
+  <last_update_submitted>December 11, 2015</last_update_submitted>
+  <last_update_submitted_qc>December 11, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 14, 2015</last_update_posted>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neurologic Manifestations</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Coronary Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+    <mesh_term>Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,130 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000571</url>
+  </required_header>
+  <id_info>
+    <org_study_id>209</org_study_id>
+    <secondary_id>R01HL034019</secondary_id>
+    <nct_id>NCT00000571</nct_id>
+  </id_info>
+  <brief_title>Trial of Inspiratory Muscle Rest and Exercise in Chronic Obstructive Lung Disease</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>McGill University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>McGill University</source>
+  <brief_summary>
+    <textblock>
+      To test the effectiveness of ventilatory muscle rest (VMR) using home negative pressure&#xD;
+      ventilation (NPV) in improving exercise performance, alleviating dyspnea, and improving the&#xD;
+      quality of life in patients with severe chronic obstructive lung disease.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:&#xD;
+&#xD;
+      The potential importance of respiratory, chiefly inspiratory-muscle, fatigue had only&#xD;
+      recently been appreciated. If inspiratory muscles fail, so does ventilation and tissue&#xD;
+      respiration. There are theoretical reasons to postulate inspiratory muscle failure in chronic&#xD;
+      obstructive pulmonary disease, and suggestions that it may occur in an acute form with&#xD;
+      exacerbations and in a chronic form during 'stability'. There are two therapeutic strategies&#xD;
+      available for prevention and treatment of inspiratory muscle fatigue: training inspiratory&#xD;
+      muscles to increase their efficiency and resting fatigued muscles. The former should work if&#xD;
+      chronic fatigue is not present, and the latter should allow recovery from chronic fatigue, so&#xD;
+      the two approaches are not necessarily mutually exclusive. This proposal was originally&#xD;
+      designed to test the efficacy of each of these therapies alone and also in combination;&#xD;
+      however, given the experience of a pretrial period, these goals were scaled back. Since there&#xD;
+      was reason to believe that VMR may be more effective than IMT, the trial focused on VMR and&#xD;
+      sham VMR only.&#xD;
+&#xD;
+      Ventilatory muscle rest was applied using a negative pressure ventilation suit sealed at the&#xD;
+      patient's hips, arms, and neck. A widebore tube connected to a fitting in the suit above the&#xD;
+      grid on the chest and upper abdomen transmitted negative pressure to the chest wall from the&#xD;
+      pump, thereby inflating the lungs.&#xD;
+&#xD;
+      The evidence for chronic inspiratory muscle fatigue in patients with COLD resided largely in&#xD;
+      several relatively poorly controlled studies indicating that nocturnal artificial&#xD;
+      ventilation, which presumably rested the inspiratory muscles, produced improvement in daytime&#xD;
+      function and blood gases. The trial produced some badly needed data on both the occurrence of&#xD;
+      inspiratory muscle fatigue in COLD patients and its treatment with VMR.&#xD;
+&#xD;
+      DESIGN NARRATIVE:&#xD;
+&#xD;
+      Randomized, blinded. A total of 1,231 patients in the metropolitan Montreal area were&#xD;
+      screened. Of these, 348 were recruited to enter a four week stabilization period, and 184&#xD;
+      were subsequently randomized to either active or sham negative pressure ventilation (NPV). A&#xD;
+      five day in-hospital period was used to train patients in ventilator use and obtain baseline&#xD;
+      measures of exercise capacity, lung function, respiratory symptoms, and quality of life.&#xD;
+      Randomization was stratified on the basis of whether or not the patient had been receiving&#xD;
+      oxygen at home. Home ventilation treatment took place during a following 12-week period.&#xD;
+      Respirator use was recorded from patient logs and from concealed meters installed in the&#xD;
+      units. Patients received four home visits by physiotherapists during the 12-week period and&#xD;
+      returned to the hospital for follow-up at four and twelve weeks post-discharge for&#xD;
+      reassessment. The principal outcome measure was the distance in meters walked in six minutes.&#xD;
+      Secondary outcome measures were cycle exercise endurance time, severity of dyspnea, quality&#xD;
+      of life, arterial blood gas tensions, and respiratory muscle strength.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 1986</start_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <condition>Lung Diseases</condition>
+  <condition>Lung Diseases, Obstructive</condition>
+  <condition>Chronic Obstructive Pulmonary Disease</condition>
+  <intervention>
+    <intervention_type>Device</intervention_type>
+    <intervention_name>ventilators, negative pressure</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        No eligibility criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>30 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Macklem</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>McGill University</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Shapiro SH, Macklem PT, Gray-Donald K, Martin JG, Ernst PP, Wood-Dauphinee S, Hutchinson TA, Spitzer WO. A randomized clinical trial of negative pressure ventilation in severe chronic obstructive pulmonary disease: design and methods. J Clin Epidemiol. 1991;44(6):483-96. doi: 10.1016/0895-4356(91)90211-q.</citation>
+    <PMID>2037853</PMID>
+  </reference>
+  <verification_date>April 2001</verification_date>
+  <study_first_submitted>October 27, 1999</study_first_submitted>
+  <study_first_submitted_qc>October 27, 1999</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 28, 1999</study_first_posted>
+  <last_update_submitted>December 28, 2015</last_update_submitted>
+  <last_update_submitted_qc>December 28, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 29, 2015</last_update_posted>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Diseases</mesh_term>
+    <mesh_term>Lung Diseases, Obstructive</mesh_term>
+    <mesh_term>Pulmonary Disease, Chronic Obstructive</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

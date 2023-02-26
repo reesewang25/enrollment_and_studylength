@@ -1,0 +1,286 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00002472</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000076756</org_study_id>
+    <secondary_id>P30CA015083</secondary_id>
+    <secondary_id>891351</secondary_id>
+    <secondary_id>T92-0208D</secondary_id>
+    <nct_id>NCT00002472</nct_id>
+  </id_info>
+  <brief_title>Cisplatin and Etoposide Prior to Radiation Therapy in Treating Patients With CNS Tumors</brief_title>
+  <official_title>Phase II Pre-Irradiation Chemotherapy for Central Nervous System Germ Cell Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Mayo Clinic</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Mayo Clinic</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining more than one drug may kill more tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of cisplatin and etoposide in treating&#xD;
+      patients with CNS tumors.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the response rate of patients with newly diagnosed CNS germ cell tumors&#xD;
+           treated with cisplatin and etoposide.&#xD;
+&#xD;
+        -  Determine the survival of patients with CNS germ cell tumors treated with cisplatin and&#xD;
+           etoposide followed by cranial radiotherapy.&#xD;
+&#xD;
+        -  Determine endocrine and cognitive function in these patients before and after receiving&#xD;
+           this regimen.&#xD;
+&#xD;
+      OUTLINE: Patients are stratified by histology (germinoma vs nongerminoma).&#xD;
+&#xD;
+      Patients receive cisplatin IV over 4 hours followed by etoposide IV over 30-60 minutes on&#xD;
+      days 1-5. Treatment continues every 3 weeks for 4 courses in the absence of disease&#xD;
+      progression or unacceptable toxicity. After completion of 4 courses, patients with&#xD;
+      nongerminoma who achieve complete response (CR) and all patients with germinoma proceed to&#xD;
+      radiotherapy. After completion of 4 courses, patients with nongerminoma who achieve less than&#xD;
+      CR undergo resection of any residual cranial masses, if feasible, and then proceed to&#xD;
+      radiotherapy. Patients who experience disease progression or unacceptable toxicity during&#xD;
+      chemotherapy are restaged and proceed directly to radiotherapy.&#xD;
+&#xD;
+      Beginning a minimum of 3 weeks after completion of the last course of chemotherapy and after&#xD;
+      recovering from any toxic effects of chemotherapy, eligible patients undergo a regimen of&#xD;
+      craniospinal axis irradiation and/or localized cranial or spinal field irradiation based on&#xD;
+      histology, extent of disease, and response to chemotherapy. Patients with gross spinal&#xD;
+      meningeal disease after completion of chemotherapy undergo radiotherapy boost.&#xD;
+&#xD;
+      Patients are followed every 2 months for 1 year, every 4 months for 1 year, every 6 months&#xD;
+      for 1 year, and then annually for 2 years.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 12-25 patients with germinoma will be accrued for this study&#xD;
+      within 3-6 years. A total of 12-25 patients with nongerminoma will be accrued for this study&#xD;
+      within 6-12 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 1991</start_date>
+  <completion_date type="Actual">August 2005</completion_date>
+  <primary_completion_date type="Actual">August 2005</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Response rate</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Survival</measure>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Endocrine and cognitive function</measure>
+  </primary_outcome>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <condition>Pediatric Germ Cell Tumor</condition>
+  <condition>Extragonadal Germ Cell Tumor</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cisplatin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>etoposide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>conventional surgery</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>neoadjuvant therapy</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically proven CNS germ cell tumor of 1 of the following subtypes:&#xD;
+&#xD;
+               -  CNS germinoma&#xD;
+&#xD;
+               -  Immature teratoma&#xD;
+&#xD;
+               -  Embryonal cell carcinoma&#xD;
+&#xD;
+               -  Yolk sac tumor&#xD;
+&#xD;
+               -  Endodermal sinus tumor&#xD;
+&#xD;
+               -  Choriocarcinoma OR&#xD;
+&#xD;
+          -  Pineal or suprasellar mass associated with elevated CSF alpha fetoprotein or&#xD;
+             beta-human chorionic gonadotropin allowed&#xD;
+&#xD;
+          -  Patients 18 years and over with localized pure germinomas ineligible&#xD;
+&#xD;
+          -  Evaluable CT or MRI of brain and/or spinal cord required&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  3 and over&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  Age 18 and over:&#xD;
+&#xD;
+               -  WBC at least 4,000/mm^3&#xD;
+&#xD;
+               -  Platelet count at least 100,000/mm^3&#xD;
+&#xD;
+          -  Under age 18:&#xD;
+&#xD;
+               -  Absolute neutrophil count at least 1,000/mm^3&#xD;
+&#xD;
+               -  Platelet count at least 100,000/mm^3&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine no greater than 0.3 mg/dL above upper limit of normal for age&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No uncontrolled infection&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  No prior chemotherapy for CNS germ cell tumor&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Concurrent corticosteroids allowed except as antiemetics&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  No prior cranial or spinal radiotherapy&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Not specified&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>3 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jan C. Buckner, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Mayo Clinic Scottsdale</name>
+      <address>
+        <city>Scottsdale</city>
+        <state>Arizona</state>
+        <zip>85259</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic - Jacksonville</name>
+      <address>
+        <city>Jacksonville</city>
+        <state>Florida</state>
+        <zip>32224</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Mayo Clinic Cancer Center</name>
+      <address>
+        <city>Rochester</city>
+        <state>Minnesota</state>
+        <zip>55905</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>March 2011</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>March 14, 2011</last_update_submitted>
+  <last_update_submitted_qc>March 14, 2011</last_update_submitted_qc>
+  <last_update_posted type="Estimate">March 15, 2011</last_update_posted>
+  <responsible_party>
+    <name_title>Jan C. Buckner , MD</name_title>
+    <organization>Mayo Clinic</organization>
+  </responsible_party>
+  <keyword>childhood central nervous system germ cell tumor</keyword>
+  <keyword>extragonadal germ cell tumor</keyword>
+  <keyword>adult central nervous system germ cell tumor</keyword>
+  <keyword>childhood teratoma</keyword>
+  <keyword>childhood central nervous system choriocarcinoma</keyword>
+  <keyword>childhood central nervous system embryonal tumor</keyword>
+  <keyword>childhood central nervous system germinoma</keyword>
+  <keyword>childhood central nervous system mixed germ cell tumor</keyword>
+  <keyword>childhood central nervous system teratoma</keyword>
+  <keyword>childhood central nervous system yolk sac tumor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms</mesh_term>
+    <mesh_term>Neoplasms, Germ Cell and Embryonal</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

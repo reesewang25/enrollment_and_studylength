@@ -1,0 +1,114 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00005211</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1090</org_study_id>
+    <nct_id>NCT00005211</nct_id>
+  </id_info>
+  <brief_title>Cardiovascular Mortality Among Tunnel and Bridge Workers Exposed To Carbon Monoxide</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <brief_summary>
+    <textblock>
+      To assess the risk of cardiovascular mortality in workers with increased occupational&#xD;
+      exposure to carbon monoxide.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:&#xD;
+&#xD;
+      A retrospective study by NIOSH found a significantly higher death rate from atherosclerotic&#xD;
+      heart disease for New York City tunnel officers compared with the expected rate for the New&#xD;
+      York City population. A Cox proportional hazards model which examined the risk of&#xD;
+      atherosclerotic heart disease for tunnel officers compared to bridge officers found a similar&#xD;
+      pattern. The Cox model also showed a significant decline in the risk of atherosclerotic heart&#xD;
+      disease among tunnel officers, when compared to the less-exposed bridge officers, after&#xD;
+      cessation of exposure with most of the risk dissipating within as little as five years.&#xD;
+&#xD;
+      Carbon monoxide may contribute to cardiovascular disease through several accepted and&#xD;
+      potential mechanisms including binding to hemoglobin, and reducing oxygen dissociation at the&#xD;
+      tissue level by shifting the oxygen-hemoglobin dissociation curve. Carbon monoxide in&#xD;
+      experimental animals also increases platelet stickiness which may contribute to&#xD;
+      atherogenesis, and accelerates atherosclerosis either through altered lipid metabolism or&#xD;
+      increasing vessel permeability to cholesterol. Carbon monoxide in experimental studies&#xD;
+      contributes to sudden death by reducing the cardiac threshold for ventricular fibrillation.&#xD;
+      Some of these mechanisms, such as those that would lead to transient hypoxia of the&#xD;
+      myocardium, would lead to increased risk of myocardial ischemia only when exposure is&#xD;
+      current, while other mechanisms, such as acceleration of atherogenesis, may lead to long&#xD;
+      standing elevation of risk for cardiovascular disease.&#xD;
+&#xD;
+      The Occupational Safety and Health Administration standard for carbon monoxide in 1987&#xD;
+      allowed exposure of 50 parts per million (ppm) time-weighted average over an 8-hour day with&#xD;
+      no ceiling level limit. The margin of safety of this standard for workers with cardiovascular&#xD;
+      disease was questioned by a series of controversial studies of exposures averaging 50 ppm&#xD;
+      which demonstrated a decrease in exercise necessary to induce angina in experimental subjects&#xD;
+      with underlying cardiovascular disease. NIOSH recommended a standard for carbon monoxide&#xD;
+      exposure of 35 ppm as an 8-hour time-weighted average with a ceiling limit of 200 ppm.&#xD;
+&#xD;
+      DESIGN NARRATIVE:&#xD;
+&#xD;
+      For each study site, personnel records were obtained including a work history for each&#xD;
+      exposed worker. For current workers, smoking history was obtained by questionnaire and&#xD;
+      carboxyhemoglobin measured both pre-shift and post-shift. The feasibility of obtaining&#xD;
+      smoking history on previously employed workers was explored. Vital status ascertainment&#xD;
+      included the use of records from the Social Security Administration, drivers license bureaus,&#xD;
+      the Internal Revenue Service, and the National Death Index. Death certificates were obtained&#xD;
+      from appropriate state vital statistics offices. Statistical analyses were performed using a&#xD;
+      modified life table analysis system frequently used by National Institute of Occupational&#xD;
+      Safety and Health (NIOSH) in similar studies. In addition, industrial hygienists from NIOSH&#xD;
+      visited each study site to measure current occupational exposure levels and to gather&#xD;
+      information which allowed estimation of past exposure levels. Previous carbon monoxide&#xD;
+      monitoring data was available for some tunnels.&#xD;
+&#xD;
+      Based on the results of the cohort study, a nested case-control study was planned to further&#xD;
+      examine the interaction of smoking and other cardiovascular disease risk factors with the&#xD;
+      relationship between cardiovascular disease and occupational exposure to carbon monoxide.&#xD;
+&#xD;
+      The study completion date listed in this record was obtained from the &quot;Completed Date&quot;&#xD;
+      entered in the Query View Report System (QVR).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 1987</start_date>
+  <completion_date type="Actual">September 1990</completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <eligibility>
+    <criteria>
+      <textblock>
+        No eligibility criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <verification_date>November 2001</verification_date>
+  <study_first_submitted>May 25, 2000</study_first_submitted>
+  <study_first_submitted_qc>May 25, 2000</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 26, 2000</study_first_posted>
+  <last_update_submitted>July 11, 2016</last_update_submitted>
+  <last_update_submitted_qc>July 11, 2016</last_update_submitted_qc>
+  <last_update_posted type="Estimate">July 12, 2016</last_update_posted>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

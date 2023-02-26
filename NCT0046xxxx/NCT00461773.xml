@@ -1,0 +1,1083 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00461773</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0609001793</org_study_id>
+    <nct_id>NCT00461773</nct_id>
+  </id_info>
+  <brief_title>Randomized Phase II Study of Preoperative Letrozole (Femara) in Combination With Avastin in Hormone Receptor Positive Breast Cancer</brief_title>
+  <official_title>Randomized Phase II Study of Preoperative Letrozole (Femara) in Combination With Avastin in Hormone Receptor Positive Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Yale University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Novartis</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Genentech, Inc.</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Yale University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to evaluate the objective response rate of a combination of&#xD;
+      letrozole (Femara) and bevacizumab (Avastin) given preoperatively to postmenopausal patients&#xD;
+      with hormone sensitive breast cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Lack of recrual&#xD;
+  </why_stopped>
+  <start_date>March 2007</start_date>
+  <completion_date type="Actual">May 2010</completion_date>
+  <primary_completion_date type="Actual">May 2010</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Patients With Objective Tumor Response</measure>
+    <time_frame>Up to 18 weeks</time_frame>
+    <description>Clinical objective tumor response with 14 weeks of Neoadjuvant Letrozole combined with Bevacizumab was assessed using the following categories:&#xD;
+Complete Response (CR): tumor is no longer visible. Partial response (PR): ≥ 50% decrease from baseline in the product of two perpendicular diameters, no new lesions. Progressive disease (PD): ≥ 25% increase of the product of two perpendicular diameters or new lesions. Stable Disease (SD): Neither CR, PR, or PD criteria met. Clinical tumor assessment was performed at baseline and every 2 weeks until week 18 prior to definitive surgery.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Breast Conservation</measure>
+    <time_frame>Up to 14 weeks</time_frame>
+    <description>To assess breast conservation (actual surgery performed and baseline feasible surgery) of 14 weeks of neoadjuvant letrozole combined with bevacizumab.&#xD;
+At baseline and immediately prior to surgery, the investigator will record the extent of the least invasive feasible surgery option at that time point, according to the following categories: 1. Breast conserving surgery is feasible; 2. A mastectomy is needed; 3. Tumor is inoperable, but potentially operable after neoadjuvant treatment.&#xD;
+Following surgery, the investigator will record the extent of the actual surgery performed according to the following categories:&#xD;
+1. Breast conserving surgery performed; 2. Mastectomy performed 3. No surgery performed (reason should be specified).</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Radiographic Tumor Response</measure>
+    <time_frame>18 weeks</time_frame>
+    <description>To assess radiographic tumor response after 14 weeks of Neoadjuvant Letrozole combined with Bevacizumab, mammogram were performed at baseline and at week 18 prior to definitive surgery.&#xD;
+Tumors response was assessed using RECIST criteria RECIST:&#xD;
+CR: Tumor is no longer visible PR: ≥ 30% decrease from baseline in the longest diameter, no new lesions PD: ≥ 20% increase in longest diameter recorded or new lesions SD: Neither CR, PR, or PD criteria met</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pathologic Complete Response</measure>
+    <time_frame>Up to 18 weeks</time_frame>
+    <description>To assess pathologic complete response after 14 Weeks of Neoadjuvant Letrozole combined with Bevacizumab, the pathologic response was determined on the surgically excised specimen at the time of definitive surgery.&#xD;
+The size of the residual tumor would be measured grossly if possible and confirmed microscopically.&#xD;
+The excised residual tumor was be assessed using RECIST criteria.&#xD;
+RECIST:&#xD;
+CR: Tumor is no longer visible PR: ≥ 30% decrease from baseline in the longest diameter, no new lesions PD: ≥ 20% increase in longest diameter recorded or new lesions SD: Neither CR, PR, or PD criteria met</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Tumor Response With Biological Correlates</measure>
+    <time_frame>2 weeks</time_frame>
+    <description>To correlate response with biological correlates detected at baseline and after 1 cycle of treatment with either Bevacizumab alone or Bevacizumab combined with Letrozole.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Drug Tolerability</measure>
+    <time_frame>Up to 18 weeks</time_frame>
+    <description>To assess the tolerability of 14 weeks of Neoadjuvant Letrozole combined with Bevacizumab, individual toxicities were graded according to the National Cancer Institute (NCI) Common Toxicity Criteria (CTC) Version 3.0. Information about all adverse events, whether volunteered by the subject, discovered by investigator questioning, or detected through physical examination, laboratory test or other means, were collected and recorded on the Adverse Event Case Report Form and followed as appropriate. An adverse event (AE) is any undesirable sign, symptom or medical condition occurring after starting study drug (or therapy) even if the event is not considered to be related to study drug (or therapy). Study drug (or therapy) includes the drug (or therapy) under evaluation, and any reference or placebo drug (or therapy) given during any phase of the trial. AE's graded 3 or 4 would be considered serious and be reported as measures of tolerability.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">5</enrollment>
+  <condition>Hormone-Sensitive Breast Cancer</condition>
+  <condition>Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>bevacizumab</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>brief exposure bevacizumab</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>bevacizumab and letrozole</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>brief exposure bevacizumab and letrozole</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Letrozole</intervention_name>
+    <description>Letrozole 2.5 mg po qd</description>
+    <arm_group_label>bevacizumab and letrozole</arm_group_label>
+    <other_name>Femara</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Bevacizumab</intervention_name>
+    <description>bevacizumab 10 mg/kg IV</description>
+    <arm_group_label>bevacizumab</arm_group_label>
+    <arm_group_label>bevacizumab and letrozole</arm_group_label>
+    <other_name>Avastin</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Histologically confirmed operable or potentially operable invasive breast&#xD;
+             adenocarcinoma that is clinically palpable and measurable&#xD;
+&#xD;
+          -  Age ≥ 18 years&#xD;
+&#xD;
+          -  Clinical Stage T2-4, N0-3, M0 (Stage II-III)&#xD;
+&#xD;
+          -  Postmenopausal defined as Age ≥ 60 years and/or Age &gt;45 years with amenorrhea 12&#xD;
+             months with an intact uterus and/or History of bilateral oophorectomy and/or FSH and&#xD;
+             estradiol levels in postmenopausal range&#xD;
+&#xD;
+          -  ECOG PS 0, 1&#xD;
+&#xD;
+          -  Unifocal disease&#xD;
+&#xD;
+          -  ER and/or PR positive&#xD;
+&#xD;
+          -  Adequate hematological, renal, and hepatic functions Absolute neutrophil count ≥&#xD;
+             1,500/µL Platelet count ≥ 100,000/µL creatinine ≤ 1.5 mg/dL Serum total bilirubin ≤&#xD;
+             1.5 mg/dL Alkaline phosphatase ≤ 3X the ULN for the reference lab SGOT/SGPT ≤ 3X the&#xD;
+             ULN for the reference lab&#xD;
+&#xD;
+          -  Patients or their legal representatives must be able to read, understand and provide&#xD;
+             informed consent to participate in the trial&#xD;
+&#xD;
+          -  Use of effective means of contraception (men and women) in subjects of child-bearing&#xD;
+             potential&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Prior history of and/or therapy for invasive breast cancer (includes chemotherapy,&#xD;
+             radiation, hormonal therapy including AIs, tamoxifen, raloxifene, fulvestrant or any&#xD;
+             other antiestrogen/SERM)&#xD;
+&#xD;
+          -  Clinically significant cardiovascular disease, EF &lt;50%&#xD;
+&#xD;
+          -  Known CNS disease&#xD;
+&#xD;
+          -  History of deep vein thrombosis or pulmonary embolism&#xD;
+&#xD;
+          -  Proteinuria at screening as demonstrated by either Urine protein:creatinine (UPC)&#xD;
+             ratio ≥ 1.0 at screening OR Urine dipstick for proteinuria ≥ 2+ (patients discovered&#xD;
+             to have ≥2+ proteinuria on dipstick urinalysis at baseline should undergo a 24 hour&#xD;
+             urine collection and must demonstrate ≤ 1g of protein in 24 hours to be eligible).&#xD;
+&#xD;
+          -  Presence of non-healing wound or fracture&#xD;
+&#xD;
+          -  Current, recent (within 4 weeks of the first infusion of this study), or planned&#xD;
+             participation in an experimental drug study other than a Genentech-sponsored&#xD;
+             bevacizumab cancer study&#xD;
+&#xD;
+          -  Inadequately controlled hypertension (defined as systolic blood pressure &gt;150 and/or&#xD;
+             diastolic blood pressure &gt; 100 mmHg on antihypertensive medications)&#xD;
+&#xD;
+          -  Any prior history of hypertensive crisis or hypertensive encephalopathy&#xD;
+&#xD;
+          -  New York Heart Association (NYHA) Grade II or greater congestive heart failure (see&#xD;
+             Appendix E)&#xD;
+&#xD;
+          -  History of myocardial infarction or unstable angina within 12 months prior to study&#xD;
+             enrollment&#xD;
+&#xD;
+          -  Any history of stroke or transient ischemic attack at any time&#xD;
+&#xD;
+          -  Significant vascular disease (e.g., aortic aneurysm, aortic dissection)&#xD;
+&#xD;
+          -  Symptomatic peripheral vascular disease&#xD;
+&#xD;
+          -  Evidence of bleeding diathesis or coagulopathy&#xD;
+&#xD;
+          -  Major surgical procedure, open biopsy, or significant traumatic injury within 28 days&#xD;
+             prior to Day 0&#xD;
+&#xD;
+          -  Core biopsy or other minor surgical procedures such as fine needle aspirations or core&#xD;
+             biopsies within 7 days prior to Day 0&#xD;
+&#xD;
+          -  Pregnant (positive pregnancy test) or lactating. Use of effective means of&#xD;
+             contraception (men and women) in subjects of child-bearing potential is mandatory&#xD;
+&#xD;
+          -  History of abdominal fistula, gastrointestinal perforation, or intra-abdominal abscess&#xD;
+             within 6 months prior to Day 0&#xD;
+&#xD;
+          -  Known hypersensitivity to any component of bevacizumab or letrozole&#xD;
+&#xD;
+          -  Inability to comply with study and/or follow-up procedures&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Gina Chung, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Yale University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Yale University, Yale Cancer Center</name>
+      <address>
+        <city>New Haven</city>
+        <state>Connecticut</state>
+        <zip>06520</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>February 2021</verification_date>
+  <study_first_submitted>April 16, 2007</study_first_submitted>
+  <study_first_submitted_qc>April 16, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 18, 2007</study_first_posted>
+  <results_first_submitted>September 10, 2020</results_first_submitted>
+  <results_first_submitted_qc>February 22, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 16, 2021</results_first_posted>
+  <last_update_submitted>February 22, 2021</last_update_submitted>
+  <last_update_submitted_qc>February 22, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 16, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Neoadjuvant treatment</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Bevacizumab</mesh_term>
+    <mesh_term>Letrozole</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Bevacizumab</title>
+          <description>brief exposure bevacizumab&#xD;
+Bevacizumab: bevacizumab 10 mg/kg IV</description>
+        </group>
+        <group group_id="P2">
+          <title>Bevacizumab and Letrozole</title>
+          <description>brief exposure bevacizumab and letrozole&#xD;
+Letrozole: Letrozole 2.5 mg once orally daily&#xD;
+Bevacizumab: bevacizumab 10 mg/kg IV</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="3"/>
+                <participants group_id="P2" count="2"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Bevacizumab</title>
+          <description>brief exposure bevacizumab</description>
+        </group>
+        <group group_id="B2">
+          <title>Bevacizumab and Letrozole</title>
+          <description>brief exposure bevacizumab and letrozole</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="3"/>
+            <count group_id="B2" value="2"/>
+            <count group_id="B3" value="5"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Patients With Objective Tumor Response</title>
+        <description>Clinical objective tumor response with 14 weeks of Neoadjuvant Letrozole combined with Bevacizumab was assessed using the following categories:&#xD;
+Complete Response (CR): tumor is no longer visible. Partial response (PR): ≥ 50% decrease from baseline in the product of two perpendicular diameters, no new lesions. Progressive disease (PD): ≥ 25% increase of the product of two perpendicular diameters or new lesions. Stable Disease (SD): Neither CR, PR, or PD criteria met. Clinical tumor assessment was performed at baseline and every 2 weeks until week 18 prior to definitive surgery.</description>
+        <time_frame>Up to 18 weeks</time_frame>
+        <population>All patients.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Bevacizumab</title>
+            <description>brief exposure bevacizumab</description>
+          </group>
+          <group group_id="O2">
+            <title>Bevacizumab and Letrozole</title>
+            <description>brief exposure bevacizumab and letrozole</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Patients With Objective Tumor Response</title>
+          <description>Clinical objective tumor response with 14 weeks of Neoadjuvant Letrozole combined with Bevacizumab was assessed using the following categories:&#xD;
+Complete Response (CR): tumor is no longer visible. Partial response (PR): ≥ 50% decrease from baseline in the product of two perpendicular diameters, no new lesions. Progressive disease (PD): ≥ 25% increase of the product of two perpendicular diameters or new lesions. Stable Disease (SD): Neither CR, PR, or PD criteria met. Clinical tumor assessment was performed at baseline and every 2 weeks until week 18 prior to definitive surgery.</description>
+          <population>All patients.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3"/>
+                <count group_id="O2" value="2"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Complete Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Partial Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Progressive Disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Stable Disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Breast Conservation</title>
+        <description>To assess breast conservation (actual surgery performed and baseline feasible surgery) of 14 weeks of neoadjuvant letrozole combined with bevacizumab.&#xD;
+At baseline and immediately prior to surgery, the investigator will record the extent of the least invasive feasible surgery option at that time point, according to the following categories: 1. Breast conserving surgery is feasible; 2. A mastectomy is needed; 3. Tumor is inoperable, but potentially operable after neoadjuvant treatment.&#xD;
+Following surgery, the investigator will record the extent of the actual surgery performed according to the following categories:&#xD;
+1. Breast conserving surgery performed; 2. Mastectomy performed 3. No surgery performed (reason should be specified).</description>
+        <time_frame>Up to 14 weeks</time_frame>
+        <population>All patients.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Bevacizumab</title>
+            <description>brief exposure bevacizumab</description>
+          </group>
+          <group group_id="O2">
+            <title>Bevacizumab and Letrozole</title>
+            <description>brief exposure bevacizumab and letrozole</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Breast Conservation</title>
+          <description>To assess breast conservation (actual surgery performed and baseline feasible surgery) of 14 weeks of neoadjuvant letrozole combined with bevacizumab.&#xD;
+At baseline and immediately prior to surgery, the investigator will record the extent of the least invasive feasible surgery option at that time point, according to the following categories: 1. Breast conserving surgery is feasible; 2. A mastectomy is needed; 3. Tumor is inoperable, but potentially operable after neoadjuvant treatment.&#xD;
+Following surgery, the investigator will record the extent of the actual surgery performed according to the following categories:&#xD;
+1. Breast conserving surgery performed; 2. Mastectomy performed 3. No surgery performed (reason should be specified).</description>
+          <population>All patients.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3"/>
+                <count group_id="O2" value="2"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Breast Conservation Feasible Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="2"/>
+                    <count group_id="O2" value="1"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Performed at 14 weeks</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Performed at 14 weeks</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Mastectomy Needed at Baseline</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="O1" value="1"/>
+                    <count group_id="O2" value="1"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Performed at 14 weeks</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Performed at 14 weeks</title>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Radiographic Tumor Response</title>
+        <description>To assess radiographic tumor response after 14 weeks of Neoadjuvant Letrozole combined with Bevacizumab, mammogram were performed at baseline and at week 18 prior to definitive surgery.&#xD;
+Tumors response was assessed using RECIST criteria RECIST:&#xD;
+CR: Tumor is no longer visible PR: ≥ 30% decrease from baseline in the longest diameter, no new lesions PD: ≥ 20% increase in longest diameter recorded or new lesions SD: Neither CR, PR, or PD criteria met</description>
+        <time_frame>18 weeks</time_frame>
+        <population>All patients.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Bevacizumab</title>
+            <description>brief exposure bevacizumab</description>
+          </group>
+          <group group_id="O2">
+            <title>Bevacizumab and Letrozole</title>
+            <description>brief exposure bevacizumab and letrozole</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Radiographic Tumor Response</title>
+          <description>To assess radiographic tumor response after 14 weeks of Neoadjuvant Letrozole combined with Bevacizumab, mammogram were performed at baseline and at week 18 prior to definitive surgery.&#xD;
+Tumors response was assessed using RECIST criteria RECIST:&#xD;
+CR: Tumor is no longer visible PR: ≥ 30% decrease from baseline in the longest diameter, no new lesions PD: ≥ 20% increase in longest diameter recorded or new lesions SD: Neither CR, PR, or PD criteria met</description>
+          <population>All patients.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3"/>
+                <count group_id="O2" value="2"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>CR</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>PR</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>PD</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SD</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Pathologic Complete Response</title>
+        <description>To assess pathologic complete response after 14 Weeks of Neoadjuvant Letrozole combined with Bevacizumab, the pathologic response was determined on the surgically excised specimen at the time of definitive surgery.&#xD;
+The size of the residual tumor would be measured grossly if possible and confirmed microscopically.&#xD;
+The excised residual tumor was be assessed using RECIST criteria.&#xD;
+RECIST:&#xD;
+CR: Tumor is no longer visible PR: ≥ 30% decrease from baseline in the longest diameter, no new lesions PD: ≥ 20% increase in longest diameter recorded or new lesions SD: Neither CR, PR, or PD criteria met</description>
+        <time_frame>Up to 18 weeks</time_frame>
+        <population>All patients.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Bevacizumab</title>
+            <description>brief exposure bevacizumab</description>
+          </group>
+          <group group_id="O2">
+            <title>Bevacizumab and Letrozole</title>
+            <description>brief exposure bevacizumab and letrozole</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Pathologic Complete Response</title>
+          <description>To assess pathologic complete response after 14 Weeks of Neoadjuvant Letrozole combined with Bevacizumab, the pathologic response was determined on the surgically excised specimen at the time of definitive surgery.&#xD;
+The size of the residual tumor would be measured grossly if possible and confirmed microscopically.&#xD;
+The excised residual tumor was be assessed using RECIST criteria.&#xD;
+RECIST:&#xD;
+CR: Tumor is no longer visible PR: ≥ 30% decrease from baseline in the longest diameter, no new lesions PD: ≥ 20% increase in longest diameter recorded or new lesions SD: Neither CR, PR, or PD criteria met</description>
+          <population>All patients.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3"/>
+                <count group_id="O2" value="2"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>CR</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>PR</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>PD</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>SD</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Tumor Response With Biological Correlates</title>
+        <description>To correlate response with biological correlates detected at baseline and after 1 cycle of treatment with either Bevacizumab alone or Bevacizumab combined with Letrozole.</description>
+        <time_frame>2 weeks</time_frame>
+        <population>These labs were never conducted as the study was terminated after 5 patients.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Bevacizumab</title>
+            <description>brief exposure bevacizumab</description>
+          </group>
+          <group group_id="O2">
+            <title>Bevacizumab and Letrozole</title>
+            <description>brief exposure bevacizumab and letrozole</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Tumor Response With Biological Correlates</title>
+          <description>To correlate response with biological correlates detected at baseline and after 1 cycle of treatment with either Bevacizumab alone or Bevacizumab combined with Letrozole.</description>
+          <population>These labs were never conducted as the study was terminated after 5 patients.</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Drug Tolerability</title>
+        <description>To assess the tolerability of 14 weeks of Neoadjuvant Letrozole combined with Bevacizumab, individual toxicities were graded according to the National Cancer Institute (NCI) Common Toxicity Criteria (CTC) Version 3.0. Information about all adverse events, whether volunteered by the subject, discovered by investigator questioning, or detected through physical examination, laboratory test or other means, were collected and recorded on the Adverse Event Case Report Form and followed as appropriate. An adverse event (AE) is any undesirable sign, symptom or medical condition occurring after starting study drug (or therapy) even if the event is not considered to be related to study drug (or therapy). Study drug (or therapy) includes the drug (or therapy) under evaluation, and any reference or placebo drug (or therapy) given during any phase of the trial. AE's graded 3 or 4 would be considered serious and be reported as measures of tolerability.</description>
+        <time_frame>Up to 18 weeks</time_frame>
+        <population>All adverse events are presented in the adverse event module.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Bevacizumab</title>
+            <description>brief exposure bevacizumab</description>
+          </group>
+          <group group_id="O2">
+            <title>Bevacizumab and Letrozole</title>
+            <description>brief exposure bevacizumab and letrozole</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Drug Tolerability</title>
+          <description>To assess the tolerability of 14 weeks of Neoadjuvant Letrozole combined with Bevacizumab, individual toxicities were graded according to the National Cancer Institute (NCI) Common Toxicity Criteria (CTC) Version 3.0. Information about all adverse events, whether volunteered by the subject, discovered by investigator questioning, or detected through physical examination, laboratory test or other means, were collected and recorded on the Adverse Event Case Report Form and followed as appropriate. An adverse event (AE) is any undesirable sign, symptom or medical condition occurring after starting study drug (or therapy) even if the event is not considered to be related to study drug (or therapy). Study drug (or therapy) includes the drug (or therapy) under evaluation, and any reference or placebo drug (or therapy) given during any phase of the trial. AE's graded 3 or 4 would be considered serious and be reported as measures of tolerability.</description>
+          <population>All adverse events are presented in the adverse event module.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="3"/>
+                <count group_id="O2" value="2"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Any Grade 3 Adverse Events</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Any Grade 4 Adverse Events</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Up to 18 weeks</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Bevacizumab</title>
+          <description>brief exposure bevacizumab</description>
+        </group>
+        <group group_id="E2">
+          <title>Bevacizumab and Letrozole</title>
+          <description>brief exposure bevacizumab and letrozole</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="2"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>MedDRA (10.0)</default_vocab>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>BLOOD/BONE MARROW</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="3" subjects_affected="1" subjects_at_risk="2"/>
+              </event>
+              <event>
+                <sub_title>HEMORRHAGE/BLEEDING</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>CARDIAC GENERAL</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="4" subjects_affected="2" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>AUDITORY/EAR</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>ENDOCRINE</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="4" subjects_affected="1" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>OCULAR/VISUAL</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>GASTROINTESTINAL</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="8" subjects_affected="2" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>CONSTITUTIONAL SYMPTOMS</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="8" subjects_affected="2" subjects_at_risk="2"/>
+              </event>
+              <event>
+                <sub_title>PAIN</sub_title>
+                <counts group_id="E1" events="17" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E2" events="16" subjects_affected="2" subjects_at_risk="2"/>
+              </event>
+              <event>
+                <sub_title>SYNDROMES</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>ALLERGY/IMMUNOLOGY</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="2"/>
+              </event>
+              <event>
+                <sub_title>LYMPHATICS</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>METABOLIC/LABORATORY</sub_title>
+                <counts group_id="E1" events="29" subjects_affected="3" subjects_at_risk="3"/>
+                <counts group_id="E2" events="20" subjects_affected="2" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>MUSCULOSKELETAL/SOFT TISSUE</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>NEUROLOGY</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="9" subjects_affected="1" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>RENAL/GENITOURINARY</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>PULMONARY/UPPER RESPIRATORY</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="5" subjects_affected="2" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>DERMATOLOGY/SKIN</sub_title>
+                <counts group_id="E1" events="9" subjects_affected="2" subjects_at_risk="3"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>VASCULAR</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="3"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="2"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The data reported are summaries of the available data that were collected up until the time of study termination.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Gina G. Chung, MD</name_or_title>
+      <organization>The Christ Hospital</organization>
+      <phone>(513) 564-7771</phone>
+      <email>gina.chung@thechristhospital.com</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

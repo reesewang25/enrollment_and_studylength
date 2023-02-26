@@ -1,0 +1,463 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00005859</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NABTC-9901</org_study_id>
+    <secondary_id>CDR0000067888</secondary_id>
+    <secondary_id>U01CA062455</secondary_id>
+    <nct_id>NCT00005859</nct_id>
+  </id_info>
+  <brief_title>Tipifarnib in Treating Patients With Recurrent or Progressive Malignant Glioma</brief_title>
+  <official_title>Phase I/II Trial of R115777 in Patients With Recurrent Malignant Glioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Tipifarnib may stop the growth of tumor cells by blocking the enzymes necessary&#xD;
+      for tumor cell growth.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of tipifarnib in treating patients who&#xD;
+      have recurrent or progressive malignant glioma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the maximum tolerated dose of tipifarnib in patients with recurrent or&#xD;
+           progressive malignant glioma receiving enzyme-inducing antiepileptic drugs. (Stratum II&#xD;
+           in the phase I portion of this study closed to accrual effective 07/16/2001.) (Phase I&#xD;
+           completed effective 10/2/2001.) (Phase II open only to patients requiring resection and&#xD;
+           who provide surgical tissue samples [effective 3/13/2003].)&#xD;
+&#xD;
+        -  Define the safety and pharmacokinetic profile of this drug in this patient population.&#xD;
+&#xD;
+        -  Assess for evidence of antitumor activity of this drug in these patients.&#xD;
+&#xD;
+        -  Assess for evidence of inhibition of farnesyl protein transferase (FTase) on peripheral&#xD;
+           blood monocytes as a surrogate endpoint of effective biologic activity of this drug in&#xD;
+           these patients.&#xD;
+&#xD;
+        -  Determine the efficacy of this drug as measured by 6-month progression-free survival and&#xD;
+           objective tumor response in these patients.&#xD;
+&#xD;
+        -  Evaluate further the safety profile of this drug in these patients.&#xD;
+&#xD;
+        -  Correlate treatment response with inhibition of FTase in peripheral blood monocytes in&#xD;
+           patients treated with this drug.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation, multicenter study. Patients are stratified according to&#xD;
+      their pretreatment medications (not receiving enzyme-inducing antiepileptic drugs [EIAEDs] vs&#xD;
+      receiving EIAEDs with or without steroids).&#xD;
+&#xD;
+      Patients receive oral tipifarnib twice daily on days 1-21. Courses repeat every 4 weeks in&#xD;
+      the absence of unacceptable toxicity or disease progression.&#xD;
+&#xD;
+        -  Phase I (completed 10/2/2001): Cohorts of 3-6 patients from stratum II receive&#xD;
+           escalating doses of tipifarnib until the maximum tolerated dose (MTD) is determined. The&#xD;
+           MTD is defined as the dose preceding that at which 2 of 3 or 2 of 6 patients experience&#xD;
+           dose-limiting toxicity. (Stratum II in the phase I portion of this study closed to&#xD;
+           accrual effective 07/16/2001.)&#xD;
+&#xD;
+        -  Phase II (open only to patients requiring resection and who provide surgical tissue&#xD;
+           samples [effective 3/13/2003]): Once the MTD is determined, additional patients with&#xD;
+           glioblastoma multiforme from stratum II are accrued to receive treatment with tipifarnib&#xD;
+           at the recommended phase II dose.&#xD;
+&#xD;
+      Patients are followed every 2 months for 1 year, every 3 months for 1 year, every 4 months&#xD;
+      for 1 year, and then every 6 months until progression. Patients are then followed every 4&#xD;
+      months thereafter.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: Approximately 30 patients (15 per stratum) will be accrued for the phase I&#xD;
+      portion of this study within 10 months. (Stratum II in the phase I portion of this study&#xD;
+      closed to accrual effective 07/16/2001.) (Phase I completed effective 10/2/2001.) A total of&#xD;
+      24 patients with glioblastoma multiforme from stratum II will be accrued for the phase II&#xD;
+      portion of this study. (Phase II open only to patients requiring resection and who provide&#xD;
+      surgical tissue samples [effective 3/13/2003].)&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">May 16, 2000</start_date>
+  <completion_date type="Actual">August 1, 2006</completion_date>
+  <primary_completion_date type="Actual">July 1, 2005</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Sequential Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <enrollment type="Actual">136</enrollment>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>tipifarnib</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed intracranial primary malignant glioma&#xD;
+&#xD;
+               -  Glioblastoma multiforme&#xD;
+&#xD;
+               -  Anaplastic astrocytoma*&#xD;
+&#xD;
+               -  Anaplastic oligodendroglioma*&#xD;
+&#xD;
+               -  Anaplastic mixed oligodendroglioma*&#xD;
+&#xD;
+               -  Malignant astrocytoma (not otherwise specified)* NOTE: *Closed to accrual&#xD;
+                  effective 5/28/2002&#xD;
+&#xD;
+          -  Progressive or recurrent disease confirmed by MRI or CT scan within the past 14 days&#xD;
+&#xD;
+               -  Stable steroid dose for at least 5-7 days&#xD;
+&#xD;
+               -  Confirmation of true progressive disease by PET scan, thallium scan, MR&#xD;
+                  spectroscopy, or surgery if prior therapy included interstitial brachytherapy or&#xD;
+                  stereotactic radiosurgery&#xD;
+&#xD;
+          -  Failed prior radiotherapy&#xD;
+&#xD;
+          -  Phase I (phase I completed effective 10/2/2001): No more than 2 prior chemotherapy or&#xD;
+             cytotoxic regimens, including 1 prior adjuvant therapy and 1 prior regimen for&#xD;
+             progressive or recurrent disease, or 2 prior regimens for progressive disease&#xD;
+&#xD;
+          -  Phase II (phase II open only to patients requiring resection and who provide surgical&#xD;
+             tissue samples [effective 3/13/2003]): No more than 2 prior chemotherapy or cytotoxic&#xD;
+             regimens for relapsed disease following initial therapy (radiotherapy with or without&#xD;
+             chemotherapy)&#xD;
+&#xD;
+               -  Prior surgical resection for relapsed disease with no anticancer therapy for up&#xD;
+                  to 12 weeks followed by another surgical resection is considered 1 relapse&#xD;
+&#xD;
+               -  Patients who received prior therapy for a low-grade glioma with a surgical&#xD;
+                  diagnosis of a high-grade glioma are considered to be in first relapse&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 and over&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Karnofsky 60-100%&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  More than 8 weeks&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  WBC at least 3,000/mm^3&#xD;
+&#xD;
+          -  Absolute neutrophil count at least 2,000/mm^3&#xD;
+&#xD;
+          -  Platelet count at least 100,000/mm^3&#xD;
+&#xD;
+          -  Hemoglobin at least 10 g/dL (transfusion allowed)&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin no greater than 2.5 times upper limit of normal (ULN)&#xD;
+&#xD;
+          -  SGOT no greater than 2.5 times ULN&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine less than 1.5 mg/dL&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  No uncontrolled high blood pressure&#xD;
+&#xD;
+          -  No unstable angina&#xD;
+&#xD;
+          -  No symptomatic congestive heart failure&#xD;
+&#xD;
+          -  No myocardial infarction within the past 6 months&#xD;
+&#xD;
+          -  No serious uncontrolled cardiac arrhythmia&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  No severe nonmalignant systemic diseases or active infections&#xD;
+&#xD;
+          -  No other severe concurrent disease that would preclude study therapy&#xD;
+&#xD;
+          -  No allergy to azoles (e.g., ketoconazole, itraconazole, or voriconazole)&#xD;
+&#xD;
+          -  HIV negative&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  At least 1 week since prior interferon&#xD;
+&#xD;
+          -  No concurrent anticancer immunotherapy&#xD;
+&#xD;
+          -  No concurrent routine prophylactic filgrastim (G-CSF) during first course of study&#xD;
+&#xD;
+          -  No concurrent sargramostim (GM-CSF)&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  At least 4 weeks since prior chemotherapy (6 weeks for nitrosoureas, suramin, or&#xD;
+             mitomycin)&#xD;
+&#xD;
+          -  At least 3 weeks since prior procarbazine&#xD;
+&#xD;
+          -  At least 2 weeks since prior vincristine&#xD;
+&#xD;
+          -  No other concurrent anticancer chemotherapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  At least 1 week since prior tamoxifen&#xD;
+&#xD;
+          -  Concurrent corticosteroids allowed&#xD;
+&#xD;
+          -  No concurrent anticancer hormonal therapy&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  At least 4 weeks since prior radiotherapy and recovered&#xD;
+&#xD;
+          -  No concurrent anticancer radiotherapy&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  At least 3 weeks since prior resection and recovered&#xD;
+&#xD;
+          -  Prior recent resection of recurrent or progressive tumor allowed&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Recovered from all prior therapy (excluding neurotoxicity or alopecia)&#xD;
+&#xD;
+          -  Prior radiosensitizers allowed&#xD;
+&#xD;
+          -  Concurrent H2 blockers and antacids allowed provided taken at least 2 hours before and&#xD;
+             after tipifarnib&#xD;
+&#xD;
+          -  No concurrent proton pump inhibitors (e.g., omeprazole or lansoprazole)&#xD;
+&#xD;
+          -  No other concurrent medication that would preclude study therapy (e.g.,&#xD;
+             immunosuppressive agents)&#xD;
+&#xD;
+          -  No other concurrent anticancer therapy&#xD;
+&#xD;
+          -  No other concurrent investigational drugs&#xD;
+&#xD;
+          -  No concurrent participation in any other clinical study&#xD;
+&#xD;
+          -  No other concurrent medications except analgesics, chronic treatments for concurrent&#xD;
+             medical conditions, or agents for life-threatening medical problems&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Timothy F. Cloughesy, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Jonsson Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Jonsson Comprehensive Cancer Center, UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Comprehensive Cancer Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Warren Grant Magnuson Clinical Center - NCI Clinical Studies Support</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892-1182</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber/Harvard Cancer Center at Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Michigan Comprehensive Cancer Center</name>
+      <address>
+        <city>Ann Arbor</city>
+        <state>Michigan</state>
+        <zip>48109-0942</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hillman Cancer Center at University of Pittsburgh Cancer Institute</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Simmons Cancer Center at University of Texas Southwestern Medical Center - Dallas</name>
+      <address>
+        <city>Dallas</city>
+        <state>Texas</state>
+        <zip>75390-9154</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas - MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030-4009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center at San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78284-6220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Comprehensive Cancer Center</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Cloughesy TF, Wen PY, Robins HI, Chang SM, Groves MD, Fink KL, Junck L, Schiff D, Abrey L, Gilbert MR, Lieberman F, Kuhn J, DeAngelis LM, Mehta M, Raizer JJ, Yung WK, Aldape K, Wright J, Lamborn KR, Prados MD. Phase II trial of tipifarnib in patients with recurrent malignant glioma either receiving or not receiving enzyme-inducing antiepileptic drugs: a North American Brain Tumor Consortium Study. J Clin Oncol. 2006 Aug 1;24(22):3651-6. doi: 10.1200/JCO.2006.06.2323.</citation>
+    <PMID>16877733</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Cloughesy TF, Kuhn J, Robins HI, Abrey L, Wen P, Fink K, Lieberman FS, Mehta M, Chang S, Yung A, DeAngelis L, Schiff D, Junck L, Groves M, Paquette S, Wright J, Lamborn K, Sebti SM, Prados M. Phase I trial of tipifarnib in patients with recurrent malignant glioma taking enzyme-inducing antiepileptic drugs: a North American Brain Tumor Consortium Study. J Clin Oncol. 2005 Sep 20;23(27):6647-56. doi: 10.1200/JCO.2005.10.068.</citation>
+    <PMID>16170172</PMID>
+  </results_reference>
+  <verification_date>June 2018</verification_date>
+  <study_first_submitted>June 2, 2000</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>June 22, 2018</last_update_submitted>
+  <last_update_submitted_qc>June 22, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 26, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>recurrent adult brain tumor</keyword>
+  <keyword>adult glioblastoma</keyword>
+  <keyword>adult giant cell glioblastoma</keyword>
+  <keyword>adult gliosarcoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Tipifarnib</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

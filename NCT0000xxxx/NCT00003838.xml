@@ -1,0 +1,1730 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003838</url>
+  </required_header>
+  <id_info>
+    <org_study_id>990050</org_study_id>
+    <secondary_id>99-H-0050</secondary_id>
+    <nct_id>NCT00003838</nct_id>
+    <nct_alias>NCT00001875</nct_alias>
+  </id_info>
+  <brief_title>Specialized Blood Cell Transplants for Cancers of the Blood and Bone Marrow</brief_title>
+  <official_title>Non-Myeloablative Allogeneic Peripheral Blood Mobilized Hematopoietic Precursor Cell Transplantation for Hematologic Malignancies in High Risk Patients and in Patients With Debilitating Hematologic Diseases</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The are a variety of cancerous diseases of the blood and bone marrow that can be potentially&#xD;
+      cured by bone marrow transplantation (BMT). Diseases like leukemia, lymphoma, and multiple&#xD;
+      myeloma are among the conditions that can be treated with BMT.&#xD;
+&#xD;
+      Some patients with these diseases can be treated with medical chemotherapy alone. However,&#xD;
+      patients who relapse following chemotherapy are usually not curable with additional&#xD;
+      chemotherapy treatments. The only option known to provide a potential cure if this occurs is&#xD;
+      BMT.&#xD;
+&#xD;
+      Allogenic transplants are cells collected from relatives of the patient. The transplant&#xD;
+      requires additional high intensity chemotherapy and radiation in order to destroy cancerous&#xD;
+      cells. In the process, many normal bone marrow cells are also destroyed. This is the reason&#xD;
+      for transplanting stem cells. The stem cells help to build new functioning bone marrow, red&#xD;
+      cells, white cells, and platelets. In addition, the immune cells from the donor are implanted&#xD;
+      into the recipient s body and help to fight off infection and kill remaining cancerous cells.&#xD;
+&#xD;
+      Unfortunately, the powerful doses of chemotherapy and radiation therapy associated with&#xD;
+      allogenic BMT have toxic side effects and often make BMTs too dangerous to attempt in many&#xD;
+      patients.&#xD;
+&#xD;
+      In order to reduce the complications of BMT, and make it a safer available option for&#xD;
+      patients with cancers of the blood and bone marrow, researchers have developed a new approach&#xD;
+      to the BMT.&#xD;
+&#xD;
+      In this study researchers plan to use stem cells collected from the blood stream of patient s&#xD;
+      relatives rather than from the bone marrow (blood progenitor/stem cell transplant). In&#xD;
+      addition, researchers plan to use low doses of chemotherapy and no radiation therapy to&#xD;
+      reduce side effects. The majority of the cancer killing effect will be the responsibility of&#xD;
+      the stem cell transplant rather than the chemotherapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Patients with malignant and non-malignant hematologic diseases including severe aplastic&#xD;
+      anemia (SAA), paroxysmal nocturnal hemoglobinuria (PNH), myelodysplastic syndrome (MDS),&#xD;
+      acute and chronic leukemias, Hodgkin's and non-Hodgkin's lymphoma and multiple myeloma (MM)&#xD;
+      can now be cured by allogeneic bone marrow transplantation (BMT). This curative effect has&#xD;
+      been ascribed to the use of high dose chemo-radiotherapy and the anti-tumor or anti-bone&#xD;
+      marrow effect of the allograft. Dose intensification of conditioning regimens in attempts to&#xD;
+      reduce disease recurrence has been largely unsuccessful because of increased toxicity and&#xD;
+      mortality. Indeed, most evidence now points to donor-derived T-cells as being the principal&#xD;
+      modality leading to the complete eradication of both malignant and non-malignant host&#xD;
+      hematopoietic cells.&#xD;
+&#xD;
+      The assumption that successful allogeneic BMT relies on the myeloablative effect of intensive&#xD;
+      but hazardous chemo-radiotherapy has largely restricted this therapeutic modality to patients&#xD;
+      with malignant or life-threatening hematologic disorders under the age of 55 years.&#xD;
+      Treatment-related mortality increases substantially with age, prior intensive treatment with&#xD;
+      chemo-radiotherapy, worsening performance status, and co-morbid medical conditions. An&#xD;
+      unacceptable risk of death from conventional BMT renders many patients ineligible for what&#xD;
+      may otherwise be curative therapy.&#xD;
+&#xD;
+      Several in vitro studies have demonstrated the existence of donor-derived CD4 and CD8&#xD;
+      positive lymphocytes with specific reactivity for the patient s leukemia. These cells provide&#xD;
+      a potent graft-versus-leukemia (GVL) effect. This GVL effect is best seen in patients with&#xD;
+      CML relapsing after BMT, where a single infusion of donor lymphocytes has been shown to&#xD;
+      induce complete remission. In addition to the potent anti-leukemia effect of these cells,&#xD;
+      there is now strong evidence that donor T-cells are capable of completely eradicating&#xD;
+      residual host hematopoietic cells in a non-myeloablative transplant setting&#xD;
+      (graft-versus-marrow) leading to successful and complete donor hematopoietic engraftment.&#xD;
+&#xD;
+      Non-myeloablative allogenic peripheral blood stem cell transplants are currently being&#xD;
+      investigated in phase I/II trials assessing engraftment efficacy and toxicity at a number of&#xD;
+      transplant centers. Preliminary data, including our own experience with greater than 150&#xD;
+      patients undergoing this type of procedure, have shown a high rate of complete donor&#xD;
+      engraftment with a low toxicity profile. Two recent studies investigating non-myeloablative&#xD;
+      allo-transplantation in standard risk patients revealed an extremely low rate of&#xD;
+      transplant-related complications and mortality.&#xD;
+&#xD;
+      The decreased risk of transplant-related complications associated with non-myeloablative&#xD;
+      transplants expands the eligibility of transplant candidates as well as opens the possibility&#xD;
+      to evaluate non-myeloablative regimens in patients at high risk for complications with&#xD;
+      standard transplantation. Besides hematologic malignancies, allogeneic BMT has been shown to&#xD;
+      be curative in a number of debilitating hematologic diseases which may behave in a relatively&#xD;
+      indolent fashion, such as paroxysmal nocturnal hemoglobinuria (PNH) and refractory anemia&#xD;
+      (RA) or refractory anemia with ringed sideroblasts (RARS). However, the 30% risk of&#xD;
+      treatment-related mortality (TRM) with standard myeloablative allotransplantation usually&#xD;
+      precludes these patients from potentially curative therapy, because of concerns about&#xD;
+      shortening life in patients with these disorders. In this protocol we investigate&#xD;
+      non-myeloablative allogeneic peripheral blood stem cell (PBSC) transplantation in two groups&#xD;
+      of subjects where standard allogeneic transplantation is considered to have unacceptable&#xD;
+      toxicity.&#xD;
+&#xD;
+      Group A: Subjects with hematologic malignancies with factors putting them at high risk for&#xD;
+      transplant related complications and mortality, including prior intensive chemo-radiotherapy&#xD;
+      and co-morbid diseases.&#xD;
+&#xD;
+      Group B: Subjects with hematologic diseases (both clonal and non-clonal) associated with&#xD;
+      reasonable longevity not currently considered for allogeneic BMT because of prohibitive&#xD;
+      procedural mortality with conventional BMT (enrollment closed October 2010).&#xD;
+&#xD;
+      In this protocol, eligible subjects are treated with an allogeneic PBSC transplant from an&#xD;
+      HLA identical or single HLA antigen-mismatched family donor, using an intensive&#xD;
+      immunosuppressive regimen without myeloablation in an attempt to decrease the transplant&#xD;
+      related toxicities while preserving the anti-malignancy and/or anti-host marrow effect of the&#xD;
+      graft. The low intensity non-myeloablative conditioning regimen should provide adequate&#xD;
+      immunosuppression to allow stem cell and lymphocyte engraftment. T-cell replete,&#xD;
+      donor-derived, granulocyte colony stimulating factor (G-CSF)-mobilized PBSCs will be used to&#xD;
+      establish hematopoietic and lymphoid reconstitution. We will add back lymphocytes in&#xD;
+      recipients with less than 100% donor T-cell chimerism in an attempt to prevent graft&#xD;
+      rejection and enhance a graft-versus-malignancy effect.&#xD;
+&#xD;
+      The primary endpoint of this study is transplant related mortality (200 day survival). Other&#xD;
+      end points include engraftment, degree of donor-host chimerism, incidence of acute and&#xD;
+      chronic graft versus host disease (GVHD), transplant related morbidity as well as&#xD;
+      disease-free and overall survival.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 15, 1999</start_date>
+  <completion_date type="Actual">June 18, 2020</completion_date>
+  <primary_completion_date type="Actual">December 14, 2018</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Number of Participants Who Experienced Transplant Related Mortality</measure>
+    <time_frame>200 days</time_frame>
+    <description>Number of Participants who experienced transplant related mortality by Day 200</description>
+  </primary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">202</enrollment>
+  <condition>Myeloproliferative Disorders</condition>
+  <condition>Acute Myelogenous Leukemia</condition>
+  <condition>Chronic Myelogenous Leukemia</condition>
+  <condition>Myelodysplastic Syndrome</condition>
+  <condition>Acute Lymphoblastic Leukemia</condition>
+  <arm_group>
+    <arm_group_label>Donor</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>The HLA matched donor will receive granulocyte colony-stimulating factor (G-CSF) with apheresis collections of PBPC on day 5 and day 6 if required. G-CSF will be administered based on body weight for at least 5, and up to 7 days, subcutaneously.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group A: Stem Cell Transplant in High Risk for Transplant Related Complications and Mortality</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants at high risk for transplant related complications and mortality will receive a non-myeloablative preparative regimen of cyclophosphamide 60mg/kg/d x 2 days, and fludarabine 25mg/m^2 intravenously daily x 5 days followed by a peripheral blood hematopoietic progenitor cell graft targeted to deliver &gt;5x10^6 CD34+ cells/kg.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Group B: Stem Cell Transplant in Debilitating Hematologic Diseases</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Participants with hematologic diseases associated with reasonable longevity, shown to be curable by allogeneic Bone Marrow Transplant (BMT) but where concern for a high procedural mortality with conventional BMT will receive a non-myeloablative preparative regimen of cyclophosphamide 60mg/kg/d x 2 days, and fludarabine 25mg/m^2 intravenously daily x 5 days followed by a peripheral blood hematopoietic progenitor cell graft targeted to deliver &gt;5x10^6 CD34+ cells/kg.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>T-cell replete PBPC allograft</intervention_name>
+    <description>Subjects will receive a non-myeloablative preparative regimen of cyclophosphamide 60mg/kg/d x 2 days, and fludarabine 25mg/m2 intravenously (IV) over 30 minutes daily x 5 days with or without ATG followed by a PBPC graft targeted to deliver &gt;5x10^6 CD34+ cells/kg.</description>
+    <arm_group_label>Group A: Stem Cell Transplant in High Risk for Transplant Related Complications and Mortality</arm_group_label>
+    <arm_group_label>Group B: Stem Cell Transplant in Debilitating Hematologic Diseases</arm_group_label>
+    <other_name>Peripheral blood hematopoietic progenitor cell (PBPC) transplant</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Methotrexate</intervention_name>
+    <description>IV MTX on days +1, +3, and +6 will be given</description>
+    <arm_group_label>Group A: Stem Cell Transplant in High Risk for Transplant Related Complications and Mortality</arm_group_label>
+    <arm_group_label>Group B: Stem Cell Transplant in Debilitating Hematologic Diseases</arm_group_label>
+    <other_name>MTX</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cyclosporine</intervention_name>
+    <description>CSA will be given beginning on day -4 for graft versus host disease prophylaxis. Participants with mixed T-cell chimerism on day 30 will begin a CSA taper. Participants with 100% donor T-cell chimerism by day 30 will be tapered off CSA from days 60 through 100 (25% reduction in dose every 10 days-off by day 100). CSA will not be tapered in any subjects with grade &gt; II acute GVHD regardless of chimerism results. In addition, participants with evidence of disease progression without grade &gt; II GVHD will have CSA discontinued regardless of chimerism results.</description>
+    <arm_group_label>Group A: Stem Cell Transplant in High Risk for Transplant Related Complications and Mortality</arm_group_label>
+    <arm_group_label>Group B: Stem Cell Transplant in Debilitating Hematologic Diseases</arm_group_label>
+    <other_name>CSA</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>G-CSF</intervention_name>
+    <description>G-CSF will be administered based on body weight for at least 5, and up to 7 days, subcutaneously.</description>
+    <arm_group_label>Donor</arm_group_label>
+    <other_name>granulocyte colony-stimulating factor (G-CSF)</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA - Recipients:&#xD;
+&#xD;
+        Group A: Subjects at high risk for transplant related complications and mortality as&#xD;
+        defined below:&#xD;
+&#xD;
+        Ages 10 to 75 (both inclusive) with a history of one of the following:&#xD;
+&#xD;
+          -  Treatment with dose intensive chemotherapy and/or radiotherapy&#xD;
+&#xD;
+          -  Previous history of allo/auto transplant&#xD;
+&#xD;
+          -  History of multiple myeloma or extramedullary plasmacytoma&#xD;
+&#xD;
+          -  Chronic disease or co-morbid medical condition including subjects with symptoms or&#xD;
+             signs of significant pulmonary disease, hepatic disease, kidney disease, cardiac&#xD;
+             disease or disease of other organ systems which would result in increased risk of&#xD;
+             morbidity or death from a standard myeloablative transplant.&#xD;
+&#xD;
+        Diseases to be included:&#xD;
+&#xD;
+          -  CML chronic phase&#xD;
+&#xD;
+          -  Acute lymphoblastic leukemia (ALL), all subjects in complete or partial remission.&#xD;
+&#xD;
+          -  AML: AML in first complete or partial remission Exceptions: AML with good risk&#xD;
+             karyotypes: AML M3 t(15:17), AML M4Eo (inv. 16), AML t(8;21). All AML in second or&#xD;
+             subsequent complete remission.&#xD;
+&#xD;
+          -  MDS: refractory anemia with excess blasts (RAEB), or chronic myelomonocyte leukemia&#xD;
+             (CMML).&#xD;
+&#xD;
+          -  Myeloproliferative diseases associated with either cytopenia or uncontrolled&#xD;
+             proliferation.&#xD;
+&#xD;
+          -  CLL or small lymphocytic lymphoma (SLL) with bulky or progressive disease despite&#xD;
+             prior treatment with chemotherapy which includes purine analogs.&#xD;
+&#xD;
+          -  NHL&#xD;
+&#xD;
+        A) Intermediate or high grade relapsed or progressive despite treatment with standard&#xD;
+        therapy ineligible for autologous PBSC transplant.&#xD;
+&#xD;
+        B) NHL intermediate or high grade relapsing despite prior autologous transplant.&#xD;
+&#xD;
+        C) Low grade follicular or small lymphocytic lymphoma (1) high risk patients who have&#xD;
+        relapsed following conventional chemotherapy, (2) relapsed following autologous marrow or&#xD;
+        PBSC transplant, or (3) chemo resistant disease.&#xD;
+&#xD;
+        D) Mantle cell lymphoma&#xD;
+&#xD;
+        E) NHL intermediate or high grade with concurrent BCL2 and MYC translocations who are at&#xD;
+        high risk for relapsed and who have low survival with conventional chemotherapy.&#xD;
+&#xD;
+          -  HD, relapsed after prior autologous transplant or after 2 or more combination&#xD;
+             chemotherapy regimens and ineligible for autologous PBSC transplant.&#xD;
+&#xD;
+          -  EBV driven lymphoproliferative disorders progressing despite standard therapies.&#xD;
+&#xD;
+          -  MM: MM subjects must be between the ages of 8 and 65 (both inclusive)&#xD;
+&#xD;
+          -  Mycosis fungoides, which has been shown to be amenable to allogeneic stem cell&#xD;
+             transplants.&#xD;
+&#xD;
+        Group B: (Closed to enrollment Oct 2010) Subjects with hematologic diseases associated with&#xD;
+        reasonable longevity, shown to be curable by allogeneic BMT but where concern for a high&#xD;
+        procedural mortality with conventional BMT may delay or prevent such treatment.&#xD;
+&#xD;
+        Ages 8 to 80 (both inclusive) with a history of one of the following&#xD;
+&#xD;
+          -  PNH associated with either life-threatening thrombosis, cytopenia, transfusion&#xD;
+             dependence or recurrent and debilitating hemolytic crisis.&#xD;
+&#xD;
+          -  Aplastic anemia or PRCA (acquired or congenital) in subjects associated with&#xD;
+             transfusion dependence and/or neutropenia who are not candidates for or who have&#xD;
+             failed immunosuppressive therapy&#xD;
+&#xD;
+          -  RA or RARS MDS subjects who have associated transfusion dependence and/or neutropenia.&#xD;
+&#xD;
+        Ability to comprehend the investigational nature of the study and provide informed consent.&#xD;
+        The procedure will be explained to subjects age 8-17 years with formal consent being&#xD;
+        obtained from parents or legal guardian.&#xD;
+&#xD;
+        Availability of HLA identical or single HLA locus mismatched family donor&#xD;
+&#xD;
+        INCLUSION CRITERIA - Donor:&#xD;
+&#xD;
+        HLA identical or single HLA mismatched family donor&#xD;
+&#xD;
+        Age greater than or equal to 2 up to 80 years old&#xD;
+&#xD;
+        Weight greater than or equal to 18 kg&#xD;
+&#xD;
+        Ability of donor or guardian of donor to comprehend the investigational nature of the study&#xD;
+        and provide informed consent.&#xD;
+&#xD;
+        EXCLUSION CRITERIA - Recipient - any of the following:&#xD;
+&#xD;
+        Pregnant or lactating&#xD;
+&#xD;
+        Group A: age less than 10 or greater than 75 (multiple myeloma age less than 8 or greater&#xD;
+        than 65);&#xD;
+&#xD;
+        Group B: Age less than 8 or greater than 80 years.&#xD;
+&#xD;
+        ECOG performance status of 3 or more (See NIH Bone and Marrow Consortium Supportive Care&#xD;
+        Guidelines for Allogeneic Hematopoietic Stem Cell Transplant Recipients -&#xD;
+        http://intranet.cc.nih.gov/bmt/_pdf/ECOG_Karnofsky_Lansky_Scales.pdf)&#xD;
+&#xD;
+        Psychiatric disorder or mental deficiency severe as to make compliance with the BMT&#xD;
+        treatment unlikely and making informed consent impossible&#xD;
+&#xD;
+        Major anticipated illness or organ failure incompatible with survival from PBSC transplant&#xD;
+&#xD;
+        Diffusion capacity of carbon monoxide (DLCO) less than 40% predicted.&#xD;
+&#xD;
+        Left ventricular ejection fraction: less than 30%.&#xD;
+&#xD;
+        Serum creatinine greater than 2.5 mg/dl or creatinine clearance less than 50 cc/min by 24&#xD;
+        hr urine collection&#xD;
+&#xD;
+        Serum bilirubin greater than 4 mg/dl, transaminases greater than 5x upper limit of normal,&#xD;
+&#xD;
+        Other malignant diseases liable to relapse or progress within 5 years.&#xD;
+&#xD;
+        EXCLUSION CRITERIA - Donor - any of the following:&#xD;
+&#xD;
+        Pregnant or lactating&#xD;
+&#xD;
+        Donor unfit to receive G-CSF and undergo apheresis (uncontrolled hypertension, history of&#xD;
+        congestive heart failure or unstable angina, thrombocytopenia)&#xD;
+&#xD;
+        HIV positive donor. Donors who are positive for hepatitis B (HBV), hepatitis C (HCV) or&#xD;
+        human T-cell lymphotropic virus (HTLV I/II) will be used at the discretion of the&#xD;
+        investigator following counseling and approval from the recipient&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>80 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Richard W Childs, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Heart, Lung, and Blood Institute (NHLBI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_1999-H-0050.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <verification_date>April 26, 2022</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <results_first_submitted>September 9, 2022</results_first_submitted>
+  <results_first_submitted_qc>September 9, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">October 7, 2022</results_first_posted>
+  <last_update_submitted>October 12, 2022</last_update_submitted>
+  <last_update_submitted_qc>October 12, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 8, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Graft vs. Host Disease</keyword>
+  <keyword>Peripheral Blood Stem Cells</keyword>
+  <keyword>Non-Myeloablative Bone Marrow Transplantation</keyword>
+  <keyword>Engraftment</keyword>
+  <keyword>graft versus leukemia</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Precursor Cell Lymphoblastic Leukemia-Lymphoma</mesh_term>
+    <mesh_term>Leukemia, Myeloid</mesh_term>
+    <mesh_term>Leukemia, Myelogenous, Chronic, BCR-ABL Positive</mesh_term>
+    <mesh_term>Leukemia, Myeloid, Acute</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Myeloproliferative Disorders</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclosporine</mesh_term>
+    <mesh_term>Methotrexate</mesh_term>
+    <mesh_term>Cyclosporins</mesh_term>
+    <mesh_term>Lenograstim</mesh_term>
+  </intervention_browse>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>February 22, 2022</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/38/NCT00003838/Prot_SAP_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Donor</title>
+          <description>The HLA matched donor will receive granulocyte colony-stimulating factor (G-CSF) with apheresis collections of peripheral blood progenitor cells on day 5 and day 6 if required.&#xD;
+G-CSF will be administered based on body weight for at least 5, and up to 7 days, subcutaneously.</description>
+        </group>
+        <group group_id="P2">
+          <title>Group A: Stem Cell Transplant in High Risk for Transplant Related Complications and Mortality</title>
+          <description>Participants at high risk for transplant related complications and mortality will receive a non-myeloablative preparative regimen of cyclophosphamide 60mg/kg/d x 2 days, and fludarabine 25mg/m^2 intravenously daily x 5 days followed by a peripheral blood hematopoietic progenitor cell graft targeted to deliver &gt;5x10^6 CD34+ cells/kg.</description>
+        </group>
+        <group group_id="P3">
+          <title>Group B: Stem Cell Transplant in Debilitating Hematologic Diseases</title>
+          <description>Participants with hematologic diseases associated with reasonable longevity, shown to be curable by allogeneic Bone Marrow Transplant (BMT) but where concern for a high procedural mortality with conventional BMT will receive a non-myeloablative preparative regimen of cyclophosphamide 60mg/kg/d x 2 days, and fludarabine 25mg/m^2 intravenously daily x 5 days followed by a peripheral blood hematopoietic progenitor cell graft targeted to deliver &gt;5x10^6 CD34+ cells/kg.</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="102"/>
+                <participants group_id="P2" count="43"/>
+                <participants group_id="P3" count="57"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="102"/>
+                <participants group_id="P2" count="18"/>
+                <participants group_id="P3" count="49"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="25"/>
+                <participants group_id="P3" count="8"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Death</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="12"/>
+                <participants group_id="P3" count="7"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Lost to Follow-up</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+                <participants group_id="P3" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+            <drop_withdraw_reason>
+              <title>Disease Progression</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="12"/>
+                <participants group_id="P3" count="0"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Donor</title>
+          <description>The HLA matched donor will receive granulocyte colony-stimulating factor (G-CSF) with apheresis collections of PBPC on day 5 and day 6 if required.&#xD;
+G-CSF: G-CSF will be administered based on body weight for at least 5, and up to 7 days, subcutaneously.</description>
+        </group>
+        <group group_id="B2">
+          <title>Group A: Stem Cell Transplant in High Risk for Transplant Related Complications and Mortality</title>
+          <description>Participants at high risk for transplant related complications and mortality will receive a non-myeloablative preparative regimen of cyclophosphamide 60mg/kg/d x 2 days, and fludarabine 25mg/m^2 intravenously (IV) daily x 5 days followed by a peripheral blood hematopoietic progenitor cell (PBPC) graft targeted to deliver &gt;5x10^6 CD34+ cells/kg</description>
+        </group>
+        <group group_id="B3">
+          <title>Group B: Stem Cell Transplant in Debilitating Hematologic Diseases</title>
+          <description>Participants with hematologic diseases associated with reasonable longevity, shown to be curable by allogeneic BMT but where concern for a high procedural mortality with conventional Bone Marrow Transplant will receive a non-myeloablative preparative regimen of cyclophosphamide 60mg/kg/d x 2 days, and fludarabine 25mg/m^2 intravenously (IV) daily x 5 days followed by a peripheral blood hematopoietic progenitor cell (PBPC) graft targeted to deliver &gt;5x10^6 CD34+ cells/kg</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="102"/>
+            <count group_id="B2" value="43"/>
+            <count group_id="B3" value="57"/>
+            <count group_id="B4" value="202"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="13"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="11"/>
+                    <measurement group_id="B4" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="87"/>
+                    <measurement group_id="B2" value="41"/>
+                    <measurement group_id="B3" value="45"/>
+                    <measurement group_id="B4" value="173"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="49"/>
+                    <measurement group_id="B2" value="18"/>
+                    <measurement group_id="B3" value="22"/>
+                    <measurement group_id="B4" value="89"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="53"/>
+                    <measurement group_id="B2" value="25"/>
+                    <measurement group_id="B3" value="35"/>
+                    <measurement group_id="B4" value="113"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="34"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="25"/>
+                    <measurement group_id="B4" value="69"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="68"/>
+                    <measurement group_id="B2" value="30"/>
+                    <measurement group_id="B3" value="32"/>
+                    <measurement group_id="B4" value="130"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="9"/>
+                    <measurement group_id="B4" value="18"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="17"/>
+                    <measurement group_id="B2" value="7"/>
+                    <measurement group_id="B3" value="9"/>
+                    <measurement group_id="B4" value="33"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43"/>
+                    <measurement group_id="B2" value="26"/>
+                    <measurement group_id="B3" value="14"/>
+                    <measurement group_id="B4" value="83"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="25"/>
+                    <measurement group_id="B4" value="66"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="102"/>
+                    <measurement group_id="B2" value="43"/>
+                    <measurement group_id="B3" value="57"/>
+                    <measurement group_id="B4" value="202"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Participants Who Experienced Transplant Related Mortality</title>
+        <description>Number of Participants who experienced transplant related mortality by Day 200</description>
+        <time_frame>200 days</time_frame>
+        <population>The analyses included only those participants who had a transplant.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Group A: Stem Cell Transplant in High Risk for Transplant Related Complications and Mortality</title>
+            <description>Participants at high risk for transplant related complications and mortality will receive a non-myeloablative preparative regimen of cyclophosphamide 60mg/kg/d x 2 days, and fludarabine 25mg/m^2 intravenously daily x 5 days followed by a peripheral blood hematopoietic progenitor cell graft targeted to deliver &gt;5x10^6 CD34+ cells/kg.</description>
+          </group>
+          <group group_id="O2">
+            <title>Group B: Stem Cell Transplant in Debilitating Hematologic Diseases</title>
+            <description>Participants with hematologic diseases associated with reasonable longevity, shown to be curable by allogeneic Bone Marrow Transplant (BMT) but where concern for a high procedural mortality with conventional BMT will receive a non-myeloablative preparative regimen of cyclophosphamide 60mg/kg/d x 2 days, and fludarabine 25mg/m^2 intravenously daily x 5 days followed by a peripheral blood hematopoietic progenitor cell graft targeted to deliver &gt;5x10^6 CD34+ cells/kg.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Participants Who Experienced Transplant Related Mortality</title>
+          <description>Number of Participants who experienced transplant related mortality by Day 200</description>
+          <population>The analyses included only those participants who had a transplant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="43"/>
+                <count group_id="O2" value="57"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>5 years</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Group A: Stem Cell Transplant in High Risk for Transplant Related Complications and Mortality</title>
+          <description>Participants at high risk for transplant related complications and mortality will receive a non-myeloablative preparative regimen of cyclophosphamide 60mg/kg/d x 2 days, and fludarabine 25mg/m^2 intravenously daily x 5 days followed by a peripheral blood hematopoietic progenitor cell graft targeted to deliver &gt;5x10^6 CD34+ cells/kg.</description>
+        </group>
+        <group group_id="E2">
+          <title>Group B: Stem Cell Transplant in Debilitating Hematologic Diseases</title>
+          <description>Participants with hematologic diseases associated with reasonable longevity, shown to be curable by allogeneic Bone Marrow Transplant (BMT) but where concern for a high procedural mortality with conventional BMT will receive a non-myeloablative preparative regimen of cyclophosphamide 60mg/kg/d x 2 days, and fludarabine 25mg/m^2 intravenously daily x 5 days followed by a peripheral blood hematopoietic progenitor cell graft targeted to deliver &gt;5x10^6 CD34+ cells/kg.</description>
+        </group>
+        <group group_id="E3">
+          <title>Donor</title>
+          <description>The HLA matched donor will receive granulocyte colony-stimulating factor (G-CSF) with apheresis collections of peripheral blood progenitor cells on day 5 and day 6 if required.&#xD;
+G-CSF will be administered based on body weight for at least 5, and up to 7 days, subcutaneously.</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>CTCAE</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="43"/>
+                <counts group_id="E2" subjects_affected="7" subjects_at_risk="57"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="41" subjects_at_risk="43"/>
+                <counts group_id="E2" subjects_affected="47" subjects_at_risk="57"/>
+                <counts group_id="E3" subjects_affected="1" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bone Marrow positive for megakaryocytes</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Glomerular microangiopathic thrombosis suggestive of hemolytic uremia syndrome</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Neutropenic fever</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia with giant platelets</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Myocardial Infarction</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Atrial fibrillation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Pericardial effusion</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Congenital, familial and genetic disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Pericarditis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Conjunivitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Diverticulitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Erosive gastritis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Idiopathic Terminal Ileitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Mallory Weiss tear</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Pancreatitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Small bowell obstruction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Typhlitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Allergic reaction to medication</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Dehydration</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Disease progression</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Emesis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Fever</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="43"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Loss of balance</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Pain</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="1" subjects_affected="1" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Rigors</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Tooth pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cholecystitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Cholelithiasis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Increased Liver Function Tests</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute Gastrointestional Graft Verses Host Disease</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="8" subjects_at_risk="43"/>
+                <counts group_id="E2" events="14" subjects_affected="9" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="0"/>
+              </event>
+              <event>
+                <sub_title>Acute Graft verses Host Disease of Skin</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Acute Upper Gastrointestional Graft Verses Host Disease</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>ATG induced anaphylactic reaction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>ATG induced reaction</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Chronic Graft Verses Host Disease</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Chronic Graft Verses Host Disease of Liver</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Chronic Graft Verses Host Disease of Lungs</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Chronic Graft Verses Host Disease of Skin</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Engraftment Syndrome</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Graft verses host disease reactivation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Oral Graft verses Host Disease</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Refractory Graft verses host disease</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Steriod Refractory Gastrointestional Graft verses host disease</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Acute peritonitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Adenoviral enteritis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Aspergillosis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Bacteremia</sub_title>
+                <counts group_id="E1" events="8" subjects_affected="7" subjects_at_risk="43"/>
+                <counts group_id="E2" events="18" subjects_affected="9" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Bilateral Lung Infiltrates</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Cellulitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Clostridioides difficile</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>CMV colitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>CMV Reactivation</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="43"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Community Acquired Pneumonia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Dacryocystitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Disseminated zoster</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Ear Infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Enterovirus</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Epstein-Barr virus</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Gastroenteritis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Hepatitis B reactivation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Herpes zoster reactivation</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Influenza</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Ingrown toe nail positive for Staphylococcus aureus and beta-hemolytic Strep A</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Interstitial Pneumonitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Klebsiella Pneumonia in Urine</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Lesion on lip positive for septate hyphae and dichotomous branching</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Line Infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Metapneumovirus</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Mucomucosis of lungs</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Necrotizing fasciitis by Clostridium septicum</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Oral Herpes simplex virus</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Parainfluenza</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Perirectal abscess</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Pneumonia</sub_title>
+                <counts group_id="E1" events="12" subjects_affected="8" subjects_at_risk="43"/>
+                <counts group_id="E2" events="8" subjects_affected="7" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Positive for Hookworm egg</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Positive Pseudomonas Aeruginosa Blood Cultures</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Pseudomonas</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Respiratory syncytial virus</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Rhinovirus</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Salmonella Food Poisoning</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Sepsis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Sinusitis</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="6" subjects_affected="5" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Skin Abscess</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Toxoplasmosis gondii of the right eye</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Transient Sepsis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Upper Respirtory Infection</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Urinary Tract Infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="2" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Viral gastroenteritis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Viral Infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Wound infection on wrist</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Cold Symptoms</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Hyperglycemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="4" subjects_affected="4" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fracture</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Osteonecrosis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Neoplasms benign, malignant and unspecified (incl cysts and polyps)</title>
+            <event_list>
+              <event>
+                <sub_title>Mucoepidermoid carcinoma of hard pallate</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Axonal polyneuropathy cyclosporine induced</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Occipital hemorrhage</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>PRES</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="3" subjects_affected="3" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Seizure</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="4" subjects_affected="3" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Stroke</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Subdural hematoma</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute on Chronic Renal Failure</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Proteinuria</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Alveolar infiltrates</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Diffuse Alveolar hemorrhage</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="2" subjects_affected="2" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Dyspnea</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Exacerbation of Chronic Obstructive Pulmonary Disease with Upper Respirtory Infection</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Hypoxia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Pleural effusion</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Pneumonmediastinum</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Chronic left ankle ulcer osteomyelitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Odynophagiam skin rash</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Surgical and medical procedures</title>
+            <event_list>
+              <event>
+                <sub_title>Appendecitis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Hemoptysis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Pericardectomy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Transjugular Biopsy</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Vascular disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Acute right parietal/occipital lobe hemorrhage</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Capillary leak syndrome</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Catheter Related Thrombosus</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Deep Vein Thrombosis</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Fluid Overload</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Hypotension</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Intracranial bleed</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Left Limb Ischemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="43"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+              <event>
+                <sub_title>Lower Extremity Edema</sub_title>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="57"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="43"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="57"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="101"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Group B: Stem Cell Transplant in Debilitating Hematologic Diseases was closed to enrollment in 2010.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Richard Childs, M.D. Principal Investigator, NIH, NHLBI</name_or_title>
+      <organization>National Heart Lung and Blood Institute (NHLBI)</organization>
+      <phone>301.451.7128</phone>
+      <email>childsr@nhlbi.nih.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

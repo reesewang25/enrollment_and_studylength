@@ -1,0 +1,309 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00005956</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1309</org_study_id>
+    <secondary_id>6542</secondary_id>
+    <secondary_id>1528</secondary_id>
+    <secondary_id>CDR0000067937</secondary_id>
+    <nct_id>NCT00005956</nct_id>
+  </id_info>
+  <brief_title>Biological Therapy in Treating Patients With Advanced Cancer</brief_title>
+  <official_title>A Pilot Study of Active Immunotherapy With HER2/Neu Intracellular Domain (ICD) Protein-Pulsed, Autologous, Cultured Dendritic Cells in Patients With No Evidence of Disease After Standard Treatment for HER2/Neu Expressing Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Duke University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Duke University</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: A person's white blood cells mixed with tumor proteins may make the body build an&#xD;
+      immune response to kill tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase I trial to study the effectiveness of biological therapy in treating patients&#xD;
+      who have advanced cancer that shows no signs of disease following treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Evaluate the immune response of patients with HER2/neu expressing advanced malignancies&#xD;
+           showing no evidence of disease after standard treatment when injected with HER2/neu&#xD;
+           intracellular domain protein pulsed autologous dendritic cells.&#xD;
+&#xD;
+        -  Assess time to recurrence in these patients.&#xD;
+&#xD;
+      OUTLINE: Autologous dendritic cells (DC) are pulsed with HER2/neu intracellular domain&#xD;
+      protein (ICD). The pulsed DC are administered subcutaneously (SQ) and intradermally, followed&#xD;
+      by autologous DC mixed with tetanus toxoid (TT) and autologous DC mixed with keyhole limpet&#xD;
+      hemocyanin (KLH) SQ and intradermally on day 1. HLA-A2 positive patients also receive&#xD;
+      autologous DC mixed with CMV pp65 peptide SQ and intradermally on day 1. Treatment continues&#xD;
+      every 3 weeks for a total of 4 courses in the absence of disease progression or unacceptable&#xD;
+      toxicity.&#xD;
+&#xD;
+      Patients are followed every 3 months for 1 year or until disease progression.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 6 patients will be accrued for this study over 6 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 2000</start_date>
+  <completion_date type="Actual">July 2002</completion_date>
+  <primary_completion_date type="Actual">August 2001</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety</measure>
+    <time_frame>12 months</time_frame>
+    <description>safety</description>
+  </primary_outcome>
+  <enrollment type="Actual">3</enrollment>
+  <condition>Breast Cancer</condition>
+  <condition>Gastric Cancer</condition>
+  <condition>Ovarian Cancer</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>HER-2/neu intracellular domain protein</intervention_name>
+    <other_name>HER2 ICD</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>therapeutic autologous dendritic cells</intervention_name>
+    <other_name>DC</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed advanced malignancy that expresses HER2/neu&#xD;
+&#xD;
+               -  Stage IIA breast cancer with more than 6 positive lymph nodes&#xD;
+&#xD;
+               -  Stage IIB, IIIA, or IIIB breast cancer&#xD;
+&#xD;
+               -  Stage III ovarian cancer&#xD;
+&#xD;
+               -  Lymph node positive gastric cancer&#xD;
+&#xD;
+               -  Metastatic tumor&#xD;
+&#xD;
+          -  No measurable or evaluable disease after standard treatment&#xD;
+&#xD;
+          -  No previously irradiated or newly diagnosed CNS metastases&#xD;
+&#xD;
+          -  Hormone receptor status:&#xD;
+&#xD;
+               -  Not specified&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 and over&#xD;
+&#xD;
+        Menopausal status:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Karnofsky 80-100%&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Greater than 6 months&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  WBC at least 3,000/mm^3&#xD;
+&#xD;
+          -  Hemoglobin at least 9 mg/dL&#xD;
+&#xD;
+          -  Platelet count at least 100,000/mm^3&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin less than 2.0 mg/dL&#xD;
+&#xD;
+          -  No hepatic disease, including viral hepatitis&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine less than 2.5 mg/dL&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  No New York Heart Association class III or IV heart disease&#xD;
+&#xD;
+        Pulmonary:&#xD;
+&#xD;
+          -  No asthma or chronic obstructive pulmonary disease&#xD;
+&#xD;
+        Immunologic:&#xD;
+&#xD;
+          -  Must have positive intradermal delayed hypersensitivity test for at least 1 of the&#xD;
+             following:&#xD;
+&#xD;
+               -  Candida&#xD;
+&#xD;
+               -  Mumps&#xD;
+&#xD;
+               -  Tetanus&#xD;
+&#xD;
+               -  Trichophyton&#xD;
+&#xD;
+               -  Histoplasmin&#xD;
+&#xD;
+          -  No prior autoimmune disease including, but not limited to, the following:&#xD;
+&#xD;
+               -  Inflammatory bowel disease&#xD;
+&#xD;
+               -  Systemic lupus erythematosus&#xD;
+&#xD;
+               -  Ankylosing spondylitis&#xD;
+&#xD;
+               -  Scleroderma&#xD;
+&#xD;
+               -  Multiple sclerosis&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  HIV negative&#xD;
+&#xD;
+          -  Hepatitis B surface antigen and hepatitis C antibody negative&#xD;
+&#xD;
+          -  No other concurrent serious chronic or acute illness or infection (including urinary&#xD;
+             tract infection)&#xD;
+&#xD;
+          -  No known shellfish or iodine allergy&#xD;
+&#xD;
+          -  No other prior or concurrent malignancy except for nonmelanoma skin cancer, cervical&#xD;
+             cancer, or controlled superficial bladder cancer&#xD;
+&#xD;
+          -  No medical or psychological condition that may preclude study&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  No other concurrent immunotherapy&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  At least 4 weeks since prior chemotherapy and recovered&#xD;
+&#xD;
+          -  No concurrent chemotherapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Concurrent hormonal therapy allowed (tamoxifen, raloxifene, toremifene, and all&#xD;
+             aromatase inhibitors)&#xD;
+&#xD;
+          -  At least 4 weeks since prior steroid or immunosuppressive therapy (e.g, azathioprine&#xD;
+             or cyclosporine)&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  Prior radiotherapy allowed except to cranium&#xD;
+&#xD;
+          -  At least 4 weeks since prior radiotherapy and recovered&#xD;
+&#xD;
+          -  At least 12 weeks since prior strontium chloride Sr 89&#xD;
+&#xD;
+          -  No concurrent radiotherapy&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  At least 4 weeks since prior surgery and recovered&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Concurrent bisphosphonates allowed&#xD;
+&#xD;
+          -  No prior hepatitis B immunization&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Michael A. Morse, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Duke Cancer Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Duke Comprehensive Cancer Center</name>
+      <address>
+        <city>Durham</city>
+        <state>North Carolina</state>
+        <zip>27710</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Morse MA, Hobeika A, Osada T, Niedzwiecki D, Marcom PK, Blackwell KL, Anders C, Devi GR, Lyerly HK, Clay TM. Long term disease-free survival and T cell and antibody responses in women with high-risk Her2+ breast cancer following vaccination against Her2. J Transl Med. 2007 Sep 6;5:42. doi: 10.1186/1479-5876-5-42.</citation>
+    <PMID>17822557</PMID>
+  </results_reference>
+  <verification_date>March 2013</verification_date>
+  <study_first_submitted>July 5, 2000</study_first_submitted>
+  <study_first_submitted_qc>May 20, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 21, 2003</study_first_posted>
+  <last_update_submitted>July 7, 2014</last_update_submitted>
+  <last_update_submitted_qc>July 7, 2014</last_update_submitted_qc>
+  <last_update_posted type="Estimate">July 9, 2014</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stage II breast cancer</keyword>
+  <keyword>stage IV breast cancer</keyword>
+  <keyword>stage IIIA breast cancer</keyword>
+  <keyword>stage II gastric cancer</keyword>
+  <keyword>stage III gastric cancer</keyword>
+  <keyword>stage IV gastric cancer</keyword>
+  <keyword>stage IIIB breast cancer</keyword>
+  <keyword>stage III ovarian epithelial cancer</keyword>
+  <keyword>stage IV ovarian epithelial cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Stomach Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

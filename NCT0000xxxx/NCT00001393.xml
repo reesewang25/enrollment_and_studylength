@@ -1,0 +1,255 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00001393</url>
+  </required_header>
+  <id_info>
+    <org_study_id>940133</org_study_id>
+    <secondary_id>94-DK-0133</secondary_id>
+    <nct_id>NCT00001393</nct_id>
+  </id_info>
+  <brief_title>Genetic Markers for Focal Segmental Glomerulosclerosis</brief_title>
+  <official_title>Genetic Markers for Focal Segmental Glomerulosclerosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Glomerulonephritis is a disease which affect the kidneys. Occasionally these diseases can&#xD;
+      progress to a loss of kidney function in some patients. Glomerulosclerosis or focal segmental&#xD;
+      glomerulosclerosis (FSGS) is one form of glomerulonephritis.&#xD;
+&#xD;
+      The cause of FSGS is unknown and often occurs on its own (idiopathic), or it can be&#xD;
+      associated with HIV (Human Immunodeficiency Virus). FSGS occurs more commonly among black&#xD;
+      patients than Caucasian or Hispanic patients. Researchers believe that environmental factors&#xD;
+      may interact with genetic mutations to cause FSGS, at least in some patients.&#xD;
+&#xD;
+      This study will attempt to identify genetic factors associated with the development of FSGS.&#xD;
+      The study population will be made up of 600 total subjects divided into 3 groups. Group one&#xD;
+      will be 200 African-Americans with FSGS. Group two will be 200 African-Americans with HIV but&#xD;
+      without FSGS. Group three will be 200 non-African-Americans with FSGS.&#xD;
+&#xD;
+      Study participation requires that researchers obtain 20 ml (2 tubes of blood). The genetic&#xD;
+      material (DNA) will be prepared from the white blood cells and analyzed. The results of each&#xD;
+      group will be compared with the results from the other groups to determine if one or more&#xD;
+      genes predisposes to FSGS. In the long run, studies that demonstrate a genetic basis for FSGS&#xD;
+      may help us identify patients earlier and may lead to improved therapies.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Focal segmental glomerulosclerosis (FSGS) and a related condition, collapsing glomerulopathy,&#xD;
+      are chronic renal diseases affecting the glomerular podocytes. Currently, over thirteen&#xD;
+      genetic mutations are associated with FSGS. We are interested in expanding our understanding&#xD;
+      of these and other genes that may cause FSGS and collapsing glomerulopathy. We will study&#xD;
+      individuals with affected family members. We will also study sporadic cases; the rationale&#xD;
+      for studying this population is that FSGS and collapsing glomerulopathy are significantly&#xD;
+      more common among individuals of African descent. The latter observation suggests that&#xD;
+      particular FSGS-susceptibility alleles may be more common among African Americans. In the&#xD;
+      present study, we are addressing the hypothesis that genetic variation contributes to the&#xD;
+      pathogenesis of idiopathic FSGS and collapsing glomerulopathy, both idiopathic and&#xD;
+      HIV-associated variants. We are studying the following groups: 1) African-Americans with&#xD;
+      idiopathic or HIV-associated collapsing glomerulopathy. We will exclude post-adaptive FSGS,&#xD;
+      associated with glomerular hyperfiltration, and medication associated FSGS. 2) Other patients&#xD;
+      with idiopathic FSGS. 3) African Americans with HIV and without kidney disease (hyper-normal&#xD;
+      controls). 4) African descent controls (controls). 5) Healthy European and Asian descent&#xD;
+      controls (controls). 6) Relatives of patients with familial FSGS. 7) Kidney donors. 8)&#xD;
+      Tamils. We are taking four methodologic approaches. First, we are examining known FSGS risk&#xD;
+      genes or candidate genes, looking for disease-causing mutations and for&#xD;
+      disease-susceptibility haplotypes. Second, we have undertaken a genome scan, in the African&#xD;
+      descent population. We may also undertake a whole genome scan in European and Asian descent.&#xD;
+      Evidence of linkage disequilibrium among these markers will be sought between patients with&#xD;
+      and without FSGS. Third, when we identify families with multiple affected individuals and&#xD;
+      which lack known genetic mutations affecting FSGS genes, we will pursue positional cloning.&#xD;
+      Fourth, we will generate iPSC from peripheral blood from individuals with kidney disease&#xD;
+      (with a particular focus on those with particular genetic variants associated with glomerular&#xD;
+      disease) and from healthy volunteers. We will generate podocytes, to understand mechanisms of&#xD;
+      FSGS, and possibly macrophages, to understand reverse cholesterol transport (with relevance&#xD;
+      to nephrotic syndrome and more broadly cardiovascular disease).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 15, 1996</start_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Case-Control</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To develop a molecular understanding of racial differences in the incidence of podocyte diseases.</measure>
+    <time_frame>Retrospective and Prospective</time_frame>
+    <description>Addressing the hypothesis that genetic variation contributes to the pathogenesis of idiopathic FSGS and collapsing glomerulopathy, both idiopathic and HIV-associated variants.</description>
+  </primary_outcome>
+  <number_of_groups>8</number_of_groups>
+  <enrollment type="Actual">616</enrollment>
+  <condition>Focal Segmental Glomerulosclerosis</condition>
+  <condition>HIV-Associated Focal Segmental Glomerulosclerosis</condition>
+  <arm_group>
+    <arm_group_label>African descent controls</arm_group_label>
+    <description>Controls; adult healthy volunteers of African descent without kidney disease</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>African-Americans with FSGS</arm_group_label>
+    <description>African-American patients with idiopathic or HIV-associated collapsing glomerulopathy</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>African-Americans with HIV</arm_group_label>
+    <description>Hyper-normal controls; adult African-Americans with HIV and without kidney disease</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>European and Asian descent controls</arm_group_label>
+    <description>Controls; healthy volunteers of European or Asian descent without kidney disease</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Kidney donors</arm_group_label>
+    <description>People donating kidneys at NIH</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Other patients with idiopathic FSGS</arm_group_label>
+    <description>Patients of other areas of descent with idiopathic FSGS</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Relatives of patients with familial FSGS</arm_group_label>
+    <description>Relatives of patients with familial FSGS</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Tamils</arm_group_label>
+    <description>Adults with Tamilian descent</description>
+  </arm_group>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study population includes several distinct populations of FSGS patients and healthy&#xD;
+        controls: patients of African descent, patients of Tamilian descent, healthy participants&#xD;
+        of African, European, Asian, and Tamilian descent, as well as people of African descent&#xD;
+        with HIV but without FSGS and adults who donate kidneys at NIH. The purpose of collecting&#xD;
+        samples for genetic analyses from these groups is to discover genetic variations that could&#xD;
+        be associated with FSGS, which is especially prevalent in African-American and Tamil&#xD;
+        populations.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        -  INCLUSION AND EXCLUSION CRITERIA, BY GROUP:&#xD;
+&#xD;
+               1. African-descent with FSGS: renal biopsy showing FSGS or collapsing&#xD;
+                  glomerulopathy, including HIV-associated collapsing glomerulopathy&#xD;
+                  (HIV-associated nephropathy). We will include adult and pediatric patients. We&#xD;
+                  will exclude patients with hyperfiltration FSGS.&#xD;
+&#xD;
+               2. Other patients with FSGS (similar inclusion and exclusion criteria as in group&#xD;
+                  1).&#xD;
+&#xD;
+               3. African descent with HIV and without kidney disease (controls). We will include&#xD;
+                  adult patients who have had serologically confirmed HIV-1 infection for at least&#xD;
+                  8 years and lack clinical renal disease, as evidenced by normal creatinine and&#xD;
+                  urine protein/creatinine ratio &lt;0.5 or 24 hour urine protein excretion &lt;500 mg/d.&#xD;
+&#xD;
+               4. African descent (controls). We will include adults only. Exclusions will include&#xD;
+                  HIV-1 infection, cardiovascular disease, and renal disease.&#xD;
+&#xD;
+               5. European and Asian descent (controls). These samples represent DNA already&#xD;
+                  obtained by Dr. Winkler s group under IRB approved protocols and these patients&#xD;
+                  will not be recruited as part of the present study.&lt;TAB&gt;&#xD;
+&#xD;
+               6. Relatives of patients with FSGS. In selected families (in which a patient has&#xD;
+                  been found to have a mutation in an FSGS risk gene whose pathologic role has not&#xD;
+                  been established), we will obtain individual histories of renal disease&#xD;
+                  (hematuria, proteinuria, hypertension, nephrolithiasis) and will measure serum&#xD;
+                  creatinine and urine protein excretion. We will include adults with and without&#xD;
+                  renal disease and children with renal disease. We will evaluate children &lt;18&#xD;
+                  years by obtaining a urine sample; if urinalysis and urine protein excretion are&#xD;
+                  normal, we will not request a blood sample unless blood is being obtained for a&#xD;
+                  clinical indication.&#xD;
+&#xD;
+               7. Kidney donors. We will include NIH kidney donors only. We will obtain individual&#xD;
+                  histories that provide information as to age, sex, race, surgical and medical&#xD;
+                  histories, and family history. Our purpose is to examine whether particular&#xD;
+                  genetic variants, including those in MYH9, influence the ability of the kidney to&#xD;
+                  undergo hypertrophy following renal donation or the propensity to manifest&#xD;
+                  albuminuria as a sign of glomerular stress. These findings have the potential to&#xD;
+                  extend our understanding of the biology of MYH9 and might have clinical relevance&#xD;
+                  for selecting kidney donors.&#xD;
+&#xD;
+               8. Tamil population. We will recruit from a Tamil population. A Tamil will be&#xD;
+                  defined as anyone that identifies themselves, their parents and their&#xD;
+                  grandparents as Tamilian. We will ask these patients about their family history.&#xD;
+                  We will exclude subjects under 18 and multiple subjects within the same family.&#xD;
+                  We will draw blood for genetic testing. Our purpose is to determine whether&#xD;
+                  particular genetic variants, including those in MYH9, are prevalent in a Tamilian&#xD;
+                  population. If prevalence is indicated, we hope to study how these variants&#xD;
+                  influence the progression of kidney disease in this population.&#xD;
+&#xD;
+               9. Women who are pregnant will be excluded from participating in the apheresis&#xD;
+                  component of this protocol.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>19 Months</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Jeffrey B Kopp, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <removed_countries>
+    <country>Canada</country>
+    <country>Israel</country>
+  </removed_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_1994-DK-0133.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <verification_date>January 25, 2023</verification_date>
+  <study_first_submitted>November 3, 1999</study_first_submitted>
+  <study_first_submitted_qc>November 3, 1999</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 4, 1999</study_first_posted>
+  <last_update_submitted>January 26, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 26, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 27, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Collapsing Glomerulopathy</keyword>
+  <keyword>Renal Diseases</keyword>
+  <keyword>HIV-associated nephropathy</keyword>
+  <keyword>Natural History</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glomerulosclerosis, Focal Segmental</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

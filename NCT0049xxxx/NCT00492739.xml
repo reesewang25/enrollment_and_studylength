@@ -1,0 +1,219 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00492739</url>
+  </required_header>
+  <id_info>
+    <org_study_id>VZVinOLTx</org_study_id>
+    <nct_id>NCT00492739</nct_id>
+  </id_info>
+  <brief_title>Immunity Against Varicella in Pediatric Orthotopic Liver Transplantation Recipients</brief_title>
+  <acronym>VZVinOLTx</acronym>
+  <official_title>Induction and Maintenance of Immunity Against Varicella in Pediatric Orthotopic Liver Transplantation Recipients: a Retrospective and Prospective Nationwide Study in Switzerland</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University Hospital, Geneva</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>University Hospital, Geneva</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Varicella is a vaccine-preventable disease, which can be severe in immunosuppressed children.&#xD;
+      Currently, the (live) vaccine is not recommended in pediatric orthotopic liver transplant&#xD;
+      recipients. Furthermore, protection due to naturally acquired immunity to VZV or&#xD;
+      post-immunization isn't well described in this population.The questions asked are:&#xD;
+&#xD;
+        -  What is the influence of the immunosuppression required after orthotopic liver&#xD;
+           transplantation (OLT) on the maintenance of VZV-specific immunity elicited by wild-type&#xD;
+           varicella infection before OLT transplantation?&#xD;
+&#xD;
+        -  What is the influence of the immunosuppression required after OLT on VZV-specific&#xD;
+           immunity elicited by varicella immunization before OLT transplantation?&#xD;
+&#xD;
+        -  What is the influence of the residual immunosuppression at ≥ 12 months after OLT&#xD;
+           transplantation on the induction of VZV-specific B and T cell responses elicited by VZV&#xD;
+           vaccination after OLT transplantation?&#xD;
+&#xD;
+        -  What is the influence of the residual immunosuppression at ≥ 12 months after OLT&#xD;
+           transplantation on the persistence / waning of B and T cell responses elicited by VZV&#xD;
+           vaccination?&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      VZV vaccine given to pediatric liver transplant recipients at least one year after&#xD;
+      transplantation if tehy fulfill inclusion criteria and give informed consent.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Recruiting</overall_status>
+  <start_date>June 2007</start_date>
+  <completion_date type="Anticipated">December 2025</completion_date>
+  <primary_completion_date type="Anticipated">April 2022</primary_completion_date>
+  <phase>Phase 2/Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Safety of VZV vaccine in OLTx recipients</measure>
+    <time_frame>2 years</time_frame>
+    <description>Antibody response measured after vacination with long-term f/u</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Efficacy of VZV vaccine in immunosuppressed OLTx recipients</measure>
+    <time_frame>3 years</time_frame>
+    <description>Protection from disease monitored</description>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">80</enrollment>
+  <condition>Liver Disease</condition>
+  <condition>Immunosuppression</condition>
+  <condition>Varicella</condition>
+  <arm_group>
+    <arm_group_label>Varicella vaccine</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>2-3 doses of Varicella vaccine to seronegative patients two months apart</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Vaccination with VZV vaccine</intervention_name>
+    <description>Varicella vaccination 2 doses 2 months apart.</description>
+    <arm_group_label>Varicella vaccine</arm_group_label>
+    <other_name>Varilrix</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Children either awaiting or recipients of a liver transplantation followed at the&#xD;
+             Children's Hospital of Geneva, Switzerland&#xD;
+&#xD;
+          -  If vaccination offered: &gt; 12 months of age&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Known wild type varicella exposure within four weeks of the initial vaccine&#xD;
+&#xD;
+          -  Immunoglobulins administered within the 5 months preceding the receipt of varicella&#xD;
+             vaccine.&#xD;
+&#xD;
+          -  Antiviral agents administered during the preceding 4 weeks&#xD;
+&#xD;
+          -  Febrile illness (&gt;38.5°) in the 72 hours before vaccine administration&#xD;
+&#xD;
+          -  Chronic aspirin therapy&#xD;
+&#xD;
+          -  Any other live vaccinations within four weeks of receipt of varicella vaccine&#xD;
+&#xD;
+          -  Female patients in childbearing age will have a pregnancy test at enrollment, and at&#xD;
+             the time of the second vaccine.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>18 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Klara M Posfay-Barbe, MD, MS</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University Hospitals of Geneva</affiliation>
+  </overall_official>
+  <overall_contact>
+    <last_name>Klara M Posfay-Barbe, MD, MS</last_name>
+    <phone>+41 22 372 5462</phone>
+    <email>Klara.PosfayBarbe@hcuge.ch</email>
+  </overall_contact>
+  <overall_contact_backup>
+    <last_name>Valerie McLin, MD</last_name>
+    <phone>+41 22 3723311</phone>
+    <email>Valerie.McLin@hcuge.ch</email>
+  </overall_contact_backup>
+  <location>
+    <facility>
+      <name>Children's Hospital of Geneva (HUG)</name>
+      <address>
+        <city>Geneva</city>
+        <state>GE</state>
+        <zip>1211</zip>
+        <country>Switzerland</country>
+      </address>
+    </facility>
+    <status>Recruiting</status>
+    <contact>
+      <last_name>Klara M Posfay-Barbe, MD, MS</last_name>
+      <phone>+41 22 372 5462</phone>
+      <email>Klara.PosfayBarbe@hcuge.ch</email>
+    </contact>
+    <contact_backup>
+      <last_name>Valerie McLin, MD</last_name>
+      <phone>+41 22 372 3311</phone>
+      <email>Valerie.McLin@hcuge.ch</email>
+    </contact_backup>
+    <investigator>
+      <last_name>Klara M Posfay-Barbe, MD, MS</last_name>
+      <role>Principal Investigator</role>
+    </investigator>
+  </location>
+  <location_countries>
+    <country>Switzerland</country>
+  </location_countries>
+  <reference>
+    <citation>Suresh S, Upton J, Green M, Pham-Huy A, Posfay-Barbe KM, Michaels MG, Top KA, Avitzur Y, Burton C, Chong PP, Danziger-Isakov L, Dipchand AI, Hebert D, Kumar D, Morris SK, Nalli N, Ng VL, Nicholas SK, Robinson JL, Solomon M, Tapiero B, Verma A, Walter JE, Allen UD. Live vaccines after pediatric solid organ transplant: Proceedings of a consensus meeting, 2018. Pediatr Transplant. 2019 Nov;23(7):e13571. doi: 10.1111/petr.13571. Epub 2019 Sep 9.</citation>
+    <PMID>31497926</PMID>
+  </reference>
+  <reference>
+    <citation>Verolet CM, Pittet LF, Wildhaber BE, McLin VA, Rodriguez M, Grillet S, Siegrist CA, Posfay-Barbe KM. Long-term Seroprotection of Varicella-zoster Immunization in Pediatric Liver Transplant Recipients. Transplantation. 2019 Nov;103(11):e355-e364. doi: 10.1097/TP.0000000000002866.</citation>
+    <PMID>31335765</PMID>
+  </reference>
+  <reference>
+    <citation>Posfay-Barbe KM, Pittet LF, Sottas C, Grillet S, Wildhaber BE, Rodriguez M, Kaiser L, Belli DC, McLin VA, Siegrist CA. Varicella-zoster immunization in pediatric liver transplant recipients: safe and immunogenic. Am J Transplant. 2012 Nov;12(11):2974-85. doi: 10.1111/j.1600-6143.2012.04273.x. Epub 2012 Sep 20.</citation>
+    <PMID>22994936</PMID>
+  </reference>
+  <verification_date>September 2020</verification_date>
+  <study_first_submitted>June 22, 2007</study_first_submitted>
+  <study_first_submitted_qc>June 26, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 27, 2007</study_first_posted>
+  <last_update_submitted>September 16, 2020</last_update_submitted>
+  <last_update_submitted_qc>September 16, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">September 18, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>University Hospital, Geneva</investigator_affiliation>
+    <investigator_full_name>Klara M. Pósfay Barbe</investigator_full_name>
+    <investigator_title>Head of Pediatric Infectious Diseases</investigator_title>
+  </responsible_party>
+  <keyword>Orthotopic liver transplantation</keyword>
+  <keyword>Pediatric</keyword>
+  <keyword>Immunosuppression</keyword>
+  <keyword>Varicella vaccine</keyword>
+  <keyword>B cell response</keyword>
+  <keyword>T cell response</keyword>
+  <keyword>Antibodies</keyword>
+  <keyword>Varicella</keyword>
+  <keyword>Chickenpox</keyword>
+  <keyword>transplantation</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Chickenpox</mesh_term>
+    <mesh_term>Herpes Zoster</mesh_term>
+    <mesh_term>Liver Diseases</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

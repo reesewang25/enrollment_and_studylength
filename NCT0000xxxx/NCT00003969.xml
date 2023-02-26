@@ -1,0 +1,244 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003969</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CRC-PHASE-I-PH1/074</org_study_id>
+    <secondary_id>CDR0000067170</secondary_id>
+    <secondary_id>NCI-T99-0013</secondary_id>
+    <secondary_id>EU-99055</secondary_id>
+    <nct_id>NCT00003969</nct_id>
+  </id_info>
+  <brief_title>Geldanamycin Analogue in Treating Patients With Advanced Cancer</brief_title>
+  <official_title>A Phase I Pharmacokinetic and Pharmacodynamic Study of 17-Allylamino-17-Demethoxygeldanamycin (17-AAG) (NSC 330507) Via Intravenous Administration in Patients With Advanced Malignancies</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Cancer Research UK</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die.&#xD;
+&#xD;
+      PURPOSE: This phase I trial is studying the side effects and best dose of a geldanamycin&#xD;
+      analogue in treating patients with advanced cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the maximum tolerated dose for a geldanamycin analogue,&#xD;
+           17-allylamino-17-demethoxygeldanamycin (AAG), in patients with advanced malignancies.&#xD;
+&#xD;
+        -  Determine the toxic effects and dose-limiting toxicity of AAG in this patient&#xD;
+           population.&#xD;
+&#xD;
+        -  Determine the safe dose of AAG for a Phase II study.&#xD;
+&#xD;
+        -  Measure the pharmacokinetic and pharmacodynamic profiles of AAG in these patients.&#xD;
+&#xD;
+        -  Assess time to tumor progression and any antitumor activity in patients treated with&#xD;
+           AAG.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study.&#xD;
+&#xD;
+      Patients receive a geldanamycin analogue, 17-allylamino-17-demethoxygeldanamycin (AAG), IV&#xD;
+      over 15-30 minutes every week. Treatment continues in the absence of disease progression or&#xD;
+      unacceptable toxicity.&#xD;
+&#xD;
+      Cohorts of 3-6 patients receive escalating doses of AAG until the maximum tolerated dose&#xD;
+      (MTD) is determined. The MTD is defined as the dose preceding that at which at least 2 of 6&#xD;
+      patients experience dose-limiting toxicity.&#xD;
+&#xD;
+      Patients are followed at 4 weeks.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: Approximately 20-40 patients will be accrued for this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1998</start_date>
+  <completion_date type="Actual">January 2007</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Recommended phase II dose of 17-allylamino-17-demethoxygeldanamycin (17-AAG) at 4 weeks</measure>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Heat shock protein 90 (HSP90) client protein and co-chaperone changes during first course of treatment</measure>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Pharmacokinetic profile of 17-AAG during the first course of treatment</measure>
+  </secondary_outcome>
+  <condition>Unspecified Adult Solid Tumor, Protocol Specific</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>tanespimycin</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically or cytologically proven malignancies refractory to conventional&#xD;
+             treatment or for which no standard therapy exists&#xD;
+&#xD;
+          -  Primary brain tumor or brain metastases allowed if stable symptoms within 2 weeks&#xD;
+             prior to study and able to give informed consent&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 to 75&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  WHO 0-2&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  At least 3 months&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  WBC at least 3,500/mm^3&#xD;
+&#xD;
+          -  Platelet count at least 100,000/mm^3&#xD;
+&#xD;
+          -  Hemoglobin at least 10.0 g/dL&#xD;
+&#xD;
+          -  Absolute neutrophil count at least 1,500/mm^3&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin less than 1.0 mg/dL&#xD;
+&#xD;
+          -  AST and ALT no greater than 2.5 times upper limit of normal if due to liver metastases&#xD;
+&#xD;
+          -  No chronic liver disease&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine less than 1.47 mg/dL OR&#xD;
+&#xD;
+          -  Creatinine clearance greater than 60 mL/min&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  No myocardial infarction within the past 6 months&#xD;
+&#xD;
+          -  No angina requiring treatment within the past 6 months&#xD;
+&#xD;
+          -  No uncompensated coronary artery disease by electrocardiogram or physical examination&#xD;
+&#xD;
+          -  No prior transient ischemic attacks, stroke, or peripheral vascular disease&#xD;
+&#xD;
+          -  LVEF at least 45%&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception during and for 4 weeks after study&#xD;
+&#xD;
+          -  No allergy to egg products&#xD;
+&#xD;
+          -  No nonmalignant systemic disease that would increase risk&#xD;
+&#xD;
+          -  No active uncontrolled infection&#xD;
+&#xD;
+          -  No diabetes mellitus with evidence of severe peripheral vascular disease or diabetic&#xD;
+             ulcers&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  At least 4 weeks since prior immunotherapy and recovered&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  At least 4 weeks since prior chemotherapy (6 weeks for nitrosoureas and mitomycin) and&#xD;
+             recovered&#xD;
+&#xD;
+          -  No other concurrent chemotherapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  At least 4 weeks since other prior endocrine therapy and recovered&#xD;
+&#xD;
+          -  Concurrent corticosteroids for symptom control allowed if no change in dose&#xD;
+             requirement within 2 weeks prior to study&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  At least 4 weeks since prior radiotherapy (except for palliative reasons) and&#xD;
+             recovered&#xD;
+&#xD;
+          -  Concurrent radiotherapy allowed for control of bone pain or as indicated&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No other concurrent investigational treatment&#xD;
+&#xD;
+          -  No concurrent treatment with drugs interfering with hepatic CYP3A4 metabolism (e.g.,&#xD;
+             grapefruit juice or warfarin)&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ian R. Judson, MA, MD, FRCP</last_name>
+    <role>Study Chair</role>
+    <affiliation>Royal Marsden NHS Foundation Trust</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Royal Marsden NHS Foundation Trust - London</name>
+      <address>
+        <city>London</city>
+        <state>England</state>
+        <zip>SW3 6JJ</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <results_reference>
+    <citation>Banerji U, O'Donnell A, Scurr M, Pacey S, Stapleton S, Asad Y, Simmons L, Maloney A, Raynaud F, Campbell M, Walton M, Lakhani S, Kaye S, Workman P, Judson I. Phase I pharmacokinetic and pharmacodynamic study of 17-allylamino, 17-demethoxygeldanamycin in patients with advanced malignancies. J Clin Oncol. 2005 Jun 20;23(18):4152-61. doi: 10.1200/JCO.2005.00.612.</citation>
+    <PMID>15961763</PMID>
+  </results_reference>
+  <verification_date>December 2000</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>June 25, 2013</last_update_submitted>
+  <last_update_submitted_qc>June 25, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">June 26, 2013</last_update_posted>
+  <keyword>unspecified adult solid tumor, protocol specific</keyword>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

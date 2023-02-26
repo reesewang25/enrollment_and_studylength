@@ -1,0 +1,400 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00004196</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000067439</org_study_id>
+    <secondary_id>UAB-9735</secondary_id>
+    <secondary_id>UAB-F970925009</secondary_id>
+    <secondary_id>NCI-G99-1654</secondary_id>
+    <secondary_id>RPCI-DS-99-14</secondary_id>
+    <nct_id>NCT00004196</nct_id>
+  </id_info>
+  <brief_title>Interferon Alfa-2b in Treating Patients With Melanoma and Early Lymph Node Metastasis</brief_title>
+  <official_title>A Multicenter Trial of Adjuvant Interferon Alfa-2b for Melanoma Patients With Early Lymph Node Metastasis Detected by Lymphatic Mapping and Sentinel Lymph Node Biopsy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Alabama at Birmingham</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Interferon alfa-2b may interfere with the growth of cancer cells.&#xD;
+&#xD;
+      PURPOSE: Randomized phase III trial to study the effectiveness of interferon alfa-2b in&#xD;
+      treating patients who have melanoma with early lymph node metastasis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Compare the efficacy of regional lymphadenectomy with or without adjuvant high-dose&#xD;
+           interferon alfa-2b on disease-free survival and overall survival of patients with&#xD;
+           invasive cutaneous melanoma with early or submicroscopic sentinel lymph node metastasis&#xD;
+           detected by histology or immunohistochemistry or by polymerase chain reaction (PCR).&#xD;
+&#xD;
+        -  Compare the effect of lymphadenectomy vs observation on disease-free survival and&#xD;
+           overall survival of patients with submicroscopic sentinel lymph node metastasis detected&#xD;
+           only by PCR.&#xD;
+&#xD;
+        -  Determine the recurrence rate and survival of patients with submicroscopic sentinel&#xD;
+           lymph node metastasis detected only by PCR.&#xD;
+&#xD;
+        -  Determine the positive and negative predictive value of reverse transcriptase PCR&#xD;
+           analysis of sentinel lymph nodes and peripheral blood to identify patients at risk for&#xD;
+           recurrence and death.&#xD;
+&#xD;
+      OUTLINE: This is a randomized, multicenter study. Patients in the randomized portions of&#xD;
+      Protocols A and B are stratified according to tumor thickness (1-2 mm vs 3-4 mm vs greater&#xD;
+      than 4 mm) and tumor ulceration (yes vs no).&#xD;
+&#xD;
+      All patients undergo wide local tumor excision with lymphatic mapping and sentinel node&#xD;
+      biopsy. Patients with tumors with ambiguous drainage patterns undergo lymphoscintigraphy&#xD;
+      prior to tumor excision. Patients with evidence of metastatic melanoma in the sentinel&#xD;
+      node(s) by routine histology, serial sectioning, or immunohistochemistry and who have&#xD;
+      undergone a prior regional lymph node dissection proceed to protocol A.&#xD;
+&#xD;
+        -  Protocol A: Patients with metastasis in a single sentinel node with no evidence of&#xD;
+           extracapsular extension and no metastatic disease in nonsentinel nodes are randomized to&#xD;
+           1 of 2 treatment arms.&#xD;
+&#xD;
+             -  Arm I: Patients receive adjuvant high-dose interferon alfa-2b IV 5 days a week for&#xD;
+                4 weeks, then subcutaneously 3 times a week for 48 weeks.&#xD;
+&#xD;
+             -  Arm II: Patients undergo observation. Patients with metastases in more than one&#xD;
+                sentinel node with evidence of extracapsular extension or metastasis in any&#xD;
+                nonsentinel node receive adjuvant high-dose interferon alfa-2b as in arm I.&#xD;
+&#xD;
+      Patients with no evidence of sentinel node(s) metastases by routine histology, serial&#xD;
+      sectioning, and immunohistochemistry and are negative by polymerase chain reaction (PCR)&#xD;
+      analysis are observed.&#xD;
+&#xD;
+        -  Protocol B: Patients with positive sentinel node(s) by PCR analysis are randomized to&#xD;
+           one of three treatment arms.&#xD;
+&#xD;
+             -  Arm I: Patients undergo observation.&#xD;
+&#xD;
+             -  Arm II: Patients undergo lymph node dissection.&#xD;
+&#xD;
+             -  Arm III: Patients undergo lymph node dissection followed by adjuvant high-dose&#xD;
+                interferon alfa-2b IV 5 days a week for 4 weeks.&#xD;
+&#xD;
+      Patients are followed every 3 months for 2 years, every 4 months for 1 year, every 6 months&#xD;
+      for 2 years, and then annually thereafter.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 3,000 patients will be accrued for this study within 5 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 1999</start_date>
+  <completion_date type="Actual">November 2007</completion_date>
+  <primary_completion_date type="Actual">October 2004</primary_completion_date>
+  <phase>Phase 3</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Single (Participant)</masking>
+  </study_design_info>
+  <number_of_arms>5</number_of_arms>
+  <enrollment type="Anticipated">3000</enrollment>
+  <condition>Melanoma (Skin)</condition>
+  <arm_group>
+    <arm_group_label>AI</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with metastasis in a single sentinel node with no evidence of extracapsular extension and no metastatic disease in nonsentinel nodes are randomized to 1 of 2 treatment arms. Patients receive adjuvant high-dose interferon alfa-2b IV 5 days a week for 4 weeks, then subcutaneously 3 times a week for 48 weeks</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm AII</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with metastasis in a single sentinel node with no evidence of extracapsular extension and no metastatic disease in nonsentinel nodes are randomized to 1 of 2 treatment arms. Observational arm: Patients with metastases in more than one sentinel node with evidence of extracapsular extension or metastasis in any nonsentinel node receive adjuvant high-dose interferon alfa-2b as in arm AI.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm BI</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with positive sentinel node(s) by PCR analysis are randomized to one of three treatment arms. Patients undergo observation. Patients are followed every 3 months for 2 years, every 4 months for 1 year, every 6 months for 2 years, and then annually thereafter.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm B II</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with positive sentinel node(s) by PCR analysis are randomized to one of three treatment arms. Patients undergo lymph node dissection. Patients are followed every 3 months for 2 years, every 4 months for 1 year, every 6 months for 2 years, and then annually thereafter.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm BIII</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients with positive sentinel node(s) by PCR analysis are randomized to one of three treatment arms. Patients undergo lymph node dissection followed by adjuvant high-dose interferon alfa-2b IV 5 days a week for 4 weeks.&#xD;
+Patients are followed every 3 months for 2 years, every 4 months for 1 year, every 6 months for 2 years, and then annually thereafter.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>recombinant interferon alfa</intervention_name>
+    <arm_group_label>AI</arm_group_label>
+    <arm_group_label>Arm AII</arm_group_label>
+    <arm_group_label>Arm BIII</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>lymphangiography</intervention_name>
+    <arm_group_label>Arm B II</arm_group_label>
+    <arm_group_label>Arm BIII</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Observation</intervention_name>
+    <arm_group_label>Arm AII</arm_group_label>
+    <arm_group_label>Arm BI</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed invasive cutaneous melanoma&#xD;
+&#xD;
+               -  Breslow thickness at least 1.0 mm&#xD;
+&#xD;
+               -  Primary site must be on head, neck, trunk or extremity&#xD;
+&#xD;
+               -  No more than 90 days since biopsy&#xD;
+&#xD;
+          -  Protocol A:&#xD;
+&#xD;
+               -  One or more sentinel lymph nodes with histologic or immunohistochemical evidence&#xD;
+                  of metastatic melanoma&#xD;
+&#xD;
+               -  Prior regional lymph node dissection&#xD;
+&#xD;
+          -  Protocol B:&#xD;
+&#xD;
+               -  Sentinel lymph nodes with no histologic or immunohistochemical evidence of&#xD;
+                  metastatic melanoma&#xD;
+&#xD;
+               -  Sentinel lymph node positive by reverse transcriptase polymerase chain reaction&#xD;
+&#xD;
+          -  No prior wide local excision of the primary tumor with a margin greater than 1.5 cm&#xD;
+&#xD;
+          -  No primary melanoma involving the eye or mucous membranes&#xD;
+&#xD;
+          -  No clinical evidence of satellite lesions or intransit, regional nodal, or distant&#xD;
+             metastases&#xD;
+&#xD;
+          -  No second primary invasive melanoma&#xD;
+&#xD;
+          -  No prior surgery in the region of the primary draining nodal basin that would disrupt&#xD;
+             normal lymphatic drainage patterns (e.g., skin grafts, tissue transfers or flaps, or&#xD;
+             lymph node dissections)&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 to 70&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Karnofsky 70-100%&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  At least 10 years&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  WBC at least 3,000/mm^3&#xD;
+&#xD;
+          -  Absolute granulocyte count at least 1,500/mm^3&#xD;
+&#xD;
+          -  Platelet count at least 70,000/mm^3&#xD;
+&#xD;
+          -  Hemoglobin at least 10.0 g/dL&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin less than 2.0 mg/dL&#xD;
+&#xD;
+          -  SGOT/SGPT less than 3 times upper limit of normal (ULN)&#xD;
+&#xD;
+          -  Alkaline phosphatase less than 3 times ULN&#xD;
+&#xD;
+          -  No severe decompensated liver disease (e.g., cirrhosis or autoimmune hepatitis)&#xD;
+&#xD;
+          -  No other significant liver disease that would preclude study participation&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine normal&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  No cardiovascular disease (e.g., angina or congestive heart failure)&#xD;
+&#xD;
+          -  No myocardial infarction within the past year&#xD;
+&#xD;
+          -  No tachyarrhythmias&#xD;
+&#xD;
+        Pulmonary:&#xD;
+&#xD;
+          -  No severe debilitating pulmonary disease (e.g., chronic obstructive pulmonary disease)&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No hypersensitivity to interferon alfa-2b or related compounds or any component of the&#xD;
+             injection&#xD;
+&#xD;
+          -  No major depression or other major psychiatric illness&#xD;
+&#xD;
+          -  No thyroid disorder with thyroid function that is not maintained within the normal&#xD;
+             range with medications&#xD;
+&#xD;
+          -  No autoimmune disease&#xD;
+&#xD;
+          -  No primary or secondary immunodeficiencies&#xD;
+&#xD;
+          -  No severe diabetes mellitus prone to ketoacidosis&#xD;
+&#xD;
+          -  No significant retinal abnormalities&#xD;
+&#xD;
+          -  No evidence of infection&#xD;
+&#xD;
+          -  No other malignancy within the past 5 years except basal cell or squamous cell skin&#xD;
+             cancer, carcinoma in situ of the cervix, or stage I laryngeal cancer&#xD;
+&#xD;
+          -  No other medical condition that would preclude study participation&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception during and for 6 months after the&#xD;
+             study&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  No prior immunotherapy&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  No prior chemotherapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  At least 6 months since prior oral or parenteral steroids&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  No prior radiotherapy&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  No prior organ transplantation&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  At least 6 months since prior immunosuppressants&#xD;
+&#xD;
+          -  No concurrent immunosuppressants resulting from prior organ transplantation&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Marshall M. Urist, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Alabama at Birmingham</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Alabama at Birmingham Comprehensive Cancer Center</name>
+      <address>
+        <city>Birmingham</city>
+        <state>Alabama</state>
+        <zip>35294-3300</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>James Graham Brown Cancer Center at University of Louisville</name>
+      <address>
+        <city>Louisville</city>
+        <state>Kentucky</state>
+        <zip>40202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cancer Institute of New Jersey</name>
+      <address>
+        <city>New Brunswick</city>
+        <state>New Jersey</state>
+        <zip>08903</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Roswell Park Cancer Institute</name>
+      <address>
+        <city>Buffalo</city>
+        <state>New York</state>
+        <zip>14263-0001</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>April 2013</verification_date>
+  <study_first_submitted>January 21, 2000</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>January 16, 2014</last_update_submitted>
+  <last_update_submitted_qc>January 16, 2014</last_update_submitted_qc>
+  <last_update_posted type="Estimate">January 20, 2014</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stage I melanoma</keyword>
+  <keyword>stage II melanoma</keyword>
+  <keyword>stage III melanoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melanoma</mesh_term>
+    <mesh_term>Lymphatic Metastasis</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Interferons</mesh_term>
+    <mesh_term>Interferon-alpha</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,262 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00006019</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000068030</org_study_id>
+    <secondary_id>MSKCC-99060</secondary_id>
+    <secondary_id>NCI-T99-0091</secondary_id>
+    <nct_id>NCT00006019</nct_id>
+  </id_info>
+  <brief_title>Phenylbutyrate Plus Azacitidine in Treating Patients With Acute Myeloid Leukemia, Myelodysplasia, Non-Hodgkin's Lymphoma, Multiple Myeloma, Non-small Cell Lung Cancer, or Prostate Cancer</brief_title>
+  <official_title>Pilot Study of Sodium Phenylbutyrate Plus Azacytidine</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop cancer cells from dividing&#xD;
+      so they stop growing or die. Combining more than one chemotherapy drug may kill more cancer&#xD;
+      cells.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of phenylbutyrate plus azacitidine in&#xD;
+      treating patients who have acute myeloid leukemia, myelodysplasia, non-Hodgkin's lymphoma,&#xD;
+      multiple myeloma, non-small cell lung cancer, or prostate cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the ability of azacytidine in vivo to demethylate selected genes known to be&#xD;
+           transcriptionally repressed in patients with acute myeloid leukemia, myelodysplasia,&#xD;
+           non-Hodgkin's lymphoma, multiple myeloma, non-small cell lung cancer, or prostate&#xD;
+           cancer.&#xD;
+&#xD;
+        -  Determine the ability of phenylbutyrate plus azacytidine to induce transcription of&#xD;
+           target genes that are known to be repressed as a consequence of DNA methylation in these&#xD;
+           patients.&#xD;
+&#xD;
+        -  Determine the effect of this treatment regimen upon gene methylation and histone&#xD;
+           acetylation in target cells in these patients.&#xD;
+&#xD;
+        -  Determine the technical feasibility of serially monitoring transcriptional activity and&#xD;
+           methylation status of selected genes in vivo in these patients.&#xD;
+&#xD;
+        -  Determine the safety and potential antitumor efficacy of this treatment regimen in these&#xD;
+           patients.&#xD;
+&#xD;
+      OUTLINE: Patients receive azacytidine subcutaneously on days 1-7 and phenylbutyrate IV over&#xD;
+      1-2 hours on days 8-12. Patients with acute myeloid leukemia who respond to therapy may&#xD;
+      receive a second course approximately 10 days after the end of the first. Subsequent courses&#xD;
+      in these patients, and all additional courses in all other patients, are repeated every 21 to&#xD;
+      28 days in the absence of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 20 patients will be accrued for this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 2000</start_date>
+  <completion_date type="Actual">August 2003</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <condition>Leukemia</condition>
+  <condition>Lung Cancer</condition>
+  <condition>Lymphoma</condition>
+  <condition>Multiple Myeloma and Plasma Cell Neoplasm</condition>
+  <condition>Myelodysplastic Syndromes</condition>
+  <condition>Prostate Cancer</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>azacitidine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>sodium phenylbutyrate</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Diagnosis of one of the following neoplastic diseases:&#xD;
+&#xD;
+               -  Acute myeloid leukemia&#xD;
+&#xD;
+               -  Myelodysplasia&#xD;
+&#xD;
+               -  Low or intermediate grade non-Hodgkin's lymphoma&#xD;
+&#xD;
+               -  Multiple myeloma&#xD;
+&#xD;
+               -  Non-small cell lung cancer&#xD;
+&#xD;
+               -  Prostate cancer&#xD;
+&#xD;
+          -  Failed prior conventional therapy and no other known curative therapy exists&#xD;
+&#xD;
+          -  Patients with non-Hodgkin's lymphoma, non-small cell lung cancer, and prostate cancer&#xD;
+             must have tumor cells in bone marrow or malignant effusions that are accessible for&#xD;
+             bone marrow aspiration or paracentesis/thoracentesis NOTE: A new classification scheme&#xD;
+             for adult non-Hodgkin's lymphoma has been adopted by PDQ. The terminology of&#xD;
+             &quot;indolent&quot; or &quot;aggressive&quot; lymphoma will replace the former terminology of &quot;low&quot;,&#xD;
+             &quot;intermediate&quot;, or &quot;high&quot; grade lymphoma. However, this protocol uses the former&#xD;
+             terminology.&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 and over&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Karnofsky 60-100%&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  Patients without leukemia or myeloma:&#xD;
+&#xD;
+               -  WBC at least 2,500/mm^3&#xD;
+&#xD;
+               -  Platelet count at least 75,000/mm^3&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin no greater than 2.5 mg/dL&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine no greater than 2.5 mg/dL&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception during and for 4 weeks after study&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  Patients without leukemia:&#xD;
+&#xD;
+               -  At least 3 weeks since prior cytotoxic chemotherapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  Patients without leukemia:&#xD;
+&#xD;
+               -  At least 3 weeks since prior radiotherapy&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Not specified&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Peter Maslak, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>October 2002</verification_date>
+  <study_first_submitted>July 5, 2000</study_first_submitted>
+  <study_first_submitted_qc>August 28, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 29, 2003</study_first_posted>
+  <last_update_submitted>June 20, 2013</last_update_submitted>
+  <last_update_submitted_qc>June 20, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">June 24, 2013</last_update_posted>
+  <keyword>recurrent non-small cell lung cancer</keyword>
+  <keyword>refractory multiple myeloma</keyword>
+  <keyword>recurrent adult acute myeloid leukemia</keyword>
+  <keyword>recurrent prostate cancer</keyword>
+  <keyword>adult acute myeloblastic leukemia without maturation (M1)</keyword>
+  <keyword>adult acute myeloblastic leukemia with maturation (M2)</keyword>
+  <keyword>adult acute promyelocytic leukemia (M3)</keyword>
+  <keyword>adult acute myelomonocytic leukemia (M4)</keyword>
+  <keyword>adult acute monoblastic leukemia (M5a)</keyword>
+  <keyword>recurrent grade 1 follicular lymphoma</keyword>
+  <keyword>recurrent grade 2 follicular lymphoma</keyword>
+  <keyword>recurrent grade 3 follicular lymphoma</keyword>
+  <keyword>recurrent adult diffuse small cleaved cell lymphoma</keyword>
+  <keyword>recurrent adult diffuse mixed cell lymphoma</keyword>
+  <keyword>recurrent adult diffuse large cell lymphoma</keyword>
+  <keyword>adult acute monocytic leukemia (M5b)</keyword>
+  <keyword>previously treated myelodysplastic syndromes</keyword>
+  <keyword>secondary myelodysplastic syndromes</keyword>
+  <keyword>recurrent marginal zone lymphoma</keyword>
+  <keyword>recurrent small lymphocytic lymphoma</keyword>
+  <keyword>extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue</keyword>
+  <keyword>nodal marginal zone B-cell lymphoma</keyword>
+  <keyword>splenic marginal zone lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Leukemia</mesh_term>
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+    <mesh_term>Preleukemia</mesh_term>
+    <mesh_term>Plasmacytoma</mesh_term>
+    <mesh_term>Myelodysplastic Syndromes</mesh_term>
+    <mesh_term>Syndrome</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Azacitidine</mesh_term>
+    <mesh_term>4-phenylbutyric acid</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

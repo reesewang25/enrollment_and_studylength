@@ -1,0 +1,204 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00005158</url>
+  </required_header>
+  <id_info>
+    <org_study_id>1030</org_study_id>
+    <secondary_id>R01HL028522</secondary_id>
+    <nct_id>NCT00005158</nct_id>
+  </id_info>
+  <brief_title>Segregation/Linkage Analysis for Hypertension</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Heart, Lung, and Blood Institute (NHLBI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Heart, Lung, and Blood Institute (NHLBI)</source>
+  <brief_summary>
+    <textblock>
+      To determine the genetic components of hypertension using a series of simulation experiments&#xD;
+      designed to determine the power and validity of the then recently developed methods of&#xD;
+      segregation and linkage analysis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:&#xD;
+&#xD;
+      There are two general hypotheses about the nature of the genetic component of hypertension. A&#xD;
+      single gene hypothesis visualizes hypertension as a specific disease entity determined by an&#xD;
+      autosomal dominant or incompletely dominant allele with little environmental effect. A&#xD;
+      polygenic hypothesis views hypertension as determined by a large number of genetic and&#xD;
+      environmental factors operating independently with roughly equal contributions. The evidence&#xD;
+      supporting the single gene hypothesis is based primarily on bimodal and trimodal&#xD;
+      distributions of blood pressure in the population. It has been suggested that the bimodal or&#xD;
+      trimodal distributions are the result of ascertainment bias. The evidence supporting the&#xD;
+      polygenic model is based on several studies where the distribution of blood pressure is&#xD;
+      unimodal and often skewed toward higher values in both the population and in first degree&#xD;
+      relatives of hypertensive individuals. These skewed distributions can be approximately&#xD;
+      normalized using log transformations.&#xD;
+&#xD;
+      In this study, a particular effort was made to detect major genes. A major gene is said to&#xD;
+      exist in a particular sample if an appreciable amount of the variability of a trait in that&#xD;
+      sample is due to segregation of alleles at a single locus. The presence of a major gene does&#xD;
+      not preclude the existence of other genetic or environmental effects. In the last decade&#xD;
+      three general models have been proposed to detect the presence of a major gene. The&#xD;
+      transmission probability model is a general model for the genetic analysis of pedigree data&#xD;
+      which tests for Mendelian segregation ratios and is a generalization of the traditional&#xD;
+      methods of segregation analysis. This model has little power to differentiate between single&#xD;
+      gene and polygenic inheritance although it may be able to detect some kinds of non-single&#xD;
+      gene transmission. This method has been extended to allow analysis of multivariate traits,&#xD;
+      testing of a wide variety of hypotheses concerning modes of transmission and various&#xD;
+      ascertainment corrections. Major genes identified with this model include&#xD;
+      hypercholesterolemia, dopamine-beta-hydroxylase, and catechol-o-methytransferase.&#xD;
+&#xD;
+      The mixed model includes both a single locus and a multi-locus component and is designed to&#xD;
+      distinguish between the two. The model assumes that all transmission from one generation to&#xD;
+      the next that cannot be accounted for by classical polygenic inheritance is due to&#xD;
+      segregation of alleles at a single locus. It is ideal for detecting a major gene in the&#xD;
+      presence of polygenic inheritance provided that no other type of transmission is occurring.&#xD;
+      This model has been extended to include an environmental correlation among sibs. Major loci&#xD;
+      identified with this model include PTC, IgE and congenital glaucoma. The unified model is a&#xD;
+      mixed model with the single locus component parameterized in terms of transmission&#xD;
+      probabilities, and is a combination of the two previous models. Several research groups have&#xD;
+      developed methodologies to overcome the computational difficulties presented by this combined&#xD;
+      model.&#xD;
+&#xD;
+      DESIGN NARRATIVE:&#xD;
+&#xD;
+      The study was divided into two parts, the analysis of the methodologies and the application&#xD;
+      of the methodologies in the genetic analysis of hypertension. In the first part of the study,&#xD;
+      the power, robustness, and validity of three genetic models of segregation and linkage&#xD;
+      analysis were considered: the transmission probability model; the mixed model; and the&#xD;
+      unified model which was also a mixed model with the single locus component parameterized in&#xD;
+      terms of transmission probabilities. The methods of segregation and linkage analysis found to&#xD;
+      be most satisfactory were then applied to the analysis of data on five large pedigrees in&#xD;
+      collaboration with Wright State University and to the analysis of ten large pedigrees&#xD;
+      ascertained as part of the Bogalusa Heart Study. A determination was made of the effects of&#xD;
+      partitioning large families into nuclear families and performing segregation and linkage on&#xD;
+      these nuclear families.&#xD;
+&#xD;
+      The study completion date listed in this record was obtained from the &quot;End Date&quot; entered in&#xD;
+      the Protocol Registration and Results System (PRS) record.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 1982</start_date>
+  <completion_date type="Actual">June 1991</completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Hypertension</condition>
+  <eligibility>
+    <criteria>
+      <textblock>
+        No eligibility criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>100 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <reference>
+    <citation>Siervogel RM, Weinshilboum R, Wilson AF, Elston RC. Major gene model for the inheritance of catechol-O-methyltransferase activity in five large families. Am J Med Genet. 1984 Oct;19(2):315-23. doi: 10.1002/ajmg.1320190214.</citation>
+    <PMID>6594929</PMID>
+  </reference>
+  <reference>
+    <citation>Wilson AF, Elston RC, Siervogel RM, Weinshilboum R, Ward LJ. Linkage relationships between a major gene for catechol-o-methyltransferase activity and 25 polymorphic marker systems. Am J Med Genet. 1984 Nov;19(3):525-32. doi: 10.1002/ajmg.1320190314.</citation>
+    <PMID>6507499</PMID>
+  </reference>
+  <reference>
+    <citation>Townley RG, Bewtra A, Wilson AF, Hopp RJ, Elston RC, Nair N, Watt GD. Segregation analysis of bronchial response to methacholine inhalation challenge in families with and without asthma. J Allergy Clin Immunol. 1986 Jan;77(1 Pt 1):101-7. doi: 10.1016/0091-6749(86)90330-1.</citation>
+    <PMID>3944368</PMID>
+  </reference>
+  <reference>
+    <citation>Amos CI, Wilson AF, Rosenbaum PA, Srinivasan SR, Webber LS, Elston RC, Berenson GS. An approach to the multivariate analysis of high-density-lipoprotein cholesterol in a large kindred: the Bogalusa Heart Study. Genet Epidemiol. 1986;3(4):255-67. doi: 10.1002/gepi.1370030406.</citation>
+    <PMID>3744022</PMID>
+  </reference>
+  <reference>
+    <citation>Asamoah A, Wilson AF, Elston RC, Dalferes E Jr, Berenson GS. Segregation and linkage analyses of dopamine-beta-hydroxylase activity in a six-generation pedigree. Am J Med Genet. 1987 Jul;27(3):613-21. doi: 10.1002/ajmg.1320270314.</citation>
+    <PMID>3631133</PMID>
+  </reference>
+  <reference>
+    <citation>Amos CI, Elston RC, Srinivasan SR, Wilson AF, Cresanta JL, Ward LJ, Berenson GS. Linkage and segregation analyses of apolipoproteins A1 and B, and lipoprotein cholesterol levels in a large pedigree with excess coronary heart disease: the Bogalusa Heart Study. Genet Epidemiol. 1987;4(2):115-28. doi: 10.1002/gepi.1370040206.</citation>
+    <PMID>3108069</PMID>
+  </reference>
+  <reference>
+    <citation>Wilson AF, Bailey-Wilson JE, Cleton FJ, Elston RC, King MC. Linkage analysis of Dutch families at high risk for breast cancer. Genet Epidemiol Suppl. 1986;1:87-92. doi: 10.1002/gepi.1370030714. No abstract available.</citation>
+    <PMID>3471674</PMID>
+  </reference>
+  <reference>
+    <citation>Crowe RR, Noyes R Jr, Wilson AF, Elston RC, Ward LJ. A linkage study of panic disorder. Arch Gen Psychiatry. 1987 Nov;44(11):933-7. doi: 10.1001/archpsyc.1987.01800230013003.</citation>
+    <PMID>3675131</PMID>
+  </reference>
+  <reference>
+    <citation>Asamoah A, Wyatt RJ, Julian BA, Quiggins PA, Wilson AF, Elston RC. A major gene model for the familial aggregation of plasma IgA concentration. Am J Med Genet. 1987 Aug;27(4):857-66. doi: 10.1002/ajmg.1320270413.</citation>
+    <PMID>3480689</PMID>
+  </reference>
+  <reference>
+    <citation>Wilson AF, Elston RC, Siervogel RM, Tran LD. Linkage of a gene regulating dopamine-beta-hydroxylase activity and the ABO blood group locus. Am J Hum Genet. 1988 Jan;42(1):160-6.</citation>
+    <PMID>3422127</PMID>
+  </reference>
+  <reference>
+    <citation>Hill EM, Wilson AF, Elston RC, Winokur G. Evidence for possible linkage between genetic markers and affective disorders. Biol Psychiatry. 1988 Dec;24(8):903-17. doi: 10.1016/0006-3223(88)90225-9.</citation>
+    <PMID>3233232</PMID>
+  </reference>
+  <reference>
+    <citation>Tanna VL, Wilson AF, Winokur G, Elston RC. Possible linkage between alcoholism and esterase-D. J Stud Alcohol. 1988 Sep;49(5):472-6. doi: 10.15288/jsa.1988.49.472.</citation>
+    <PMID>3216652</PMID>
+  </reference>
+  <reference>
+    <citation>Wilson AF, Cohen JC. Hypotheses for testing deviations from random integration: evidence for nonrandom retroviral integration. Genomics. 1988 Aug;3(2):137-42. doi: 10.1016/0888-7543(88)90144-9.</citation>
+    <PMID>3224979</PMID>
+  </reference>
+  <reference>
+    <citation>Wilson AF, Tanna VL, Winokur G, Elston RC, Hill EM. Linkage analysis of depression spectrum disease. Biol Psychiatry. 1989 Jun;26(2):163-75. doi: 10.1016/0006-3223(89)90020-6.</citation>
+    <PMID>2736265</PMID>
+  </reference>
+  <reference>
+    <citation>Amos CI, Elston RC, Wilson AF, Bailey-Wilson JE. A more powerful robust sib-pair test of linkage for quantitative traits. Genet Epidemiol. 1989;6(3):435-49. doi: 10.1002/gepi.1370060306.</citation>
+    <PMID>2753353</PMID>
+  </reference>
+  <reference>
+    <citation>Tanna VL, Wilson AF, Winokur G, Elston RC. Linkage analysis of pure depressive disease. J Psychiatr Res. 1989;23(2):99-107. doi: 10.1016/0022-3956(89)90001-0.</citation>
+    <PMID>2585349</PMID>
+  </reference>
+  <reference>
+    <citation>Bailey-Wilson JE, Elston RC, Wilson AF, Amos CI. A comparison of some sib-pair linkage methods and multiple locus extensions. Prog Clin Biol Res. 1989;329:129-34. No abstract available.</citation>
+    <PMID>2622941</PMID>
+  </reference>
+  <reference>
+    <citation>Wilson AF, Elston RC, Sellers TA, Bailey-Wilson JE, Gersting JM, Deen DK, Sorant AJ, Tran LD, Amos CI, Siervogel RM. Stepwise oligogenic segregation and linkage analysis illustrated with dopamine-beta-hydroxylase activity. Am J Med Genet. 1990 Mar;35(3):425-32. doi: 10.1002/ajmg.1320350321.</citation>
+    <PMID>2309793</PMID>
+  </reference>
+  <reference>
+    <citation>Bailey-Wilson JE, Dobbins TE. Sib-pair linkage analysis applied to pedigrees with melanoma and dysplastic nevi. Cytogenet Cell Genet. 1992;59(2-3):176-8. doi: 10.1159/000133237. No abstract available.</citation>
+    <PMID>1737492</PMID>
+  </reference>
+  <reference>
+    <citation>Wilson AF, Elston RC, Tran LD, Siervogel RM. Use of the robust sib-pair method to screen for single-locus, multiple-locus, and pleiotropic effects: application to traits related to hypertension. Am J Hum Genet. 1991 May;48(5):862-72.</citation>
+    <PMID>2018038</PMID>
+  </reference>
+  <verification_date>June 2000</verification_date>
+  <study_first_submitted>May 25, 2000</study_first_submitted>
+  <study_first_submitted_qc>May 25, 2000</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 26, 2000</study_first_posted>
+  <last_update_submitted>February 17, 2016</last_update_submitted>
+  <last_update_submitted_qc>February 17, 2016</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 18, 2016</last_update_posted>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Hypertension</mesh_term>
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,279 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00004141</url>
+  </required_header>
+  <id_info>
+    <org_study_id>9372</org_study_id>
+    <secondary_id>UCCRC-9372</secondary_id>
+    <secondary_id>UCCRC-CTRC-9821</secondary_id>
+    <secondary_id>NCI-G99-1615</secondary_id>
+    <nct_id>NCT00004141</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy Plus Biological Therapy in Treating Patients With Metastatic Melanoma</brief_title>
+  <official_title>Phase II Study of Outpatient CDDP and DTIC Followed by GM-CSF, IFN-a2b, and IL-2 in Patients With Advanced Melanoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Chicago</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Chicago</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Biological therapies use different ways to stimulate the immune&#xD;
+      system and stop cancer cell from growing. Combining more than one drug with different types&#xD;
+      of biological therapies may kill more tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of combination chemotherapy plus&#xD;
+      biological therapy in treating patients who have metastatic melanoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the toxicity of cisplatin and dacarbazine followed by sargramostim (GM-CSF),&#xD;
+           interferon alfa, and interleukin-2 in patients with metastatic melanoma.&#xD;
+&#xD;
+        -  Determine the objective response rate, relapse free survival, and overall survival of&#xD;
+           these patients on this regimen.&#xD;
+&#xD;
+      OUTLINE: Patients receive cisplatin IV over 1 hour and dacarbazine IV over 30-60 minutes&#xD;
+      sequentially on day 1, followed by sargramostim (GM-CSF) subcutaneously (SC) on days 2-7,&#xD;
+      interleukin-2 SC on days 8-14, and interferon alfa SC on days 8, 10, 12, and 14. Treatment&#xD;
+      repeats every 28 days in the absence of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      Patients are followed every 8 weeks until disease progression, and then every 8-12 weeks&#xD;
+      thereafter.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 15-45 patients will be accrued for this study within 3 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1998</start_date>
+  <completion_date type="Actual">April 2006</completion_date>
+  <primary_completion_date type="Actual">January 2003</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Objective response rate</measure>
+    <time_frame>2 years</time_frame>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">46</enrollment>
+  <condition>Melanoma (Skin)</condition>
+  <arm_group>
+    <arm_group_label>Arm A</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>CDDP (75 mg/m2) and DTIC (660 mg/m2) will be administered sequentially by intravenous infusion in day 1. Subsequently, GM-CSF (450 mg/ m2) will be administered SC days 2-7; IL-2 (11 MU daily) will be given SC days 8-14, and IFN-2b (9 MU) will be given SC days 8, 10, 12, and 14.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Cisplatin</intervention_name>
+    <arm_group_label>Arm A</arm_group_label>
+    <other_name>CDDP</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>dacarbazine</intervention_name>
+    <arm_group_label>Arm A</arm_group_label>
+    <other_name>DTIC</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Granulocyte-macrophage colony-stimulating factor</intervention_name>
+    <arm_group_label>Arm A</arm_group_label>
+    <other_name>GM-CSF</other_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed metastatic melanoma&#xD;
+&#xD;
+               -  Stage III with intransit metastases&#xD;
+&#xD;
+               -  Stage IV&#xD;
+&#xD;
+          -  No uncontrolled brain metastases by CT scan&#xD;
+&#xD;
+          -  No clinically significant ascites or pleural effusions&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Karnofsky 70-100%&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  At least 10 weeks&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  WBC at least 3,000/mm^3&#xD;
+&#xD;
+          -  Platelet count at least 100,000/mm^3&#xD;
+&#xD;
+          -  Hemoglobin at least 9.5 g/dL&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin no greater than 2.0 mg/dL&#xD;
+&#xD;
+          -  SGOT no greater than 4 times upper limit of normal&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine no greater than 1.5 mg/dL OR&#xD;
+&#xD;
+          -  Creatinine clearance at least 70 mL/min&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  No clinically significant cardiac disease on EKG, echocardiogram, or MUGA scan&#xD;
+&#xD;
+        Pulmonary:&#xD;
+&#xD;
+          -  No clinically significant pulmonary disease on chest x-ray&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  No significant thyroid dysfunction&#xD;
+&#xD;
+          -  No concurrent severe infection&#xD;
+&#xD;
+          -  No other medical or psychiatric condition that would interfere with compliance&#xD;
+&#xD;
+          -  No second malignancy within the past 5 years, except:&#xD;
+&#xD;
+               -  Localized nonmelanomatous skin cancer&#xD;
+&#xD;
+               -  Carcinoma in situ of the cervix&#xD;
+&#xD;
+               -  Grade 1 Ta bladder cancer&#xD;
+&#xD;
+          -  Suspected hearing deficits must undergo audiologic testing&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  No more than one prior immunotherapy regimen&#xD;
+&#xD;
+          -  At least 4 weeks since prior immunotherapy&#xD;
+&#xD;
+          -  Adjuvant interferon alfa before relapse allowed&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  No more than one prior chemotherapy regimen&#xD;
+&#xD;
+          -  At least 4 weeks since prior chemotherapy (6 weeks since nitrosoureas)&#xD;
+&#xD;
+          -  No concurrent cyclophosphamide&#xD;
+&#xD;
+          -  No other concurrent chemotherapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  No concurrent corticosteroids or cyclosporine A&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  At least 2 weeks since prior radiotherapy&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  At least 3 weeks since major surgery&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No concurrent immunosuppressive drugs&#xD;
+&#xD;
+          -  No other concurrent investigational antineoplastic drugs&#xD;
+&#xD;
+          -  Concurrent thyroid replacement therapy allowed&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Thomas F. Gajewski, MD, PhD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Chicago</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Chicago Cancer Research Center</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60637-1470</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2013</verification_date>
+  <study_first_submitted>December 10, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>September 4, 2013</last_update_submitted>
+  <last_update_submitted_qc>September 4, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 5, 2013</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stage III melanoma</keyword>
+  <keyword>stage IV melanoma</keyword>
+  <keyword>recurrent melanoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Melanoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Dacarbazine</mesh_term>
+    <mesh_term>Molgramostim</mesh_term>
+    <mesh_term>Sargramostim</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

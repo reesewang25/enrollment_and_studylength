@@ -1,0 +1,215 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00001574</url>
+  </required_header>
+  <id_info>
+    <org_study_id>970093</org_study_id>
+    <secondary_id>97-C-0093</secondary_id>
+    <nct_id>NCT00001574</nct_id>
+    <nct_alias>NCT00019292</nct_alias>
+  </id_info>
+  <brief_title>A Pilot Study of 1H-Nuclear Magnetic Resonance Spectroscopic Imaging in Pediatric Patients With Primary and Metastatic Brain Tumors</brief_title>
+  <official_title>A Pilot Study of 1H-Nuclear Magnetic Resonance Spectroscopic Imaging in Pediatric Patients With Primary and Metastatic Brain Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <brief_summary>
+    <textblock>
+      Brain tumors represent the most common solid tumor of childhood. Treatment generally entails&#xD;
+      surgery and radiation, but local recurrence is frequent. Chemotherapy is often used in an&#xD;
+      adjuvant setting, to delay radiation therapy or for resistant disease. Children with brain&#xD;
+      tumors are generally followed by imaging studies, such as CT or MRI. Difficulty arises in&#xD;
+      trying to distinguish tumor regrowth from treatment related edema, necrosis or radiation&#xD;
+      injury. Proton Nuclear Magnetic Resonance Spectroscopic (NMRS) Imaging is a non-invasive&#xD;
+      method of detecting and measuring cellular metabolites in vivo. NMRS imaging complements&#xD;
+      routine MRI by giving chemical information in conjunction with spatial information obtained&#xD;
+      by MRI.&#xD;
+&#xD;
+      This study will be conducted to determine NMRS imaging patterns before, during and after&#xD;
+      chemotherapy in pediatric patients with primary or metastatic brain tumors in an attempt to&#xD;
+      identify and characterize specific patterns of metabolites related to tumor regrowth, tumor&#xD;
+      response to therapy, edema or necrosis.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:&#xD;
+&#xD;
+        -  Brain tumors represent the most common solid tumor of childhood. Treatment generally&#xD;
+           includes surgery and radiation, but recurrences are frequent, particularly for&#xD;
+           high-grade lesions.&#xD;
+&#xD;
+        -  Chemotherapy is often used in an adjuvant setting, to delay radiation therapy or for&#xD;
+           resistant disease.&#xD;
+&#xD;
+        -  Children with brain tumors are generally followed by imaging studies, such as CT or MRI.&#xD;
+&#xD;
+        -  Difficulty arises in trying to distinguish tumor regrowth from treatment related edema,&#xD;
+           necrosis or radiation injury.&#xD;
+&#xD;
+        -  Proton Nuclear Magnetic Resonance Spectroscopic (NMRS) Imaging is a non-invasive method&#xD;
+           of detecting and measuring cellular metabolites in vivo.&#xD;
+&#xD;
+      Objective:&#xD;
+&#xD;
+        -  To determine NMRS imaging patterns before, during and after chemotherapy in pediatric&#xD;
+           patients with primary or metastatic brain tumors&#xD;
+&#xD;
+        -  To identify and characterize specific patterns of metabolites related to tumor regrowth,&#xD;
+           tumor response to therapy, edema or necrosis.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+        -  Age less than or equal to 21 years.&#xD;
+&#xD;
+        -  Patients entered on this trial will also be entered on one of the Branch s primary brain&#xD;
+           tumor treatment trials.&#xD;
+&#xD;
+        -  Histologically confirmed primary or metastatic brain tumor. Patients with a brainstem&#xD;
+           glioma or optic pathway gliomas are not required to have a histologic diagnosis.&#xD;
+&#xD;
+        -  Measurable or evaluable tumor at the time of study entry.&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+        -  This is intended to be a pilot study to define metabolite patterns associated with tumor&#xD;
+           growth, tumor edema and tumor necrosis as seen on standard MRI; and determine the&#xD;
+           feasibility of using metabolite patterns to predict response to therapy in pediatric&#xD;
+           patients with brain tumors.&#xD;
+&#xD;
+        -  Contalateral spectroscopic analysis of normal appearing brain will also be performed&#xD;
+           when feasible.&#xD;
+&#xD;
+        -  Analysis of results will be stratified according to type of tumor, and prior history of&#xD;
+           radiation therapy or surgery.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 14, 1997</start_date>
+  <completion_date>May 6, 2019</completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>To define specific patterns of metabolises using long-echo time multislice proton nuclear magnetic resonance spectroscopic imaging in pediatric patients with brain tumors.</measure>
+    <time_frame>at time of disease evaluation</time_frame>
+    <description>in vivo measurements of tissue metabolites (NAA, Cho,Cr, Lac) and what they reflect</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Distinguish spectroscopic patterns associated with tumor progression, necrosis and edema</measure>
+    <time_frame>at time of disease evaluation</time_frame>
+    <description>measurements and differences of signal intensity of peaks obtained for tissue metabolites (NAA, Cho, Cr, Lac)</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Determine if early metabolic changes are predictive of response</measure>
+    <time_frame>at time of disease evaluation</time_frame>
+    <description>Contalateral spectroscopic analysis results, stratified according to type of tumor, history of radiation therapy or surgery</description>
+  </secondary_outcome>
+  <enrollment type="Actual">40</enrollment>
+  <condition>Brain Neoplasm</condition>
+  <condition>Brain Cancer</condition>
+  <condition>Brain Tumor, Primary</condition>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+        Age less than or equal to 21 years.&#xD;
+&#xD;
+        Patients entered on this trial will also be entered on one of the Pediatric Oncology&#xD;
+        Branch's primary treatment trials (e.g., phenylacetate, phenylbutyrate, SU-101) or on the&#xD;
+        Natural History or Standard Therapy protocols. The patient's management will be determined&#xD;
+        by the primary treatment protocol.&#xD;
+&#xD;
+        Histology confirmed primary or metastatic brain tumor. Patients with a brainstem glioma are&#xD;
+        not required to have previously had a histologic diagnosis.&#xD;
+&#xD;
+        Measurable or evaluable tumor at the time of study entry.&#xD;
+&#xD;
+        Durable Power of Attorney (DPA): A DPA is required of all patients 18 - 21 years of age.&#xD;
+&#xD;
+        All patients or their legal guardians (if the patient is less than 18 years of age) must&#xD;
+        sign a document of informed consent indicating their awareness of the investigational&#xD;
+        nature and the risks of this study. When appropriate the minor patient will give verbal&#xD;
+        assent.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Pregnant women.&#xD;
+&#xD;
+        Any patient who is unable (either because of physical or psychological factors) to undergo&#xD;
+        imaging studies and who is not an anesthesia candidate.&#xD;
+&#xD;
+        Any patient with a metallic implant, including cardiac pacemakers, neural pacemakers,&#xD;
+        shrapnel, cochlear implants or ferrous surgical clips.&#xD;
+&#xD;
+        Any patient with a history of a severe reaction to Gadolinium or other contrast agents.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>21 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Katherine E Warren, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute (NCI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Castillo M, Kwock L, Mukherji SK. Clinical applications of proton MR spectroscopy. AJNR Am J Neuroradiol. 1996 Jan;17(1):1-15. No abstract available.</citation>
+    <PMID>8770242</PMID>
+  </reference>
+  <reference>
+    <citation>Sutton LN, Wang Z, Gusnard D, Lange B, Perilongo G, Bogdan AR, Detre JA, Rorke L, Zimmerman RA. Proton magnetic resonance spectroscopy of pediatric brain tumors. Neurosurgery. 1992 Aug;31(2):195-202. doi: 10.1227/00006123-199208000-00004.</citation>
+    <PMID>1513425</PMID>
+  </reference>
+  <reference>
+    <citation>Duyn JH, Gillen J, Sobering G, van Zijl PC, Moonen CT. Multisection proton MR spectroscopic imaging of the brain. Radiology. 1993 Jul;188(1):277-82. doi: 10.1148/radiology.188.1.8511313.</citation>
+    <PMID>8511313</PMID>
+  </reference>
+  <verification_date>May 6, 2019</verification_date>
+  <study_first_submitted>November 3, 1999</study_first_submitted>
+  <study_first_submitted_qc>November 3, 1999</study_first_submitted_qc>
+  <study_first_posted type="Estimate">November 4, 1999</study_first_posted>
+  <last_update_submitted>May 7, 2019</last_update_submitted>
+  <last_update_submitted_qc>May 7, 2019</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 8, 2019</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Metabolites</keyword>
+  <keyword>Proton Nuclear Magnetic Resonance Spectroscopic Imaging</keyword>
+  <keyword>Scans</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Brain Neoplasms</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

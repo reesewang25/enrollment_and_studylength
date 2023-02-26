@@ -1,0 +1,259 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00006391</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000068275</org_study_id>
+    <secondary_id>U01CA070075</secondary_id>
+    <secondary_id>P30CA016087</secondary_id>
+    <secondary_id>NYU-0016</secondary_id>
+    <secondary_id>NCI-690</secondary_id>
+    <nct_id>NCT00006391</nct_id>
+  </id_info>
+  <brief_title>Oxaliplatin and Topotecan in Treating Patients With Previously Treated Ovarian Epithelial, Primary Peritoneal, or Fallopian Tube Cancer</brief_title>
+  <official_title>A Phase I Dose-Finding Study of Oxaliplatin (NSC #266046) Combined With Continuous Infusion Topotecan Hydrochloride as Chemotherapy for Patients With Previously Treated Ovarian Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NYU Langone Health</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>NYU Langone Health</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining more than one drug may kill more tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase I trial to study the effectiveness of combining oxaliplatin with topotecan in&#xD;
+      treating patients who have previously treated ovarian epithelial, primary peritoneal, or&#xD;
+      fallopian tube cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the maximum tolerated dose and dose-limiting toxic effects of oxaliplatin and&#xD;
+           topotecan in patients with previously treated ovarian epithelial cancer, primary&#xD;
+           peritoneal cancer, or fallopian tube cancer.&#xD;
+&#xD;
+        -  Determine the qualitative and quantitative toxic effects of this regimen in these&#xD;
+           patients.&#xD;
+&#xD;
+        -  Determine the pharmacokinetics of this regimen in these patients.&#xD;
+&#xD;
+        -  Determine the antitumor activity of this treatment regimen in these patients.&#xD;
+&#xD;
+        -  Determine the correlation between the pharmacokinetic and safety data of this regimen in&#xD;
+           these patients.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation, multicenter study.&#xD;
+&#xD;
+      Patients receive oxaliplatin IV over 2 hours on days 1 and 15 and topotecan IV continuously&#xD;
+      on days 1-15. Treatment repeats every 28 days for up to 6 courses in the absence of disease&#xD;
+      progression or unacceptable toxicity. Patients with measurable disease who achieve a response&#xD;
+      may receive additional therapy at the discretion of the principal investigator.&#xD;
+&#xD;
+      Cohorts of 3-6 patients receive escalating doses of oxaliplatin and topotecan until the&#xD;
+      maximum tolerated dose (MTD) is determined. The MTD is defined as the dose at which 2 of 6&#xD;
+      patients experience dose-limiting toxicity.&#xD;
+&#xD;
+      Patients are followed through day 30.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A minimum of 15 patients will be accrued for this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 2000</start_date>
+  <primary_completion_date type="Actual">November 2004</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <condition>Fallopian Tube Cancer</condition>
+  <condition>Ovarian Cancer</condition>
+  <condition>Peritoneal Cavity Cancer</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>oxaliplatin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>topotecan hydrochloride</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically or cytologically confirmed ovarian epithelial cancer, primary&#xD;
+             peritoneal cancer, or fallopian tube cancer&#xD;
+&#xD;
+               -  Prior chemotherapy required&#xD;
+&#xD;
+          -  Measurable or evaluable disease&#xD;
+&#xD;
+          -  No symptomatic, untreated brain metastases&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 and over&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Karnofsky 70-100%&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  At least 4 months&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  WBC greater than 3,000/mm^3&#xD;
+&#xD;
+          -  Absolute neutrophil count greater than 1,500/mm^3&#xD;
+&#xD;
+          -  Platelet count greater than 100,000/mm^3&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin no greater than 1.5 times upper limit of normal (ULN) OR&#xD;
+&#xD;
+          -  SGOT no greater than 2.5 times ULN (5 times ULN if liver metastases)&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine no greater than 1.5 times ULN OR&#xD;
+&#xD;
+          -  Creatinine clearance at least 50 mL/min&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  No uncontrolled symptomatic congestive heart failure&#xD;
+&#xD;
+          -  No unstable angina pectoris&#xD;
+&#xD;
+          -  No uncontrolled cardiac arrhythmia&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No other active cancer&#xD;
+&#xD;
+          -  No prior allergy to platinum compounds&#xD;
+&#xD;
+          -  No prior allergic reactions to appropriate antiemetics (e.g., serotonin or&#xD;
+             antagonists) administered concurrently with study&#xD;
+&#xD;
+          -  No other uncontrolled concurrent illness (e.g., infection)&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception during and for 6 months after study&#xD;
+             therapy&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  See Chemotherapy&#xD;
+&#xD;
+          -  No concurrent colony stimulating factors during topotecan administration&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  No prior high-dose chemotherapy requiring bone marrow or peripheral blood stem cell&#xD;
+             transplantation&#xD;
+&#xD;
+          -  At least 4 weeks since prior chemotherapy and recovered&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  No prior radiotherapy to whole pelvic field&#xD;
+&#xD;
+          -  At least 2 weeks since prior radiotherapy and recovered&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  No unresolved sequelae resulting from prior surgery&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  At least 4 weeks since other prior investigational drug&#xD;
+&#xD;
+          -  No other concurrent investigational agents&#xD;
+&#xD;
+          -  No other concurrent anticancer therapy&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Howard S. Hochster, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>NYU Langone Health</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>NYU School of Medicine's Kaplan Comprehensive Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Hochster H, Chen TT, Lu JM, Hills D, Sorich J, Escalon J, Ivy P, Liebes L, Muggia F. Tolerance and activity of oxaliplatin with protracted topotecan infusion in patients with previously treated ovarian cancer. A phase I study. Gynecol Oncol. 2008 Mar;108(3):500-4. doi: 10.1016/j.ygyno.2007.11.017. Epub 2008 Jan 11.</citation>
+    <PMID>18191187</PMID>
+  </results_reference>
+  <verification_date>April 2011</verification_date>
+  <study_first_submitted>October 4, 2000</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>April 4, 2011</last_update_submitted>
+  <last_update_submitted_qc>April 4, 2011</last_update_submitted_qc>
+  <last_update_posted type="Estimate">April 5, 2011</last_update_posted>
+  <keyword>recurrent ovarian epithelial cancer</keyword>
+  <keyword>fallopian tube cancer</keyword>
+  <keyword>peritoneal cavity cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Ovarian Epithelial</mesh_term>
+    <mesh_term>Fallopian Tube Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Oxaliplatin</mesh_term>
+    <mesh_term>Topotecan</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

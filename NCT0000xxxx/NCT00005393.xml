@@ -1,0 +1,194 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00005393</url>
+  </required_header>
+  <id_info>
+    <org_study_id>4299</org_study_id>
+    <nct_id>NCT00005393</nct_id>
+  </id_info>
+  <brief_title>Epidemiology: Oxidative Stress and Early Atherosclerosis</brief_title>
+  <official_title>Epidemiology: Oxidative Stress and Early Atherosclerosis</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Minnesota</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Northwestern University</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Kaiser Permanente</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>University of Alabama at Birmingham</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Minnesota</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      To measure serum concentrations of alpha tocopherol, selenium and all major carotenoids&#xD;
+      (alpha- and beta- carotene, lutein, (beta-cryptoxanthin and lycopene) in Black and white,&#xD;
+      male and female, high and low education individuals aged 18-30 in 1985-86. In subsequent&#xD;
+      renewals additional markers of oxidative stress and endothelial dysfunction have been&#xD;
+      measured in blood collected 7 to 30 years after baseline.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      BACKGROUND:&#xD;
+&#xD;
+      Low blood antioxidant concentrations are associated with several major degenerative diseases&#xD;
+      including cardiovascular disease and cancer. Animal, cellular and chemical experiments have&#xD;
+      elucidated biologic mechanisms consistent with antioxidant protection against several disease&#xD;
+      processes. Determinants of blood antioxidant concentrations are not well understood in young&#xD;
+      adults.&#xD;
+&#xD;
+      The main scientific outcome of this research will be information on distribution and&#xD;
+      correlates of blood antioxidant concentrations, useful for formulating public health messages&#xD;
+      concerning maintenance of adequate levels of alpha tocopherol, selenium, ascorbic acid and&#xD;
+      the carotenoids.&#xD;
+&#xD;
+      DESIGN NARRATIVE:&#xD;
+&#xD;
+      An analysis was conducted using serum stored at 70 degrees Celsius, collected in 1985-86&#xD;
+      (n=5115) and 1992-93 (n=4086). These analytes were stable in serum samples collected, handled&#xD;
+      and stored under conditions used in this study. Integrity of the chemical analysis throughout&#xD;
+      the study was maintained by proven laboratory quality control procedures. Monitoring analyte&#xD;
+      concentrations in serum from collections seven years apart allowed analysis of age and time&#xD;
+      dependent changes in serum antioxidants. These data were linked with extensive pre-existing&#xD;
+      sociodemographic, dietary, other behavioral and physiologic data for the cohort. Statistical&#xD;
+      analyses provided information on the population's serum antioxidant distribution, tracking,&#xD;
+      change and major determinants in diverse young adults. In addition, these data established&#xD;
+      baseline and 7-year change concentration values for followup of this large CARDIA cohort,&#xD;
+      though the relationship of these serum antioxidants to disease endpoints was not itself part&#xD;
+      of the work scope. Study of plasma ascorbic acid, which is not stable under our storage&#xD;
+      conditions, was initiated using fresh samples to be collected in 1995-96 (n=4000).&#xD;
+&#xD;
+      The Young Adult Longitudinal Study of Antioxidants (YALTA), ancillary to CARDIA study, was&#xD;
+      renewed in fiscal year 2000 to obtain additional blood and urine samples in the year 15 exam&#xD;
+      of the CARDIA participants. New measures of circulating lipid, protein, and DNA oxidation&#xD;
+      products (F2-isoprostanes, advanced glycosylation end-products [AGE], chlorinated and&#xD;
+      nitrosylated tyrosine, platelet aggregating factor (PAF) acetylhydrolase, paroxonase),&#xD;
+      urinary DNA damage, soluble intercellular adhesion molecule (ICAM), soluble P-selectin, and&#xD;
+      relevant genetic polymorphisms. The specific endpoints at the 15 year exam were coronary&#xD;
+      artery calcification as measured by computed tomography and microalbuminuria.&#xD;
+&#xD;
+      The study was renewed in 2004 through 2008. Blood and urine was collected from subjects at&#xD;
+      the CARDIA year 20 exam to remeasure blood F2 isoprostanes, phospholipase A2, superoxide&#xD;
+      dismutase and carotenoids and tocopherols. Oxidized low density lipoprotein (LDL) and&#xD;
+      myeloperoxidase was also measured and analysis conducted of the association of antioxidant&#xD;
+      and oxidative damage levels and the development of subclinical macrovascular disease in this&#xD;
+      still-young group.&#xD;
+&#xD;
+      The study renewed for a fourth time in 2010 through 2015, and a renewal application for a&#xD;
+      fifth renewal period was submitted in summer, 2014. It continues to write reports about&#xD;
+      different feature of oxidative stress and related phenomena as the CARDIA subjects age.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">August 1996</start_date>
+  <completion_date type="Actual">December 31, 2021</completion_date>
+  <primary_completion_date type="Actual">December 31, 2021</primary_completion_date>
+  <study_type>Observational</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <observational_model>Cohort</observational_model>
+    <time_perspective>Prospective</time_perspective>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Clinical cardiovascular disease</measure>
+    <time_frame>Annual participant contact</time_frame>
+    <description>Events are ascertained in annual direct contact with the participant. Medical records are obtained and adjudicated for event status.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>subclinical cardiovascular disease</measure>
+    <time_frame>every 5 years</time_frame>
+    <description>Various subclinical measures are performed, including cardiac echocardiography and coronary computed tomography</description>
+  </secondary_outcome>
+  <enrollment type="Actual">5115</enrollment>
+  <condition>Cardiovascular Diseases</condition>
+  <condition>Heart Diseases</condition>
+  <condition>Atherosclerosis</condition>
+  <condition>Coronary Arteriosclerosis</condition>
+  <biospec_retention>Samples With DNA</biospec_retention>
+  <biospec_descr>
+    <textblock>
+      blood and urine samples and DNA&#xD;
+    </textblock>
+  </biospec_descr>
+  <eligibility>
+    <study_pop>
+      <textblock>
+        The study sample was selected from residents of Minneapolis, MN, Birmingham, AL, Chicago,&#xD;
+        IL and Oakland, CA in 1985-86 as a community based sample.&#xD;
+      </textblock>
+    </study_pop>
+    <sampling_method>Non-Probability Sample</sampling_method>
+    <criteria>
+      <textblock>
+        No eligibility criteria&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>17 Years</minimum_age>
+    <maximum_age>35 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David R Jacobs, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Myron D Gross, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Minnesota</affiliation>
+  </overall_official>
+  <reference>
+    <citation>Lee DH, Jacobs DR Jr, Gross M, Kiefe CI, Roseman J, Lewis CE, Steffes M. Gamma-glutamyltransferase is a predictor of incident diabetes and hypertension: the Coronary Artery Risk Development in Young Adults (CARDIA) Study. Clin Chem. 2003 Aug;49(8):1358-66. doi: 10.1373/49.8.1358.</citation>
+    <PMID>12881453</PMID>
+  </reference>
+  <reference>
+    <citation>Svilaas A, Sakhi AK, Andersen LF, Svilaas T, Strom EC, Jacobs DR Jr, Ose L, Blomhoff R. Intakes of antioxidants in coffee, wine, and vegetables are correlated with plasma carotenoids in humans. J Nutr. 2004 Mar;134(3):562-7. doi: 10.1093/jn/134.3.562.</citation>
+    <PMID>14988447</PMID>
+  </reference>
+  <reference>
+    <citation>Lee DH, Gross MD, Jacobs DR Jr; Cardiovascular Risk Development in Young Adults Study. Association of serum carotenoids and tocopherols with gamma-glutamyltransferase: the Cardiovascular Risk Development in Young Adults (CARDIA) Study. Clin Chem. 2004 Mar;50(3):582-8. doi: 10.1373/clinchem.2003.028852. Epub 2004 Jan 15.</citation>
+    <PMID>14726472</PMID>
+  </reference>
+  <reference>
+    <citation>Lee DH, Jacobs DR Jr, Gross M, Steffes M. Serum gamma-glutamyltransferase was differently associated with microalbuminuria by status of hypertension or diabetes: the Coronary Artery Risk Development in Young Adults (CARDIA) Study. Clin Chem. 2005 Jul;51(7):1185-91. doi: 10.1373/clinchem.2004.045872. Epub 2005 May 12.</citation>
+    <PMID>15890893</PMID>
+  </reference>
+  <verification_date>February 2022</verification_date>
+  <study_first_submitted>May 25, 2000</study_first_submitted>
+  <study_first_submitted_qc>May 25, 2000</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 26, 2000</study_first_posted>
+  <last_update_submitted>February 9, 2022</last_update_submitted>
+  <last_update_submitted_qc>February 9, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">February 10, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cardiovascular Diseases</mesh_term>
+    <mesh_term>Heart Diseases</mesh_term>
+    <mesh_term>Atherosclerosis</mesh_term>
+    <mesh_term>Arteriosclerosis</mesh_term>
+    <mesh_term>Coronary Artery Disease</mesh_term>
+    <mesh_term>Myocardial Ischemia</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

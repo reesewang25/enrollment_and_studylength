@@ -1,0 +1,317 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00498537</url>
+  </required_header>
+  <id_info>
+    <org_study_id>0024</org_study_id>
+    <nct_id>NCT00498537</nct_id>
+  </id_info>
+  <brief_title>Spironolactone for Reducing Proteinuria in Diabetic Nephropathy</brief_title>
+  <official_title>Spironolactone for Reducing Proteinuria in Diabetic Nephropathy</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>US Department of Veterans Affairs</agency>
+      <agency_class>U.S. Fed</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>VA Office of Research and Development</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      Introduction: Aldosterone seems to have deleterious effects on the kidneys. Many animal&#xD;
+      studies and few clinical trials now have shown that suppression of aldosterone by aldosterone&#xD;
+      receptor blockers ameliorated these effects.&#xD;
+&#xD;
+      Method: In a double-blind, cross over study, 24 patients with diabetic nephropathy who were&#xD;
+      already receiving either ACE inhibitor(lisinopril 20-40 mg/day ) or ARB( losartan 25-100&#xD;
+      mg/day )were given spironolactone( 25 mg during the first month and 50 mg during the second&#xD;
+      and third month if serum K remained ok) or matching placebo with 1 month of washout in&#xD;
+      between. All patients were from a single center and exclusively male veterans. Blood&#xD;
+      pressure, serum creatinine, serum K and spot urine protein/creatinine were measured at the&#xD;
+      beginning and end of each study period. The study was started in May of 2003 and completed in&#xD;
+      May 2006.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Spironolactone for reducing proteinuria and progression of renal failure in diabetic&#xD;
+      nephropathy&#xD;
+&#xD;
+      Introduction:&#xD;
+&#xD;
+      Diabetic nephropathy is the leading cause of ESRD in USA now and accounts for 40% of all new&#xD;
+      patients that begins renal replacement therapy each year. The number of new patients starting&#xD;
+      chronic dialysis therapy is 70,000 each year and is increasing. This number does not include&#xD;
+      patients who decline dialysis therapy or die soon after starting dialysis. The economic and&#xD;
+      human cost of diabetic nephropathy is therefore enormous.&#xD;
+&#xD;
+      Aggressive control of blood pressure especially with ACE-inhibitor had been shown to reduce&#xD;
+      proteinuria and progression of renal dysfunction in both type 1 and type 2 diabetics. Use of&#xD;
+      ACE-inhibitor reduced proteinuria even in normotensive diabetics with microalbuminuria.&#xD;
+      However even with optimal use of ACE-Inhibitor the progression of renal dysfunction is not&#xD;
+      completely stopped. Other additional treatment strategies therefore need to be explored.&#xD;
+&#xD;
+      Studies in animals and small pilot studies in humans have shown that nondihydropyridine&#xD;
+      calcium channel blockers (e.g. diltiazem or verapamil) may have additional protective effect&#xD;
+      in reducing proteinuria when used in conjunction with ACE-inhibitor. Use of angiotensin&#xD;
+      receptor blockers along with ACE-inhibitors also had been tried but results are not&#xD;
+      dependable because of the short sample size.&#xD;
+&#xD;
+      While angiotensin plays the major role in glomerular hemodynamics there is increasing&#xD;
+      evidence that aldosterone plays a significant role in renal hemodynamics independent of&#xD;
+      angiotensin. In a remnant kidney model in the rat Greene et al showed that there was greater&#xD;
+      than 10-fold rise in aldosterone in the remnant kidney rats (REM) compared to SHAM operated&#xD;
+      ones. As expected, the proteinuria, hypertension and glomerulosclerosis in the REM rats were&#xD;
+      attenuated with treatment with ACE-inhibitor and angiotensin receptor blockers (REM AIIA).&#xD;
+      However when these rats (REM AIIA) were treated with aldosterone infusion the proteinuria,&#xD;
+      hypertension and glomerulosclerosis seen were similar to REM alone rats, suggesting&#xD;
+      deleterious renal hemodynamic effects of aldosterone independent of angiotensin II. Use of&#xD;
+      spironolactone in these rats transiently reduced proteinuria and lowered arterial pressure.&#xD;
+&#xD;
+      Previous experiment in remnant kidney model also showed that adrenalectomy with adequate&#xD;
+      glucocorticoid replacement reduced the proteinuria and other evidence of renal injury usually&#xD;
+      seen in REM rats. Similarly heparin administration provides remarkably complete protection&#xD;
+      from injury in remnant kidney model. Although this effect could be due to any of several&#xD;
+      actions of heparin (anticoagulant and hemodynamic), it could be due to known suppressive&#xD;
+      action of heparin on aldosterone synthesis.&#xD;
+&#xD;
+      In stroke-prone spontaneously hypertensive rats (SHRSP), renal vascular injury causing&#xD;
+      proteinuria and malignant nephrosclerotic lesions were markedly reduced by treatment with&#xD;
+      spironolactone, an aldosterone receptor blocker. The effect of spironolactone alone was&#xD;
+      comparable to effect of treatment with captopril, an ACE-inhibitor. In further studies Rocha&#xD;
+      et al had shown that the ameliorating effect of ACE-inhibition in the SHRSP rats could be&#xD;
+      fully reversed by infusion of aldosterone, suggesting a major role for aldosterone in the&#xD;
+      vascular injury in these rats as well. Importantly the deleterious effect of aldosterone and&#xD;
+      the protective effect of spironolactone against end organ damage in SHRSP rats appeared to be&#xD;
+      independent of the blood pressure effects.&#xD;
+&#xD;
+      In another experiment, the Wistar-Furth rat, an inbred strain resistant to actions of&#xD;
+      mineralocorticoids, was used to study the concept that mineralocorticoids contribute to&#xD;
+      progressive renal injury. Renal damage, as evidenced by albuminuria and glomerulosclerosis,&#xD;
+      in response to 5/6 nephrectomy was markedly less in Wistar-Furth rats compared to Wistar&#xD;
+      rats. Treatment of hypertension seen in the nephrectomized Wistar rats did not protect them&#xD;
+      from renal injury suggesting again that mineralocorticoid mediated deleterious effect was&#xD;
+      independent of the blood pressure effect.&#xD;
+&#xD;
+      Hyperaldosteronism has been noted as a component of clinical chronic renal insufficiency of&#xD;
+      various etiologies. In a cross sectional study of patients with mild to moderate renal&#xD;
+      insufficiency Hene et al observed that level of serum aldosterone increased as creatinine&#xD;
+      clearance fell below 70 cc/min and went up as high as 3-4 fold the baseline. Similarly in a&#xD;
+      study of 9 patients with average inulin clearance of 27cc/min, Bauer and Reams noted plasma&#xD;
+      aldosterone level to be four fold greater than normal. The significance of this&#xD;
+      Hyperaldosteronism as to the progression of the renal insufficiency had not been studied&#xD;
+      systematically, but in one longitudinal study Walker noted a significant correlation between&#xD;
+      aldosterone level and rate of progression of renal failure. In this longitudinal study of 131&#xD;
+      diabetic cohort, Walker noted that hypertension, plasma angiotensin II and aldosterone were&#xD;
+      independent predictors of accelerated loss of renal function.&#xD;
+&#xD;
+      Although the distal tubule is considered the target for aldosterone action, aldosterone&#xD;
+      receptors had been found in myocardium, vascular smooth muscle cells and glomeruli .In vitro&#xD;
+      studies of cultured mesangial cells revealed increased production of type IV collagen after&#xD;
+      incubation with aldosterone. In a double blind controlled study MacFadyen and colleagues&#xD;
+      observed that spironolactone treatment reduced circulating levels of procollagen type III&#xD;
+      N-terminal amino peptide, a marker of vascular collagen turnover. Weber and other&#xD;
+      investigators have observed that aldosterone caused myocardial fibrosis and this effect could&#xD;
+      be ameliorated by treatment with spironolactone. In addition to the classical genomic action&#xD;
+      through the type 1 mineralocorticoid receptor, aldosterone is now known to have significant&#xD;
+      non-genomic mediated action in many different tissues including kidney tubules and vascular&#xD;
+      smooth muscle cells. Aldosterone also up regulates Angiotensin II membrane receptors thereby&#xD;
+      multiplying the vascular effect of Ang II. This upregulation was inhibited by treatment with&#xD;
+      spironolactone. These findings are consistent with a synergistic action between Ang II and&#xD;
+      aldosterone in the production of vascular injury as first proposed by Masson et al almost 4&#xD;
+      decades ago.&#xD;
+&#xD;
+      The use of ACE inhibitors may strongly inhibit the RAAS, but their suppressive effect on&#xD;
+      aldosterone production may not be satisfactory. Indeed, in hypertension as well as in CHF,&#xD;
+      continuous treatment with ACE inhibitor did not produce a sufficient decrease in plasma&#xD;
+      aldosterone level, which remained high or increases eventually during long term use. In one&#xD;
+      study, patients treated with hefty doses of captopril (300 mg/day) had a doubling of the&#xD;
+      plasma aldosterone level at the end of 12 months of therapy despite marked decrease in ANG II&#xD;
+      level. The reasons for the unsatisfactory suppressive effect of ACE inhibitors on plasma&#xD;
+      aldosterone could be partly due to tachyphylaxis and also very likely due to predominance of&#xD;
+      the non-RAAS component of the control system for aldosterone production. Urinary clearance of&#xD;
+      aldosterone may also be reduced in CHF and CRF. On the basis of these understandings,&#xD;
+      spironolactone (25-50 mg a day) was used in a large multi-centered randomized controlled&#xD;
+      trial for treatment of congestive heart failure who already were receiving standard therapy&#xD;
+      with Ace inhibitors, diuretics and digoxin. The study was terminated in midway because&#xD;
+      interim analysis showed 30% reduction in mortality in the spironolactone treated group as&#xD;
+      opposed to the control. Of note, the incidence of hyperkalemia in the treatment group was&#xD;
+      only 1.7% as opposed to 1% in the placebo group. The incidence of gynecomastia was also&#xD;
+      modest (10% Vs 1%) in spite of use of other drugs like digoxin that are known also to cause&#xD;
+      gynecomastia.&#xD;
+&#xD;
+      Planned Study:&#xD;
+&#xD;
+      For this study we will recruit patients from the renal clinic at the VA medical center and&#xD;
+      also some patients from the primary care clinics at the same hospital. The study will be a&#xD;
+      double blind control study using each patient as his own control after a period of wash out&#xD;
+      phase.&#xD;
+&#xD;
+      Inclusion criteria&#xD;
+&#xD;
+      Patients with diabetic nephropathy (with proteinuria exceeding 100 mg per day while on ace&#xD;
+      inhibitor ) who are already being treated with ACE-Inhibitor at maximum tolerated dose. For&#xD;
+      lisinopril this dose usually will be 20-40 mg per day. Patients who are on angiotensin&#xD;
+      receptor blocker ( ARB ) due to inability to tolerate ace inhibitor ( e.g. due to cough )&#xD;
+      will be also considered for the study provided they stay on the same ARB at same dose&#xD;
+      throughout the study period.&#xD;
+&#xD;
+      Exclusion criteria:&#xD;
+&#xD;
+      Serum creatinine greater than 2.0 mg/dl Serum K greater than 5.0 meq/L Patients who need to&#xD;
+      use spironolactone for some other reasons Life expectancy less than 1 year For this pilot&#xD;
+      phase of the study we will investigate 30 patients (see attached sample size calculation)&#xD;
+      equally divided into control and treatment groups. Patients will be randomly allocated to the&#xD;
+      different groups by using computer generated randomization sequence. After 3 months on study&#xD;
+      medication (or placebo) the study group of patients will be switched to the placebo group and&#xD;
+      vice versa. Thus each patient will be his own control. There will be a month of wash out&#xD;
+      period in between this change over.&#xD;
+&#xD;
+      Study drug:&#xD;
+&#xD;
+      Study drug will be spironolactone. The starting dose will be 25 mg orally every day, which&#xD;
+      will be increased to 50 mg every day, if tolerated after 4 weeks. A matching placebo will be&#xD;
+      used for the placebo group. The VA pharmacy will prepare and provide the study drug as well&#xD;
+      as the placebo. The pharmacy will create and maintain the randomization numbers in a safe&#xD;
+      place so that the investigators and the study nurses remain blind to the whole randomization&#xD;
+      process all throughout the study period.&#xD;
+&#xD;
+      Protocol of lab studies and follow up:&#xD;
+&#xD;
+      All patients will be seen by one of the investigator and have a brief history and physical&#xD;
+      examination prior to randomization. All patients will have their blood pressured measured by&#xD;
+      a study nurse in a sitting position (average of two BP readings taken at 5 minutes interval&#xD;
+      will be recorded). Patients will be weighed at each visit also.&#xD;
+&#xD;
+      The study related visits would be prior to randomization, day of randomization, at 1 month&#xD;
+      and at 3 month in study.&#xD;
+&#xD;
+      The cycle will be repeated again for each patient after one month washout period after which&#xD;
+      their study drug will be reversed (placebo to study and study to placebo)&#xD;
+&#xD;
+      All patients will have the following lab studies at the beginning (prior to randomization),&#xD;
+      at 1 month and at 3 month clinic visits:&#xD;
+&#xD;
+      Renal panel 24 hours urine for protein and creatinine Renal panel can be done in between the&#xD;
+      prescribed study visits for clinical reasons.&#xD;
+&#xD;
+      All patients will be continued on their other usual medication during the study period and&#xD;
+      changes will be made as deemed necessary by the clinicians taking care of patients. As far as&#xD;
+      possible the dose of ace inhibitor (or angiotensin receptor blocker) will be kept the same as&#xD;
+      at the beginning of randomization. Doses of calcium channel blocker (if they are on it) will&#xD;
+      also not be changed as much as possible during the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 2003</start_date>
+  <completion_date type="Actual">June 2006</completion_date>
+  <primary_completion_date type="Actual">December 2005</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Crossover Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>reduction in proteinuria</measure>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Changes in GFR and incidence of hyperkalemia</measure>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">30</enrollment>
+  <condition>Diabetic Nephropathy</condition>
+  <arm_group>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>2</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>spironolactone</intervention_name>
+    <arm_group_label>1</arm_group_label>
+    <arm_group_label>2</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+        The study is completed. Inclusion criteria was diabetic nephropathy&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+        Scr &gt;2 mg/dl and serum K &gt; 5meq/L&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>90 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Mohammad G. Saklayen, MD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>VA Medical Center, Dayton</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>VA Medical Center, Dayton</name>
+      <address>
+        <city>Dayton</city>
+        <state>Ohio</state>
+        <zip>45428</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Saklayen MG, Gyebi LK, Tasosa J, Yap J. Effects of additive therapy with spironolactone on proteinuria in diabetic patients already on ACE inhibitor or ARB therapy: results of a randomized, placebo-controlled, double-blind, crossover trial. J Investig Med. 2008 Apr;56(4):714-9. doi: 10.2310/JIM.0b013e31816d78e9.</citation>
+    <PMID>18382267</PMID>
+  </results_reference>
+  <verification_date>May 2008</verification_date>
+  <study_first_submitted>July 6, 2007</study_first_submitted>
+  <study_first_submitted_qc>July 6, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 10, 2007</study_first_posted>
+  <last_update_submitted>October 16, 2008</last_update_submitted>
+  <last_update_submitted_qc>October 16, 2008</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 17, 2008</last_update_posted>
+  <responsible_party>
+    <name_title>Saklayen, Mohammad - Principal Investigator</name_title>
+    <organization>Department of Veterans Affairs</organization>
+  </responsible_party>
+  <keyword>spironolactone</keyword>
+  <keyword>aldosterone</keyword>
+  <keyword>diabetic nephropathy</keyword>
+  <keyword>proteinuria</keyword>
+  <keyword>hyperkalemia</keyword>
+  <keyword>albuminuria</keyword>
+  <keyword>renal failure</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Diseases</mesh_term>
+    <mesh_term>Diabetic Nephropathies</mesh_term>
+    <mesh_term>Proteinuria</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Spironolactone</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

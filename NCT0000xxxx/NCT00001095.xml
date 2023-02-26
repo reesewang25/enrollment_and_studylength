@@ -1,0 +1,464 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00001095</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 373</org_study_id>
+    <secondary_id>11334</secondary_id>
+    <nct_id>NCT00001095</nct_id>
+  </id_info>
+  <brief_title>A Study of Three Anti-HIV Drug Combinations in Patients Who Have Taken Amprenavir</brief_title>
+  <official_title>A Phase II Study of 1) Amprenavir (141W94/VX478) Plus 3TC Plus ZDV (or d4T) or 2) IDV Plus NVP Plus 3TC Plus d4T in Subjects Previously Treated With Amprenavir and 3) Other Treatment Regimens (Observational ARM) in Subjects Previously Treated With Amprenavir</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <brief_summary>
+    <textblock>
+      To determine the proportion of patients treated with amprenavir, zidovudine (ZDV), stavudine&#xD;
+      (D4T) and lamivudine (3TC) whose HIV-1 RNA level remains below the level of detection during&#xD;
+      96 weeks of therapy. To determine the proportion of patients treated with indinavir (IDV),&#xD;
+      nevirapine (NVP), 3TC, and d4T whose HIV-1 RNA level decreases and then remains below the&#xD;
+      level of detection, during the 96-week therapy period. To determine the viral effects,&#xD;
+      safety, tolerability, and pharmacokinetics of amprenavir in combination with zidovudine,&#xD;
+      stavudine, and lamivudine. [AS PER AMENDMENT 2/27/98: To determine the proportion of patients&#xD;
+      with undetectable plasma HIV RNA, by treatment and baseline RNA cohort (either detectable or&#xD;
+      undetectable). To determine the durability of these regimens by estimating the distribution&#xD;
+      of time to loss of virologic suppression (or equivalently, time to virologic failure), by&#xD;
+      treatment and baseline RNA cohort.] This study allows patients who have successfully&#xD;
+      participated in ACTG 347 or other trials involving amprenavir to continue treatment with&#xD;
+      amprenavir, ZDV, d4T, and 3TC. Additionally, this study provides patients whose HIV-1 RNA was&#xD;
+      not reduced to undetectable levels or who had a significant increase in plasma levels&#xD;
+      (&quot;treatment failures&quot;) the opportunity to change to a potentially more active regimen that&#xD;
+      includes indinavir, nevirapine, lamivudine, and stavudine.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      This study allows patients who have successfully participated in ACTG 347 or other trials&#xD;
+      involving amprenavir to continue treatment with amprenavir, ZDV, d4T, and 3TC. Additionally,&#xD;
+      this study provides patients whose HIV-1 RNA was not reduced to undetectable levels or who&#xD;
+      had a significant increase in plasma levels (&quot;treatment failures&quot;) the opportunity to change&#xD;
+      to a potentially more active regimen that includes indinavir, nevirapine, lamivudine, and&#xD;
+      stavudine.&#xD;
+&#xD;
+      Patients with HIV RNA less than 500 copies/ml on a regimen containing amprenavir are treated&#xD;
+      on Arm A; those with greater than or equal to 500 copies while on or intolerant to a regimen&#xD;
+      containing amprenavir are treated on Arm B.&#xD;
+&#xD;
+      Arm A: Amprenavir + ZDV + d4T + 3TC. Arm B: IND + NVP + 3TC + d4T. Patients enrolled in Arm A&#xD;
+      who fail therapy may roll over to Arm B. Patients in Arm B who fail therapy discontinue study&#xD;
+      medications and seek best available treatment.&#xD;
+&#xD;
+      [AS PER AMENDMENT 2/27/98: Patients with HIV RNA less than 500 copies/ml currently on triple&#xD;
+      therapy with amprenavir + 3TC + ZDV (or d4T if ZDV-intolerant) are treated on ARM A. Patients&#xD;
+      with HIV RNA greater than or equal to 500 copies/ml, who have been intolerant to a regimen&#xD;
+      containing amprenavir or who were previously enrolled on ACTG 347 who elected to receive a&#xD;
+      treatment regimen other than amprenavir + ZDV (or d4T) + 3TC or IDV + NVP + 3TC + d4T or&#xD;
+      other regimens are assigned to Arm C.&#xD;
+&#xD;
+      Arm A: Amprenavir + ZDV* plus 3TC. Arm B: IDV** + NVP + 3TC + d4T***. Arm C: Observation&#xD;
+      only. Patients are followed for the duration of the study.&#xD;
+&#xD;
+        -  Patients intolerant of ZDV may elect to receive d4T. **Patients intolerant of IDV may&#xD;
+           take study-provided nelfinavir. ***Patients who switched to open-label IDV/NVP/3TC/d4T&#xD;
+           prior to enrollment on this study and who were intolerant to any of the study&#xD;
+           medications may enroll into Arm B with appropriate substitution of the intolerant study&#xD;
+           drug(s).&#xD;
+&#xD;
+      Patients initially assigned to Arm A who are intolerant of amprenavir or who fail therapy&#xD;
+      have the option of receiving Arm B therapy. Patients initially assigned to Arm B who are&#xD;
+      intolerant of any of the assigned study drugs may make an appropriate antiretroviral&#xD;
+      substitution (with approval of the protocol chair).]&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">October 1999</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment>94</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Indinavir sulfate</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Amprenavir</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Nevirapine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Lamivudine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Stavudine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zidovudine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Required:&#xD;
+&#xD;
+          -  Chemoprophylaxis for Pneumocystis carinii pneumonia (for patients with a CD4+ cell&#xD;
+             count less than or equal to 200 cells/mm3.&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  Topical and/or oral antifungal agents.&#xD;
+&#xD;
+          -  Treatment, maintenance or chemoprophylaxis with approved agents for opportunistic&#xD;
+             infections.&#xD;
+&#xD;
+          -  Antibiotics.&#xD;
+&#xD;
+          -  Systemic corticosteroid use for 21 days or less.&#xD;
+&#xD;
+          -  Recombinant erythropoietin (rEPO) and granulocyte-colony stimulating factor (G-CSF,&#xD;
+             filgrastim).&#xD;
+&#xD;
+          -  Regularly prescribed medications such as antipyretics, analgesics, allergy&#xD;
+             medications, antidepressants, sleep medications, oral contraceptives (not as a sole&#xD;
+             form of contraception), megestrol acetate, and testosterone.&#xD;
+&#xD;
+          -  Alternative therapies such as vitamins, acupuncture, and visualization techniques.&#xD;
+&#xD;
+        [AS PER AMENDMENT 2/27/98:&#xD;
+&#xD;
+          -  Current use of triple therapy with amprenavir/3TC/ZDV (or d4T) for Arm A patients.&#xD;
+&#xD;
+          -  Current use of quadruple therapy with IDV/NVP/3TC/d4T for Arm B patients.]&#xD;
+&#xD;
+        Patients must have:&#xD;
+&#xD;
+          -  HIV-positive status.&#xD;
+&#xD;
+          -  Successful response to treatment in ACTG 347 as measured by HIV RNA less than 500&#xD;
+             copies/ml (Arm A) OR unsuccessful response to treatment in ACTG 347 or another regimen&#xD;
+             containing amprenavir OR an increase in plasma HIV RNA above the nadir value to&#xD;
+             greater than 5,000 copies/ml or by at least one log10 at any time (Arm B) OR&#xD;
+             intolerance to a regimen containing amprenavir.&#xD;
+&#xD;
+          -  Consent for patients less than 18 years of age.&#xD;
+&#xD;
+        [AS PER AMENDMENT 2/27/98:&#xD;
+&#xD;
+        Arm A patients must have:&#xD;
+&#xD;
+          -  HIV RNA less than 500 copies/ml on at least one occasion within 60 days of entry while&#xD;
+             previously enrolled in ACTG 347 and in one of the following categories: currently&#xD;
+             receiving amprenavir/3TC/ZDV (or d4T) or randomized to monotherapy arm of ACTG 347 and&#xD;
+             received open-label amprenavir/3TC/ZDV (or d4T).&#xD;
+&#xD;
+        Arm B patients must have:&#xD;
+&#xD;
+          -  Failed prior amprenavir therapy, whether on ACTG 347 or not, i.e., HIV RNA greater&#xD;
+             than or equal to 500 copies/ml after at least 16 weeks of amprenavir and confirmed&#xD;
+             within 1-6 weeks OR treatment failure that mandated early permanent discontinuation of&#xD;
+             randomized ACTG 347 study drugs and defined as HIV RNA of at least one log 10 above&#xD;
+             the nadir (to at least 5,000 copies/ml) or HIV RNA level above the baseline value&#xD;
+             before 16 weeks of amprenavir and confirmed within 1-6 weeks.&#xD;
+&#xD;
+          -  Initially randomized to triple therapy arm of ACTG 347 with two plasma HIV-1 RNA&#xD;
+             values of at least 500 copies/ml taken within 60 days prior to study entry and at&#xD;
+             least 1-6 weeks apart or initially receive open-label amprenavir/3TC/ZDV (or d4T) and&#xD;
+             with two HIV RNA levels of at least 500 copies/ml, regardless of duration of treatment&#xD;
+             with amprenavir/3TC/ZDV (or d4T).&#xD;
+&#xD;
+          -  Documented intolerance to any of the reverse transcriptase inhibitors or attempted&#xD;
+             nevirapine therapy allowed. Arm C patients must have:&#xD;
+&#xD;
+          -  Previously enrolled on ACTG 347 and elected to receive a treatment regimen other than&#xD;
+             amprenavir/3TC/ZDV (or d4T) or IDV/NVP/3TC/d4T.]&#xD;
+&#xD;
+        Prior Medication: Required:&#xD;
+&#xD;
+        Amprenavir therapy [AS PER AMENDMENT 2/27/98:&#xD;
+&#xD;
+          -  amprenavir therapy (Arm A and B patients only)].&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Co-existing Condition:&#xD;
+&#xD;
+        Patients with the following conditions or symptoms are excluded:&#xD;
+&#xD;
+        Arm A:&#xD;
+&#xD;
+          -  Inability to tolerate amprenavir, ZDV, or 3TC.&#xD;
+&#xD;
+        Arm B:&#xD;
+&#xD;
+          -  Inability to tolerate d4T, NVP, or 3TC.&#xD;
+&#xD;
+          -  Active infection requiring acute treatment within 14 days prior to study entry.&#xD;
+&#xD;
+          -  Malignancy that requires systemic therapy (patients with minimal Kaposi's sarcoma are&#xD;
+             not excluded provided they do not require systemic therapy).&#xD;
+&#xD;
+        [AS PER AMENDMENT 2/27/98:&#xD;
+&#xD;
+        Patients with the following conditions or symptoms are excluded: Arm A:&#xD;
+&#xD;
+          -  Any detection of plasma HIV RNA greater than 500 copies/ml after subject has switched&#xD;
+             to triple therapy for at least 16 weeks.&#xD;
+&#xD;
+          -  Inability to tolerate amprenavir, ZDV (or d4T), or 3TC.&#xD;
+&#xD;
+          -  Malignancy that requires systemic therapy (minimal Kaposi's sarcoma allowed provided&#xD;
+             systemic therapy is not required) Arm A and B patients only.]&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Non-protocol-specified antiretroviral agents.&#xD;
+&#xD;
+          -  Immunomodulators that affect immunologic or virologic indices, such as systemic&#xD;
+             corticosteroids (more than 21 days), thalidomide, or cytokines.&#xD;
+&#xD;
+          -  Concomitant use of rifabutin and/or rifampin.&#xD;
+&#xD;
+          -  Investigational drugs without specific approval.&#xD;
+&#xD;
+          -  Systemic cytotoxic chemotherapy.&#xD;
+&#xD;
+          -  Oral astemizole, carbamazepine, dexamethasone, ketoconazole, itraconazole,&#xD;
+             phenobarbital, phenytoin, terfenadine, cisapride, triazolam, terfenadine, astemizole,&#xD;
+             and midazolam.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        [AS PER AMENDMENT 2/27/98: Excluded:&#xD;
+&#xD;
+          -  Prior protease inhibitor therapy except amprenavir (Arm A patients).&#xD;
+&#xD;
+          -  Prior protease inhibitor therapy except amprenavir and IDV (Arm B patients).&#xD;
+&#xD;
+        Excluded within 14 days prior to entry:&#xD;
+&#xD;
+          -  Investigational drugs or immunomodulators (except amprenavir) without specific consent&#xD;
+             of protocol chair(s) (Arm A patients).&#xD;
+&#xD;
+          -  Immunomodulators that affect immunologic or virologic indices, such as systemic&#xD;
+             corticosteroids, thalidomide or cytokines, unless approved by protocol chair(s) (Arm B&#xD;
+             patients).&#xD;
+&#xD;
+          -  Oral astemizole, carbamazepine, dexamethasone, ketoconazole, itraconazole,&#xD;
+             phenobarbital, phenytoin, terfenadine, cisapride, triazolam, midazolam, ergot&#xD;
+             alkaloids, or drugs containing derivatives of ergot alkaloids.]&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>13 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Murphy R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>Gulick R</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Univ of Southern California / LA County USC Med Ctr</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>900331079</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Colorado Health Sciences Ctr</name>
+      <address>
+        <city>Denver</city>
+        <state>Colorado</state>
+        <zip>80262</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Miami School of Medicine</name>
+      <address>
+        <city>Miami</city>
+        <state>Florida</state>
+        <zip>331361013</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Emory Univ</name>
+      <address>
+        <city>Atlanta</city>
+        <state>Georgia</state>
+        <zip>30308</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Cook County Hosp</name>
+      <address>
+        <city>Chicago</city>
+        <state>Illinois</state>
+        <zip>60612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Boston Med Ctr</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02118</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Beth Israel Deaconess - West Campus</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>St Louis Regional Hosp / St Louis Regional Med Ctr</name>
+      <address>
+        <city>Saint Louis</city>
+        <state>Missouri</state>
+        <zip>63112</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Bellevue Hosp / New York Univ Med Ctr</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10016</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of North Carolina</name>
+      <address>
+        <city>Chapel Hill</city>
+        <state>North Carolina</state>
+        <zip>275997215</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ of Pennsylvania at Philadelphia</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19104</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Julio Arroyo</name>
+      <address>
+        <city>West Columbia</city>
+        <state>South Carolina</state>
+        <zip>29169</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Gulick RM, Smeaton LM, D'Aquila RT, Eron JJ, Currier JS, Gerber JG, Acosta E, Sommadossi JP, Tung R, Snyder S, Kuritzkes DR, Murphy RL; AIDS Clinical Trials Group 373 Study Team. Indinavir, nevirapine, stavudine, and lamivudine for human immunodeficiency virus-infected, amprenavir-experienced subjects: AIDS Clinical Trials Group protocol 373. J Infect Dis. 2001 Mar 1;183(5):715-21. doi: 10.1086/318820. Epub 2001 Jan 30.</citation>
+    <PMID>11181147</PMID>
+  </reference>
+  <reference>
+    <citation>Gulick RM, Smeaton L, D'Aquila RT, Eron JJ, Currier JS, Degruttola V, Gerber JG, Sommadossi JP, Tung R, Kuritzkes DR, Murphy RL. Indinavir (IDV), nevirapine (NVP), stavudine (d4T) and lamivudine (3TC) for amprenavir (APV)-experienced subjects: ACTG 373. 7th Conf Retro and Opportun Infect. 2000 Jan 30 - Feb 2 (abstract no 526)</citation>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>November 2, 1999</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2001</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 31, 2001</study_first_posted>
+  <last_update_submitted>October 28, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 28, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Drug Therapy, Combination</keyword>
+  <keyword>Zidovudine</keyword>
+  <keyword>Nevirapine</keyword>
+  <keyword>Stavudine</keyword>
+  <keyword>HIV Protease Inhibitors</keyword>
+  <keyword>Lamivudine</keyword>
+  <keyword>VX 478</keyword>
+  <keyword>Reverse Transcriptase Inhibitors</keyword>
+  <keyword>Anti-HIV Agents</keyword>
+  <keyword>Viral Load</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lamivudine</mesh_term>
+    <mesh_term>Zidovudine</mesh_term>
+    <mesh_term>Nevirapine</mesh_term>
+    <mesh_term>Stavudine</mesh_term>
+    <mesh_term>Indinavir</mesh_term>
+    <mesh_term>Amprenavir</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

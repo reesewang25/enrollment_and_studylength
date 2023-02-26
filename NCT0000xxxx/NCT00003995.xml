@@ -1,0 +1,263 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003995</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2012-02307</org_study_id>
+    <secondary_id>PCI-98-056</secondary_id>
+    <secondary_id>NCI-T98-0078</secondary_id>
+    <secondary_id>CDR0000067205</secondary_id>
+    <nct_id>NCT00003995</nct_id>
+  </id_info>
+  <brief_title>Monoclonal Antibody Plus Chemotherapy in Treating Patients With Advanced Colorectal Cancer That Overexpresses HER2</brief_title>
+  <official_title>Phase II and Pharmacokinetic Study of CPT-11 and Trastuzumab (RhuMab HER2, Herceptin) in Advanced Colo-Rectal Cancer With p185 HER 2 Overexpression</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      Phase II trial to study the effectiveness of the monoclonal antibody trastuzumab and&#xD;
+      chemotherapy with irinotecan in treating patients who have stage IV colorectal cancer that&#xD;
+      overexpresses HER2. Monoclonal antibodies can locate tumor cells and either kill them or&#xD;
+      deliver tumor-killing substances to them without harming normal cells. Drugs used in&#xD;
+      chemotherapy use different ways to stop tumor cells from dividing so they stop growing or&#xD;
+      die. Combining monoclonal antibody therapy with chemotherapy may kill more tumor cells.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+      I. Determine the objective response rate of irinotecan and trastuzumab in patients with stage&#xD;
+      IV colorectal cancer and p185 HER2 overexpression.&#xD;
+&#xD;
+      II. Evaluate the safety and toxic effects of this treatment regimen in these patients.&#xD;
+&#xD;
+      III. Determine the overall survival and time to progression in these patients in response to&#xD;
+      this treatment regimen.&#xD;
+&#xD;
+      IV. Determine the pharmacokinetics of trastuzumab in combination with irinotecan and&#xD;
+      antibodies to trastuzumab in these patients.&#xD;
+&#xD;
+      V. Determine the expression of HER2/neu in these patients.&#xD;
+&#xD;
+      OUTLINE: This is a multicenter study.&#xD;
+&#xD;
+      Patients receive a loading dose of trastuzumab IV over 90 minutes on week 1, and over 30-90&#xD;
+      minutes weekly thereafter. Patients receive irinotecan IV over 90 minutes following&#xD;
+      trastuzumab weekly for 4 weeks. Courses are repeated every 6 weeks in the absence of disease&#xD;
+      progression or unacceptable toxicity.&#xD;
+&#xD;
+      Patients are followed every 3 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1999</start_date>
+  <primary_completion_date type="Actual">March 2006</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">32</enrollment>
+  <condition>Colorectal Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm I</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive a loading dose of trastuzumab IV over 90 minutes on week 1, and over 30-90 minutes weekly thereafter. Patients receive irinotecan IV over 90 minutes following trastuzumab weekly for 4 weeks. Courses are repeated every 6 weeks in the absence of disease progression or unacceptable toxicity.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>trastuzumab</intervention_name>
+    <arm_group_label>Arm I</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>irinotecan hydrochloride</intervention_name>
+    <arm_group_label>Arm I</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed stage IV colorectal cancer with p185 HER2 overexpression&#xD;
+&#xD;
+          -  Bidimensionally measurable disease Indicator lesion must be outside of irradiated&#xD;
+             field No symptomatic CNS brain metastases&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+          -  Performance status: ECOG 0-2&#xD;
+&#xD;
+          -  Absolute granulocyte count at least 1,500/mm3&#xD;
+&#xD;
+          -  Platelet count at least 100,000/mm3&#xD;
+&#xD;
+          -  Bilirubin no greater than 1.5 times upper limit of normal (ULN)&#xD;
+&#xD;
+          -  SGOT no greater than 3.0 times ULN&#xD;
+&#xD;
+          -  Creatinine no greater than 2.0 mg/dL&#xD;
+&#xD;
+          -  LVEF at least 45% by MUGA or ECHO&#xD;
+&#xD;
+          -  No myocardial infarction within the past 6 months&#xD;
+&#xD;
+          -  No congestive heart failure&#xD;
+&#xD;
+          -  No unstable angina&#xD;
+&#xD;
+          -  No clinically significant pericardial effusion or arrhythmia&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception during and for 6 months after study&#xD;
+&#xD;
+          -  No other prior malignancy within the past 5 years, except:&#xD;
+&#xD;
+               -  Curatively treated basal or squamous cell skin cancer&#xD;
+&#xD;
+               -  Curatively treated carcinoma in situ of the cervix&#xD;
+&#xD;
+               -  No active serious infection or serious underlying medical condition that would&#xD;
+                  prevent compliance&#xD;
+&#xD;
+               -  No dementia or significantly altered mental status&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+          -  Concurrent filgrastim (G-CSF), sargramostim (GM-CSF), or epoetin alfa allowed&#xD;
+&#xD;
+          -  No prior trastuzumab&#xD;
+&#xD;
+          -  No more than 1 prior chemotherapy regimen for advanced disease (if progressed during&#xD;
+             or within 6 months of adjuvant therapy considered to have had 1 regimen for advanced&#xD;
+             disease)&#xD;
+&#xD;
+          -  No prior irinotecan&#xD;
+&#xD;
+          -  Concurrent contraception, estrogen replacement therapy, or megestrol acetate for&#xD;
+             anorexia allowed&#xD;
+&#xD;
+          -  Greater than 3 weeks since prior radiotherapy and recovered&#xD;
+&#xD;
+          -  Greater than 3 weeks since major surgery (except simple biopsy or venous access&#xD;
+             placement) and recovered&#xD;
+&#xD;
+          -  At least 3 weeks since prior investigational nonneoplastic drugs&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>N/A</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Ramesh K. Ramanathan, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>University of Pittsburgh</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Albert Einstein Comprehensive Cancer Center</name>
+      <address>
+        <city>Bronx</city>
+        <state>New York</state>
+        <zip>10461</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Pittsburgh Cancer Institute</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15213</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Lifespan: The Miriam Hospital</name>
+      <address>
+        <city>Providence</city>
+        <state>Rhode Island</state>
+        <zip>02906</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Sarah Cannon-Minnie Pearl Cancer Center</name>
+      <address>
+        <city>Nashville</city>
+        <state>Tennessee</state>
+        <zip>37203</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas - MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Ramanathan RK, Hwang JJ, Zamboni WC, Sinicrope FA, Safran H, Wong MK, Earle M, Brufsky A, Evans T, Troetschel M, Walko C, Day R, Chen HX, Finkelstein S. Low overexpression of HER-2/neu in advanced colorectal cancer limits the usefulness of trastuzumab (Herceptin) and irinotecan as therapy. A phase II trial. Cancer Invest. 2004;22(6):858-65. doi: 10.1081/cnv-200039645.</citation>
+    <PMID>15641483</PMID>
+  </results_reference>
+  <verification_date>June 2007</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>June 24, 2004</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 25, 2004</study_first_posted>
+  <last_update_submitted>February 7, 2013</last_update_submitted>
+  <last_update_submitted_qc>February 7, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 8, 2013</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stage IV colon cancer</keyword>
+  <keyword>stage IV rectal cancer</keyword>
+  <keyword>recurrent colon cancer</keyword>
+  <keyword>recurrent rectal cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Colorectal Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Trastuzumab</mesh_term>
+    <mesh_term>Irinotecan</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

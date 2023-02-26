@@ -1,0 +1,285 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000680</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 080</org_study_id>
+    <secondary_id>11055</secondary_id>
+    <nct_id>NCT00000680</nct_id>
+  </id_info>
+  <brief_title>A Phase I Study of Autologous, Activated CD8(+) Lymphocytes Expanded In Vitro and Infused With or Without Recombinant Interleukin-2 to Patients With AIDS or Severe ARC</brief_title>
+  <official_title>A Phase I Study of Autologous, Activated CD8(+) Lymphocytes Expanded In Vitro and Infused With or Without Recombinant Interleukin-2 to Patients With AIDS or Severe ARC</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>Applied Immunesciences</agency>
+      <agency_class>Industry</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <brief_summary>
+    <textblock>
+      1) To determine whether it is possible to remove and culture (increase in number and&#xD;
+      activate) in the laboratory, CD8(+) lymphocytes (white blood cells) from HIV-infected&#xD;
+      patients receiving zidovudine (AZT); 2) To determine the toxicity of returning to the&#xD;
+      patients intravenously the expanded and activated autologous cells (given to the patient from&#xD;
+      whom they were taken), with and without giving the patients recombinant interleukin-2 (&#xD;
+      aldesleukin; IL-2 ) at the same time; 3) To radiolabel (mark) the CD8(+) lymphocytes with&#xD;
+      Indium 111, and then scan the patients to determine the distribution of the CD8(+)&#xD;
+      lymphocytes in those who are and are not given IL-2 infusions; 4) To determine the toxicity&#xD;
+      of IL-2 given at the same time with autologous CD8(+) lymphocytes; 5) To measure changes in&#xD;
+      the immunology of the subjects following these treatments.&#xD;
+&#xD;
+      CD8(+) cells are suppressor/killer lymphocyte cells that act to limit replication of viruses.&#xD;
+      It is hoped that the reinfusion of activated autologous CD8(+) cells into patients with AIDS&#xD;
+      will help to control opportunistic infections such as cytomegalovirus and toxoplasmosis (two&#xD;
+      of the leading causes of sickness and death in AIDS patients). This treatment may also stop&#xD;
+      the HIV virus from replicating (reproducing itself) in the AIDS patient. Further activation&#xD;
+      of these cells, once infused, may be necessary. It is hoped that IL-2 will stimulate the&#xD;
+      patient's immune system against the AIDS virus along with the activated CD8(+) cells. Thus,&#xD;
+      IL-2 will be given, and its effects studied.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      CD8(+) cells are suppressor/killer lymphocyte cells that act to limit replication of viruses.&#xD;
+      It is hoped that the reinfusion of activated autologous CD8(+) cells into patients with AIDS&#xD;
+      will help to control opportunistic infections such as cytomegalovirus and toxoplasmosis (two&#xD;
+      of the leading causes of sickness and death in AIDS patients). This treatment may also stop&#xD;
+      the HIV virus from replicating (reproducing itself) in the AIDS patient. Further activation&#xD;
+      of these cells, once infused, may be necessary. It is hoped that IL-2 will stimulate the&#xD;
+      patient's immune system against the AIDS virus along with the activated CD8(+) cells. Thus,&#xD;
+      IL-2 will be given, and its effects studied.&#xD;
+&#xD;
+      AMENDED: 09/28/90 The CD8 lymphocytes are grown in vitro for 21 days before infusion.&#xD;
+      Leukapheresis and infusion continue every 21 days for 3 infusions with the last infusion&#xD;
+      during week 16. During weeks 13 and 16, indium 111 radio labelled cells are injected to&#xD;
+      permit determination of the distribution and pharmacokinetics of the infused cells. At week&#xD;
+      16, IL-2 is administered concurrently with Indium 111 labelled cells and the CD8+ lymphocytes&#xD;
+      - delivered by continuous infusion over 5 days following cell infusion. Patients are followed&#xD;
+      at the clinic 1 week prior to scheduled infusions, during infusion weeks and then every 2&#xD;
+      weeks to week 21 and at week 27. Original design: Patients undergo leukapheresis every 2&#xD;
+      weeks for a total of 6 times during the initial phase of the study. During this procedure, a&#xD;
+      catheter is placed in an arm vein, and the blood flows through a machine which separates the&#xD;
+      lymphocytes from the other blood components. The blood is then returned to the patient's body&#xD;
+      through the catheter. Less than 10 percent of the lymphocytes in the blood are removed during&#xD;
+      the process. The CD8(+) cells taken from the patient are cultured in the laboratory until&#xD;
+      they increase 10- to 1000-fold. These cells are then infused back into the patient from whom&#xD;
+      they were taken. The first two patients are admitted for 24 hours at the time of each&#xD;
+      infusion. In the absence of severe side effects, the subsequent four patients are infused at&#xD;
+      the clinic. Patients are admitted for 5 days for continuous infusion of IL-2 in week 13.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">April 1993</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <enrollment>6</enrollment>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Zidovudine</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Aldesleukin</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Required:&#xD;
+&#xD;
+          -  Zidovudine (AZT) during treatment and for 20 weeks after the last infusion unless&#xD;
+             medically contraindicated.&#xD;
+&#xD;
+          -  Allowed:&#xD;
+&#xD;
+          -  Aerosolized pentamidine for Pneumocystis carinii pneumonia (PCP) prophylaxis.&#xD;
+&#xD;
+          -  Oral antibiotics for PCP prophylaxis if hematologically stable on that regimen for at&#xD;
+             least 30 days prior to study entry.&#xD;
+&#xD;
+        Patients must have the following:&#xD;
+&#xD;
+          -  Positive HIV antibody test by federally licensed ELISA.&#xD;
+&#xD;
+          -  Positive HIV culture or plasma p24 antigen.&#xD;
+&#xD;
+          -  CDC Group IV severe AIDS-related complex (ARC) or AIDS.&#xD;
+&#xD;
+          -  Must have been on zidovudine (AZT) at least 6 weeks prior to infusion and agree to&#xD;
+             continue this medication during the study and for 20 weeks after the last infusion&#xD;
+             unless medically contraindicated.&#xD;
+&#xD;
+          -  Allowed:&#xD;
+&#xD;
+          -  Kaposi's sarcoma.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Co-existing Condition:&#xD;
+&#xD;
+        AMENDED:&#xD;
+&#xD;
+          -  Pulmonary diseases that require treatment.&#xD;
+&#xD;
+          -  AMENDED:&#xD;
+&#xD;
+          -  Significant central nervous system disease including AIDS dementia, psychiatric&#xD;
+             disabilities, or seizure disorders.&#xD;
+&#xD;
+          -  AMENDED:&#xD;
+&#xD;
+          -  Symptomatic HIV CNS infections or symptoms compatible with HIV encephalopathy.&#xD;
+&#xD;
+          -  Original design:&#xD;
+&#xD;
+          -  Patients with the following conditions or symptoms are excluded:&#xD;
+&#xD;
+          -  Active bacterial or opportunistic infection that requires treatment.&#xD;
+&#xD;
+          -  Neoplasms not specifically allowed, basal cell carcinoma of the skin, or in-situ&#xD;
+             carcinoma of the cervix.&#xD;
+&#xD;
+          -  Clinically significant cardiac (= or &gt; class II, New York Heart Association) or&#xD;
+             peripheral vascular disease that requires treatment.&#xD;
+&#xD;
+          -  Hemorrhagic diathesis including hemophilia or active bleeding disorder.&#xD;
+&#xD;
+        Concurrent Medication:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Antineoplastic therapy.&#xD;
+&#xD;
+          -  Medication required for treatment of active cardiac disease.&#xD;
+&#xD;
+          -  Cardiac glycosides.&#xD;
+&#xD;
+          -  Antiarrhythmics.&#xD;
+&#xD;
+          -  Antianginal agents.&#xD;
+&#xD;
+          -  Anticoagulants.&#xD;
+&#xD;
+          -  Thrombolytic agents.&#xD;
+&#xD;
+          -  Vasodilators.&#xD;
+&#xD;
+          -  Excluded within 30 days of study entry:&#xD;
+&#xD;
+          -  Antiretroviral agents not specifically allowed.&#xD;
+&#xD;
+          -  Corticosteroids.&#xD;
+&#xD;
+          -  Acyclovir.&#xD;
+&#xD;
+          -  Excluded within 60 days of study entry:&#xD;
+&#xD;
+          -  Biological response modifiers.&#xD;
+&#xD;
+        Patients with the following are excluded:&#xD;
+&#xD;
+          -  Unable to give properly informed consent by reason of impaired mentation.&#xD;
+&#xD;
+          -  Diseases and conditions specified elsewhere in the protocol.&#xD;
+&#xD;
+        Required:&#xD;
+&#xD;
+          -  Zidovudine (AZT) for at least 6 weeks prior to infusion.&#xD;
+&#xD;
+        Risk Behavior: Excluded:&#xD;
+&#xD;
+          -  Active substance abuse.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>M Ho</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>R Herberman</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <overall_official>
+    <last_name>J Armstrong</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Univ of Pittsburgh Med School</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Torpey D 3rd, Huang XL, Armstrong J, Ho M, Whiteside T, McMahon D, Pazin G, Heberman R, Gupta P, Tripoli C, et al. Effects of adoptive immunotherapy with autologous CD8+ T lymphocytes on immunologic parameters: lymphocyte subsets and cytotoxic activity. Clin Immunol Immunopathol. 1993 Sep;68(3):263-72. doi: 10.1006/clin.1993.1127.</citation>
+    <PMID>8370181</PMID>
+  </reference>
+  <reference>
+    <citation>Ho M, Armstrong J, McMahon D, Pazin G, Huang XL, Rinaldo C, Whiteside T, Tripoli C, Levine G, Moody D, et al. A phase 1 study of adoptive transfer of autologous CD8+ T lymphocytes in patients with acquired immunodeficiency syndrome (AIDS)-related complex or AIDS. Blood. 1993 Apr 15;81(8):2093-101.</citation>
+    <PMID>8471768</PMID>
+  </reference>
+  <reference>
+    <citation>Ho M, et al. Phase I study of in vitro purified and expanded autologous CD8(+) lymphocytes infused into patients with advanced ARC or AIDS (ACTG 080). Int Conf AIDS. 1991 Jun 16-21;7(2):77 (abstract no THB83)</citation>
+  </reference>
+  <reference>
+    <citation>Armstrong JA, Ho M, Herberman R, Elder E, Ferbas J, McMahon D, Gupta P, Rinaldo C, Whiteside T. A phase I study of autologous, activated CD8(+) lymphocytes expanded in vitro infused into patients with advanced ARC or AIDS (ACTG 080). Int Conf AIDS. 1990 Jun 20-23;6(3):208 (abstract no SB491)</citation>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>November 2, 1999</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2001</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 31, 2001</study_first_posted>
+  <last_update_submitted>October 26, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 26, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 2, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>T-Lymphocytes, Suppressor-Effector</keyword>
+  <keyword>Indium Radioisotopes</keyword>
+  <keyword>Leukapheresis</keyword>
+  <keyword>Interleukin-2</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>Zidovudine</keyword>
+  <keyword>Immunization, Passive</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>HIV Infections</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Zidovudine</mesh_term>
+    <mesh_term>Aldesleukin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

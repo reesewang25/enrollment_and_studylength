@@ -1,0 +1,261 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00006469</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000068288</org_study_id>
+    <secondary_id>WHC-99444</secondary_id>
+    <secondary_id>NCI-V00-1632</secondary_id>
+    <nct_id>NCT00006469</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy and Radiation Therapy Followed By Surgery in Treating Patients With Stage IIB or Stage IIIA Non-Small Cell Lung Cancer</brief_title>
+  <official_title>Phase II Trial of Concurrent Paclitaxel, Carboplatin and External Beam Radiotherapy Followed by Surgical Resection in Stage IIIA (N2) Non-small Cell Lung Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medstar Health Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Medstar Health Research Institute</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Radiation therapy uses high-energy x-rays to damage tumor cells.&#xD;
+      Combining these treatments before surgery may kill more tumor cells in patients with&#xD;
+      non-small cell lung cancer.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of combining chemotherapy with radiation&#xD;
+      therapy before surgery in treating patients who have stage IIB non-small cell lung cancer or&#xD;
+      stage IIIA non-small cell lung cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the response rate, duration of response, and survival in patients with bulky&#xD;
+           stage IIB or stage IIIA non-small cell lung cancer treated with paclitaxel, carboplatin,&#xD;
+           and radiotherapy followed by surgical resection.&#xD;
+&#xD;
+        -  Assess the toxicity of this regimen in this patient population.&#xD;
+&#xD;
+      OUTLINE: This is a multicenter study.&#xD;
+&#xD;
+      Patients receive paclitaxel IV over 1 hour and carboplatin IV over 30 minutes weekly for 5&#xD;
+      weeks. Patients also undergo concurrent radiotherapy daily 5 days a week for 5 weeks in the&#xD;
+      absence of unacceptable toxicity. At approximately 4 weeks after completion of&#xD;
+      chemoradiotherapy, patients with stable or regressive disease undergo surgical resection. If&#xD;
+      disease is unresectable, patients receive an additional 2 weeks of radiotherapy.&#xD;
+&#xD;
+      Patients are followed every 3 months for 2 years, every 6 months for 3 years, and then&#xD;
+      annually thereafter.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 29-30 patients will be accrued for this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>August 1999</start_date>
+  <completion_date type="Actual">January 30, 2006</completion_date>
+  <primary_completion_date type="Actual">January 30, 2006</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <intervention_model_description>Concurrent Paclitaxel, Carboplatin, and External-Beam Radiation Followed by Surgical Resection in Locally Advanced Non-Small-Cell Lung Cancer</intervention_model_description>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Pathologic response rate</measure>
+    <time_frame>3-5 Years</time_frame>
+    <description>as measured by pathology of the resected specimen and chest x-ray at 3 and 5 years after completion of study treatment.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Disease-free and overall survival at 3 and 5 years after completion of study treatment</measure>
+    <time_frame>3-5 Years</time_frame>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Lung Cancer</condition>
+  <arm_group>
+    <arm_group_label>Single arm study</arm_group_label>
+    <arm_group_type>Other</arm_group_type>
+    <description>Concurrent Paclitaxel, Carboplatin, and External-Beam Radiation Followed by Surgical Resection in Locally Advanced Non-Small-Cell Lung Cancer</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>carboplatin</intervention_name>
+    <arm_group_label>Single arm study</arm_group_label>
+    <other_name>paraplatin</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>paclitaxel</intervention_name>
+    <arm_group_label>Single arm study</arm_group_label>
+    <other_name>taxol</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>conventional surgery</intervention_name>
+    <arm_group_label>Single arm study</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>neoadjuvant therapy</intervention_name>
+    <arm_group_label>Single arm study</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+    <arm_group_label>Single arm study</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed bulky stage IIB or stage IIIA non-small cell lung cancer&#xD;
+&#xD;
+               -  Ipsilateral mediastinal node involvement by mediastinoscopy&#xD;
+&#xD;
+          -  No contralateral lymph node involvement&#xD;
+&#xD;
+          -  No malignant pleural effusion&#xD;
+&#xD;
+          -  No distant metastases&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 and over&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  ECOG 0-1&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  Granulocyte count at least 1,500/mm^3&#xD;
+&#xD;
+          -  Platelet count at least 100,000/mm^3&#xD;
+&#xD;
+          -  Hemoglobin at least 10 g/dL&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  ALT/AST less than 2 times upper limit of normal&#xD;
+&#xD;
+          -  Bilirubin no greater than 1.5 mg/dL&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine no greater than 2.0 mg/dL&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  No other prior malignancy within the past 5 years except adequately treated carcinoma&#xD;
+             in situ of the cervix or nonmelanoma skin cancer&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  No prior chemotherapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  No prior radiotherapy&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David J. Perry, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Medstar Health Research Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Washington Cancer Institute at Washington Hospital Center</name>
+      <address>
+        <city>Washington</city>
+        <state>District of Columbia</state>
+        <zip>20010</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Harry and Jeanette Weinberg Cancer Institute at Franklin Square Hospital Center</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21237</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>November 6, 2000</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>August 17, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 17, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 19, 2020</last_update_posted>
+  <responsible_party>
+    <name_title>David J. Perry, MD</name_title>
+    <organization>Washington Cancer Institute at Washington Hospital Center</organization>
+  </responsible_party>
+  <keyword>stage II non-small cell lung cancer</keyword>
+  <keyword>stage IIIA non-small cell lung cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lung Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Non-Small-Cell Lung</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

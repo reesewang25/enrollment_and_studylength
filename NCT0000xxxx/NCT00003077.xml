@@ -1,0 +1,306 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003077</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CALGB-9473</org_study_id>
+    <secondary_id>U10CA031946</secondary_id>
+    <secondary_id>CLB-9473</secondary_id>
+    <secondary_id>NCI-P97-0097</secondary_id>
+    <secondary_id>CDR0000065766</secondary_id>
+    <nct_id>NCT00003077</nct_id>
+  </id_info>
+  <brief_title>Omega-3 Fatty Acids in Treating Patients With Advanced Cancer Who Have Significant Weight Loss</brief_title>
+  <official_title>Phase I/II Trial of Omega-3 Fatty Acids for Cancer Cachexia</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Alliance for Clinical Trials in Oncology</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Alliance for Clinical Trials in Oncology</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Omega-3 fatty acids are used by the body for energy and tissue development and may&#xD;
+      be an effective treatment for patients with advanced cancer who are unable to maintain their&#xD;
+      body weight.&#xD;
+&#xD;
+      PURPOSE: Phase I/II trial to study the effectiveness of omega-3 fatty acids in treating&#xD;
+      patients with advanced cancer who have significant weight loss.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine whether omega-3 fatty acids will reverse weight loss in advanced cancer&#xD;
+           patients with cachexia.&#xD;
+&#xD;
+        -  Determine the maximum tolerated dose (MTD) of omega-3 fatty acids in these patients&#xD;
+           (phase I completed 12/1999).&#xD;
+&#xD;
+        -  Determine whether omega-3 fatty acids will result in an antitumor response.&#xD;
+&#xD;
+      OUTLINE: This is a randomized, stratified, dose escalation study. Patients are stratified by&#xD;
+      the extent of weight loss (2-5 percent or greater than 5 percent in the past month).&#xD;
+&#xD;
+      Patients receive omega-3 fatty acids orally in two equal doses with/after breakfast and lunch&#xD;
+      for 4 months or until weight loss is observed.&#xD;
+&#xD;
+      Dose is escalated in cohorts of two patients, although dose escalation is allowed in&#xD;
+      individual patients. The maximum tolerated dose (MTD) is defined as the highest dose level at&#xD;
+      which no greater than one-third of the patients treated, including escalated patients from a&#xD;
+      lower dose, experience grade 3 or worse toxicity (phase I completed 12/1999).&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>October 1995</start_date>
+  <completion_date type="Actual">November 2004</completion_date>
+  <primary_completion_date type="Actual">July 2004</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Supportive Care</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>survival</measure>
+    <time_frame>up to 4 months</time_frame>
+  </primary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">63</enrollment>
+  <condition>Leukemia</condition>
+  <condition>Lymphoma</condition>
+  <condition>Multiple Myeloma and Plasma Cell Neoplasm</condition>
+  <arm_group>
+    <arm_group_label>Omega-3 fatty acid</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive omega-3 fatty acids orally in two equal doses with/after breakfast and lunch for 4 months or until weight loss is observed.&#xD;
+Dose is escalated in cohorts of two patients, although dose escalation is allowed in individual patients. Patients are evaluated for cachexia response every 2 weeks, and tumor response every 4 weeks for a maximum of 4 months. If no response of cachexia or tumor after a 2 month period, patients will be discontinued from study. Patients will be followed for survival post-treatment.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Dietary Supplement</intervention_type>
+    <intervention_name>omega-3 fatty acid</intervention_name>
+    <arm_group_label>Omega-3 fatty acid</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically or cytologically proven advanced cancer not amenable to curative&#xD;
+             therapy (solid tumors and hematologic malignancies eligible except primary and&#xD;
+             metastatic brain tumors)&#xD;
+&#xD;
+          -  Cachexia (weight loss at least 2 percent within a one month period)&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 and over&#xD;
+&#xD;
+        Performance Status:&#xD;
+&#xD;
+          -  CALBG 0-2&#xD;
+&#xD;
+        Life Expectancy:&#xD;
+&#xD;
+          -  At least 2 months&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  Granulocytes greater than 1,000/mm3&#xD;
+&#xD;
+          -  Platelet count greater than 75,000/mm3&#xD;
+&#xD;
+          -  Hemoglobin greater than 8 mg/dL&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  AST less than 3 times upper limit of normal (ULN)&#xD;
+&#xD;
+          -  Alkaline phosphatase less than 3 times ULN&#xD;
+&#xD;
+          -  Bilirubin less than 1.5 times ULN&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  BUN less than 1.5 times ULN&#xD;
+&#xD;
+          -  Creatinine less than 1.5 times ULN&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  No congestive heart failure requiring diuretics within less than 6 months&#xD;
+&#xD;
+          -  No uncontrolled or severe cardiovascular disease within less than 6 months&#xD;
+&#xD;
+          -  No myocardial infarction within less than 6 months&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Not pregnant nor contemplating pregnancy during study&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  No uncontrolled hypercalcemia&#xD;
+&#xD;
+          -  No metabolic disorders (hyperthyroidism)&#xD;
+&#xD;
+          -  No poorly controlled diabetes&#xD;
+&#xD;
+          -  No peripheral edema or ascites requiring diuretics&#xD;
+&#xD;
+          -  No enteric fistulas, with tracheobronchial fistulas or with aspiration&#xD;
+&#xD;
+          -  No esophageal or bowel obstruction that would preclude eating&#xD;
+&#xD;
+          -  Free T4 within normal range&#xD;
+&#xD;
+          -  No serious medical illness&#xD;
+&#xD;
+          -  No psychosis&#xD;
+&#xD;
+          -  No uncontrolled bacterial, viral, or fungal infections&#xD;
+&#xD;
+          -  No active uncontrolled duodenal ulcers&#xD;
+&#xD;
+          -  Above laboratory values required unless bone marrow, liver, kidney, or splenic&#xD;
+             involvement by tumor is documented&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  Prior and concurrent chemotherapy allowed&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  No concurrent steroids such as dronabinol or megestrol acetate (except for adrenal&#xD;
+             failure)&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  No prior or concurrent radiotherapy to abdomen or pelvis&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Greater than 3 weeks since major surgery&#xD;
+&#xD;
+          -  Greater than 1 week since minor surgery&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No concurrent diuretics&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>C. Patrick Burns, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Holden Comprehensive Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>CCOP - Christiana Care Health Services</name>
+      <address>
+        <city>Wilmington</city>
+        <state>Delaware</state>
+        <zip>19899</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Holden Comprehensive Cancer Center at The University of Iowa</name>
+      <address>
+        <city>Iowa City</city>
+        <state>Iowa</state>
+        <zip>52242-1009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>North Shore University Hospital</name>
+      <address>
+        <city>Manhasset</city>
+        <state>New York</state>
+        <zip>11030</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>New York Presbyterian Hospital - Cornell Campus</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CCOP - Southeast Cancer Control Consortium</name>
+      <address>
+        <city>Winston-Salem</city>
+        <state>North Carolina</state>
+        <zip>27104-4241</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Burns CP, Halabi S, Clamon G, Kaplan E, Hohl RJ, Atkins JN, Schwartz MA, Wagner BA, Paskett E. Phase II study of high-dose fish oil capsules for patients with cancer-related cachexia. Cancer. 2004 Jul 15;101(2):370-8. doi: 10.1002/cncr.20362.</citation>
+    <PMID>15241836</PMID>
+  </results_reference>
+  <verification_date>July 2016</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>October 21, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">October 22, 2003</study_first_posted>
+  <last_update_submitted>July 12, 2016</last_update_submitted>
+  <last_update_submitted_qc>July 12, 2016</last_update_submitted_qc>
+  <last_update_posted type="Estimate">July 13, 2016</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Multiple Myeloma</mesh_term>
+    <mesh_term>Neoplasms, Plasma Cell</mesh_term>
+    <mesh_term>Plasmacytoma</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

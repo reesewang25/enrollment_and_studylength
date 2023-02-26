@@ -1,0 +1,302 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00002522</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000078283</org_study_id>
+    <secondary_id>TUHSC-2162</secondary_id>
+    <secondary_id>NCI-V93-0249</secondary_id>
+    <nct_id>NCT00002522</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy Followed by Bone Marrow or Peripheral Stem Cell Transplantation in Treating Patients With Relapsed or Refractory Hodgkin's Lymphoma</brief_title>
+  <official_title>HIGH-DOSE CYCLOPHOSPHAMIDE, ETOPOSIDE, AND CISPLATIN (CEP) WITH RESCUE BY AUTOLOGOUS BONE MARROW OR AUTOLOGOUS PERIPHERAL BLOOD STEM CELLS IN PATIENTS WITH RELAPSED OR REFRACTORY HODGKIN'S DISEASE</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Temple University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Temple University</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining chemotherapy with bone marrow or peripheral stem cell&#xD;
+      transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill more&#xD;
+      tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of combination chemotherapy followed by&#xD;
+      bone marrow or peripheral stem cell transplantation in treating patients with relapsed or&#xD;
+      refractory Hodgkin's lymphoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the curative potential of high-dose cyclophosphamide, etoposide, and cisplatin&#xD;
+           (CEP) followed by syngeneic or autologous bone marrow and/or autologous peripheral blood&#xD;
+           stem cell (PBSC) rescue in patients with relapsed or refractory stage I-IV Hodgkin's&#xD;
+           lymphoma.&#xD;
+&#xD;
+        -  Determine the overall response rate and survival of patients treated with this regimen.&#xD;
+&#xD;
+        -  Determine the toxicity of this regimen in these patients.&#xD;
+&#xD;
+        -  Determine the differences in the rate of engraftment, response, and survival of patients&#xD;
+           treated with bone marrow vs PBSC transplantation.&#xD;
+&#xD;
+        -  Determine the response rate and survival of patients treated with late consolidative&#xD;
+           radiotherapy after recovery from transplantation.&#xD;
+&#xD;
+        -  Determine the toxicity of late consolidative radiotherapy after recovery from&#xD;
+           transplantation in these patients.&#xD;
+&#xD;
+      OUTLINE: Syngeneic or autologous bone marrow and/or autologous peripheral blood stem cells&#xD;
+      (PBSC) are harvested. Syngeneic bone marrow transplantation is preferred for patients with a&#xD;
+      qualifying identical twin donor. Patients without a syngeneic donor who have a history of&#xD;
+      lymphomatous involvement of the bone marrow or are profoundly hypocellular undergo harvest of&#xD;
+      PBSC alone. Patients without a syngeneic donor who have no history of lymphomatous&#xD;
+      involvement of the bone marrow undergo harvest of autologous bone marrow or PBSC.&#xD;
+&#xD;
+      Patients receive conditioning comprising cyclophosphamide IV over 1 hour on days -6 to -3 and&#xD;
+      etoposide IV over 1 hour every 12 hours and cisplatin IV continuously on days -6 to -4. Bone&#xD;
+      marrow and/or PBSC are infused on day 0. (Patients requiring more than 25 bags of stem cells&#xD;
+      receive bone marrow transplantation on day 0 and PBSC transplantation on day 1.)&#xD;
+&#xD;
+      After recovery from transplantation, eligible patients receive consolidative radiotherapy to&#xD;
+      any site of prior bulk disease (greater than 5 cm) present at any time before transplantation&#xD;
+      and any site of disease present at the time of transplantation.&#xD;
+&#xD;
+      Patients are followed at 3, 6, and 12 months and then annually thereafter.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A maximum of 30 patients will be accrued for this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>February 1993</start_date>
+  <completion_date type="Actual">February 2002</completion_date>
+  <primary_completion_date type="Actual">February 2002</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Non-Randomized</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <condition>Lymphoma</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cisplatin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cyclophosphamide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>etoposide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>autologous bone marrow transplantation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>bone marrow ablation with stem cell support</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>peripheral blood stem cell transplantation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>syngeneic bone marrow transplantation</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>radiation therapy</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically proven stage I-IV Hodgkin's lymphoma&#xD;
+&#xD;
+          -  Must have refractory or relapsed disease, defined by 1 of the following:&#xD;
+&#xD;
+               -  Failure to achieve a complete remission (CR) after 4 courses of conventional-dose&#xD;
+                  front-line chemotherapy&#xD;
+&#xD;
+               -  Disease in second or greater remission&#xD;
+&#xD;
+                    -  Patients should be encouraged to undergo transplantation prior to a third&#xD;
+                       salvage regimen&#xD;
+&#xD;
+                    -  Patients previously treated with multiple regimens considered on a&#xD;
+                       case-by-case basis&#xD;
+&#xD;
+          -  No chemoresistant disease, defined as active progression with tumor growth greater&#xD;
+             than 25% by volume during first-line chemotherapy&#xD;
+&#xD;
+               -  Patients who respond to second-line chemotherapy may be eligible&#xD;
+&#xD;
+          -  Stable residual masses after conventional-dose chemotherapy not considered treatment&#xD;
+             failures&#xD;
+&#xD;
+               -  Active (refractory or relapsed) disease must be proven histologically or&#xD;
+                  documented by gallium nitrate uptake&#xD;
+&#xD;
+          -  Syngeneic marrow transplantation offered to patients with consenting identical twin&#xD;
+             donor&#xD;
+&#xD;
+          -  No CNS involvement by lymphoma&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  15 to 60 (selected patients up to age 70 may be eligible)&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  ECOG 0-2&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  WBC greater than 4,000/mm^3&#xD;
+&#xD;
+          -  Absolute neutrophil count greater than 2,000/mm^3&#xD;
+&#xD;
+          -  Platelet count greater than 100,000/mm^3&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin less than 2.0 mg/dL&#xD;
+&#xD;
+          -  SGOT and SGPT less than 2 times upper limit of normal&#xD;
+&#xD;
+          -  Albumin greater than 3.0 g/dL&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Must meet 1 of the following criteria:&#xD;
+&#xD;
+               -  Creatinine less than 1.8 mg/dL&#xD;
+&#xD;
+               -  Creatinine clearance greater than 60 mL/min&#xD;
+&#xD;
+               -  BUN less than 20 mg/dL&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  Left ventricular ejection fraction at least 50%&#xD;
+&#xD;
+        Pulmonary:&#xD;
+&#xD;
+          -  DLCO, FEV_1, and FVC greater than 50% of predicted OR&#xD;
+&#xD;
+          -  Resting pO_2 greater than 70 mm Hg on room air&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  HIV negative&#xD;
+&#xD;
+          -  No severe neurologic or emotional disorders&#xD;
+&#xD;
+          -  No active infection&#xD;
+&#xD;
+          -  No other disease that would limit life expectancy&#xD;
+&#xD;
+          -  Not pregnant&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  Adequate psychosocial support required&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+        Endocrine therapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Surgery&#xD;
+&#xD;
+          -  Not specified&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>70 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Kenneth F. Mangan, MD, FACP</last_name>
+    <role>Study Chair</role>
+    <affiliation>Fox Chase Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Fox Chase - Temple Cancer Center</name>
+      <address>
+        <city>Philadelphia</city>
+        <state>Pennsylvania</state>
+        <zip>19111-2442</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2010</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>September 30, 2010</last_update_submitted>
+  <last_update_submitted_qc>September 30, 2010</last_update_submitted_qc>
+  <last_update_posted type="Estimate">October 1, 2010</last_update_posted>
+  <responsible_party>
+    <name_title>Temple University Bone Marrow Transplant Program</name_title>
+    <organization>Temple University Health Systems</organization>
+  </responsible_party>
+  <keyword>stage I adult Hodgkin lymphoma</keyword>
+  <keyword>stage II adult Hodgkin lymphoma</keyword>
+  <keyword>stage III adult Hodgkin lymphoma</keyword>
+  <keyword>stage IV adult Hodgkin lymphoma</keyword>
+  <keyword>recurrent adult Hodgkin lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

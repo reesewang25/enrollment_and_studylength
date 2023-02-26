@@ -1,0 +1,993 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00499174</url>
+  </required_header>
+  <id_info>
+    <org_study_id>PR11</org_study_id>
+    <secondary_id>U10CA077202</secondary_id>
+    <secondary_id>CAN-NCIC-CTG-PR11</secondary_id>
+    <secondary_id>CALGB-140602</secondary_id>
+    <secondary_id>SWOG-PR11</secondary_id>
+    <secondary_id>CDR0000557348</secondary_id>
+    <secondary_id>RTOG-0873</secondary_id>
+    <secondary_id>ECOG-JPR.11</secondary_id>
+    <secondary_id>ICR-CTSU-ProSTART</secondary_id>
+    <nct_id>NCT00499174</nct_id>
+  </id_info>
+  <brief_title>Observation or Radical Treatment in Patients With Prostate Cancer</brief_title>
+  <official_title>A Phase III Study of Active Surveillance Therapy Against Radical Treatment in Patients Diagnosed With Favourable Risk Prostate Cancer [START]</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>NCIC Clinical Trials Group</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Cancer and Leukemia Group B</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Eastern Cooperative Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Southwest Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Radiation Therapy Oncology Group</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+    <collaborator>
+      <agency>Institute of Cancer Research, United Kingdom</agency>
+      <agency_class>Other</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Canadian Cancer Trials Group</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+    <is_fda_regulated_drug>No</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Sometimes prostate tumours may not need treatment until they progress. In this&#xD;
+      case, observation may be sufficient. Radical treatments, such as radical prostatectomy or&#xD;
+      radiation therapy, may be effective in treating prostate cancer when it is first diagnosed.&#xD;
+      It is not yet known whether active surveillance is more effective than radical treatment as&#xD;
+      an initial intervention in favorable prognosis prostate cancer.&#xD;
+&#xD;
+      PURPOSE: This randomized phase III trial is studying active surveillance to see how well it&#xD;
+      works compared with radical treatment as an initial intervention in patients with favorable&#xD;
+      prognosis prostate cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+      Primary&#xD;
+&#xD;
+        -  To compare disease-specific survival of patients with favorable risk prostate cancer&#xD;
+           treated with radical prostatectomy or radical radiotherapy at the time of initial&#xD;
+           diagnosis vs active surveillance and selective intervention based on pre-specified&#xD;
+           biochemical, histological, or clinical progression criteria.&#xD;
+&#xD;
+      Secondary&#xD;
+&#xD;
+        -  To compare overall survival, quality of life using the EPIC-26, RAND SF-12, and&#xD;
+           State-Trait Anxiety Inventory, distant disease-free survival, PSA relapse/progression&#xD;
+           after radical intervention, and initiation of androgen deprivation therapy between the&#xD;
+           two treatment arms.&#xD;
+&#xD;
+        -  To determine the proportion of patients on the active surveillance arm who receive&#xD;
+           radical intervention for prostate cancer.&#xD;
+&#xD;
+        -  To determine if PSA doubling-time prior to diagnosis predicts eventual outcome.&#xD;
+&#xD;
+        -  To determine if molecular biomarkers predict outcome.&#xD;
+&#xD;
+      OUTLINE: This is a prospective, randomized, multicenter study. Patients are stratified by&#xD;
+      treatment center, ECOG performance status (0 vs 1 or 2), disease stage (T1 vs T2), baseline&#xD;
+      PSA value (ng/mL or μg/L) (&lt; 5.0 vs ≥ 5.0 and ≤ 10.0), and age (&lt; 65 years vs ≥ 65 years).&#xD;
+      Patients are randomized to 1 of 2 arms.&#xD;
+&#xD;
+        -  Arm I: Patients undergo radical intervention (radical prostatectomy or radiotherapy&#xD;
+           [external-beam radiotherapy 5 days a week for 4-8 weeks; permanent prostate&#xD;
+           brachytherapy; or high-dose rate temporary brachytherapy], based on patient and&#xD;
+           physician preference).&#xD;
+&#xD;
+        -  Arm II: Patients undergo active surveillance with radical intervention at the time one&#xD;
+           or more pre-specified criteria (biochemical progression, histologic/grade progression,&#xD;
+           and/or clinical progression) are met.&#xD;
+&#xD;
+      Quality of life is assessed by the EPIC-26, RAND SF-12, and State Anxiety Inventory at&#xD;
+      baseline, periodically during study treatment, and after completion of radical treatment.&#xD;
+&#xD;
+      After completion of radical treatment, patients are followed every 6 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Not meeting accrual target.&#xD;
+  </why_stopped>
+  <start_date type="Actual">June 15, 2007</start_date>
+  <completion_date type="Actual">January 10, 2013</completion_date>
+  <primary_completion_date type="Actual">December 31, 2011</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Disease-specific Survival</measure>
+    <time_frame>5 years 6 months</time_frame>
+    <description>Time from the date of randomization to the date of death due to prostate cancer.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival</measure>
+    <time_frame>5 years 6 months</time_frame>
+    <description>Time from randomization to the date of death due to any causes.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">180</enrollment>
+  <condition>Prostate Cancer</condition>
+  <arm_group>
+    <arm_group_label>Active Surveillance</arm_group_label>
+    <arm_group_type>No Intervention</arm_group_type>
+    <description>Active surveillance with radical intervention at the time one or more of the following occur: Biochemical progression; Grade progression; Clinical progression</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Radical Intervention</arm_group_label>
+    <arm_group_type>Active Comparator</arm_group_type>
+    <description>Radical prostatectomy or radiotherapy based on patient and physician preference</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>conventional surgery</intervention_name>
+    <description>Radical prostatectomy</description>
+    <arm_group_label>Radical Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>brachytherapy</intervention_name>
+    <description>high dose rate temporary seed implant; permanent seed implant.</description>
+    <arm_group_label>Radical Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Radiation</intervention_type>
+    <intervention_name>external beam radiation therapy</intervention_name>
+    <description>3D conformal radiation therapy; intensity modulated radiation therapy.</description>
+    <arm_group_label>Radical Intervention</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>Biopsies</intervention_name>
+    <description>Periodic repeat biopsies</description>
+    <arm_group_label>Radical Intervention</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed adenocarcinoma of the prostate&#xD;
+&#xD;
+               -  Diagnosed within 6 months prior to randomization&#xD;
+&#xD;
+          -  Patient has been classified as favorable risk as defined by the following:&#xD;
+&#xD;
+               -  Clinical stage T1b, T1c, T2a, or T2b at the time of diagnosis&#xD;
+&#xD;
+               -  Clinical (diagnostic biopsy) Gleason score ≤ 6&#xD;
+&#xD;
+               -  PSA ≤ 10.0 ng/mL&#xD;
+&#xD;
+          -  Physical examination, rectal examination, and transrectal ultrasound have been done&#xD;
+             within 6 months prior to randomization and radiographic studies, if indicated, are&#xD;
+             negative for metastasis&#xD;
+&#xD;
+          -  Patient is a suitable candidate for radical prostatectomy or radiotherapy&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+          -  ECOG performance status 0, 1, or 2&#xD;
+&#xD;
+          -  Patient has a minimum life expectancy of &gt; 10 years&#xD;
+&#xD;
+          -  In centers participating in the quality of life component of the study, the patient is&#xD;
+             able (i.e., sufficiently fluent) and willing to complete the quality of life&#xD;
+             questionnaires in either English or French&#xD;
+&#xD;
+          -  No history of other malignancies, except adequately treated non-melanoma skin cancer,&#xD;
+             adequately treated superficial bladder cancer, or other solid tumors curatively&#xD;
+             treated with no evidence of disease for ≥ 5 years from study randomization&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+          -  No previous treatment for prostate cancer, including surgery (excluding biopsy and&#xD;
+             TURP), radiotherapy, or androgen deprivation therapy for greater than 3 months&#xD;
+&#xD;
+          -  No planned androgen therapy except in the context of radical therapy&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Laurence H. Klotz, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Toronto Sunnybrook Regional Cancer Centre</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Adam S. Kibel, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Washington University Siteman Cancer Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Martin G. Sanda, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Beth Israel Deaconess Medical Center</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Ian M. Thompson, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>The University of Texas Health Science Center at San Antonio</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Richard Choo, M.D</last_name>
+    <role>Study Chair</role>
+    <affiliation>Mayo Clinic</affiliation>
+  </overall_official>
+  <overall_official>
+    <last_name>Chris Parker, M.D</last_name>
+    <role>Study Chair</role>
+    <affiliation>Royal Marsden Hospital, Sulton, UK</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Clinical Research Unit at Vancouver Coastal</name>
+      <address>
+        <city>Vancouver</city>
+        <state>British Columbia</state>
+        <zip>V5Z 1M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CancerCare Manitoba</name>
+      <address>
+        <city>Winnipeg</city>
+        <state>Manitoba</state>
+        <zip>R3E 0V9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dr. H. Bliss Murphy Cancer Centre</name>
+      <address>
+        <city>St. John's</city>
+        <state>Newfoundland and Labrador</state>
+        <zip>AIB 3V6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>QEII Health Sciences Center</name>
+      <address>
+        <city>Halifax</city>
+        <state>Nova Scotia</state>
+        <zip>B3H 1V7</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>London Regional Cancer Program</name>
+      <address>
+        <city>London</city>
+        <state>Ontario</state>
+        <zip>N6A 4L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Ottawa Health Research Institute - General Division</name>
+      <address>
+        <city>Ottawa</city>
+        <state>Ontario</state>
+        <zip>K1H 8L6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Odette Cancer Centre</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M4N 3M5</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Univ. Health Network-Princess Margaret Hospital</name>
+      <address>
+        <city>Toronto</city>
+        <state>Ontario</state>
+        <zip>M5G 2M9</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHUM - Hopital Notre-Dame</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2L 4M1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>McGill University - Dept. Oncology</name>
+      <address>
+        <city>Montreal</city>
+        <state>Quebec</state>
+        <zip>H2W 1S6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>CHUQ-Pavillon Hotel-Dieu de Quebec</name>
+      <address>
+        <city>Quebec City</city>
+        <state>Quebec</state>
+        <zip>G1R 2J6</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Centre hospitalier universitaire de Sherbrooke</name>
+      <address>
+        <city>Sherbrooke</city>
+        <state>Quebec</state>
+        <zip>J1H 5N4</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Allan Blair Cancer Centre</name>
+      <address>
+        <city>Regina</city>
+        <state>Saskatchewan</state>
+        <zip>S4T 7T1</zip>
+        <country>Canada</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Canada</country>
+  </location_countries>
+  <removed_countries>
+    <country>United Kingdom</country>
+    <country>United States</country>
+  </removed_countries>
+  <verification_date>May 2021</verification_date>
+  <study_first_submitted>July 10, 2007</study_first_submitted>
+  <study_first_submitted_qc>July 10, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">July 11, 2007</study_first_posted>
+  <results_first_submitted>March 30, 2017</results_first_submitted>
+  <results_first_submitted_qc>May 11, 2021</results_first_submitted_qc>
+  <results_first_posted type="Actual">May 12, 2021</results_first_posted>
+  <last_update_submitted>May 11, 2021</last_update_submitted>
+  <last_update_submitted_qc>May 11, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">May 12, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stage II prostate cancer</keyword>
+  <keyword>adenocarcinoma of the prostate</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prostatic Neoplasms</mesh_term>
+  </condition_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Active Surveillance</title>
+          <description>Active surveillance with radical intervention at the time one or more of the following occur: Biochemical progression; Grade progression; Clinical progression</description>
+        </group>
+        <group group_id="P2">
+          <title>Radical Intervention</title>
+          <description>Radical prostatectomy or radiotherapy based on patient and physician preference&#xD;
+conventional surgery: Radical prostatectomy&#xD;
+brachytherapy: high dose rate temporary seed implant; permanent seed implant.&#xD;
+external beam radiation therapy: 3D conformal radiation therapy; intensity modulated radiation therapy.&#xD;
+Biopsies: Periodic repeat biopsies</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="78"/>
+                <participants group_id="P2" count="102"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="93"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="78"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Physician Decision</title>
+              <participants_list>
+                <participants group_id="P1" count="78"/>
+                <participants group_id="P2" count="9"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Active Surveillance</title>
+          <description>Active surveillance with radical intervention at the time one or more of the following occur: Biochemical progression; Grade progression; Clinical progression</description>
+        </group>
+        <group group_id="B2">
+          <title>Radical Intervention</title>
+          <description>Radical prostatectomy or radiotherapy based on patient and physician preference&#xD;
+conventional surgery: Radical prostatectomy&#xD;
+brachytherapy: high dose rate temporary seed implant; permanent seed implant.&#xD;
+external beam radiation therapy: 3D conformal radiation therapy; intensity modulated radiation therapy.&#xD;
+Biopsies: Periodic repeat biopsies</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="78"/>
+            <count group_id="B2" value="102"/>
+            <count group_id="B3" value="180"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>years</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>age group : 40-49</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>age group : 50-59</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="9"/>
+                    <measurement group_id="B2" value="22"/>
+                    <measurement group_id="B3" value="31"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>age group : 60-69</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="48"/>
+                    <measurement group_id="B2" value="56"/>
+                    <measurement group_id="B3" value="104"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>age group : &gt;= 70</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="41"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>age group : Missing</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="78"/>
+                    <measurement group_id="B2" value="102"/>
+                    <measurement group_id="B3" value="180"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Disease Stage*</title>
+          <description>*According to the 6th Edition of the TNM Classification of Malignant Tumours. T1b Tumour incidental histological finding in more than 5% of tissue resected; T1c Tumour identified by needle biopsy, e.g., because of elevated prostate-specific antigen (PSA); T2a Tumour involves one-half of one lobe or less. T2b Tumour involves more than one-half of one lobe, but not both lobes.</description>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>T1B</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>T1C</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="64"/>
+                    <measurement group_id="B2" value="79"/>
+                    <measurement group_id="B3" value="143"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>T2A</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="20"/>
+                    <measurement group_id="B3" value="32"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>T2B</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="3"/>
+                    <measurement group_id="B3" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>ECOG Performance Status*</title>
+          <description>*ECOG PERFORMANCE STATUS 0 : Fully active, able to carry on all pre-disease performance without restriction&#xD;
+Restricted in physically strenuous activity but ambulatory and able to carry out work of a light or sedentary nature, e.g., light house work, office work&#xD;
+Ambulatory and capable of all selfcare but unable to carry out any work activities; up and about more than 50% of waking hours&#xD;
+Capable of only limited selfcare; confined to bed or chair more than 50% of waking hours&#xD;
+Completely disabled; cannot carry on any selfcare; totally confined to bed or chair&#xD;
+Dead</description>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>0</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="73"/>
+                    <measurement group_id="B2" value="98"/>
+                    <measurement group_id="B3" value="171"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>PSA value</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>&lt; 5. ug/L</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="43"/>
+                    <measurement group_id="B2" value="55"/>
+                    <measurement group_id="B3" value="98"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>&gt;= 5. ug/L</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35"/>
+                    <measurement group_id="B2" value="47"/>
+                    <measurement group_id="B3" value="82"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Gleason Score (Combined)*</title>
+          <description>*Gleason score: A grading system for prostate carcinoma devised by Dr. Donald Gleason in 1977 as a method for predicting the behavior of prostate cance.&#xD;
+≤ 6: cancer cells that look similar to normal cells and suggest cancer grow slowly.&#xD;
+7: intermediate risk for aggressive cancer. 8 - 10: cancers spread more rapidly, these cancers are often referred to as poorly differentiated or high grade.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>6</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="78"/>
+                    <measurement group_id="B2" value="102"/>
+                    <measurement group_id="B3" value="180"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Disease-specific Survival</title>
+        <description>Time from the date of randomization to the date of death due to prostate cancer.</description>
+        <time_frame>5 years 6 months</time_frame>
+        <population>Due to difficulty in accruing patients to the trial, the trial was closed early, there is no patient died of prostate cancer. Thus, no analysis was done.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Radical Intervention</title>
+            <description>Radical prostatectomy or radiotherapy based on patient and physician preference&#xD;
+conventional surgery: Radical prostatectomy&#xD;
+brachytherapy: high dose rate temporary seed implant; permanent seed implant.&#xD;
+external beam radiation therapy: 3D conformal radiation therapy; intensity modulated radiation therapy.&#xD;
+Biopsies: Periodic repeat biopsies</description>
+          </group>
+          <group group_id="O2">
+            <title>Active Surveillance</title>
+            <description>Active surveillance with radical intervention at the time one or more of the following occur: Biochemical progression; Grade progression; Clinical progression</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Disease-specific Survival</title>
+          <description>Time from the date of randomization to the date of death due to prostate cancer.</description>
+          <population>Due to difficulty in accruing patients to the trial, the trial was closed early, there is no patient died of prostate cancer. Thus, no analysis was done.</population>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="78"/>
+                <count group_id="O2" value="102"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="NA" lower_limit="NA" upper_limit="NA">There is no patient died of prostate cancer reported in the trial, so none of the reported value is available.</measurement>
+                    <measurement group_id="O2" value="NA" lower_limit="NA" upper_limit="NA">There is no patient died of prostate cancer reported in the trial, so none of the reported value is available.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival</title>
+        <description>Time from randomization to the date of death due to any causes.</description>
+        <time_frame>5 years 6 months</time_frame>
+        <population>Due to lower patients accrual rate, the trial was closed early with only 3 events reported in the trial, Thus.no formal analysis had been done.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Active Surveillance</title>
+            <description>Active surveillance with radical intervention at the time one or more of the following occur: Biochemical progression; Grade progression; Clinical progression</description>
+          </group>
+          <group group_id="O2">
+            <title>Radical Intervention</title>
+            <description>Radical prostatectomy or radiotherapy based on patient and physician preference&#xD;
+conventional surgery: Radical prostatectomy&#xD;
+brachytherapy: high dose rate temporary seed implant; permanent seed implant.&#xD;
+external beam radiation therapy: 3D conformal radiation therapy; intensity modulated radiation therapy.&#xD;
+Biopsies: Periodic repeat biopsies</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival</title>
+          <description>Time from randomization to the date of death due to any causes.</description>
+          <population>Due to lower patients accrual rate, the trial was closed early with only 3 events reported in the trial, Thus.no formal analysis had been done.</population>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>95% Confidence Interval</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="78"/>
+                <count group_id="O2" value="102"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="NA" lower_limit="NA" upper_limit="NA">There is no patient died of prostate cancer reported in the trial, so none of the reported value is available.</measurement>
+                    <measurement group_id="O2" value="NA" lower_limit="NA" upper_limit="NA">There is no patient died of prostate cancer reported in the trial, so none of the reported value is available.</measurement>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>q 3 months for 2 years then every 6 months for 5 years and 6 months.</time_frame>
+      <desc>Adverse events graded according to CTCAE V4.0</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Active Surveillance</title>
+          <description>Active surveillance with radical intervention at the time one or more of the following occur: Biochemical progression; Grade progression; Clinical progression</description>
+        </group>
+        <group group_id="E2">
+          <title>Radical Intervention</title>
+          <description>Radical prostatectomy or radiotherapy based on patient and physician preference&#xD;
+conventional surgery: Radical prostatectomy&#xD;
+brachytherapy: high dose rate temporary seed implant; permanent seed implant.&#xD;
+external beam radiation therapy: 3D conformal radiation therapy; intensity modulated radiation therapy.&#xD;
+Biopsies: Periodic repeat biopsies</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="78"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="99"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="78"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="99"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>5</frequency_threshold>
+        <default_vocab>CTCAE V4.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="57" subjects_at_risk="78"/>
+                <counts group_id="E2" subjects_affected="65" subjects_at_risk="99"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="15" subjects_affected="15" subjects_at_risk="78"/>
+                <counts group_id="E2" events="7" subjects_affected="7" subjects_at_risk="99"/>
+              </event>
+              <event>
+                <sub_title>Pain Testicle</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="78"/>
+                <counts group_id="E2" events="9" subjects_affected="9" subjects_at_risk="99"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Incontinence, urinary</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="78"/>
+                <counts group_id="E2" events="11" subjects_affected="11" subjects_at_risk="99"/>
+              </event>
+              <event>
+                <sub_title>Urinary frequency</sub_title>
+                <counts group_id="E1" events="34" subjects_affected="34" subjects_at_risk="78"/>
+                <counts group_id="E2" events="29" subjects_affected="29" subjects_at_risk="99"/>
+              </event>
+              <event>
+                <sub_title>Urinary retention</sub_title>
+                <counts group_id="E1" events="12" subjects_affected="12" subjects_at_risk="78"/>
+                <counts group_id="E2" events="12" subjects_affected="12" subjects_at_risk="99"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Ejaculatory dysfunction</sub_title>
+                <counts group_id="E1" events="37" subjects_affected="37" subjects_at_risk="78"/>
+                <counts group_id="E2" events="41" subjects_affected="41" subjects_at_risk="99"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>Due to the early termination of the trial, the small number of patients and the shorter follow up, the reported information may not be reliable.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Keyue Ding, Biostatistician</name_or_title>
+      <organization>Canadian Cancer Trials Group</organization>
+      <phone>613-533-6430</phone>
+      <email>kding@ctg.queensu.ca</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

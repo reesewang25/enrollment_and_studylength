@@ -1,0 +1,122 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00004695</url>
+  </required_header>
+  <id_info>
+    <org_study_id>199/13358</org_study_id>
+    <secondary_id>MTS-93-726-ME</secondary_id>
+    <secondary_id>MTS-FDR001162</secondary_id>
+    <nct_id>NCT00004695</nct_id>
+  </id_info>
+  <brief_title>Randomized Study of Polyethylene-Glycol-Conjugated Interleukin 2 in Patients With Common Variable Immunodeficiency</brief_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Icahn School of Medicine at Mount Sinai</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>FDA Office of Orphan Products Development</source>
+  <brief_summary>
+    <textblock>
+      OBJECTIVES: I. Determine whether polyethylene-glycol-conjugated interleukin 2 (PEG-IL-2) can&#xD;
+      reduce the number of infections in patients with common variable immunodeficiency.&#xD;
+&#xD;
+      II. Determine whether this therapy can improve lung functions in these patients with&#xD;
+      pulmonary impairment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PROTOCOL OUTLINE: This is a randomized, open-label study. Patients are randomized to receive&#xD;
+      polyethylene-glycol-conjugated interleukin 2 (PEG-IL-2) or placebo.&#xD;
+&#xD;
+      Patients receive PEG-IL-2 or placebo by subcutaneous injection weekly for 18 months. Patients&#xD;
+      maintain a daily diary for 24 months.&#xD;
+&#xD;
+      Patients are followed every 4 months for 2 years.&#xD;
+&#xD;
+      Completion date provided represents the completion date of the grant per OOPD records&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>September 1997</start_date>
+  <completion_date>March 2000</completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <enrollment>48</enrollment>
+  <condition>Common Variable Immunodeficiency</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>PEG-interleukin-2</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        PROTOCOL ENTRY CRITERIA:&#xD;
+&#xD;
+        --Disease Characteristics--&#xD;
+&#xD;
+        Documented common variable immunodeficiency defined as a reduction of serum IgG by at least&#xD;
+        2 standard deviations&#xD;
+&#xD;
+        In vitro lymphocyte proliferative response to PEG-IL-2 of at least 10 times more than&#xD;
+        unstimulated cultures&#xD;
+&#xD;
+        --Prior/Concurrent Therapy--&#xD;
+&#xD;
+        No biologic response modifier therapy (i.e., interferon, cyclosporin A) except prednisone&#xD;
+        (maximum 10 mg/day)&#xD;
+&#xD;
+        Concurrent treatment with same dosage intravenous gamma-globulin for at least 6 months is&#xD;
+        required&#xD;
+&#xD;
+        --Patient Characteristics--&#xD;
+&#xD;
+        Life expectancy: At least 24 months&#xD;
+&#xD;
+        Other: Not pregnant or nursing HIV negative&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>2 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Charlotte Cunningham-Rundles</last_name>
+    <role>Study Chair</role>
+    <affiliation>Icahn School of Medicine at Mount Sinai</affiliation>
+  </overall_official>
+  <verification_date>May 1999</verification_date>
+  <study_first_submitted>February 24, 2000</study_first_submitted>
+  <study_first_submitted_qc>February 24, 2000</study_first_submitted_qc>
+  <study_first_posted type="Estimate">February 25, 2000</study_first_posted>
+  <last_update_submitted>March 24, 2015</last_update_submitted>
+  <last_update_submitted_qc>March 24, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">March 25, 2015</last_update_posted>
+  <keyword>common variable immunodeficiency</keyword>
+  <keyword>immunologic disorders and infectious disorders</keyword>
+  <keyword>primary immunodeficiency disease</keyword>
+  <keyword>rare disease</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Immunologic Deficiency Syndromes</mesh_term>
+    <mesh_term>Common Variable Immunodeficiency</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Interleukin-2</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

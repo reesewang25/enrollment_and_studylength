@@ -1,0 +1,188 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00000740</url>
+  </required_header>
+  <id_info>
+    <org_study_id>ACTG 173</org_study_id>
+    <secondary_id>11148</secondary_id>
+    <nct_id>NCT00000740</nct_id>
+  </id_info>
+  <brief_title>Escalating Multiple-Dose Safety and Tolerance of WR 6026 Hydrochloride in HIV-Infected Subjects</brief_title>
+  <official_title>Escalating Multiple-Dose Safety and Tolerance of WR 6026 Hydrochloride in HIV-Infected Subjects</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Institute of Allergy and Infectious Diseases (NIAID)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institute of Allergy and Infectious Diseases (NIAID)</source>
+  <brief_summary>
+    <textblock>
+      To determine the maximum tolerated dose (MTD) of WR 6026 in HIV-infected patients. To&#xD;
+      determine whether any unexpected toxicities are caused by WR 6026 in HIV-infected patients.&#xD;
+      To determine whether there is additional toxicity when WR 6026 is given for 21 days rather&#xD;
+      than 14 days. To further investigate the pharmacokinetics and pharmacodynamics of WR 6026,&#xD;
+      and in particular to examine potential correlations between the area under the&#xD;
+      concentration-time curve and methemoglobinemia or other toxicities.&#xD;
+&#xD;
+      In recent animal studies, WR 6026 demonstrated inhibitory activity against Pneumocystis&#xD;
+      carinii pneumonia (PCP). This study will assess the safety and tolerance of this drug in&#xD;
+      HIV-infected patients who do not have PCP.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      In recent animal studies, WR 6026 demonstrated inhibitory activity against Pneumocystis&#xD;
+      carinii pneumonia (PCP). This study will assess the safety and tolerance of this drug in&#xD;
+      HIV-infected patients who do not have PCP.&#xD;
+&#xD;
+      Escalating doses of WR 6026 will be studied in successive patient cohorts. Four patients will&#xD;
+      be randomized to active drug or placebo in a 3:1 ratio at each dose level until moderate&#xD;
+      toxicity is demonstrated. If one patient at a given dose level experiences WR 6026-related&#xD;
+      moderate or worse toxicity, the sample size for all subsequent dose levels will be doubled.&#xD;
+      If two or more patients at a given dose level experience moderate or dose-limiting toxicity,&#xD;
+      an additional four patients (randomized in the same 3:1 ratio) will be entered at that level,&#xD;
+      and sample size at all subsequent dose levels will be doubled. Dose escalation will continue&#xD;
+      until three of six patients receiving active drug at a given dose level experience&#xD;
+      dose-limiting or worse toxicity, or until two of six patients at a given dose level&#xD;
+      experience life-threatening toxicity. The MTD will be defined as the dose immediately below&#xD;
+      the highest dose studied. Eight additional patients will be studied at the presumed MTD to&#xD;
+      confirm tolerance.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <completion_date type="Actual">September 1993</completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>Double</masking>
+  </study_design_info>
+  <enrollment>44</enrollment>
+  <condition>Pneumonia, Pneumocystis Carinii</condition>
+  <condition>HIV Infections</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Sitamaquine</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria&#xD;
+&#xD;
+        Patients must have:&#xD;
+&#xD;
+          -  HIV antibody positive.&#xD;
+&#xD;
+          -  CD4 cell counts less than 500/mm3.&#xD;
+&#xD;
+          -  Adequate general health.&#xD;
+&#xD;
+          -  No significant deterioration in performance status within the past month.&#xD;
+&#xD;
+          -  Prior treatment with a stable regimen of antiretroviral medication for at least 4&#xD;
+             weeks prior to study.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        Required:&#xD;
+&#xD;
+          -  Stable regimen of antiretroviral medication for at least 4 weeks prior to study entry.&#xD;
+&#xD;
+        Allowed:&#xD;
+&#xD;
+          -  Aerosolized pentamidine for PCP prophylaxis.&#xD;
+&#xD;
+        Exclusion Criteria&#xD;
+&#xD;
+        Co-existing Condition:&#xD;
+&#xD;
+        Patients with the following symptoms or conditions are excluded:&#xD;
+&#xD;
+          -  Intercurrent infection.&#xD;
+&#xD;
+          -  Clinically significant abnormality on EKG.&#xD;
+&#xD;
+          -  Known hypersensitivity to quinolines.&#xD;
+&#xD;
+          -  Known hemoglobin M abnormality.&#xD;
+&#xD;
+          -  Known NADH methemoglobin reductase deficiency.&#xD;
+&#xD;
+          -  Positive test for G6PD deficiency.&#xD;
+&#xD;
+          -  Fever.&#xD;
+&#xD;
+        Prior Medication:&#xD;
+&#xD;
+        Excluded:&#xD;
+&#xD;
+          -  Other systemic medication (other than AZT, ddC, ddI, methadone, acyclovir, and NSAIDs)&#xD;
+             within 3 days prior to study entry.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Petty BG</last_name>
+    <role>Study Chair</role>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Indiana Univ. School of Medicine, Infectious Disease Research Clinic</name>
+      <address>
+        <city>Indianapolis</city>
+        <state>Indiana</state>
+        <zip>46202</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Johns Hopkins Adult AIDS CRS</name>
+      <address>
+        <city>Baltimore</city>
+        <state>Maryland</state>
+        <zip>21287</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <reference>
+    <citation>Petty BG, Black JR, Hendrix CW, Lewis LD, Basiakos Y, Feinberg J, Pattison DG, Hafner R. Escalating multiple-dose safety and tolerance study of oral WR 6026 in HIV-infected subjects: AIDS clinical trials group 173. J Acquir Immune Defic Syndr. 1999 May 1;21(1):26-32. doi: 10.1097/00126334-199905010-00004.</citation>
+    <PMID>10235511</PMID>
+  </reference>
+  <verification_date>October 2021</verification_date>
+  <study_first_submitted>November 2, 1999</study_first_submitted>
+  <study_first_submitted_qc>August 30, 2001</study_first_submitted_qc>
+  <study_first_posted type="Estimate">August 31, 2001</study_first_posted>
+  <last_update_submitted>October 27, 2021</last_update_submitted>
+  <last_update_submitted_qc>October 27, 2021</last_update_submitted_qc>
+  <last_update_posted type="Actual">November 4, 2021</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Pneumonia, Pneumocystis carinii</keyword>
+  <keyword>Acquired Immunodeficiency Syndrome</keyword>
+  <keyword>AIDS-Related Complex</keyword>
+  <keyword>WR 6026</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Pneumonia</mesh_term>
+    <mesh_term>Pneumonia, Pneumocystis</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

@@ -1,0 +1,414 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00006025</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NABTC-9907</org_study_id>
+    <secondary_id>CDR0000068037</secondary_id>
+    <secondary_id>UCLA-0006095</secondary_id>
+    <secondary_id>NCI-2012-02353</secondary_id>
+    <nct_id>NCT00006025</nct_id>
+  </id_info>
+  <brief_title>Temozolomide Plus Irinotecan in Treating Patients With Recurrent Malignant Glioma</brief_title>
+  <official_title>Phase I-II Trial of CPT-11 and Temozolomide (Temodar) in Patients With Recurrent Malignant Glioma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins</source>
+  <oversight_info>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining more than one drug may kill more tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase I/II trial to study the effectiveness of temozolomide plus irinotecan in&#xD;
+      treating patients who have recurrent malignant glioma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the maximum tolerated dose and dose-limiting toxicity of irinotecan when&#xD;
+           administered with temozolomide in patients with recurrent malignant glioma.&#xD;
+&#xD;
+        -  Determine the safety profile of this regimen in this patient population.&#xD;
+&#xD;
+        -  Determine the efficacy of this treatment regimen as measured by 6-month progression-free&#xD;
+           survival and objective tumor response in these patients.&#xD;
+&#xD;
+        -  Characterize the pharmacokinetics of this treatment regimen in these patients.&#xD;
+&#xD;
+        -  Determine the antitumor activity of this treatment regimen in these patients.&#xD;
+&#xD;
+      OUTLINE: This is a multicenter, dose-escalation study of irinotecan. Patients are stratified&#xD;
+      according to concurrent enzyme-inducing anti-epileptic drugs (EIAEDs) (e.g., phenytoin,&#xD;
+      phenobarbital, carbamazepine, or primidone) (yes vs no).&#xD;
+&#xD;
+      In phase I of the study, patients receive oral temozolomide on days 1-5 and irinotecan IV&#xD;
+      over 90 minutes on days 1 and 14. Treatment continues every 28 days for up to 1 year in the&#xD;
+      absence of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      Patients concurrently on EIAEDs undergo dose escalation of irinotecan. Cohorts of 3 to 6&#xD;
+      patients receive escalating doses of irinotecan until the maximum tolerated dose (MTD) is&#xD;
+      determined. The MTD is defined as the dose preceding that at which 2 of 3 or 6 patients&#xD;
+      experience dose-limiting toxicity.&#xD;
+&#xD;
+      In phase II of the study, patients receive the same treatment as in phase I at the MTD.&#xD;
+&#xD;
+      Patients are followed every 2 months for 1 year, every 3 months for 1 year, every 4 months&#xD;
+      for 1 year, every 6 months until progression, and then every 4 months for survival.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 30 patients will be accrued for phase I within 10 months and 48&#xD;
+      patients will be accrued for phase II within 6-8 months.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 5, 2001</start_date>
+  <completion_date type="Actual">December 1, 2007</completion_date>
+  <primary_completion_date type="Actual">January 10, 2005</primary_completion_date>
+  <phase>Phase 1</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <condition>Brain and Central Nervous System Tumors</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>irinotecan hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>temozolomide</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed supratentorial malignant primary glioma of one of the&#xD;
+             following subtypes:&#xD;
+&#xD;
+               -  Glioblastoma multiforme&#xD;
+&#xD;
+               -  Anaplastic astrocytoma&#xD;
+&#xD;
+               -  Anaplastic oligodendroglioma&#xD;
+&#xD;
+               -  Mixed malignant glioma&#xD;
+&#xD;
+          -  Original histology of low-grade glioma allowed if subsequent histological confirmation&#xD;
+             of malignant glioma&#xD;
+&#xD;
+          -  Measurable recurrent or residual primary disease by MRI&#xD;
+&#xD;
+               -  Lesions with clearly defined margins&#xD;
+&#xD;
+          -  Evidence of tumor recurrence or progression by MRI or CT scan&#xD;
+&#xD;
+          -  Confirmation of true progressive disease by PET or thallium scan, magnetic resonance&#xD;
+             spectroscopy, or surgical documentation after prior interstitial brachytherapy or&#xD;
+             stereotactic radiosurgery&#xD;
+&#xD;
+          -  No more than 3 relapses after prior chemotherapy/cytotoxic therapy (including&#xD;
+             polifeprosan 20 with carmustine implant) for phase I and no more than 2 relapses for&#xD;
+             phase II&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 and over&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Karnofsky 60-100%&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  WBC at least 3,000/mm^3&#xD;
+&#xD;
+          -  Absolute neutrophil count at least 1,500/mm^3&#xD;
+&#xD;
+          -  Platelet count at least 100,000/mm^3&#xD;
+&#xD;
+          -  Hemoglobin at least 10 g/dL&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin no greater than 1.5 mg/dL&#xD;
+&#xD;
+          -  SGOT no greater than 2 times upper limit of normal&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine no greater than 1.5 mg/dL&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  No uncontrolled hypertension, unstable angina, or symptomatic congestive heart failure&#xD;
+&#xD;
+          -  No myocardial infarction within the past 6 months&#xD;
+&#xD;
+          -  No serious uncontrolled cardiac arrhythmia&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use effective contraception&#xD;
+&#xD;
+          -  No mental incapacitation&#xD;
+&#xD;
+          -  HIV negative&#xD;
+&#xD;
+          -  No AIDS-related disease&#xD;
+&#xD;
+          -  No significant ongoing alcoholism or substance abuse&#xD;
+&#xD;
+          -  No severe nonmalignant systemic disease&#xD;
+&#xD;
+          -  No active infection&#xD;
+&#xD;
+          -  No other severe disease that would preclude study&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  At least 1 week since prior interferon or thalidomide and recovered&#xD;
+&#xD;
+          -  No concurrent anticancer immunotherapy&#xD;
+&#xD;
+          -  No concurrent sargramostim (GM-CSF)&#xD;
+&#xD;
+          -  No concurrent prophylactic filgrastim (G-CSF) during first course of study therapy&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  Recovered from prior chemotherapy&#xD;
+&#xD;
+          -  At least 2 weeks since prior vincristine&#xD;
+&#xD;
+          -  At least 3 weeks since prior procarbazine&#xD;
+&#xD;
+          -  At least 4 weeks since prior cytotoxic chemotherapy (6 weeks for nitrosourea)&#xD;
+&#xD;
+          -  Prior radiosensitizers allowed&#xD;
+&#xD;
+          -  No prior temozolomide or irinotecan&#xD;
+&#xD;
+          -  No other concurrent anticancer chemotherapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  At least 1 week since prior tamoxifen and recovered&#xD;
+&#xD;
+          -  No concurrent anticancer hormonal therapy&#xD;
+&#xD;
+          -  Phase II:&#xD;
+&#xD;
+               -  Non-increasing dose of corticosteroids allowed&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  At least 4 weeks since prior radiotherapy and recovered&#xD;
+&#xD;
+          -  No concurrent anticancer radiotherapy&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  At least 1-3 weeks since prior surgical resection and recovered&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  At least 1 week since prior noncytotoxic agents (e.g., isotretinoin) and recovered&#xD;
+&#xD;
+          -  Concurrent enzyme-inducing anti-epileptic drugs with or without steroids allowed&#xD;
+&#xD;
+          -  No concurrent valproic acid as a single agent&#xD;
+&#xD;
+          -  No concurrent medication that would preclude study (e.g., nonsteroidal&#xD;
+             immunosuppressive agents)&#xD;
+&#xD;
+          -  No other concurrent investigational drugs&#xD;
+&#xD;
+          -  No concurrent participation in other clinical study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wai-Kwan A. Yung, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>M.D. Anderson Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Jonsson Comprehensive Cancer Center, UCLA</name>
+      <address>
+        <city>Los Angeles</city>
+        <state>California</state>
+        <zip>90095</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>UCSF Comprehensive Cancer Center</name>
+      <address>
+        <city>San Francisco</city>
+        <state>California</state>
+        <zip>94143</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Warren Grant Magnuson Clinical Center - NCI Clinical Studies Support</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892-1182</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Dana-Farber/Harvard Cancer Center at Dana Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Hillman Cancer Center at University of Pittsburgh Cancer Institute</name>
+      <address>
+        <city>Pittsburgh</city>
+        <state>Pennsylvania</state>
+        <zip>15232</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas - MD Anderson Cancer Center</name>
+      <address>
+        <city>Houston</city>
+        <state>Texas</state>
+        <zip>77030-4009</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Texas Health Science Center at San Antonio</name>
+      <address>
+        <city>San Antonio</city>
+        <state>Texas</state>
+        <zip>78284-6220</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>University of Wisconsin Comprehensive Cancer Center</name>
+      <address>
+        <city>Madison</city>
+        <state>Wisconsin</state>
+        <zip>53792</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Loghin ME, Prados MD, Wen P, Junck L, Lieberman F, Fine H, Fink KL, Metha M, Kuhn J, Lamborn K, Chang SM, Cloughesy T, DeAngelis LM, Robins IH, Aldape KD, Yung WK. Phase I study of temozolomide and irinotecan for recurrent malignant gliomas in patients receiving enzyme-inducing antiepileptic drugs: a north american brain tumor consortium study. Clin Cancer Res. 2007 Dec 1;13(23):7133-8. doi: 10.1158/1078-0432.CCR-07-0874.</citation>
+    <PMID>18056194</PMID>
+  </results_reference>
+  <verification_date>June 2018</verification_date>
+  <study_first_submitted>July 5, 2000</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>June 25, 2018</last_update_submitted>
+  <last_update_submitted_qc>June 25, 2018</last_update_submitted_qc>
+  <last_update_posted type="Actual">June 27, 2018</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>recurrent adult brain tumor</keyword>
+  <keyword>adult glioblastoma</keyword>
+  <keyword>adult anaplastic astrocytoma</keyword>
+  <keyword>adult anaplastic oligodendroglioma</keyword>
+  <keyword>adult mixed glioma</keyword>
+  <keyword>adult giant cell glioblastoma</keyword>
+  <keyword>adult gliosarcoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Glioma</mesh_term>
+    <mesh_term>Nervous System Neoplasms</mesh_term>
+    <mesh_term>Central Nervous System Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Irinotecan</mesh_term>
+    <mesh_term>Temozolomide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

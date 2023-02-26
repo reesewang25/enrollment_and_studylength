@@ -1,0 +1,2164 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003656</url>
+  </required_header>
+  <id_info>
+    <org_study_id>9804003327</org_study_id>
+    <secondary_id>NYWCCC-0498-209</secondary_id>
+    <secondary_id>NCI-V98-1490</secondary_id>
+    <nct_id>NCT00003656</nct_id>
+  </id_info>
+  <brief_title>Tretinoin Plus Interferon Alfa in Treating Patients With Metastatic Kidney Cancer</brief_title>
+  <official_title>Phase II Trial of Atragen and Interferon Alfa-2b in Patients With Advanced Renal Cell Carcinoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Weill Medical College of Cornell University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Weill Medical College of Cornell University</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Tretinoin may help kidney cancer cells develop into normal cells. Interferon alfa&#xD;
+      may interfere with the growth of cancer cells.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of liposomal tretinoin plus interferon&#xD;
+      alfa in treating patients who have metastatic kidney cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the response in patients with metastatic renal cell carcinoma treated with&#xD;
+           tretinoin liposome and interferon alfa-2b.&#xD;
+&#xD;
+        -  Determine the toxicity of this regimen in these patients.&#xD;
+&#xD;
+        -  Study retinoic acid receptor expression on tissue obtained from selected patients who&#xD;
+           have tumor biopsies.&#xD;
+&#xD;
+      OUTLINE: This is a dose-escalation study of tretinoin liposome with concurrent individual&#xD;
+      dose escalation of interferon alfa-2b. (Phase I closed to accrual as of 9/24/03.)&#xD;
+&#xD;
+      Patients receive tretinoin liposome IV over 30 minutes once weekly and interferon alfa-2b&#xD;
+      subcutaneously on five consecutive days (M-F) for 8 weeks. Courses repeat every 8 weeks in&#xD;
+      the absence of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      Cohorts of 3-6 patients receive escalating doses of tretinoin liposome until the maximum&#xD;
+      tolerated dose (MTD) has been determined. The MTD is defined as the dose preceding that at&#xD;
+      which 2 of 3 or 2 of 6 patients experience dose-limiting toxicity. Once the MTD is determined&#xD;
+      additional patients are accrued and treated at that dose. (Phase I closed to accrual as of&#xD;
+      9/24/03.)&#xD;
+&#xD;
+      During the first 3 weeks of the study, patients receive interferon alfa-2b at weekly dose&#xD;
+      escalations. After week 3, patients continue at the highest acceptable dose level of&#xD;
+      interferon alfa-2b for the remainder of the study. (Phase I closed to accrual as of 9/24/03.)&#xD;
+&#xD;
+      Patients are followed at 30 days after the last treatment.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 3-18 patients will be accrued into the phase I portion of this&#xD;
+      study (Phase I closed to accrual as of 9/24/03). A total of 14-25 patients will be accrued&#xD;
+      into the phase II portion of this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">January 1999</start_date>
+  <completion_date type="Actual">May 2008</completion_date>
+  <primary_completion_date type="Actual">May 2008</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Best Response as Measured by CT, Bone Scans, and Clinical Progression</measure>
+    <time_frame>After 8 weeks</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Number of Subjects With Toxicity by Clinical Evaluation From First Dose to 30 Days After Last Dose</measure>
+    <time_frame>In 30 days after the last dose, an average of 1 year.</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in Retinoic Acid Receptor Expression on Tissue as Measured by Number of Subjects With the Presence of Peripheral Blood Lymphocytes During the First and Fifth Dose</measure>
+    <time_frame>At baseline and 5th week</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Duration of Response (Progression-free Survival) as Measured by CT, Bone Scans, and Clinical Progression From Initiation of Therapy Until an Increase of ≥ 25% From the Smallest Sum of All Tumor Measurements Obtained During the Best Response</measure>
+    <time_frame>At 6 months and 12 months</time_frame>
+  </secondary_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">26</enrollment>
+  <condition>Kidney Cancer</condition>
+  <arm_group>
+    <arm_group_label>All subjects</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Weekly ATRA-IV with recombinant interferon alfa</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>recombinant interferon alfa</intervention_name>
+    <arm_group_label>All subjects</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>tretinoin liposome</intervention_name>
+    <arm_group_label>All subjects</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed metastatic renal cell carcinoma&#xD;
+&#xD;
+          -  Bidimensionally measurable disease&#xD;
+&#xD;
+          -  No active brain metastases&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 and over&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Karnofsky 60-100%&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  More than 3 months&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  WBC at least 3,000/mm^3&#xD;
+&#xD;
+          -  Platelet count at least 100,000/mm^3&#xD;
+&#xD;
+          -  No coagulation disorders&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Bilirubin less than 1.5 mg/dL&#xD;
+&#xD;
+          -  SGOT and SGPT less than 112.5 IU/L each or less than 2.5 times upper limit of normal&#xD;
+&#xD;
+          -  No clinically significant hepatic disease, including autoimmune hepatitis&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine less than 2 mg/dL OR&#xD;
+&#xD;
+          -  Creatinine clearance greater than 50 mL/min&#xD;
+&#xD;
+          -  No clinically significant renal disease&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  No clinically significant cardiac disease&#xD;
+&#xD;
+          -  No thrombophlebitis&#xD;
+&#xD;
+        Pulmonary:&#xD;
+&#xD;
+          -  No severe debilitating pulmonary disease&#xD;
+&#xD;
+          -  No pulmonary embolism&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No history of diabetes mellitus prone to ketoacidosis&#xD;
+&#xD;
+          -  No known hypersensitivity to retinoids or retinoic acid derivatives or to interferon&#xD;
+             or any component of the injection for this study&#xD;
+&#xD;
+          -  No thyroid abnormalities that hinder maintaining thyroid function at the normal range&#xD;
+&#xD;
+          -  No severe infection&#xD;
+&#xD;
+          -  No severe malnutrition&#xD;
+&#xD;
+          -  No clinically significant retinal abnormalities&#xD;
+&#xD;
+          -  No pre-existing psychiatric condition, especially depression or a history of severe&#xD;
+             psychiatric disorder&#xD;
+&#xD;
+          -  No other concurrent malignancy except nonmelanoma skin cancer or curatively treated&#xD;
+             carcinoma in situ of the cervix&#xD;
+&#xD;
+          -  Not pregnant or nursing&#xD;
+&#xD;
+          -  Negative pregnancy test&#xD;
+&#xD;
+          -  Fertile patients must use 2 effective methods of contraception during and for 1 month&#xD;
+             after study participation&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  No more than 1 prior biological response modifier therapy or immunotherapy&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  No more than 1 prior chemotherapy regimen&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  No concurrent steroids&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  At least 4 weeks since prior radiotherapy&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  At least 4 weeks since prior major surgery&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No prior retinoid therapy&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>120 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>David M. Nanus, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Weill Medical College of Cornell University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>New York Weill Cornell Cancer Center at Cornell University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location>
+    <facility>
+      <name>Herbert Irving Comprehensive Cancer Center at Columbia University</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10032</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://www.ncbi.nlm.nih.gov/pubmed/?term=12216088</url>
+    <description>Clinical trial summary from the National Cancer Institute's PDQ® database</description>
+  </link>
+  <reference>
+    <citation>Goldberg JS, Vargas M, Rosmarin AS, Milowsky MI, Papanicoloau N, Gudas LJ, Shelton G, Feit K, Petrylak D, Nanus DM. Phase I trial of interferon alpha2b and liposome-encapsulated all-trans retinoic acid in the treatment of patients with advanced renal cell carcinoma. Cancer. 2002 Sep 15;95(6):1220-7. doi: 10.1002/cncr.10809.</citation>
+    <PMID>12216088</PMID>
+  </reference>
+  <verification_date>March 2022</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <results_first_submitted>October 22, 2021</results_first_submitted>
+  <results_first_submitted_qc>March 17, 2022</results_first_submitted_qc>
+  <results_first_posted type="Actual">March 18, 2022</results_first_posted>
+  <last_update_submitted>March 17, 2022</last_update_submitted>
+  <last_update_submitted_qc>March 17, 2022</last_update_submitted_qc>
+  <last_update_posted type="Actual">March 18, 2022</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stage IV renal cell cancer</keyword>
+  <keyword>recurrent renal cell cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Kidney Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Renal Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Interferons</mesh_term>
+    <mesh_term>Interferon-alpha</mesh_term>
+    <mesh_term>Tretinoin</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <recruitment_details>Patients were recruited from between April 2002 and March 2005. Data are only available as a combined Arm/Group based on information contained in the study publication. No additional study data is available despite exhausting all efforts to locate the data.</recruitment_details>
+      <group_list>
+        <group group_id="P1">
+          <title>Phase 1 Group</title>
+          <description>Weekly ATRA-IV (with three dose levels: 60, 75, and 90 mg/m2) with recombinant interferon alfa recombinant interferon alfa tretinoin liposome</description>
+        </group>
+        <group group_id="P2">
+          <title>Phase 2 Group</title>
+          <description>Weekly ATRA-IV (dosage of 90 mg/m2) with recombinant interferon alfa recombinant interferon alfa tretinoin liposome</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="14"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="12"/>
+                <participants group_id="P2" count="13"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Adverse Event</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+                <participants group_id="P2" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <population>Data are only available as a combined Arm/Group based on information contained in the study publication. No additional study data is available despite exhausting all efforts to locate the data.</population>
+      <group_list>
+        <group group_id="B1">
+          <title>Phase 1 Group</title>
+          <description>Weekly ATRA-IV (with three dose levels: 60, 75, and 90 mg/m2) with recombinant interferon alfa recombinant interferon alfa tretinoin liposome</description>
+        </group>
+        <group group_id="B2">
+          <title>Phase 2 Group</title>
+          <description>Weekly ATRA-IV (dosage of 90 mg/m2) with recombinant interferon alfa recombinant interferon alfa tretinoin liposome</description>
+        </group>
+        <group group_id="B3">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="12"/>
+            <count group_id="B2" value="14"/>
+            <count group_id="B3" value="26"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age, Customized</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Inter-Quartile Range</dispersion>
+          <class_list>
+            <class>
+              <title>Median age</title>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="12"/>
+                    <count group_id="B2" value="14"/>
+                    <count group_id="B3" value="26"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="66.5" lower_limit="42" upper_limit="79"/>
+                    <measurement group_id="B2" value="61.1" lower_limit="47" upper_limit="75"/>
+                    <measurement group_id="B3" value="63.6" lower_limit="42" upper_limit="79"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="12"/>
+                    <count group_id="B2" value="14"/>
+                    <count group_id="B3" value="26"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="9"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="10"/>
+                    <measurement group_id="B3" value="17"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race and Ethnicity Not Collected</title>
+          <population>Race and Ethnicity were not collected from any participant.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="0"/>
+                    <count group_id="B2" value="0"/>
+                    <count group_id="B3" value="0"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Prior nephrectomy</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="12"/>
+                    <count group_id="B2" value="14"/>
+                    <count group_id="B3" value="26"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Yes prior nephrectomy</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="12"/>
+                    <measurement group_id="B2" value="12"/>
+                    <measurement group_id="B3" value="24"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>No prior nephrectomy</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Histology</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="12"/>
+                    <count group_id="B2" value="14"/>
+                    <count group_id="B3" value="26"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <title>Clear cell</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                    <measurement group_id="B2" value="9"/>
+                    <measurement group_id="B3" value="16"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Clear cell with sarcomatoid features</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="4"/>
+                    <measurement group_id="B3" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Papillary</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Xp11</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unclassified</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Number of patients with metastases at the time of diagnosis</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <analyzed_list>
+                <analyzed>
+                  <units>Participants</units>
+                  <scope>Class</scope>
+                  <count_list>
+                    <count group_id="B1" value="12"/>
+                    <count group_id="B2" value="14"/>
+                    <count group_id="B3" value="26"/>
+                  </count_list>
+                </analyzed>
+              </analyzed_list>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="6"/>
+                    <measurement group_id="B2" value="8"/>
+                    <measurement group_id="B3" value="14"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Best Response as Measured by CT, Bone Scans, and Clinical Progression</title>
+        <time_frame>After 8 weeks</time_frame>
+        <population>Data are only available as a combined Arm/Group based on information contained in the study publication. No additional study data is available despite exhausting all efforts to locate the data.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Phase 1 Group</title>
+            <description>Weekly ATRA-IV (with three dose levels: 60, 75, and 90 mg/m2) with recombinant interferon alfa recombinant interferon alfa tretinoin liposome</description>
+          </group>
+          <group group_id="O2">
+            <title>Phase 2 Group</title>
+            <description>Weekly ATRA-IV (dosage of 90 mg/m2) with recombinant interferon alfa recombinant interferon alfa tretinoin liposome</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Best Response as Measured by CT, Bone Scans, and Clinical Progression</title>
+          <population>Data are only available as a combined Arm/Group based on information contained in the study publication. No additional study data is available despite exhausting all efforts to locate the data.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Complete Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Minor Reponse</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Partial Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Stable Disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Disease Progression</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Number of Subjects With Toxicity by Clinical Evaluation From First Dose to 30 Days After Last Dose</title>
+        <time_frame>In 30 days after the last dose, an average of 1 year.</time_frame>
+        <population>Data are only available as a combined Arm/Group based on information contained in the study publication. No additional study data is available despite exhausting all efforts to locate the data.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Phase 1 Group</title>
+            <description>Weekly ATRA-IV (with three dose levels: 60, 75, and 90 mg/m2) with recombinant interferon alfa recombinant interferon alfa tretinoin liposome</description>
+          </group>
+          <group group_id="O2">
+            <title>Phase 2 Group</title>
+            <description>Weekly ATRA-IV (dosage of 90 mg/m2) with recombinant interferon alfa recombinant interferon alfa tretinoin liposome</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Number of Subjects With Toxicity by Clinical Evaluation From First Dose to 30 Days After Last Dose</title>
+          <population>Data are only available as a combined Arm/Group based on information contained in the study publication. No additional study data is available despite exhausting all efforts to locate the data.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Fatigue : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7"/>
+                    <measurement group_id="O2" value="8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fatigue : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fatigue : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fatigue : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Skin : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Skin : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Skin : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Skin : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Xeroderma : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Xeroderma : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Xeroderma : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Xeroderma : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Constipation : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Constipation : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Constipation : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Constipation : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cough : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cough : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cough : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cough : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anemia : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anemia : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anemia : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anemia : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anorexia : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="9"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anorexia : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anorexia : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anorexia : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neurologic : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="9"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neurologic : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neurologic : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neurologic : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diarrhea : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diarrhea : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diarrhea : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Diarrhea : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nausea/vomiting : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="6"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nausea/vomiting : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nausea/vomiting : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nausea/vomiting : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Altered mood : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="8"/>
+                    <measurement group_id="O2" value="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Altered mood : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Altered mood : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Altered mood : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Leukopenia : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Leukopenia : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Leukopenia : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Leukopenia : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fever : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fever : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fever : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Fever : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Renal : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Renal : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Renal : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Renal : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Liver : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1"/>
+                    <measurement group_id="O2" value="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Liver : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Liver : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Liver : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thrombocytopenia : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="2"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thrombocytopenia : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thrombocytopenia : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thrombocytopenia : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Infusion reaction : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Infusion reaction : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Infusion reaction : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Infusion reaction : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pulmonary : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pulmonary : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pulmonary : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Pulmonary : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nasal congestion : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nasal congestion : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nasal congestion : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Nasal congestion : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypotension : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypotension : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypotension : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypotension : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cholesterol/TG : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cholesterol/TG : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cholesterol/TG : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cholesterol/TG : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Bone pain : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Bone pain : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Bone pain : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Bone pain : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other pain : Grade 1</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other pain : Grade 2</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other pain : Grade 3</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Other pain : Grade 4</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Retinoic Acid Receptor Expression on Tissue as Measured by Number of Subjects With the Presence of Peripheral Blood Lymphocytes During the First and Fifth Dose</title>
+        <time_frame>At baseline and 5th week</time_frame>
+        <population>Phase 1 portion at the RP2D of 90 mg/m2. 6 patients (12 in phase 1 w 6 at 75 mg/m2 and 6 at 90 mg/m2). This was not completed on the other 14 in phase 2 portion.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>All Subjects</title>
+            <description>Weekly ATRA-IV with recombinant interferon alfa&#xD;
+recombinant interferon alfa&#xD;
+tretinoin liposome</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Retinoic Acid Receptor Expression on Tissue as Measured by Number of Subjects With the Presence of Peripheral Blood Lymphocytes During the First and Fifth Dose</title>
+          <population>Phase 1 portion at the RP2D of 90 mg/m2. 6 patients (12 in phase 1 w 6 at 75 mg/m2 and 6 at 90 mg/m2). This was not completed on the other 14 in phase 2 portion.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="6"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Duration of Response (Progression-free Survival) as Measured by CT, Bone Scans, and Clinical Progression From Initiation of Therapy Until an Increase of ≥ 25% From the Smallest Sum of All Tumor Measurements Obtained During the Best Response</title>
+        <time_frame>At 6 months and 12 months</time_frame>
+        <population>Data are only available as a combined Arm/Group based on information contained in the study publication. No additional study data is available despite exhausting all efforts to locate the data.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Phase 1 Group</title>
+            <description>Weekly ATRA-IV (with three dose levels: 60, 75, and 90 mg/m2) with recombinant interferon alfa recombinant interferon alfa tretinoin liposome</description>
+          </group>
+          <group group_id="O2">
+            <title>Phase 2 Group</title>
+            <description>Weekly ATRA-IV (dosage of 90 mg/m2) with recombinant interferon alfa recombinant interferon alfa tretinoin liposome</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Duration of Response (Progression-free Survival) as Measured by CT, Bone Scans, and Clinical Progression From Initiation of Therapy Until an Increase of ≥ 25% From the Smallest Sum of All Tumor Measurements Obtained During the Best Response</title>
+          <population>Data are only available as a combined Arm/Group based on information contained in the study publication. No additional study data is available despite exhausting all efforts to locate the data.</population>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="12"/>
+                <count group_id="O2" value="14"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>6 month</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="5"/>
+                    <measurement group_id="O2" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>12 month</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="4"/>
+                    <measurement group_id="O2" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <desc>Data are only available as a combined Arm/Group based on information contained in the study publication. No additional study data is available despite exhausting all efforts to locate the data.</desc>
+      <group_list>
+        <group group_id="E1">
+          <title>Phase 1 Group</title>
+          <description>Weekly ATRA-IV (with three dose levels: 60, 75, and 90 mg/m2) with recombinant interferon alfa recombinant interferon alfa tretinoin liposome</description>
+        </group>
+        <group group_id="E2">
+          <title>Phase 2 Group</title>
+          <description>Weekly ATRA-IV (dosage of 90 mg/m2) with recombinant interferon alfa recombinant interferon alfa tretinoin liposome</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_assessment>Non-systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Investigations</title>
+            <event_list>
+              <event>
+                <sub_title>Leukopenia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" events="0" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="12" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="14" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anemia - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Anemia - Grade 2</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Anemia - Grade 3</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Leukopenia - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Leukopenia - Grade 2</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Leukopenia - Grade 3</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Cholesterol/TG - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hypotension - Grade 2</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Constipation - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Nausea/Vomiting - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Nausea/Vomiting - Grade 2</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fatigue - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="7" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="8" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Fatigue - Grade 2</sub_title>
+                <counts group_id="E1" subjects_affected="5" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Infusion Reaction - Grade 2</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Other Pain - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Liver - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Fever - Grade 1</sub_title>
+                <description>Side effect of interferon</description>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Fever - Grade 2</sub_title>
+                <description>Side effect of interferon</description>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anorexia - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="9" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="6" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Anorexia - Grade 2</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="2" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Bone Pain - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Neurologic - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="9" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Neurologic - Grade 3</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Neurologic - Grade 2</sub_title>
+                <counts group_id="E1" subjects_affected="3" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Altered Mood - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="8" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="4" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Renal - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Renal - Grade 2</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="4" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Cough - Grade 2</sub_title>
+                <counts group_id="E1" subjects_affected="2" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Pulmonary - Grade 3</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Nasal Congestion - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Skin - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="1" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="3" subjects_at_risk="14"/>
+              </event>
+              <event>
+                <sub_title>Xeroderma - Grade 1</sub_title>
+                <counts group_id="E1" subjects_affected="11" subjects_at_risk="12"/>
+                <counts group_id="E2" subjects_affected="5" subjects_at_risk="14"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>All Principal Investigators ARE employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Sharon Singh</name_or_title>
+      <organization>Weill Cornell Medical College</organization>
+      <phone>(646) 962-9340</phone>
+      <email>shs4011@med.cornell.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

@@ -1,0 +1,1146 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00462722</url>
+  </required_header>
+  <id_info>
+    <org_study_id>06-0769</org_study_id>
+    <secondary_id>R01AG018857</secondary_id>
+    <nct_id>NCT00462722</nct_id>
+  </id_info>
+  <brief_title>Myogenic and Osteogenic Responses to eXercise and Ibuprofen</brief_title>
+  <acronym>MOXI</acronym>
+  <official_title>COX Inhibition &amp; Musculoskeletal Responses to Exercise</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>University of Colorado, Denver</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Institute on Aging (NIA)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>University of Colorado, Denver</source>
+  <oversight_info>
+    <has_dmc>Yes</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      The purpose of this study is to determine if the use of ibuprofen blocks the benefits of&#xD;
+      exercise to build bone and muscle mass.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      People are advised to engage in weight-bearing physical activity to help prevent the loss of&#xD;
+      bone and muscle mass that occurs with aging. There is evidence from studies of animals that&#xD;
+      non-steroidal anti-inflammatory drugs (NSAIDS), such as ibuprofen, block some of the bone-&#xD;
+      and muscle-building effects of exercise. The aim of this study is to determine whether use of&#xD;
+      ibuprofen, either before or after exercise, blocks the benefits of exercise training on bone&#xD;
+      and skeletal muscle in older women and men. The hypothesis is that taking ibuprofen before&#xD;
+      exercise will block some of the effects of exercise training to increase bone density and&#xD;
+      muscle mass.&#xD;
+&#xD;
+      Women and men aged 60-75 years will complete a supervised, 9-month exercise training program&#xD;
+      designed to increase bone and muscle mass. The training will include weight lifting and&#xD;
+      weight-bearing exercises, such as jumping in place and treadmill walking, up to 5 days per&#xD;
+      week. Participants will be randomly assigned to take 1 of 3 study pill combinations before&#xD;
+      and after each exercise session. The combinations of study pills will be: placebo&#xD;
+      before/placebo after, placebo before/ibuprofen after, or ibuprofen before/placebo after. The&#xD;
+      dose of ibuprofen will be 400 mg. Bone density of the hip and spine, body composition (total&#xD;
+      body muscle and fat), and markers of bone turnover in the blood will be measured before and&#xD;
+      after 4.5 and 9 months of training. Muscle cross-sectional area of the thigh will be measured&#xD;
+      by CT before and after 9 months of training. A subset of participants will have biopsies of&#xD;
+      the thigh muscle before and after training to measure proteins and genes associated with&#xD;
+      muscle build-up and breakdown.&#xD;
+&#xD;
+      Volunteers who do not use ibuprofen, aspirin, or acetaminophen more than 3 days per month&#xD;
+      will be enrolled. People with intolerance to ibuprofen or related drugs, cardiovascular&#xD;
+      disease, or orthopedic problems that limit exercise will be excluded from the study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>July 2007</start_date>
+  <completion_date type="Actual">December 2011</completion_date>
+  <primary_completion_date type="Actual">December 2011</primary_completion_date>
+  <phase>N/A</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <masking>Triple (Participant, Investigator, Outcomes Assessor)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Percentage Change From Baseline in Lumbar Spine Bone Mineral Density (BMD) at 9 Months</measure>
+    <time_frame>Baseline and after 9 months of training</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage Change From Baseline in Total Hip Bone Mineral Density (BMD) at 9 Months</measure>
+    <time_frame>Baseline and after 9 months of training</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Change From Baseline in Fat-free Mass at 9 Months</measure>
+    <time_frame>Baseline and after 9 months of training</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage Change From Baseline in Femoral Neck Bone Mineral Density (BMD) at 9 Months</measure>
+    <time_frame>Baseline and after 9 months of training</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage Change From Baseline in Trochanter Bone Mineral Density (BMD) at 9 Months</measure>
+    <time_frame>Baseline and after 9 months of training</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage Change From Baseline in Sub-trochanter Bone Mineral Density (BMD) at 9 Months</measure>
+    <time_frame>Baseline and after 9 months of training</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Change in Thigh Cross-sectional Muscle Area</measure>
+    <time_frame>Baseline and after 9 months of training</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Bone Turnover Markers</measure>
+    <time_frame>Baseline, and after 4.5 &amp; 9 months of training</time_frame>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Expression of Selected Proteins and Genes Associated With Muscle Build-up and Breakdown</measure>
+    <time_frame>Baseline and after 9 months of training</time_frame>
+  </secondary_outcome>
+  <number_of_arms>3</number_of_arms>
+  <enrollment type="Actual">159</enrollment>
+  <condition>Aging</condition>
+  <condition>Physical Fitness</condition>
+  <arm_group>
+    <arm_group_label>Placebo pre and post exercise</arm_group_label>
+    <arm_group_type>Placebo Comparator</arm_group_type>
+    <description>placebo before and after musculoskeletal-loading exercise</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Placebo pre and ibuprofen post exercise</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>placebo before and ibuprofen after musculoskeletal-loading exercise</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Ibuprofen pre and placebo post exercise</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>ibuprofen before and placebo after musculoskeletal-loading exercise</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Ibuprofen</intervention_name>
+    <description>400 mg with each exercise session (up to 5 days per week) for 9 months</description>
+    <arm_group_label>Ibuprofen pre and placebo post exercise</arm_group_label>
+    <arm_group_label>Placebo pre and ibuprofen post exercise</arm_group_label>
+    <other_name>Motrin</other_name>
+    <other_name>Advil</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Placebo</intervention_name>
+    <description>with each exercise session (up to 5 days per week) for 9 months</description>
+    <arm_group_label>Ibuprofen pre and placebo post exercise</arm_group_label>
+    <arm_group_label>Placebo pre and ibuprofen post exercise</arm_group_label>
+    <arm_group_label>Placebo pre and post exercise</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Behavioral</intervention_type>
+    <intervention_name>musculoskeletal-loading exercise</intervention_name>
+    <description>Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+    <arm_group_label>Ibuprofen pre and placebo post exercise</arm_group_label>
+    <arm_group_label>Placebo pre and ibuprofen post exercise</arm_group_label>
+    <arm_group_label>Placebo pre and post exercise</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Aged 60 to 75 years&#xD;
+&#xD;
+          -  Willing to participate in a 9-month supervised exercise program that will start at a&#xD;
+             moderate intensity and gradually progress to a vigorous intensity&#xD;
+&#xD;
+          -  Not currently performing regular, moderate-to-vigorous weight-bearing or&#xD;
+             weight-lifting exercise&#xD;
+&#xD;
+          -  Average use of NSAIDs (including low-dose aspirin) or acetaminophen less than 3 days&#xD;
+             per month&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Relative or absolute contraindications to regular use of NSAIDs&#xD;
+&#xD;
+          -  Known allergy or intolerance (heartburn, stomach pain, nausea, vomiting) to NSAIDs;&#xD;
+             controlled GERD(Gastroesophageal Reflux Disease), if not related to NSAID use, will&#xD;
+             not be an exclusion criterion&#xD;
+&#xD;
+          -  Proton Pump Inhibitor (PPI) use if dose is unstable or if using for less than 6 months&#xD;
+             prior to study enrollment&#xD;
+&#xD;
+          -  History of peptic ulcer or upper GI bleeding&#xD;
+&#xD;
+          -  Anemia&#xD;
+&#xD;
+          -  Asthma with bronchospasm induced by aspirin or other NSAIDs&#xD;
+&#xD;
+          -  Moderate or severe renal impairment defined as a calculated creatinine clearance&#xD;
+&#xD;
+          -  Chronic hepatobiliary disease, conservatively defined as liver function tests greater&#xD;
+             than 1.5 times the upper limit of normal (if such values are obtained on initial&#xD;
+             screening and thought to be transient in nature, repeated testing will be allowed)&#xD;
+&#xD;
+          -  Hyperkalemia&#xD;
+&#xD;
+          -  Osteoporosis&#xD;
+&#xD;
+          -  Diabetes mellitus requiring pharmacologic therapy&#xD;
+&#xD;
+          -  Congestive heart failure&#xD;
+&#xD;
+          -  Uncontrolled hypertension; use of thiazide diuretics will be allowed if on a stable&#xD;
+             dose for at least 6 months&#xD;
+&#xD;
+          -  Cardiovascular disease&#xD;
+&#xD;
+          -  Thyroid dysfunction&#xD;
+&#xD;
+          -  Orthopedic problems (e.g., chronic back pain, severe osteoarthritis, rheumatoid&#xD;
+             arthritis) that limit the ability to perform vigorous exercise and increase the&#xD;
+             likelihood that the volunteer will use pain medications other than the study pills&#xD;
+&#xD;
+          -  Certain use of medications, including&#xD;
+&#xD;
+               -  Drugs that are known to alter bone metabolism (e.g., estrogen, SERMs(Selective&#xD;
+                  estrogen-receptor modulators), testosterone, bisphosphonates, teriparatide,&#xD;
+                  calcitonin, GnRH(Gonadotropin-releasing hormone) agonists)&#xD;
+&#xD;
+               -  Chronic use of oral corticosteroids or any use in the previous 6 months (use of&#xD;
+                  inhaled steroids will not be an exclusion criterion based on a meta-analysis&#xD;
+                  documenting that the effect on bone is not significant)&#xD;
+&#xD;
+               -  Average use of acetaminophen or NSAIDs, including low-dose aspirin, greater than&#xD;
+                  3 days per month; volunteers using aspirin for primary prevention may enroll in&#xD;
+                  the study if they discontinue aspirin therapy for the 9-month intervention period&#xD;
+&#xD;
+               -  Anticoagulants (e.g., warfarin, clopidogrel)&#xD;
+&#xD;
+               -  Narcotics&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>60 Years</minimum_age>
+    <maximum_age>75 Years</maximum_age>
+    <healthy_volunteers>Accepts Healthy Volunteers</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Wendy Kohrt, PhD</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>University of Colorado, Denver</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>University of Colorado Denver</name>
+      <address>
+        <city>Aurora</city>
+        <state>Colorado</state>
+        <zip>80045</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>http://www.ucdenver.edu/academics/colleges/medicalschool/departments/medicine/geriatrics/Documents/AnalysisPlanMOXI.pdf</url>
+    <description>Data analysis plan MOXI Study</description>
+  </link>
+  <reference>
+    <citation>Chow JW, Chambers TJ. Indomethacin has distinct early and late actions on bone formation induced by mechanical stimulation. Am J Physiol. 1994 Aug;267(2 Pt 1):E287-92. doi: 10.1152/ajpendo.1994.267.2.E287.</citation>
+    <PMID>8074209</PMID>
+  </reference>
+  <reference>
+    <citation>Li J, Burr DB, Turner CH. Suppression of prostaglandin synthesis with NS-398 has different effects on endocortical and periosteal bone formation induced by mechanical loading. Calcif Tissue Int. 2002 Apr;70(4):320-9. doi: 10.1007/s00223-001-1025-y. Epub 2002 Mar 26.</citation>
+    <PMID>12004337</PMID>
+  </reference>
+  <reference>
+    <citation>Trappe TA, White F, Lambert CP, Cesar D, Hellerstein M, Evans WJ. Effect of ibuprofen and acetaminophen on postexercise muscle protein synthesis. Am J Physiol Endocrinol Metab. 2002 Mar;282(3):E551-6. doi: 10.1152/ajpendo.00352.2001.</citation>
+    <PMID>11832356</PMID>
+  </reference>
+  <verification_date>October 2015</verification_date>
+  <study_first_submitted>April 17, 2007</study_first_submitted>
+  <study_first_submitted_qc>April 17, 2007</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 19, 2007</study_first_posted>
+  <results_first_submitted>June 11, 2015</results_first_submitted>
+  <results_first_submitted_qc>July 10, 2015</results_first_submitted_qc>
+  <results_first_posted type="Estimate">August 10, 2015</results_first_posted>
+  <last_update_submitted>October 7, 2015</last_update_submitted>
+  <last_update_submitted_qc>October 7, 2015</last_update_submitted_qc>
+  <last_update_posted type="Estimate">November 1, 2015</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>body composition</keyword>
+  <keyword>bone density</keyword>
+  <keyword>cyclooxygenase inhibitor</keyword>
+  <keyword>bone metabolism</keyword>
+  <keyword>muscle function</keyword>
+  <keyword>muscle strength</keyword>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ibuprofen</mesh_term>
+  </intervention_browse>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Placebo Pre and Post Exercise</title>
+          <description>placebo before and after musculoskeletal-loading exercise&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+        </group>
+        <group group_id="P2">
+          <title>Ibuprofen Pre and Placebo Post Exercise</title>
+          <description>ibuprofen before and placebo after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+        </group>
+        <group group_id="P3">
+          <title>Placebo Pre and Ibuprofen Post Exercise</title>
+          <description>placebo before and ibuprofen after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>Overall Study</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="50"/>
+                <participants group_id="P2" count="55"/>
+                <participants group_id="P3" count="54"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="37"/>
+                <participants group_id="P2" count="51"/>
+                <participants group_id="P3" count="42"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="13"/>
+                <participants group_id="P2" count="4"/>
+                <participants group_id="P3" count="12"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Placebo Pre and Post Exercise</title>
+          <description>placebo before and after musculoskeletal-loading exercise&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+        </group>
+        <group group_id="B2">
+          <title>Ibuprofen Pre and Placebo Post Exercise</title>
+          <description>ibuprofen before and placebo after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+        </group>
+        <group group_id="B3">
+          <title>Placebo Pre and Ibuprofen Post Exercise</title>
+          <description>placebo before and ibuprofen after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+        </group>
+        <group group_id="B4">
+          <title>Total</title>
+          <description>Total of all reporting groups</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="37"/>
+            <count group_id="B2" value="51"/>
+            <count group_id="B3" value="42"/>
+            <count group_id="B4" value="130"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="64" spread="4"/>
+                    <measurement group_id="B2" value="64" spread="4"/>
+                    <measurement group_id="B3" value="66" spread="4"/>
+                    <measurement group_id="B4" value="64" spread="4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="23"/>
+                    <measurement group_id="B2" value="32"/>
+                    <measurement group_id="B3" value="27"/>
+                    <measurement group_id="B4" value="82"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="14"/>
+                    <measurement group_id="B2" value="19"/>
+                    <measurement group_id="B3" value="15"/>
+                    <measurement group_id="B4" value="48"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="2"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="5"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="35"/>
+                    <measurement group_id="B2" value="49"/>
+                    <measurement group_id="B3" value="41"/>
+                    <measurement group_id="B4" value="125"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="2"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1"/>
+                    <measurement group_id="B2" value="1"/>
+                    <measurement group_id="B3" value="1"/>
+                    <measurement group_id="B4" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="2"/>
+                    <measurement group_id="B3" value="5"/>
+                    <measurement group_id="B4" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="33"/>
+                    <measurement group_id="B2" value="47"/>
+                    <measurement group_id="B3" value="35"/>
+                    <measurement group_id="B4" value="115"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="3"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                    <measurement group_id="B2" value="0"/>
+                    <measurement group_id="B3" value="0"/>
+                    <measurement group_id="B4" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="37"/>
+                    <measurement group_id="B2" value="51"/>
+                    <measurement group_id="B3" value="42"/>
+                    <measurement group_id="B4" value="130"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage Change From Baseline in Lumbar Spine Bone Mineral Density (BMD) at 9 Months</title>
+        <time_frame>Baseline and after 9 months of training</time_frame>
+        <population>One participant in the &quot;Ibuprofen pre and placebo post exercise&quot; group had an uninterpretable spine scan.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo Pre and Post Exercise</title>
+            <description>placebo before and after musculoskeletal-loading exercise&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Ibuprofen Pre and Placebo Post Exercise</title>
+            <description>ibuprofen before and placebo after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo Pre and Ibuprofen Post Exercise</title>
+            <description>placebo before and ibuprofen after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage Change From Baseline in Lumbar Spine Bone Mineral Density (BMD) at 9 Months</title>
+          <population>One participant in the &quot;Ibuprofen pre and placebo post exercise&quot; group had an uninterpretable spine scan.</population>
+          <units>Percentage change in lumbar spine BMD</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="37"/>
+                <count group_id="O2" value="50"/>
+                <count group_id="O3" value="42"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.3" spread="2.8"/>
+                    <measurement group_id="O2" value="1.5" spread="2.5"/>
+                    <measurement group_id="O3" value="0.9" spread="2.2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage Change From Baseline in Total Hip Bone Mineral Density (BMD) at 9 Months</title>
+        <time_frame>Baseline and after 9 months of training</time_frame>
+        <population>One participant in the &quot;Placebo pre and post exercise&quot; group and two participants in the &quot;Ibuprofen pre and placebo post exercise&quot; group had uninterpretable hip scans.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo Pre and Post Exercise</title>
+            <description>placebo before and after musculoskeletal-loading exercise&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Ibuprofen Pre and Placebo Post Exercise</title>
+            <description>ibuprofen before and placebo after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo Pre and Ibuprofen Post Exercise</title>
+            <description>placebo before and ibuprofen after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage Change From Baseline in Total Hip Bone Mineral Density (BMD) at 9 Months</title>
+          <population>One participant in the &quot;Placebo pre and post exercise&quot; group and two participants in the &quot;Ibuprofen pre and placebo post exercise&quot; group had uninterpretable hip scans.</population>
+          <units>percentage change in total hip BMD</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="49"/>
+                <count group_id="O3" value="42"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.5" spread="2.6"/>
+                    <measurement group_id="O2" value="0.0" spread="1.9"/>
+                    <measurement group_id="O3" value="-0.3" spread="2.0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Change From Baseline in Fat-free Mass at 9 Months</title>
+        <time_frame>Baseline and after 9 months of training</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo Pre and Post Exercise</title>
+            <description>placebo before and after musculoskeletal-loading exercise&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Ibuprofen Pre and Placebo Post Exercise</title>
+            <description>ibuprofen before and placebo after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo Pre and Ibuprofen Post Exercise</title>
+            <description>placebo before and ibuprofen after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change From Baseline in Fat-free Mass at 9 Months</title>
+          <units>change in kg</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="37"/>
+                <count group_id="O2" value="51"/>
+                <count group_id="O3" value="42"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.6" spread="1.1"/>
+                    <measurement group_id="O2" value="0.4" spread="1.6"/>
+                    <measurement group_id="O3" value="0.6" spread="1.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage Change From Baseline in Femoral Neck Bone Mineral Density (BMD) at 9 Months</title>
+        <time_frame>Baseline and after 9 months of training</time_frame>
+        <population>One participant in the &quot;Placebo pre and post exercise&quot; group and two participants in the &quot;Ibuprofen pre and placebo post exercise&quot; group had uninterpretable spine scans.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo Pre and Post Exercise</title>
+            <description>placebo before and after musculoskeletal-loading exercise&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Ibuprofen Pre and Placebo Post Exercise</title>
+            <description>ibuprofen before and placebo after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo Pre and Ibuprofen Post Exercise</title>
+            <description>placebo before and ibuprofen after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage Change From Baseline in Femoral Neck Bone Mineral Density (BMD) at 9 Months</title>
+          <population>One participant in the &quot;Placebo pre and post exercise&quot; group and two participants in the &quot;Ibuprofen pre and placebo post exercise&quot; group had uninterpretable spine scans.</population>
+          <units>percentage change in BMD</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="49"/>
+                <count group_id="O3" value="42"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.2" spread="2.9"/>
+                    <measurement group_id="O2" value="0.2" spread="2.8"/>
+                    <measurement group_id="O3" value="-0.1" spread="2.1"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage Change From Baseline in Trochanter Bone Mineral Density (BMD) at 9 Months</title>
+        <time_frame>Baseline and after 9 months of training</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo Pre and Post Exercise</title>
+            <description>placebo before and after musculoskeletal-loading exercise&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Ibuprofen Pre and Placebo Post Exercise</title>
+            <description>ibuprofen before and placebo after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo Pre and Ibuprofen Post Exercise</title>
+            <description>placebo before and ibuprofen after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage Change From Baseline in Trochanter Bone Mineral Density (BMD) at 9 Months</title>
+          <units>percentage change in BMD</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="49"/>
+                <count group_id="O3" value="42"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="1.1" spread="3.1"/>
+                    <measurement group_id="O2" value="0.0" spread="2.3"/>
+                    <measurement group_id="O3" value="-0.1" spread="2.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage Change From Baseline in Sub-trochanter Bone Mineral Density (BMD) at 9 Months</title>
+        <time_frame>Baseline and after 9 months of training</time_frame>
+        <population>One participant in the &quot;Placebo pre and post exercise&quot; group and two participants in the &quot;Ibuprofen pre and placebo post exercise&quot; groups had uninterpretable hip scans.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo Pre and Post Exercise</title>
+            <description>placebo before and after musculoskeletal-loading exercise&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Ibuprofen Pre and Placebo Post Exercise</title>
+            <description>ibuprofen before and placebo after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo Pre and Ibuprofen Post Exercise</title>
+            <description>placebo before and ibuprofen after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage Change From Baseline in Sub-trochanter Bone Mineral Density (BMD) at 9 Months</title>
+          <population>One participant in the &quot;Placebo pre and post exercise&quot; group and two participants in the &quot;Ibuprofen pre and placebo post exercise&quot; groups had uninterpretable hip scans.</population>
+          <units>percentage change in BMD</units>
+          <param>Mean</param>
+          <dispersion>Standard Deviation</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="36"/>
+                <count group_id="O2" value="49"/>
+                <count group_id="O3" value="42"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0.5" spread="3.4"/>
+                    <measurement group_id="O2" value="0.0" spread="2.3"/>
+                    <measurement group_id="O3" value="-0.3" spread="2.5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Change in Thigh Cross-sectional Muscle Area</title>
+        <time_frame>Baseline and after 9 months of training</time_frame>
+        <population>Because of the costs associated with data analysis for this secondary outcome, we did not pursue the analysis after learning the results of the primary outcome (fat-free mass).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo Pre and Post Exercise</title>
+            <description>placebo before and after musculoskeletal-loading exercise&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Ibuprofen Pre and Placebo Post Exercise</title>
+            <description>ibuprofen before and placebo after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo Pre and Ibuprofen Post Exercise</title>
+            <description>placebo before and ibuprofen after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Change in Thigh Cross-sectional Muscle Area</title>
+          <population>Because of the costs associated with data analysis for this secondary outcome, we did not pursue the analysis after learning the results of the primary outcome (fat-free mass).</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+                <count group_id="O3" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Bone Turnover Markers</title>
+        <time_frame>Baseline, and after 4.5 &amp; 9 months of training</time_frame>
+        <population>Because of the costs associated with the assays and data analysis of bone turnover markers, we did not pursue data collection after learning of the primary outcomes (changes in BMD).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo Pre and Post Exercise</title>
+            <description>placebo before and after musculoskeletal-loading exercise&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Ibuprofen Pre and Placebo Post Exercise</title>
+            <description>ibuprofen before and placebo after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo Pre and Ibuprofen Post Exercise</title>
+            <description>placebo before and ibuprofen after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Bone Turnover Markers</title>
+          <population>Because of the costs associated with the assays and data analysis of bone turnover markers, we did not pursue data collection after learning of the primary outcomes (changes in BMD).</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+                <count group_id="O3" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Expression of Selected Proteins and Genes Associated With Muscle Build-up and Breakdown</title>
+        <time_frame>Baseline and after 9 months of training</time_frame>
+        <population>Because of the costs associated with gene and protein expression techniques and data reduction, we did not pursue this secondary outcome after learning the results of the primary outcome (change in fat-free mass).</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Placebo Pre and Post Exercise</title>
+            <description>placebo before and after musculoskeletal-loading exercise&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O2">
+            <title>Ibuprofen Pre and Placebo Post Exercise</title>
+            <description>ibuprofen before and placebo after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+          <group group_id="O3">
+            <title>Placebo Pre and Ibuprofen Post Exercise</title>
+            <description>placebo before and ibuprofen after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Expression of Selected Proteins and Genes Associated With Muscle Build-up and Breakdown</title>
+          <population>Because of the costs associated with gene and protein expression techniques and data reduction, we did not pursue this secondary outcome after learning the results of the primary outcome (change in fat-free mass).</population>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="0"/>
+                <count group_id="O2" value="0"/>
+                <count group_id="O3" value="0"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <group_list>
+        <group group_id="E1">
+          <title>Placebo Pre and Post Exercise</title>
+          <description>placebo before and after musculoskeletal-loading exercise&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+        </group>
+        <group group_id="E2">
+          <title>Ibuprofen Pre and Placebo Post Exercise</title>
+          <description>ibuprofen before and placebo after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+        </group>
+        <group group_id="E3">
+          <title>Placebo Pre and Ibuprofen Post Exercise</title>
+          <description>placebo before and ibuprofen after musculoskeletal-loading exercise&#xD;
+Ibuprofen: 400 mg with each exercise session (up to 5 days per week) for 9 months&#xD;
+Placebo: with each exercise session (up to 5 days per week) for 9 months&#xD;
+musculoskeletal-loading exercise: Exercise training program designed to increase bone and muscle mass, including weight lifting and weight-bearing exercises such as jumping in place and treadmill walking up to 5 days per week for 9 months</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="37"/>
+                <counts group_id="E2" subjects_affected="0" subjects_at_risk="51"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="0" subjects_at_risk="37"/>
+                <counts group_id="E2" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E3" subjects_affected="0" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>change in estimated glomerular filtration rate (eGFR)</sub_title>
+                <description>Decrease in eGFR &gt; 25% triggered discontinuation of study drug</description>
+                <counts group_id="E1" events="0" subjects_affected="0" subjects_at_risk="37"/>
+                <counts group_id="E2" events="1" subjects_affected="1" subjects_at_risk="51"/>
+                <counts group_id="E3" events="0" subjects_affected="0" subjects_at_risk="42"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <limitations_and_caveats>The study did not include a no-exercise control group. The variability in the BMD responses was greater than expected.&#xD;
+The results may be specific to ibuprofen and not to other NSAIDs.</limitations_and_caveats>
+    <point_of_contact>
+      <name_or_title>Catherine Jankowski</name_or_title>
+      <organization>University of Colorado Anschutz Medical Campus</organization>
+      <phone>303-724-7383</phone>
+      <email>catherine.jankowski@ucdenver.edu</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

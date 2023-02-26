@@ -1,0 +1,218 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00005612</url>
+  </required_header>
+  <id_info>
+    <org_study_id>MCC-12085</org_study_id>
+    <secondary_id>MCC-IRB-5418</secondary_id>
+    <secondary_id>NCI-G00-1745</secondary_id>
+    <nct_id>NCT00005612</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy Followed by Peripheral Stem Cell Transplantation in Treating Patients With Ovarian Epithelial Cancer</brief_title>
+  <acronym>ETC</acronym>
+  <official_title>A Phase I/II Study of Intensive-Dose Etoposide, Topotecan and Carboplatin (ETC) Followed by Autologous Stem Cell Rescue in Chemosensitive Ovarian Cancer Patients With Either Minimal Residual Disease or at First Relapse</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>H. Lee Moffitt Cancer Center and Research Institute</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>H. Lee Moffitt Cancer Center and Research Institute</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining chemotherapy with autologous peripheral stem cell&#xD;
+      transplantation may allow the doctor to give higher doses of chemotherapy drugs and kill more&#xD;
+      tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase I/II trial to study the effectiveness of combination chemotherapy followed by&#xD;
+      peripheral stem cell transplantation in treating patients who have ovarian epithelial cancer.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES: I. Determine the toxicity and potential efficacy of high dose chemotherapy (HDC)&#xD;
+      comprised of etoposide, topotecan, and carboplatin (ETC) followed by autologous stem cell&#xD;
+      transplantation in patients with ovarian epithelial cancer. II. Determine the maximum&#xD;
+      tolerated dose of topotecan when combined with etoposide and carboplatin in these patients.&#xD;
+      III. Determine the disease free survival (DFS) and overall survival (OS) in patients treated&#xD;
+      with this regimen. IV. Measure the amount and subcellular location of DNA topoisomerase I and&#xD;
+      II- alpha in ovarian cancer biopsies before HDC and at relapse to determine the role of&#xD;
+      alterations of topoisomerases in the drug resistance of ovarian cancer. V. Correlate the&#xD;
+      amount and location of both enzymes before HDC with clinical outcome (DFS and OS) and plasma&#xD;
+      concentrations of topotecan and carboplatin in these patients. VI. Correlate the levels of&#xD;
+      signal transducers and activators of transcription (STAT) and expression of bcl-2 family&#xD;
+      proteins with response to chemotherapy and clinical outcome (DFS and OS) in these patients.&#xD;
+      VII. Measure the levels of STAT and determine the expression of bcl-2 family proteins in&#xD;
+      tumor biopsies before HDC and at relapse to determine the role of these cellular pathways in&#xD;
+      drug response. VIII. Determine the pharmacokinetic and pharmacodynamic relationship of high&#xD;
+      dose topotecan combined with carboplatin in these patients.&#xD;
+&#xD;
+      OUTLINE: This is a dose escalation study of topotecan. Mobilization: After completion of&#xD;
+      salvage chemotherapy and within 6 weeks of second look laparotomy, patients receive&#xD;
+      cyclophosphamide IV over 2 hours and paclitaxel IV over 2 hours for 2 days. Patients then&#xD;
+      receive filgrastim (G-CSF) subcutaneously daily beginning 24 hours after completion of&#xD;
+      chemotherapy and continuing until autologous peripheral blood stem cells (PBSC) are harvested&#xD;
+      and selected for CD34+ cells. High dose chemotherapy: After priming chemotherapy and within 6&#xD;
+      weeks of second look laparotomy, patients receive carboplatin IV over 1 hour on days -8 to&#xD;
+      -6; topotecan IV over 30 minutes on days -7 to -5 (beginning 12 hours after completion of&#xD;
+      carboplatin infusion); and etoposide IV over 4 hours on days -5 to -3 (beginning 12 hours&#xD;
+      after completion of the last topotecan infusion). Cohorts of 4-12 patients receive escalating&#xD;
+      doses of topotecan until the maximum tolerated dose (MTD) is determined. The MTD is defined&#xD;
+      as the dose preceding that at which 6 or more of 12 patients experience dose limiting&#xD;
+      toxicity. Transplantation: PBSC are reinfused on day 0. Patients are followed at 3 and 6&#xD;
+      months, then annually thereafter.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: Approximately 4-30 patients will be accrued for this study within 3-4&#xD;
+      years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Terminated</overall_status>
+  <why_stopped>
+    Low accrual&#xD;
+  </why_stopped>
+  <start_date>August 1999</start_date>
+  <completion_date type="Actual">February 2004</completion_date>
+  <primary_completion_date type="Actual">February 2004</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Progression free survival</measure>
+    <time_frame>5 years</time_frame>
+    <description>Progression free survival is defined as the time from date of enrollment to the time of recurrence</description>
+  </primary_outcome>
+  <enrollment type="Actual">3</enrollment>
+  <condition>Ovarian Cancer</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>filgrastim</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>carboplatin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cyclophosphamide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>etoposide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>paclitaxel</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>topotecan hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Procedure</intervention_type>
+    <intervention_name>peripheral blood stem cell transplantation</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS: Histologically proven stage IIIC ovarian epithelial cancer&#xD;
+        Chemosensitive to 6-8 courses of standard dose adjuvant chemotherapy (one regimen), such as&#xD;
+        cisplatin or carboplatin in combination with paclitaxel, or any other standard dose regimen&#xD;
+        Residual disease (no greater than 1 cm) following second look laparotomy Ineligible if no&#xD;
+        microscopic disease present following induction chemotherapy OR Histologically proven newly&#xD;
+        diagnosed stage IV ovarian epithelial cancer Achieved at least partial response (PR) (80%&#xD;
+        or greater reduction in tumor by CT scan) following six courses of standard dose&#xD;
+        chemotherapy (one regimen) OR Residual disease (no greater than 1 cm) or no disease&#xD;
+        determined at the time of second look laparotomy OR Histologically proven relapsed ovarian&#xD;
+        epithelial cancer Relapse following standard dose chemotherapy Chemosensitive Achieved at&#xD;
+        least PR after 4-6 courses of salvage chemotherapy (total of 2 regimens) No more than a six&#xD;
+        week interval between completion of standard dose chemotherapy and second look laparotomy&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS: Age: 18 to 65 Performance status: ECOG 0 or 1 Life expectancy: Not&#xD;
+        specified Hematopoietic: Not specified Hepatic: Bilirubin no greater than 2.0 mg/dL ALT or&#xD;
+        AST no greater than 2.5 times normal Renal: Creatinine no greater than 2.0 mg/dL OR&#xD;
+        Creatinine clearance at least 60 mL/min Cardiovascular: Ejection fraction at least 50% by&#xD;
+        MUGA scan No severe cardiac dysfunction or major heart disease No angina pectoris No&#xD;
+        ventricular dysrhythmias Essential hypertension allowed if controlled with medication(s)&#xD;
+        Pulmonary: DLCO at least 50% predicted No symptomatic obstructive or restrictive pulmonary&#xD;
+        disease Other: No active infections HIV negative No uncontrolled insulin dependent diabetes&#xD;
+        mellitus No uncompensated major thyroid or adrenal dysfunction No other malignancy within&#xD;
+        the past 5 years except nonmelanomatous skin cancer Not pregnant or nursing Negative&#xD;
+        pregnancy test&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY: Biologic therapy: Not specified Chemotherapy: See Disease&#xD;
+        Characteristics No prior topotecan Endocrine therapy: Not specified Radiotherapy: Not&#xD;
+        specified Surgery: See Disease Characteristics Other: No concurrent nitroglycerin&#xD;
+        preparations or antiarrhythmic drugs&#xD;
+      </textblock>
+    </criteria>
+    <gender>Female</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>65 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Karen K. Fields, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>H. Lee Moffitt Cancer Center and Research Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>H. Lee Moffitt Cancer Center and Research Institute</name>
+      <address>
+        <city>Tampa</city>
+        <state>Florida</state>
+        <zip>33612</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>September 2012</verification_date>
+  <study_first_submitted>May 2, 2000</study_first_submitted>
+  <study_first_submitted_qc>April 30, 2004</study_first_submitted_qc>
+  <study_first_posted type="Estimate">May 3, 2004</study_first_posted>
+  <last_update_submitted>September 24, 2012</last_update_submitted>
+  <last_update_submitted_qc>September 24, 2012</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 26, 2012</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>stage III ovarian epithelial cancer</keyword>
+  <keyword>stage IV ovarian epithelial cancer</keyword>
+  <keyword>recurrent ovarian epithelial cancer</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Ovarian Neoplasms</mesh_term>
+    <mesh_term>Carcinoma, Ovarian Epithelial</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Carboplatin</mesh_term>
+    <mesh_term>Topotecan</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

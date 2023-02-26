@@ -1,0 +1,210 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00004077</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000067286</org_study_id>
+    <secondary_id>MRC-TIP</secondary_id>
+    <secondary_id>EU-99012</secondary_id>
+    <nct_id>NCT00004077</nct_id>
+  </id_info>
+  <brief_title>Paclitaxel, Ifosfamide, and Cisplatin in Treating Patients With Metastatic Testicular Cancer</brief_title>
+  <official_title>A Study of Paclitaxel, Cisplatin and Ifosfamide as Induction Therapy in the Treatment of Patients Relapsing After BEP Chemotherapy for Metastatic Germ Cell Tumors</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Medical Research Council</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining more than one drug may kill more tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of combining paclitaxel, ifosfamide, and&#xD;
+      cisplatin in treating patients who have metastatic testicular cancer that has recurred&#xD;
+      following treatment.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the feasibility of combining paclitaxel, ifosfamide, and cisplatin induction&#xD;
+           in patients with metastatic nonseminomatous germ cell tumor of the testis in first&#xD;
+           relapse following first line treatment with bleomycin, etoposide, and cisplatin.&#xD;
+&#xD;
+        -  Determine the response rates to this regimen in these patients&#xD;
+&#xD;
+      OUTLINE: This is a multicenter study.&#xD;
+&#xD;
+      Patients receive paclitaxel IV over 3 hours and ifosfamide IV and cisplatin IV daily for 5&#xD;
+      days. Patients with stable or responding disease repeat treatment every 3 weeks for 4 courses&#xD;
+      in the absence of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A minimum of 25 patients will be accrued for this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>May 1996</start_date>
+  <completion_date type="Actual">July 2005</completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment type="Anticipated">25</enrollment>
+  <condition>Testicular Germ Cell Tumor</condition>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cisplatin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ifosfamide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>paclitaxel</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Metastatic nonseminomatous germ cell tumor of the testis&#xD;
+&#xD;
+               -  In first relapse following first line treatment with bleomycin, etoposide, and&#xD;
+                  cisplatin&#xD;
+&#xD;
+               -  Biopsy proven germ cell tumor OR&#xD;
+&#xD;
+               -  Rising tumor markers (alpha fetoprotein and/or human chorionic gonadotropin)&#xD;
+&#xD;
+          -  No brain metastases&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  16 to 64&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  0-2&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Glomerular filtration rate greater than 50 mL/min&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No other prior malignancy except curatively treated nonmelanomatous skin cancer or&#xD;
+             superficial bladder cancer&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No prior experimental drugs&#xD;
+      </textblock>
+    </criteria>
+    <gender>Male</gender>
+    <minimum_age>16 Years</minimum_age>
+    <maximum_age>64 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Malcolm D. Mason, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Velindre NHS Trust</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Velindre Hospital</name>
+      <address>
+        <city>Cardiff</city>
+        <state>Wales</state>
+        <zip>CF14 2TL</zip>
+        <country>United Kingdom</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United Kingdom</country>
+  </location_countries>
+  <results_reference>
+    <citation>Mead GM, Cullen MH, Huddart R, Harper P, Rustin GJ, Cook PA, Stenning SP, Mason M; MRC Testicular Tumour Working Party. A phase II trial of TIP (paclitaxel, ifosfamide and cisplatin) given as second-line (post-BEP) salvage chemotherapy for patients with metastatic germ cell cancer: a medical research council trial. Br J Cancer. 2005 Jul 25;93(2):178-84. doi: 10.1038/sj.bjc.6602682.</citation>
+    <PMID>15999102</PMID>
+  </results_reference>
+  <verification_date>January 2001</verification_date>
+  <study_first_submitted>December 10, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>December 18, 2013</last_update_submitted>
+  <last_update_submitted_qc>December 18, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">December 19, 2013</last_update_posted>
+  <keyword>stage III malignant testicular germ cell tumor</keyword>
+  <keyword>recurrent malignant testicular germ cell tumor</keyword>
+  <keyword>testicular embryonal carcinoma</keyword>
+  <keyword>testicular choriocarcinoma</keyword>
+  <keyword>testicular teratoma</keyword>
+  <keyword>testicular yolk sac tumor</keyword>
+  <keyword>testicular embryonal carcinoma and teratoma</keyword>
+  <keyword>testicular embryonal carcinoma and yolk sac tumor</keyword>
+  <keyword>testicular yolk sac tumor and teratoma</keyword>
+  <keyword>testicular choriocarcinoma and yolk sac tumor</keyword>
+  <keyword>testicular choriocarcinoma and embryonal carcinoma</keyword>
+  <keyword>testicular choriocarcinoma and teratoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms, Germ Cell and Embryonal</mesh_term>
+    <mesh_term>Testicular Neoplasms</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Ifosfamide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

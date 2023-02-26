@@ -1,0 +1,1943 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00005780</url>
+  </required_header>
+  <id_info>
+    <org_study_id>000133</org_study_id>
+    <secondary_id>00-C-0133</secondary_id>
+    <nct_id>NCT00005780</nct_id>
+    <nct_alias>NCT00020215</nct_alias>
+  </id_info>
+  <brief_title>Chemotherapy Plus Vaccination to Treat Mantle Cell Lymphoma</brief_title>
+  <official_title>Pilot Study of Idiotype Vaccine and EPOCH-Rituximab Chemotherapy in Untreated Mantle Cell Lymphoma</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Institutes of Health Clinical Center (CC)</source>
+  <oversight_info>
+    <has_dmc>No</has_dmc>
+    <is_fda_regulated_drug>Yes</is_fda_regulated_drug>
+    <is_fda_regulated_device>No</is_fda_regulated_device>
+  </oversight_info>
+  <brief_summary>
+    <textblock>
+      This study will evaluate the safety and effectiveness of an experimental cancer vaccine for&#xD;
+      mantle cell lymphoma a form of cancer of the white blood cells called lymphocytes. Although&#xD;
+      standard treatments for lymphoma may achieve disease remission, none provides a cure.&#xD;
+&#xD;
+      Patients with mantle cell lymphoma 18 years and older who have not been treated previously&#xD;
+      with chemotherapy may participate in this study. Candidates will be screened for eligibility&#xD;
+      with a medical history and physical examination. Other tests that may be required include&#xD;
+      blood and urine tests; lung function studies; imaging tests such as magnetic resonance&#xD;
+      imaging, computed tomography and X-rays; and biopsy (surgical removal of a small tissue&#xD;
+      sample) of tumor, bone marrow, or other tissue.&#xD;
+&#xD;
+      Patients enrolled in the study will begin treatment with chemotherapy designed to reduce&#xD;
+      disease to a minimum that is, to achieve remission or shrink the tumor as much as possible.&#xD;
+      Chemotherapy will be administered on an outpatient basis over a period of around 12 to 18&#xD;
+      weeks in 3-week cycles as follows: prednisone by mouth on days 1 through 5; etoposide,&#xD;
+      doxorubicin and vincristine intravenously through (a vein) on days 1 through 5; and&#xD;
+      cyclophosphamide intravenously on day 5. Starting day 6, patients receive no chemotherapy for&#xD;
+      16 days. In addition, an antibody called rituximab, which attaches to lymphoma cells and may&#xD;
+      increase the effectiveness of the chemotherapy, will be given on day 1 of the cycle. Patients&#xD;
+      will also receive a protein called granulocyte colony-stimulating factor (G-CSF) starting day&#xD;
+      6 of the cycle and continuing until the white blood cell count recovers or until day 19.&#xD;
+      G-CSF is naturally produced by bone marrow and may boost the immune system. The chemotherapy&#xD;
+      drugs and rituximab are infused through a vein by means of a lightweight portable pump, which&#xD;
+      patients are taught how to use. Patients are also how taught how to give themselves G-CSF&#xD;
+      injections under the skin, similar to insulin injections.&#xD;
+&#xD;
+      The first vaccination will be given at least 3 months after chemotherapy ends and will be&#xD;
+      repeated every 4 weeks for a maximum of 5 vaccinations. The vaccinations will be given in the&#xD;
+      clinic. Patients will also receive daily injections of granulocyte-macrophage&#xD;
+      colony-stimulating factor (GM-CSF), a growth factor naturally produced by bone marrow that&#xD;
+      can boost the immune system. These injections will be given the day of the vaccination and&#xD;
+      for the next 3 days.&#xD;
+&#xD;
+      When vaccine therapy is completed, patients who were treated successfully will be followed&#xD;
+      with periodic clinic visits for follow-up examinations and tests. Patients in whom the&#xD;
+      lymphoma did not disappear entirely or who have a recurrence of disease will be advised of&#xD;
+      further treatment possibilities....&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      Background:&#xD;
+&#xD;
+        -  Mantle cell lymphoma presents a particular clinical challenge because it is aggressive&#xD;
+           and incurable with chemotherapy. Thus, novel treatment approaches are needed.&#xD;
+&#xD;
+        -  In follicular center cell lymphomas, another incurable disease, recent evidence suggests&#xD;
+           that molecular complete remissions may be achieved following idiotype vaccination in&#xD;
+           patients who have achieved minimal residual disease with combination chemotherapy.&#xD;
+&#xD;
+        -  These results suggest that idiotype vaccines may be able to induce a clinically&#xD;
+           significant immune response against lymphoma.&#xD;
+&#xD;
+      Objectives:&#xD;
+&#xD;
+        -  To assess if etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and&#xD;
+           rituximab (EPOCH-R)/idiotype vaccination is associated with a median progression-free&#xD;
+           survival consistent with 36 months;&#xD;
+&#xD;
+        -  To assess if rituximab affects generation of T-cell immunity against the idiotype.&#xD;
+&#xD;
+        -  To compare T-cell immunity using two different methods of isolating the idiotype&#xD;
+           protein.&#xD;
+&#xD;
+      Eligibility:&#xD;
+&#xD;
+        -  Tissue diagnosis of mantle cell lymphoma.&#xD;
+&#xD;
+        -  Age greater than or equal to 18 years.&#xD;
+&#xD;
+        -  Previously untreated with cytotoxic chemotherapy. All stages of disease.&#xD;
+&#xD;
+        -  Lymph node of greater than or equal to 2 cm accessible for biopsy/harvest or greater&#xD;
+           than 1000/microl of circulating tumor cells in the blood.&#xD;
+&#xD;
+        -  Eastern Cooperative Oncology Group (ECOG) performance status less than or equal to 3.&#xD;
+&#xD;
+      Design:&#xD;
+&#xD;
+        -  In the present study, we propose to investigate the efficacy of idiotype vaccine&#xD;
+           treatment in previously untreated patients with mantle cell lymphomas. In order to&#xD;
+           achieve minimal residual disease, patients will receive 6 cycles EPOCH chemotherapy and&#xD;
+           rituximab (EPOCH-R) followed by 5 idiotype vaccine injections.&#xD;
+&#xD;
+        -  This study has completed accrual of 26 patients and study is closed as of 4/18/2022.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">June 1, 2000</start_date>
+  <completion_date type="Actual">June 16, 2021</completion_date>
+  <primary_completion_date type="Actual">June 9, 2021</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Median Progression-free Survival (PFS) in Participants Treated With Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab (EPOCH-R)</measure>
+    <time_frame>From participants on study date until date of disease relapse or progression, death, or date of last follow-up, assessed up to 245.8 months</time_frame>
+    <description>PFS is time from on study date until disease relapse or progression, death, or date of last follow-up. Progression was measured by the International Workshop to Standardize Response Criteria for non-Hodgkin's Lymphoma and is defined as ≥50% increase from nadir in the sum of the products of the greatest diameters (SPD) of any previously involved node or the appearance of any new lesion.</description>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Percentage of Participants With an Antibody Response to Idiotype Vaccine</measure>
+    <time_frame>Weeks 12 to 32</time_frame>
+    <description>Participants with an immune response to idiotype vaccine measured by enzyme-linked immunosorbent assay (ELISA) to detect antibody binding to tumor cells. Positive response was defined as at least a fourfold increase in antibody titer.</description>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants Whose Cancer Shrinks or Disappears After Treatment With Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab (EPOCH-R)</measure>
+    <time_frame>After 6 cycles of EPOCH-R therapy, an average of 18 weeks</time_frame>
+    <description>Response was measured by the International Workshop to Standardize Response Criteria for non-Hodgkin's Lymphoma. Complete Response (CR) is a complete disappearance of all detectable clinical and radiographic evidence of disease and disappearance of all disease-related symptoms if present before therapy, and normalization of those biochemical abnormalities (e.g., Lactate dehydrogenase (LDH) definitely assignable to the lymphoma. Complete Response Unconfirmed (CRu) is as per CR criteria except that if a residual node is &gt; 1.5cm, it must have regressed by &gt; 75% in the sum of the products of the greatest diameters (SPD). Partial Response (PR) is ≥50% decreased in the SPD of 6 largest dominant nodes or nodal masses. Stable Disease (SD) is defined as less than a PR but not progressive disease. Progression is ≥50% increase from nadir in the SPD of any previously involved node or the appearance of any new lesion.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Grade 3 or Higher Serious and/or Non-serious Toxicity That Occurred That is at Least Possibly Related to Drug or Vaccine</measure>
+    <time_frame>Up to 30 days after last intervention, up to 12.5 months or 1.04 years</time_frame>
+    <description>Serious and/or non-serious adverse events were assessed by the Common Toxicity Criteria (CTC v2.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned. Grade 3 is severe, Grade 4 is life-threatening, and Grade 5 is death related to adverse event.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Overall Survival (OS)</measure>
+    <time_frame>Time from treatment start date until date of death or date last follow-up, up to 250 months</time_frame>
+    <description>OS was determined by the Kaplan-Meier method and is defined as the time from treatment start date until date of death or last follow-up.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Progression Free Survival (PFS) in Participants Who Received Idiotype Vaccine</measure>
+    <time_frame>Time from treatment start date until date of disease relapse or progression, death, or date last follow-up, an average of 25 months</time_frame>
+    <description>PFS is defined as the time from start of treatment until disease relapse or progression, death, or last follow-up. Progression was measured by the International Workshop to Standardize Response Criteria for non-Hodgkin's Lymphoma and is defined as ≥50% increase from nadir in the sum of the products of the greatest diameters (SPD) of any previously involved node or the appearance of any new lesion</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Antibodies to Keyhole Limpet Haemocyanin (KLH)</measure>
+    <time_frame>After vaccinations administered at 0, 1, 2, 3 and 5 months</time_frame>
+    <description>Participants with an immune response against carrier molecule KLH measured by enzyme-linked immunosorbent assay (ELISA) to detect antibody binding to tumor cells. Positive response was defined as at least a fourfold increase in antibody titer.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Percentage of Participants With Induction of Type 1 Cytokine T-cell Response</measure>
+    <time_frame>After vaccinations administered at 0, 1, 2, 3 and 5 months</time_frame>
+    <description>Participants with tumor specific T-cell responses during B-cell recovery was assessed in a Clinical Laboratory Improvement Amendments (CLIA) certified lab and were measured by flow cytometry and/or enzyme-linked immunosorbent spot (ELISPOT). A positive response required the response to be at least twice the negative controls.</description>
+  </secondary_outcome>
+  <secondary_outcome>
+    <measure>Time to Recovery of CD4 T Lymphocytes (CD4+)</measure>
+    <time_frame>After chemotherapy before vaccination, up to 6 months</time_frame>
+    <description>Recovery of CD4+ was measured by flow cytometry. Blood samples were collected via apheresis and analyzed by multicolor flow cytometry in peripheral blood mononuclear cells (PBMCs) for cluster of differentiation 4 (CD4). Time to recovery of CD4 T lymphocytes was defined as the time required for CD4 T lymphocytes to increase above the lower limit of normal of the normal laboratory value range of 359 cells/mcL</description>
+  </secondary_outcome>
+  <other_outcome>
+    <measure>Here is the Number of Participants With Serious and/or Non-serious Adverse Events Assessed by the Common Toxicity Criteria (CTC v2.0).</measure>
+    <time_frame>Up to 30 days after last intervention, up to 12.5 months or 1.04 years</time_frame>
+    <description>Here is the number of participants with serious and/or non-serious adverse events assessed by the Common Toxicity Criteria (CTC v2.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned.</description>
+  </other_outcome>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Actual">26</enrollment>
+  <condition>Mantle Cell Lymphoma</condition>
+  <condition>Lymphoma, Mantle Cell</condition>
+  <arm_group>
+    <arm_group_label>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>EPOCH-R</intervention_name>
+    <description>EPOCH-R for 6 cycles</description>
+    <arm_group_label>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab</arm_group_label>
+    <other_name>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>GM-CSF</intervention_name>
+    <description>Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses</description>
+    <arm_group_label>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab</arm_group_label>
+    <other_name>Sargramostim</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Idiotype vaccine</intervention_name>
+    <description>1 injection of vaccine monthly for 5 doses</description>
+    <arm_group_label>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        -  INCLUSION CRITERIA:&#xD;
+&#xD;
+        Tissue diagnosis of mantle cell lymphoma (confirmed in Laboratory of Pathology). Blastic&#xD;
+        cell variant will be eligible.&#xD;
+&#xD;
+        Age greater than or equal to 18.&#xD;
+&#xD;
+        Previously untreated with cytotoxic chemotherapy. Patients may have received local&#xD;
+        radiation or a short course of steroids for control of symptoms.&#xD;
+&#xD;
+        All stages of disease.&#xD;
+&#xD;
+        Lymph node of greater than or equal to 2 cm accessible for biopsy/harvest or greater than&#xD;
+        1000/microliters of circulating tumor cells in the blood.&#xD;
+&#xD;
+        Eastern Cooperative Oncology Group (ECOG) performance status of less than or equal to 3.&#xD;
+&#xD;
+        Adequate major organ function (serum creatinine 1.5 mg/dl or creatinine clearance greater&#xD;
+        than 60 ml/min; bilirubin less than 2 mg/dl (total) except less than 5 mg/dl in patients&#xD;
+        with Gilbert's syndrome as defined by greater than 80% unconjugated; absolute neutrophil&#xD;
+        count (ANC) greater than 1000 and platelets greater than 100,000) unless impairment due to&#xD;
+        organ involvement by lymphoma.&#xD;
+&#xD;
+        No active symptomatic ischemic heart disease, myocardial infarction or congestive heart&#xD;
+        failure within the past year. If multigated acquisition (MUGA) scan is obtained, the left&#xD;
+        ventricular ejection fraction (LVEF) should exceed 40%.&#xD;
+&#xD;
+        Ability to give informed consent.&#xD;
+&#xD;
+        EXCLUSION CRITERIA:&#xD;
+&#xD;
+        Antibodies to human immunodeficiency virus (HIV) or presence of hepatitis B surface&#xD;
+        antigen.&#xD;
+&#xD;
+        Pregnant or lactating.&#xD;
+&#xD;
+        Prior malignancy in past 5 years except squamous or basal cell carcinoma or curatively&#xD;
+        treated in situ of the cervix.&#xD;
+&#xD;
+        Involvement of central nervous system by lymphoma.&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Christopher J Melani, M.D.</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>National Cancer Institute (NCI)</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>National Institutes of Health Clinical Center, 9000 Rockville Pike</name>
+      <address>
+        <city>Bethesda</city>
+        <state>Maryland</state>
+        <zip>20892</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <link>
+    <url>https://clinicalstudies.info.nih.gov/cgi/detail.cgi?B_2000-C-0133.html</url>
+    <description>NIH Clinical Center Detailed Web Page</description>
+  </link>
+  <reference>
+    <citation>Pittaluga S, Bijnens L, Teodorovic I, Hagenbeek A, Meerwaldt JH, Somers R, Thomas J, Noordijk EM, De Wolf-Peeters C. Clinical analysis of 670 cases in two trials of the European Organization for the Research and Treatment of Cancer Lymphoma Cooperative Group subtyped according to the Revised European-American Classification of Lymphoid Neoplasms: a comparison with the Working Formulation. Blood. 1996 May 15;87(10):4358-67.</citation>
+    <PMID>8639796</PMID>
+  </reference>
+  <reference>
+    <citation>Armitage JO. Management of mantle cell lymphoma. Oncology (Williston Park). 1998 Oct;12(10 Suppl 8):49-55.</citation>
+    <PMID>9830633</PMID>
+  </reference>
+  <reference>
+    <citation>Weisenburger DD, Armitage JO. Mantle cell lymphoma-- an entity comes of age. Blood. 1996 Jun 1;87(11):4483-94. No abstract available.</citation>
+    <PMID>8639814</PMID>
+  </reference>
+  <results_reference>
+    <citation>Grant C, Neelapu SS, MD2, Kwak LW, Dunleavy K, White T, Miller BW, Jaffe ES, Steinberg SM, Healey Bird B, MB, Wilson WH. Eleven-Year Follow-up of Idiotype Vaccine and DA-EPOCH-Rituximab in Untreated Mantle Cell Lymphoma: Correlation of Survival with Idiotype Immune Response. Blood (ASH Annual Meeting Abstracts) 2011 118: Abstract 2707.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Neelapu SS, Kwak LW, Kobrin CB, Reynolds CW, Janik JE, Dunleavy K, White T, Harvey L, Pennington R, Stetler-Stevenson M, Jaffe ES, Steinberg SM, Gress R, Hakim F, Wilson WH. Vaccine-induced tumor-specific immunity despite severe B-cell depletion in mantle cell lymphoma. Nat Med. 2005 Sep;11(9):986-91. doi: 10.1038/nm1290. Epub 2005 Aug 21.</citation>
+    <PMID>16116429</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Roschewski M, Dunleavy K, Neelapu SS, Pittaluga S, Melani CJ, Jaffe ES, Shovlin M, Crossley B, Kong K, Jacob A, Kwak L, Wilson WH. Quantitative Baseline Circulating Tumor DNA Levels Correlate with GM-CSF Response to Idiotype Vaccine in Untreated Mantle Cell Lymphoma (ASH Annual Meeting Abstracts). Blood. 2016;128:2943-2943.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Wilson WH, Neelapu S, White T, et al: Idiotype Vaccine Following EPOCH-Rituximab Treatment in Untreated Mantle Cell Lymphoma. Pro Am Soc Heme, 2002.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Neelapu S, Wilson WH, Baskar W, et at: Induction of T-cell responses by tumor antigen vaccination in mantle cell lymphoma following rituximab-based treatment. Pro Am Soc Clin Oncol, 2003.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Rosenwald A, Wright G, Wiestner A, Chan WC, Connors JM, Campo E, Gascoyne RD, Grogan TM, Muller-Hermelink HK, Smeland EB, Chiorazzi M, Giltnane JM, Hurt EM, Zhao H, Averett L, Henrickson S, Yang L, Powell J, Wilson WH, Jaffe ES, Simon R, Klausner RD, Montserrat E, Bosch F, Greiner TC, Weisenburger DD, Sanger WG, Dave BJ, Lynch JC, Vose J, Armitage JO, Fisher RI, Miller TP, LeBlanc M, Ott G, Kvaloy S, Holte H, Delabie J, Staudt LM. The proliferation gene expression signature is a quantitative integrator of oncogenic events that predicts survival in mantle cell lymphoma. Cancer Cell. 2003 Feb;3(2):185-97. doi: 10.1016/s1535-6108(03)00028-x.</citation>
+    <PMID>12620412</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wilson WH, Neelapu S, Rosenwald A, et al: Idiotype Vaccine and Dose-Adjusted EPOCH-Rituximab Treatment in Untreated Mantle Cell Lymphoma: Preliminary Report on Clinical Outcome and Analysis of Immune Response. 2003, Blood 102 (11) #358.</citation>
+  </results_reference>
+  <results_reference>
+    <citation>Fu K, Weisenburger DD, Greiner TC, Dave S, Wright G, Rosenwald A, Chiorazzi M, Iqbal J, Gesk S, Siebert R, De Jong D, Jaffe ES, Wilson WH, Delabie J, Ott G, Dave BJ, Sanger WG, Smith LM, Rimsza L, Braziel RM, Muller-Hermelink HK, Campo E, Gascoyne RD, Staudt LM, Chan WC; Lymphoma/Leukemia Molecular Profiling Project. Cyclin D1-negative mantle cell lymphoma: a clinicopathologic study based on gene expression profiling. Blood. 2005 Dec 15;106(13):4315-21. doi: 10.1182/blood-2005-04-1753. Epub 2005 Aug 25.</citation>
+    <PMID>16123218</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Wiestner A, Tehrani M, Chiorazzi M, Wright G, Gibellini F, Nakayama K, Liu H, Rosenwald A, Muller-Hermelink HK, Ott G, Chan WC, Greiner TC, Weisenburger DD, Vose J, Armitage JO, Gascoyne RD, Connors JM, Campo E, Montserrat E, Bosch F, Smeland EB, Kvaloy S, Holte H, Delabie J, Fisher RI, Grogan TM, Miller TP, Wilson WH, Jaffe ES, Staudt LM. Point mutations and genomic deletions in CCND1 create stable truncated cyclin D1 mRNAs that are associated with increased proliferation rate and shorter survival. Blood. 2007 Jun 1;109(11):4599-606. doi: 10.1182/blood-2006-08-039859. Epub 2007 Feb 13.</citation>
+    <PMID>17299095</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Dunleavy K, Neelapu SS, Kwak LW, Grant C, Santos CF, Popa M, White T, Miller B, Jaffe ES, Steinberg SM and Wilson WH. Association of idiotype vaccine-induced T-cell response with improved survival and time-to-next treatment (TTNT) in untreated mantle cell lymphoma (MCL). Journal of Clinical Oncology, 2012 ASCO Annual Meeting Proceedings (Post-Meeting Edition).Vol 30, No 15_suppl (May 20 Supplement), 2012: 2528.</citation>
+  </results_reference>
+  <verification_date>January 2023</verification_date>
+  <study_first_submitted>June 3, 2000</study_first_submitted>
+  <study_first_submitted_qc>June 3, 2000</study_first_submitted_qc>
+  <study_first_posted type="Estimate">June 5, 2000</study_first_posted>
+  <results_first_submitted>November 2, 2022</results_first_submitted>
+  <results_first_submitted_qc>January 4, 2023</results_first_submitted_qc>
+  <results_first_posted type="Actual">January 31, 2023</results_first_posted>
+  <last_update_submitted>January 4, 2023</last_update_submitted>
+  <last_update_submitted_qc>January 4, 2023</last_update_submitted_qc>
+  <last_update_posted type="Actual">January 31, 2023</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Principal Investigator</responsible_party_type>
+    <investigator_affiliation>National Cancer Institute (NCI)</investigator_affiliation>
+    <investigator_full_name>Christopher Melani, MD</investigator_full_name>
+    <investigator_title>Principal Investigator</investigator_title>
+  </responsible_party>
+  <keyword>Lymphoma Vaccines</keyword>
+  <keyword>Immune Response Against Lymphoma</keyword>
+  <keyword>Molecular Complete Remissions</keyword>
+  <keyword>Novel Treatment Approach</keyword>
+  <keyword>Mantle Cell Lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Lymphoma, Mantle-Cell</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Cyclophosphamide</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+    <mesh_term>Sargramostim</mesh_term>
+  </intervention_browse>
+  <patient_data>
+    <sharing_ipd>No</sharing_ipd>
+  </patient_data>
+  <provided_document_section>
+    <provided_document>
+      <document_type>Study Protocol and Statistical Analysis Plan</document_type>
+      <document_has_protocol>Yes</document_has_protocol>
+      <document_has_icf>No</document_has_icf>
+      <document_has_sap>Yes</document_has_sap>
+      <document_date>June 19, 2019</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/80/NCT00005780/Prot_SAP_000.pdf</document_url>
+    </provided_document>
+    <provided_document>
+      <document_type>Informed Consent Form</document_type>
+      <document_has_protocol>No</document_has_protocol>
+      <document_has_icf>Yes</document_has_icf>
+      <document_has_sap>No</document_has_sap>
+      <document_date>July 25, 2018</document_date>
+      <document_url>https://ClinicalTrials.gov/ProvidedDocs/80/NCT00005780/ICF_001.pdf</document_url>
+    </provided_document>
+  </provided_document_section>
+
+  <clinical_results>
+
+    <participant_flow>
+      <group_list>
+        <group group_id="P1">
+          <title>Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab</title>
+          <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).&#xD;
+EPOCH-R: EPOCH-R for 6 cycles&#xD;
+GM-CSF: Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses&#xD;
+Idiotype vaccine: 1 injection of vaccine monthly for 5 doses</description>
+        </group>
+      </group_list>
+      <period_list>
+        <period>
+          <title>EPOCH-R Administration</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="26"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="26">26 completed the EPOCH-R treatment and 23/26 moved on to vaccine treatment.</participants>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="0"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+        </period>
+        <period>
+          <title>Vaccine Administration Following EPOCH-R</title>
+          <milestone_list>
+            <milestone>
+              <title>STARTED</title>
+              <participants_list>
+                <participants group_id="P1" count="24"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="23"/>
+              </participants_list>
+            </milestone>
+            <milestone>
+              <title>NOT COMPLETED</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </milestone>
+          </milestone_list>
+          <drop_withdraw_reason_list>
+            <drop_withdraw_reason>
+              <title>Participant progressed before receiving the last vaccine.</title>
+              <participants_list>
+                <participants group_id="P1" count="1"/>
+              </participants_list>
+            </drop_withdraw_reason>
+          </drop_withdraw_reason_list>
+        </period>
+      </period_list>
+    </participant_flow>
+
+    <baseline>
+      <group_list>
+        <group group_id="B1">
+          <title>Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab</title>
+          <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).&#xD;
+EPOCH-R: EPOCH-R for 6 cycles&#xD;
+GM-CSF: Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses&#xD;
+Idiotype vaccine: 1 injection of vaccine monthly for 5 doses</description>
+        </group>
+      </group_list>
+      <analyzed_list>
+        <analyzed>
+          <units>Participants</units>
+          <scope>Overall</scope>
+          <count_list>
+            <count group_id="B1" value="26"/>
+          </count_list>
+        </analyzed>
+      </analyzed_list>
+      <measure_list>
+        <measure>
+          <title>Age</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>&lt;=18 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Between 18 and 65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="21"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>&gt;=65 years</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="5"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Age</title>
+          <units>years</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="57" lower_limit="22" upper_limit="73"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Sex: Female, Male</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Female</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Male</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="19"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Ethnicity (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Not Hispanic or Latino</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Race (NIH/OMB)</title>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <title>American Indian or Alaska Native</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Asian</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Native Hawaiian or Other Pacific Islander</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Black or African American</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>White</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>More than one race</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+                <category>
+                  <title>Unknown or Not Reported</title>
+                  <measurement_list>
+                    <measurement group_id="B1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Region of Enrollment</title>
+          <units>participants</units>
+          <param>Number</param>
+          <class_list>
+            <class>
+              <title>United States</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Mantle Cell Lymphoma International Prognostic Index (MIPI)</title>
+          <description>MIPI is a prognostic score (i.e., risk groups) for participants with mantle cell lymphoma. Low- risk scores (i.e., 0-3) indicate better survival and high-risk scores (i.e., 6-11) indicate lower survival. Intermediate-risk scores (i.e., 4-5) is neither low nor high with intermediate survival.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <class_list>
+            <class>
+              <title>Low</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="16"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Intermediate</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>High</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="3"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+        <measure>
+          <title>Performance Status</title>
+          <description>ECOG score is an indication of a participant's functional status. An ECOG score of 0 indicates a participant is fully active without any performance restrictions. An ECOG score of 1 indicates a participant is restricted in physically strenuous activity but ambulatory and able to carry out light work. An ECOG score of 2 indicates a participant is capable of self-care but unable to carry out any work activities and is up and about greater than 50% of waking hours.</description>
+          <units>score on a scale</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="B1" value="1" lower_limit="0" upper_limit="2"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </measure_list>
+    </baseline>
+
+    <outcome_list>
+      <outcome>
+        <type>Primary</type>
+        <title>Median Progression-free Survival (PFS) in Participants Treated With Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab (EPOCH-R)</title>
+        <description>PFS is time from on study date until disease relapse or progression, death, or date of last follow-up. Progression was measured by the International Workshop to Standardize Response Criteria for non-Hodgkin's Lymphoma and is defined as ≥50% increase from nadir in the sum of the products of the greatest diameters (SPD) of any previously involved node or the appearance of any new lesion.</description>
+        <time_frame>From participants on study date until date of disease relapse or progression, death, or date of last follow-up, assessed up to 245.8 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab</title>
+            <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).&#xD;
+EPOCH-R: EPOCH-R for 6 cycles&#xD;
+GM-CSF: Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses&#xD;
+Idiotype vaccine: 1 injection of vaccine monthly for 5 doses</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Median Progression-free Survival (PFS) in Participants Treated With Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab (EPOCH-R)</title>
+          <description>PFS is time from on study date until disease relapse or progression, death, or date of last follow-up. Progression was measured by the International Workshop to Standardize Response Criteria for non-Hodgkin's Lymphoma and is defined as ≥50% increase from nadir in the sum of the products of the greatest diameters (SPD) of any previously involved node or the appearance of any new lesion.</description>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="23.5" lower_limit="8.8" upper_limit="245.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Primary</type>
+        <title>Percentage of Participants With an Antibody Response to Idiotype Vaccine</title>
+        <description>Participants with an immune response to idiotype vaccine measured by enzyme-linked immunosorbent assay (ELISA) to detect antibody binding to tumor cells. Positive response was defined as at least a fourfold increase in antibody titer.</description>
+        <time_frame>Weeks 12 to 32</time_frame>
+        <population>23/26 participants were analyzed because vaccine was unable to be produced in two participants and one participant progressed prior to receiving the last vaccine dose.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab</title>
+            <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).&#xD;
+EPOCH-R: EPOCH-R for 6 cycles&#xD;
+GM-CSF: Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses&#xD;
+Idiotype vaccine: 1 injection of vaccine monthly for 5 doses</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With an Antibody Response to Idiotype Vaccine</title>
+          <description>Participants with an immune response to idiotype vaccine measured by enzyme-linked immunosorbent assay (ELISA) to detect antibody binding to tumor cells. Positive response was defined as at least a fourfold increase in antibody titer.</description>
+          <population>23/26 participants were analyzed because vaccine was unable to be produced in two participants and one participant progressed prior to receiving the last vaccine dose.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="30"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants Whose Cancer Shrinks or Disappears After Treatment With Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab (EPOCH-R)</title>
+        <description>Response was measured by the International Workshop to Standardize Response Criteria for non-Hodgkin's Lymphoma. Complete Response (CR) is a complete disappearance of all detectable clinical and radiographic evidence of disease and disappearance of all disease-related symptoms if present before therapy, and normalization of those biochemical abnormalities (e.g., Lactate dehydrogenase (LDH) definitely assignable to the lymphoma. Complete Response Unconfirmed (CRu) is as per CR criteria except that if a residual node is &gt; 1.5cm, it must have regressed by &gt; 75% in the sum of the products of the greatest diameters (SPD). Partial Response (PR) is ≥50% decreased in the SPD of 6 largest dominant nodes or nodal masses. Stable Disease (SD) is defined as less than a PR but not progressive disease. Progression is ≥50% increase from nadir in the SPD of any previously involved node or the appearance of any new lesion.</description>
+        <time_frame>After 6 cycles of EPOCH-R therapy, an average of 18 weeks</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab</title>
+            <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).&#xD;
+EPOCH-R: EPOCH-R for 6 cycles&#xD;
+GM-CSF: Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses&#xD;
+Idiotype vaccine: 1 injection of vaccine monthly for 5 doses</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants Whose Cancer Shrinks or Disappears After Treatment With Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab (EPOCH-R)</title>
+          <description>Response was measured by the International Workshop to Standardize Response Criteria for non-Hodgkin's Lymphoma. Complete Response (CR) is a complete disappearance of all detectable clinical and radiographic evidence of disease and disappearance of all disease-related symptoms if present before therapy, and normalization of those biochemical abnormalities (e.g., Lactate dehydrogenase (LDH) definitely assignable to the lymphoma. Complete Response Unconfirmed (CRu) is as per CR criteria except that if a residual node is &gt; 1.5cm, it must have regressed by &gt; 75% in the sum of the products of the greatest diameters (SPD). Partial Response (PR) is ≥50% decreased in the SPD of 6 largest dominant nodes or nodal masses. Stable Disease (SD) is defined as less than a PR but not progressive disease. Progression is ≥50% increase from nadir in the SPD of any previously involved node or the appearance of any new lesion.</description>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Complete Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="80.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Complete Response Unconfirmed</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Partial Response</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="7.7"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Stable Disease</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Progression</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With Grade 3 or Higher Serious and/or Non-serious Toxicity That Occurred That is at Least Possibly Related to Drug or Vaccine</title>
+        <description>Serious and/or non-serious adverse events were assessed by the Common Toxicity Criteria (CTC v2.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned. Grade 3 is severe, Grade 4 is life-threatening, and Grade 5 is death related to adverse event.</description>
+        <time_frame>Up to 30 days after last intervention, up to 12.5 months or 1.04 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Grade 3</title>
+            <description>Grade 3 is severe.</description>
+          </group>
+          <group group_id="O2">
+            <title>Grade 4</title>
+            <description>Grade 4 is life-threatening.</description>
+          </group>
+          <group group_id="O3">
+            <title>Grade 5</title>
+            <description>Grade 5 is death related to adverse event.</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Grade 3 or Higher Serious and/or Non-serious Toxicity That Occurred That is at Least Possibly Related to Drug or Vaccine</title>
+          <description>Serious and/or non-serious adverse events were assessed by the Common Toxicity Criteria (CTC v2.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned. Grade 3 is severe, Grade 4 is life-threatening, and Grade 5 is death related to adverse event.</description>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+                <count group_id="O2" value="26"/>
+                <count group_id="O3" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Allergic reaction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Anemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="69.2"/>
+                    <measurement group_id="O2" value="3.8"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Febrile neutropenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="42.3"/>
+                    <measurement group_id="O2" value="3.8"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Leukopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="84.6"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Lymphopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="38.5"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Neutropenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="88.5"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thrombocytopenia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="50"/>
+                    <measurement group_id="O2" value="7.7"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Thrombosis</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15.4"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Infusion related reaction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Serum glutamic oxaloacetic transaminase (SGOT) elevation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Serum glutamic pyruvic transaminase (SGPT) elevation</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Infection</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="15.4"/>
+                    <measurement group_id="O2" value="3.8"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hyperglycemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Hypomagnesemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Cerebrovascular ischemia</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="0"/>
+                    <measurement group_id="O2" value="3.8"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Motor neuropathy</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="11.5"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Sensory neuropathy</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Back pain</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Dyspnea</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Erectile dysfunction</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3.8"/>
+                    <measurement group_id="O2" value="0"/>
+                    <measurement group_id="O3" value="0"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Overall Survival (OS)</title>
+        <description>OS was determined by the Kaplan-Meier method and is defined as the time from treatment start date until date of death or last follow-up.</description>
+        <time_frame>Time from treatment start date until date of death or date last follow-up, up to 250 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab</title>
+            <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).&#xD;
+EPOCH-R: EPOCH-R for 6 cycles&#xD;
+GM-CSF: Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses&#xD;
+Idiotype vaccine: 1 injection of vaccine monthly for 5 doses</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Overall Survival (OS)</title>
+          <description>OS was determined by the Kaplan-Meier method and is defined as the time from treatment start date until date of death or last follow-up.</description>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="89.7" lower_limit="32.4" upper_limit="245.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Progression Free Survival (PFS) in Participants Who Received Idiotype Vaccine</title>
+        <description>PFS is defined as the time from start of treatment until disease relapse or progression, death, or last follow-up. Progression was measured by the International Workshop to Standardize Response Criteria for non-Hodgkin's Lymphoma and is defined as ≥50% increase from nadir in the sum of the products of the greatest diameters (SPD) of any previously involved node or the appearance of any new lesion</description>
+        <time_frame>Time from treatment start date until date of disease relapse or progression, death, or date last follow-up, an average of 25 months</time_frame>
+        <population>23/26 participants were analyzed because vaccine was unable to be produced in two participants and one participant progressed prior to receiving the last vaccine.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab</title>
+            <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).&#xD;
+EPOCH-R: EPOCH-R for 6 cycles&#xD;
+GM-CSF: Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses&#xD;
+Idiotype vaccine: 1 injection of vaccine monthly for 5 doses</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Progression Free Survival (PFS) in Participants Who Received Idiotype Vaccine</title>
+          <description>PFS is defined as the time from start of treatment until disease relapse or progression, death, or last follow-up. Progression was measured by the International Workshop to Standardize Response Criteria for non-Hodgkin's Lymphoma and is defined as ≥50% increase from nadir in the sum of the products of the greatest diameters (SPD) of any previously involved node or the appearance of any new lesion</description>
+          <population>23/26 participants were analyzed because vaccine was unable to be produced in two participants and one participant progressed prior to receiving the last vaccine.</population>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="25.0" lower_limit="8.8" upper_limit="245.8"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With Antibodies to Keyhole Limpet Haemocyanin (KLH)</title>
+        <description>Participants with an immune response against carrier molecule KLH measured by enzyme-linked immunosorbent assay (ELISA) to detect antibody binding to tumor cells. Positive response was defined as at least a fourfold increase in antibody titer.</description>
+        <time_frame>After vaccinations administered at 0, 1, 2, 3 and 5 months</time_frame>
+        <population>23/26 participants were analyzed because vaccine was unable to be produced in two participants and one participant progressed prior to receiving the last vaccine.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab</title>
+            <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).&#xD;
+EPOCH-R: EPOCH-R for 6 cycles&#xD;
+GM-CSF: Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses&#xD;
+Idiotype vaccine: 1 injection of vaccine monthly for 5 doses</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Antibodies to Keyhole Limpet Haemocyanin (KLH)</title>
+          <description>Participants with an immune response against carrier molecule KLH measured by enzyme-linked immunosorbent assay (ELISA) to detect antibody binding to tumor cells. Positive response was defined as at least a fourfold increase in antibody titer.</description>
+          <population>23/26 participants were analyzed because vaccine was unable to be produced in two participants and one participant progressed prior to receiving the last vaccine.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Percentage of Participants With Induction of Type 1 Cytokine T-cell Response</title>
+        <description>Participants with tumor specific T-cell responses during B-cell recovery was assessed in a Clinical Laboratory Improvement Amendments (CLIA) certified lab and were measured by flow cytometry and/or enzyme-linked immunosorbent spot (ELISPOT). A positive response required the response to be at least twice the negative controls.</description>
+        <time_frame>After vaccinations administered at 0, 1, 2, 3 and 5 months</time_frame>
+        <population>23/26 participants were analyzed because vaccine was unable to be produced in two participants and one participant progressed prior to receiving the last vaccine.</population>
+        <group_list>
+          <group group_id="O1">
+            <title>Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab</title>
+            <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).&#xD;
+EPOCH-R: EPOCH-R for 6 cycles&#xD;
+GM-CSF: Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses&#xD;
+Idiotype vaccine: 1 injection of vaccine monthly for 5 doses</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Percentage of Participants With Induction of Type 1 Cytokine T-cell Response</title>
+          <description>Participants with tumor specific T-cell responses during B-cell recovery was assessed in a Clinical Laboratory Improvement Amendments (CLIA) certified lab and were measured by flow cytometry and/or enzyme-linked immunosorbent spot (ELISPOT). A positive response required the response to be at least twice the negative controls.</description>
+          <population>23/26 participants were analyzed because vaccine was unable to be produced in two participants and one participant progressed prior to receiving the last vaccine.</population>
+          <units>percentage of participants</units>
+          <param>Number</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <title>Peripheral blood mononuclear cells (PBMC)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="87"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Granulocyte macrophage colony-stimulating factor (GM-CSF)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="65"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Tumor necrosis factor α (TNFα)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="52"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+            <class>
+              <title>Interferon-gamma (IFN-γ)</title>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="74"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Secondary</type>
+        <title>Time to Recovery of CD4 T Lymphocytes (CD4+)</title>
+        <description>Recovery of CD4+ was measured by flow cytometry. Blood samples were collected via apheresis and analyzed by multicolor flow cytometry in peripheral blood mononuclear cells (PBMCs) for cluster of differentiation 4 (CD4). Time to recovery of CD4 T lymphocytes was defined as the time required for CD4 T lymphocytes to increase above the lower limit of normal of the normal laboratory value range of 359 cells/mcL</description>
+        <time_frame>After chemotherapy before vaccination, up to 6 months</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab</title>
+            <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).&#xD;
+EPOCH-R: EPOCH-R for 6 cycles&#xD;
+GM-CSF: Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses&#xD;
+Idiotype vaccine: 1 injection of vaccine monthly for 5 doses</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Time to Recovery of CD4 T Lymphocytes (CD4+)</title>
+          <description>Recovery of CD4+ was measured by flow cytometry. Blood samples were collected via apheresis and analyzed by multicolor flow cytometry in peripheral blood mononuclear cells (PBMCs) for cluster of differentiation 4 (CD4). Time to recovery of CD4 T lymphocytes was defined as the time required for CD4 T lymphocytes to increase above the lower limit of normal of the normal laboratory value range of 359 cells/mcL</description>
+          <units>Months</units>
+          <param>Median</param>
+          <dispersion>Full Range</dispersion>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="23"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="3" lower_limit="2.8" upper_limit="5.4"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+      <outcome>
+        <type>Other Pre-specified</type>
+        <title>Here is the Number of Participants With Serious and/or Non-serious Adverse Events Assessed by the Common Toxicity Criteria (CTC v2.0).</title>
+        <description>Here is the number of participants with serious and/or non-serious adverse events assessed by the Common Toxicity Criteria (CTC v2.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned.</description>
+        <time_frame>Up to 30 days after last intervention, up to 12.5 months or 1.04 years</time_frame>
+        <group_list>
+          <group group_id="O1">
+            <title>Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab</title>
+            <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).&#xD;
+EPOCH-R: EPOCH-R for 6 cycles&#xD;
+GM-CSF: Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses&#xD;
+Idiotype vaccine: 1 injection of vaccine monthly for 5 doses</description>
+          </group>
+        </group_list>
+        <measure>
+          <title>Here is the Number of Participants With Serious and/or Non-serious Adverse Events Assessed by the Common Toxicity Criteria (CTC v2.0).</title>
+          <description>Here is the number of participants with serious and/or non-serious adverse events assessed by the Common Toxicity Criteria (CTC v2.0). A non-serious adverse event is any untoward medical occurrence. A serious adverse event is an adverse event or suspected adverse reaction that results in death, a life-threatening adverse drug experience, hospitalization, disruption of the ability to conduct normal life functions, congenital anomaly/birth defect or important medical events that jeopardize the patient or subject and may require medical or surgical intervention to prevent one of the previous outcomes mentioned.</description>
+          <units>Participants</units>
+          <param>Count of Participants</param>
+          <analyzed_list>
+            <analyzed>
+              <units>Participants</units>
+              <scope>Measure</scope>
+              <count_list>
+                <count group_id="O1" value="26"/>
+              </count_list>
+            </analyzed>
+          </analyzed_list>
+          <class_list>
+            <class>
+              <category_list>
+                <category>
+                  <measurement_list>
+                    <measurement group_id="O1" value="26"/>
+                  </measurement_list>
+                </category>
+              </category_list>
+            </class>
+          </class_list>
+        </measure>
+      </outcome>
+    </outcome_list>
+
+    <reported_events>
+      <time_frame>Up to 30 days after last intervention, up to 12.5 months or 1.04 years for serious and/or non-serious adverse events and up to 250 months for all-cause mortality.</time_frame>
+      <group_list>
+        <group group_id="E1">
+          <title>Etoposide, Prednisone, Vincristine, Cyclophosphamide, Doxorubicin, and Rituximab</title>
+          <description>Etoposide, prednisone, vincristine, cyclophosphamide, doxorubicin, and rituximab (EPOCH-R) followed by idiotype vaccine and granulocyte-macrophage colony-stimulating factor (GM-CSF).&#xD;
+EPOCH-R: EPOCH-R for 6 cycles&#xD;
+GM-CSF: Granulocyte-macrophage colony-stimulating factor (GM-CSF) monthly with the vaccine for 5 doses&#xD;
+Idiotype vaccine: 1 injection of vaccine monthly for 5 doses</description>
+        </group>
+      </group_list>
+      <serious_events>
+        <default_vocab>CTC 2.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, all-cause mortality</sub_title>
+                <counts group_id="E1" subjects_affected="17" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Total, serious adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="14" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Infusion related reaction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Febrile neutropenia</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Infection</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </serious_events>
+      <other_events>
+        <frequency_threshold>0</frequency_threshold>
+        <default_vocab>CTC 2.0</default_vocab>
+        <default_assessment>Systematic Assessment</default_assessment>
+        <category_list>
+          <category>
+            <title>Total</title>
+            <event_list>
+              <event>
+                <sub_title>Total, other adverse events</sub_title>
+                <counts group_id="E1" subjects_affected="26" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Blood and lymphatic system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anemia</sub_title>
+                <counts group_id="E1" events="24" subjects_affected="24" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Eosinophilia</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Leukopenia</sub_title>
+                <counts group_id="E1" events="22" subjects_affected="22" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Lymphopenia</sub_title>
+                <counts group_id="E1" events="13" subjects_affected="13" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Neutropenia</sub_title>
+                <counts group_id="E1" events="23" subjects_affected="23" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>PT elevation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>PTT elevation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Thrombocytopenia</sub_title>
+                <counts group_id="E1" events="22" subjects_affected="22" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Cardiac disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cerebrovascular ischemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Edema</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Hypertension</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Phlebitis</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Thrombosis</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Ear and labyrinth disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Hearing impaired</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Endocrine disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Gynecomastia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Hot flashes</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Hypothyroid</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Eye disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Blurred vision</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Floaters</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Tearing</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Visual loss</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Gastrointestinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Abdominal pain</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Anorexia</sub_title>
+                <counts group_id="E1" events="14" subjects_affected="14" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Constipation</sub_title>
+                <counts group_id="E1" events="25" subjects_affected="25" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Diarrhea</sub_title>
+                <counts group_id="E1" events="19" subjects_affected="19" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Hematochezia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Nausea</sub_title>
+                <counts group_id="E1" events="14" subjects_affected="14" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Stomatitis</sub_title>
+                <counts group_id="E1" events="24" subjects_affected="24" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Taste disturbance</sub_title>
+                <counts group_id="E1" events="17" subjects_affected="17" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Vomiting</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>General disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Death unrelated to research and related to disease progression</sub_title>
+                <counts group_id="E1" events="17" subjects_affected="17" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Fatigue</sub_title>
+                <counts group_id="E1" events="25" subjects_affected="25" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Fever</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Infusion related reaction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Leg pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Weight loss</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Hepatobiliary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Alkaline phosphatase elevation</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Bilirubin elevation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>SGOT elevation</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>SGPT elevation</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Immune system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Allergic reaction</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Infections and infestations</title>
+            <event_list>
+              <event>
+                <sub_title>Febrile neutropenia</sub_title>
+                <counts group_id="E1" events="12" subjects_affected="12" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Infection</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Metabolism and nutrition disorders</title>
+            <event_list>
+              <event>
+                <sub_title>CPK elevation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Hypercalcemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Hyperglycemia</sub_title>
+                <counts group_id="E1" events="11" subjects_affected="11" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Hyperkalemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Hypermagnesemia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Hypoalbuminemia</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Hypocalcemia</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Hypomagnesemia</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Musculoskeletal and connective tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Arthralgia</sub_title>
+                <counts group_id="E1" events="20" subjects_affected="20" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Back pain</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Bone pain</sub_title>
+                <counts group_id="E1" events="23" subjects_affected="23" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Muscle cramp</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Muscle weakness</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Myalgia</sub_title>
+                <counts group_id="E1" events="14" subjects_affected="14" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Chest pain</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Nervous system disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Confusion</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Depression</sub_title>
+                <counts group_id="E1" events="7" subjects_affected="7" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Dizziness</sub_title>
+                <counts group_id="E1" events="4" subjects_affected="4" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Euphoria</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Headache</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Insomnia</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Motor neuropathy</sub_title>
+                <counts group_id="E1" events="5" subjects_affected="5" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Sensory neuropathy</sub_title>
+                <counts group_id="E1" events="25" subjects_affected="25" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Psychiatric disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Anxiety</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Renal and urinary disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Creatinine elevation</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Dysuria</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Reproductive system and breast disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Decreased libido</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Erectile dysfunction</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Vaginal bleeding</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Respiratory, thoracic and mediastinal disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Cough</sub_title>
+                <counts group_id="E1" events="12" subjects_affected="12" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Dyspnea</sub_title>
+                <counts group_id="E1" events="10" subjects_affected="10" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Hoarseness</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+          <category>
+            <title>Skin and subcutaneous tissue disorders</title>
+            <event_list>
+              <event>
+                <sub_title>Alopecia</sub_title>
+                <counts group_id="E1" events="21" subjects_affected="21" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Bruising</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Flushing</sub_title>
+                <counts group_id="E1" events="1" subjects_affected="1" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Pruritis</sub_title>
+                <counts group_id="E1" events="3" subjects_affected="3" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Rash</sub_title>
+                <counts group_id="E1" events="6" subjects_affected="6" subjects_at_risk="26"/>
+              </event>
+              <event>
+                <sub_title>Urticaria</sub_title>
+                <counts group_id="E1" events="2" subjects_affected="2" subjects_at_risk="26"/>
+              </event>
+            </event_list>
+          </category>
+        </category_list>
+      </other_events>
+    </reported_events>
+
+    <certain_agreements>
+      <pi_employee>Principal Investigators are NOT employed by the organization sponsoring the study.</pi_employee>
+      <restrictive_agreement>There is NOT an agreement between Principal Investigators and the Sponsor (or its agents) that restricts the PI's rights to discuss or publish trial results after the trial is completed. </restrictive_agreement>
+    </certain_agreements>
+    <point_of_contact>
+      <name_or_title>Dr. Christopher J. Melani</name_or_title>
+      <organization>National Cancer Institute</organization>
+      <phone>240-760-6057</phone>
+      <email>christopher.melani@nih.gov</email>
+    </point_of_contact>
+  </clinical_results>
+</clinical_study>
+

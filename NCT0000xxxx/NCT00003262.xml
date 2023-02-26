@@ -1,0 +1,279 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00003262</url>
+  </required_header>
+  <id_info>
+    <org_study_id>CDR0000066154</org_study_id>
+    <secondary_id>ITA-GICAT-POS5</secondary_id>
+    <secondary_id>EU-97022</secondary_id>
+    <nct_id>NCT00003262</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy in Treating Patients With Hodgkin's Disease and HIV Infection</brief_title>
+  <official_title>Prospective Non Randomized Study With Chemotherapy in Patients With Hodgkin's Disease and HIV Infection: &quot;Stanford V Regimen&quot; For &quot;Low Risk&quot; Patients, &quot;EBVP Regimen&quot; For &quot;High Risk&quot; Patients</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Centro di Riferimento Oncologico - Aviano</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining more than one drug may kill more tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of two combination chemotherapy regimens&#xD;
+      in treating patients with Hodgkin's disease and HIV infection.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Investigate the effects on survival, life expectancy and quality, toxicity, and&#xD;
+           immunological status in low risk patients with Hodgkin's Disease and HIV infection&#xD;
+           treated with the Stanford V regimen and in high risk patients treated with epirubicin,&#xD;
+           bleomycin, vinblastine, and prednisone.&#xD;
+&#xD;
+      OUTLINE: Patients are stratified into 2 groups designated as low and high risk on the basis&#xD;
+      of ECOG performance status (0-2 vs 3-4), presence or absence of AIDS before the diagnosis of&#xD;
+      Hodgkin's Disease, and immune status (CD4+ cell count greater vs no greater than 100/mm^3).&#xD;
+&#xD;
+        -  Low risk patients (those with no risk factors) receive the EBVP regimen, as follows:&#xD;
+&#xD;
+             -  Epirubicin intravenously on day 1&#xD;
+&#xD;
+             -  Bleomycin intramuscularly or intravenously on day 1&#xD;
+&#xD;
+             -  Vinblastine intravenously on day 1&#xD;
+&#xD;
+             -  Prednisone orally on days 1-5&#xD;
+&#xD;
+             -  Patients also receive daily injections of filgrastim (granulocyte&#xD;
+                colony-stimulating factor; G-CSF) on days 6-15. This schedule is repeated every 3&#xD;
+                weeks for 6 courses.&#xD;
+&#xD;
+        -  High risk patients (those with one or more risk factors) receive the Stanford V regimen,&#xD;
+           as follows:&#xD;
+&#xD;
+             -  Doxorubicin and vinblastine intravenously on days 1 and 15&#xD;
+&#xD;
+             -  Mechlorethamine intravenously on day 1&#xD;
+&#xD;
+             -  Vincristine and bleomycin intravenously on days 8 and 22&#xD;
+&#xD;
+             -  Etoposide intravenously on days 15 and 16&#xD;
+&#xD;
+             -  Prednisone orally daily&#xD;
+&#xD;
+             -  Patients also receive daily injections of G-CSF on days 3-7, 9-13, 17-21, and&#xD;
+                23-26. This schedule is repeated every 28 days for 3 courses.&#xD;
+&#xD;
+      Patients are followed every 2 months the first year and then every 3 months thereafter.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: 20-30 patients will initially be accrued in this study.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Unknown status</overall_status>
+  <last_known_status>Active, not recruiting</last_known_status>
+  <start_date>May 1997</start_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment type="Anticipated">30</enrollment>
+  <condition>Lymphoma</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>bleomycin sulfate</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>filgrastim</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Stanford V regimen</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>doxorubicin hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>epirubicin hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>etoposide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>mechlorethamine hydrochloride</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>prednisone</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vinblastine sulfate</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>vincristine sulfate</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically proven Hodgkin's disease:&#xD;
+&#xD;
+               -  Clinical or pathologic stage II - IV&#xD;
+&#xD;
+               -  Stage I with bulky disease (tumor size greater than 10 cm) and B symptoms&#xD;
+&#xD;
+          -  Confirmed HIV infection&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 and over&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  WHO 0-4&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  No severe cardiac disease&#xD;
+&#xD;
+        Pulmonary:&#xD;
+&#xD;
+          -  No severe pulmonary disease&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No severe neurologic or metabolic disease&#xD;
+&#xD;
+          -  No concurrent or prior second malignancy except:&#xD;
+&#xD;
+               -  Nonmelanomatous skin cancer&#xD;
+&#xD;
+               -  In situ cancer of the cervix&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Endocrine therapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Surgery&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Other&#xD;
+&#xD;
+          -  No prior therapy for Hodgkin's disease&#xD;
+&#xD;
+          -  Concurrent triple-drug antiretroviral therapy (including one protease inhibitor)&#xD;
+             required&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Umberto Tirelli, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Centro di Riferimento Oncologico - Aviano</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Centro di Riferimento Oncologico - Aviano</name>
+      <address>
+        <city>Aviano</city>
+        <zip>33081</zip>
+        <country>Italy</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>Italy</country>
+  </location_countries>
+  <reference>
+    <citation>Spina M, Gabarre J, Rossi G, Fasan M, Schiantarelli C, Nigra E, Mena M, Antinori A, Ammassari A, Talamini R, Vaccher E, di Gennaro G, Tirelli U. Stanford V regimen and concomitant HAART in 59 patients with Hodgkin disease and HIV infection. Blood. 2002 Sep 15;100(6):1984-8. doi: 10.1182/blood-2002-03-0989.</citation>
+    <PMID>12200356</PMID>
+  </reference>
+  <verification_date>October 2002</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>April 22, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">April 23, 2003</study_first_posted>
+  <last_update_submitted>September 19, 2013</last_update_submitted>
+  <last_update_submitted_qc>September 19, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">September 20, 2013</last_update_posted>
+  <keyword>stage I adult Hodgkin lymphoma</keyword>
+  <keyword>stage II adult Hodgkin lymphoma</keyword>
+  <keyword>stage III adult Hodgkin lymphoma</keyword>
+  <keyword>stage IV adult Hodgkin lymphoma</keyword>
+  <keyword>AIDS-related peripheral/systemic lymphoma</keyword>
+  <keyword>HIV-associated Hodgkin lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>HIV Infections</mesh_term>
+    <mesh_term>Lymphoma</mesh_term>
+    <mesh_term>Hodgkin Disease</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Liposomal doxorubicin</mesh_term>
+    <mesh_term>Epirubicin</mesh_term>
+    <mesh_term>Bleomycin</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+    <mesh_term>Vinblastine</mesh_term>
+    <mesh_term>Mechlorethamine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

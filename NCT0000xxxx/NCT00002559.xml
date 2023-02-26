@@ -1,0 +1,236 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00002559</url>
+  </required_header>
+  <id_info>
+    <org_study_id>94-012</org_study_id>
+    <secondary_id>CDR0000063452</secondary_id>
+    <secondary_id>NCI-V94-0408</secondary_id>
+    <nct_id>NCT00002559</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy in Treating Patients With Germ Cell Tumors That Have Not Responded to Previous Cisplatin</brief_title>
+  <official_title>PHASE I/II TRIAL OF TAXOL, IFOSFAMIDE, AND CISPLATIN FOR CISPLATIN-RESISTANT GERM CELL TUMOR PATIENTS WITH FAVORABLE PROGNOSTIC FEATURES</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Memorial Sloan Kettering Cancer Center</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>Memorial Sloan Kettering Cancer Center</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining more than one drug may kill more tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase I/II trial to study the effectiveness of combination chemotherapy consisting&#xD;
+      of paclitaxel, cisplatin, and ifosfamide in treating patients who have ovarian or testicular&#xD;
+      germ cell tumors that are refractory to platinum-containing chemotherapy.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the toxicity and optimal dose of paclitaxel when combined with cisplatin and&#xD;
+           ifosfamide in patients with germ cell tumors with favorable prognostic features and&#xD;
+           resistance to cisplatin.&#xD;
+&#xD;
+        -  Determine the efficacy of this regimen as salvage therapy in these patients.&#xD;
+&#xD;
+      OUTLINE: This is a dose escalation study of paclitaxel.&#xD;
+&#xD;
+      Patients receive paclitaxel IV continuously on day 1 and cisplatin IV over 20 minutes and&#xD;
+      ifosfamide IV over 30 minutes on days 2-6. Filgrastim (G-CSF) is administered subcutaneously&#xD;
+      (SC) on days 7-18 or until blood counts recover. Treatment continues every 3 weeks for 4&#xD;
+      courses in the absence of disease progression or unacceptable toxicity.&#xD;
+&#xD;
+      Cohorts of 3-6 patients receive escalating doses of paclitaxel until the maximum tolerated&#xD;
+      dose (MTD) is determined. The MTD is defined as the dose preceding that at which 3 of 6&#xD;
+      patients experience dose-limiting toxicity. Additional patients receive paclitaxel at the&#xD;
+      MTD.&#xD;
+&#xD;
+      After completion of chemotherapy, some patients may undergo resection of residual masses.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 18-43 patients will be accrued for this study within 2 years.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>January 1994</start_date>
+  <completion_date type="Actual">January 2003</completion_date>
+  <primary_completion_date type="Actual">January 2003</primary_completion_date>
+  <phase>Phase 1/Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <primary_purpose>Treatment</primary_purpose>
+  </study_design_info>
+  <enrollment type="Anticipated">43</enrollment>
+  <condition>Ovarian Cancer</condition>
+  <condition>Testicular Germ Cell Tumor</condition>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>filgrastim</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>cisplatin</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>ifosfamide</intervention_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>paclitaxel</intervention_name>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically proven germ cell tumor that is resistant to a platinum-based&#xD;
+             chemotherapy regimen&#xD;
+&#xD;
+          -  Active disease meeting 1 of the following conditions:&#xD;
+&#xD;
+               -  Measurable or evaluable disease&#xD;
+&#xD;
+               -  Elevated serum tumor markers (alpha-fetoprotein or human chorionic gonadotropin)&#xD;
+&#xD;
+               -  Unresectable residual disease after postchemotherapy surgery&#xD;
+&#xD;
+          -  Favorable prognostic factors for achieving a complete response (CR) to cisplatin-based&#xD;
+             salvage therapy required, including all of the following:&#xD;
+&#xD;
+               -  No more than 1 prior regimen or 6 prior courses of cisplatin&#xD;
+&#xD;
+               -  Testis or ovarian germ cell primary site&#xD;
+&#xD;
+               -  Prior CR to cisplatin therapy&#xD;
+&#xD;
+               -  Incomplete response to first-line therapy that was based on either carboplatin or&#xD;
+                  a suboptimal regimen of cisplatin&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  15 and over&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  WBC at least 3,000/mm^3&#xD;
+&#xD;
+          -  Platelet count at least 100,000/mm^3&#xD;
+&#xD;
+          -  Hemoglobin at least 8.0 g/dL&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Creatinine clearance greater than 50 mL/min&#xD;
+&#xD;
+          -  Renal dysfunction due to ureteral obstruction by tumor allowed at the discretion of&#xD;
+             the principal investigator&#xD;
+&#xD;
+        Cardiovascular:&#xD;
+&#xD;
+          -  If history of significant cardiac disease, evaluation and clearance by a cardiologist&#xD;
+             required prior to entry&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No active infection not well controlled on antibiotics&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+        Biologic therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  No prior paclitaxel or ifosfamide&#xD;
+&#xD;
+          -  At least 3 weeks since prior chemotherapy&#xD;
+&#xD;
+          -  No other concurrent chemotherapy&#xD;
+&#xD;
+        Endocrine therapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Surgery:&#xD;
+&#xD;
+          -  See Disease Characteristics&#xD;
+&#xD;
+          -  Recovered from recent surgery&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>15 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Robert J. Motzer, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Memorial Sloan Kettering Cancer Center</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Memorial Sloan-Kettering Cancer Center</name>
+      <address>
+        <city>New York</city>
+        <state>New York</state>
+        <zip>10021</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>July 2013</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>September 17, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">September 18, 2003</study_first_posted>
+  <last_update_submitted>July 1, 2013</last_update_submitted>
+  <last_update_submitted_qc>July 1, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">July 2, 2013</last_update_posted>
+  <keyword>recurrent malignant testicular germ cell tumor</keyword>
+  <keyword>recurrent ovarian germ cell tumor</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Neoplasms, Germ Cell and Embryonal</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Paclitaxel</mesh_term>
+    <mesh_term>Cisplatin</mesh_term>
+    <mesh_term>Ifosfamide</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

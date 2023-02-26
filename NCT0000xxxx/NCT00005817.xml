@@ -1,0 +1,280 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00005817</url>
+  </required_header>
+  <id_info>
+    <org_study_id>NCI-2013-00031</org_study_id>
+    <secondary_id>99-283</secondary_id>
+    <secondary_id>U01CA062502</secondary_id>
+    <secondary_id>CDR0000067821</secondary_id>
+    <nct_id>NCT00005817</nct_id>
+  </id_info>
+  <brief_title>Rebeccamycin Analogue in Treating Women With Stage IIIB or Stage IV Breast Cancer</brief_title>
+  <official_title>A Randomized Phase 2 Study of Rebeccamycin Analog in Advanced Breast Cancer</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </lead_sponsor>
+  </sponsors>
+  <source>National Cancer Institute (NCI)</source>
+  <brief_summary>
+    <textblock>
+      Randomized phase II trial to compare the effectiveness of two regimens of rebeccamycin&#xD;
+      analogue in treating women who have stage IIIB or stage IV breast cancer. Drugs used in&#xD;
+      chemotherapy use different ways to stop tumor cells from dividing so they stop growing or&#xD;
+      die. The best way to give rebeccamycin analog in breast cancer patients is not yet known&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      PRIMARY OBJECTIVES:&#xD;
+&#xD;
+      I. To assess the activity of rebeccamycin analog as therapy for advanced breast cancer when&#xD;
+      administered in two different treatment schedules.&#xD;
+&#xD;
+      SECONDARY OBJECTIVES:&#xD;
+&#xD;
+      I. To assess the toxicity associated with administration of rebeccamycin analog therapy in&#xD;
+      women with advanced breast cancer.&#xD;
+&#xD;
+      II. To evaluate topoisomerase I and II levels in human lymphocytes following treatment with&#xD;
+      rebeccamycin analog.&#xD;
+&#xD;
+      OUTLINE: This is a randomized, multicenter study. Patients are randomized to one of two&#xD;
+      treatment arms.&#xD;
+&#xD;
+      Arm I: Patients receive rebeccamycin analogue IV over 60 minutes on day 1.&#xD;
+&#xD;
+      Arm II: Patients receive rebeccamycin analogue IV over 60 minutes on days 1-5.&#xD;
+&#xD;
+      In all arms, courses repeat every 21 days in the absence of disease progression or&#xD;
+      unacceptable toxicity.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date>March 2000</start_date>
+  <primary_completion_date type="Actual">May 2006</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>Randomized</allocation>
+    <intervention_model>Parallel Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <primary_outcome>
+    <measure>Response rates (complete or partial response) of 2 different schedules of rebeccamycin analog</measure>
+    <time_frame>Up to 6 years</time_frame>
+  </primary_outcome>
+  <primary_outcome>
+    <measure>Toxicity rates of rebeccamycin analog as assessed by the NCI CTC version 2.0</measure>
+    <time_frame>Up to 6 years</time_frame>
+  </primary_outcome>
+  <secondary_outcome>
+    <measure>Change in topoisomerase (TOPO I and II) levels in circulating lymphocytes</measure>
+    <time_frame>From baseline to up to 6 years</time_frame>
+    <description>Changes in TOPO levels will be described as a function of treatment and time since exposure in order to establish whether rebeccamycin acts as an inhibitor of these enzymes.</description>
+  </secondary_outcome>
+  <number_of_arms>2</number_of_arms>
+  <enrollment type="Actual">42</enrollment>
+  <condition>Male Breast Cancer</condition>
+  <condition>Recurrent Breast Cancer</condition>
+  <condition>Stage IIIB Breast Cancer</condition>
+  <condition>Stage IV Breast Cancer</condition>
+  <arm_group>
+    <arm_group_label>Arm I (becatecarin)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive rebeccamycin analogue IV over 60 minutes on day 1.</description>
+  </arm_group>
+  <arm_group>
+    <arm_group_label>Arm II (becatecarin)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>Patients receive rebeccamycin analogue IV over 60 minutes on days 1-5.</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>becatecarin</intervention_name>
+    <description>Given IV</description>
+    <arm_group_label>Arm I (becatecarin)</arm_group_label>
+    <arm_group_label>Arm II (becatecarin)</arm_group_label>
+    <other_name>BMS-181176</other_name>
+    <other_name>rebeccamycin analogue</other_name>
+    <other_name>rebeccamycin analogue, tartrate salt</other_name>
+    <other_name>XL119</other_name>
+  </intervention>
+  <intervention>
+    <intervention_type>Other</intervention_type>
+    <intervention_name>laboratory biomarker analysis</intervention_name>
+    <description>Correlative studies</description>
+    <arm_group_label>Arm I (becatecarin)</arm_group_label>
+    <arm_group_label>Arm II (becatecarin)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        Inclusion Criteria:&#xD;
+&#xD;
+          -  Patients must have histologically or cytologically confirmed invasive breast cancer;&#xD;
+             patients without pathologic or cytologic evidence of metastatic disease should have&#xD;
+             unequivocal evidence of metastasis on radiographic study or physical exam; patients&#xD;
+             must have metastatic (stage IV) breast cancer, or locally advanced (stage IIIB) breast&#xD;
+             cancer that cannot be treated with curative intent&#xD;
+&#xD;
+          -  Patients must have measurable disease, defined as lesions that can be accurately&#xD;
+             measured in at least one dimension (longest diameter to be recorded) as &gt;= 10 mm with&#xD;
+             conventional techniques; lytic bone lesions meeting these criteria will be considered&#xD;
+             measurable disease&#xD;
+&#xD;
+          -  Patients are required to have had at least one prior chemotherapy regimen for advanced&#xD;
+             breast cancer unless they have progressed within 12 months of concluding adjuvant&#xD;
+             chemotherapy; patients may not have had more than 2 prior chemotherapy regimens for&#xD;
+             advanced breast cancer; treatment with high-dose chemotherapy and stem cell support in&#xD;
+             the metastatic setting, including induction chemotherapy, will be considered 2&#xD;
+             treatment regimens; patients may have received adjuvant chemotherapy; patients who&#xD;
+             have metastatic breast cancer diagnosed within 12 months of concluding adjuvant&#xD;
+             chemotherapy will be eligible after 0 or 1 regimens in the metastatic setting;&#xD;
+             patients may have received prior hormonal therapy of any type; patients may have been&#xD;
+             previously treated with investigational agents or biological agents (e.g. Herceptin)&#xD;
+&#xD;
+          -  Patients must have concluded prior therapy no less than the duration of one cycle of&#xD;
+             treatment prior to beginning treatment with rebeccamycin analog, but in all cases&#xD;
+             there must be at least a 2 week interval since last treatment; thus, if a patient is&#xD;
+             receiving therapy every three weeks, the patient must be at least three weeks from the&#xD;
+             last treatment before beginning protocol-based therapy; patients must have recovered&#xD;
+             from the toxicities of prior therapy, and meet the performance status and laboratory&#xD;
+             criteria for eligibility before beginning treatment&#xD;
+&#xD;
+          -  Patients may not receive concurrent anti-neoplastic therapy; all other radiation&#xD;
+             therapy, hormonal therapy, or treatment with trastuzumab (Herceptin) must be stopped&#xD;
+             prior to treatment on protocol; patients receiving bisphosphonate therapy may continue&#xD;
+             to receive these treatments while on protocol&#xD;
+&#xD;
+          -  Life expectancy of greater than 3 months&#xD;
+&#xD;
+          -  ECOG performance status =&lt; 1 (Karnofsky &gt;= 70%)&#xD;
+&#xD;
+          -  Absolute neutrophil count (ANC) &gt;= 1,500/uL&#xD;
+&#xD;
+          -  Platelets &gt;= 100,000/uL&#xD;
+&#xD;
+          -  Total bilirubin within normal institutional limits&#xD;
+&#xD;
+          -  AST(SGOT)/ALT(SGPT) =&lt; 2.5 x institutional upper limit of normal&#xD;
+&#xD;
+          -  Creatinine =&lt; 2 mg/dl&#xD;
+&#xD;
+          -  Sodium (Na) within normal institutional limits&#xD;
+&#xD;
+          -  Serum lipase within normal institutional limits&#xD;
+&#xD;
+          -  Serum amylase within normal institutional limits&#xD;
+&#xD;
+          -  Because rebeccamycin analog has been associated with phlebitis, all therapy on&#xD;
+             protocol will be given through a central venous line; patients not willing to have a&#xD;
+             central line, or those in whom central venous access could not be established, will&#xD;
+             not be eligible&#xD;
+&#xD;
+          -  The effects of rebeccamycin analog on the developing human fetus at the recommended&#xD;
+             therapeutic dose are unknown; for this reason, women of child-bearing potential must&#xD;
+             agree to use adequate contraception prior to study entry and for the duration of study&#xD;
+             participation; women should not become pregnant or nurse, nor expect to become&#xD;
+             pregnant or nurse, during the study; women in whom there is a suspicion of possible&#xD;
+             pregnancy must have a documented negative serum pregnancy test prior to beginning&#xD;
+             therapy; should a woman become pregnant or suspect she is pregnant while participating&#xD;
+             in this study, she should inform her treating physician immediately&#xD;
+&#xD;
+          -  Ability to understand and the willingness to sign a written informed consent document&#xD;
+&#xD;
+        Exclusion Criteria:&#xD;
+&#xD;
+          -  Patients with only non-measurable disease, defined as all other lesions, including&#xD;
+             small lesions (longest diameter &lt; 10 mm with conventional techniques) and truly&#xD;
+             non-measurable lesions, which include the following:&#xD;
+&#xD;
+               -  Bone lesions, except pure lytic lesions&#xD;
+&#xD;
+               -  Leptomeningeal disease&#xD;
+&#xD;
+               -  Tumor markers&#xD;
+&#xD;
+               -  Ascites&#xD;
+&#xD;
+               -  Pleural/pericardial effusions&#xD;
+&#xD;
+          -  Patients who have had radiotherapy within 2 weeks prior to entering the study or those&#xD;
+             who have not recovered from adverse events due to prior chemotherapy administered&#xD;
+             previously&#xD;
+&#xD;
+          -  Patients may not be receiving any other investigational anti-neoplastic agents, with&#xD;
+             the following exceptions: patients may participate in concurrent studies of supportive&#xD;
+             therapies, including anti-nausea or bisphosphonate-based treatments&#xD;
+&#xD;
+          -  Patients with known brain metastases may be included if they meet the following 2&#xD;
+             criteria:&#xD;
+&#xD;
+               -  Completed whole brain irradiation at least two months prior to study entry&#xD;
+&#xD;
+               -  Have no symptoms from brain metastases&#xD;
+&#xD;
+          -  Lack of central venous access&#xD;
+&#xD;
+          -  Uncontrolled intercurrent illness including, but not limited to ongoing or active&#xD;
+             infection, symptomatic congestive heart failure, unstable angina pectoris, cardiac&#xD;
+             arrhythmia, or psychiatric illness/social situations that would limit compliance with&#xD;
+             study requirements&#xD;
+&#xD;
+          -  Pregnant women are excluded from this study; breastfeeding should be discontinued if&#xD;
+             the mother is treated on study&#xD;
+&#xD;
+          -  HIV-positive patients receiving combination anti-retroviral therapy are excluded from&#xD;
+             the study&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>N/A</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Harold Burstein</last_name>
+    <role>Principal Investigator</role>
+    <affiliation>Dana-Farber Cancer Institute</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Dana-Farber Cancer Institute</name>
+      <address>
+        <city>Boston</city>
+        <state>Massachusetts</state>
+        <zip>02115</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <verification_date>January 2013</verification_date>
+  <study_first_submitted>June 2, 2000</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>January 31, 2013</last_update_submitted>
+  <last_update_submitted_qc>January 31, 2013</last_update_submitted_qc>
+  <last_update_posted type="Estimate">February 1, 2013</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Breast Neoplasms</mesh_term>
+    <mesh_term>Breast Neoplasms, Male</mesh_term>
+  </condition_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+

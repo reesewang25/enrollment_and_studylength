@@ -1,0 +1,288 @@
+<clinical_study>
+  <!-- This xml conforms to an XML Schema at:
+    https://clinicaltrials.gov/ct2/html/images/info/public.xsd -->
+  <required_header>
+    <download_date>ClinicalTrials.gov processed this data on February 03, 2023</download_date>
+    <link_text>Link to the current ClinicalTrials.gov record.</link_text>
+    <url>https://clinicaltrials.gov/show/NCT00002715</url>
+  </required_header>
+  <id_info>
+    <org_study_id>IRB-13467</org_study_id>
+    <secondary_id>SUMC-G2/G3</secondary_id>
+    <secondary_id>CDR0000064551</secondary_id>
+    <secondary_id>SQL 76234</secondary_id>
+    <secondary_id>NCI-H96-0806</secondary_id>
+    <nct_id>NCT00002715</nct_id>
+  </id_info>
+  <brief_title>Combination Chemotherapy in Treating Patients With Advanced Hodgkin's Lymphoma</brief_title>
+  <official_title>A Phase II Pilot Study of Short Term (12 Week) Combination Chemotherapy (Stanford V) in Unfavorable Hodgkin's Disease</official_title>
+  <sponsors>
+    <lead_sponsor>
+      <agency>Stanford University</agency>
+      <agency_class>Other</agency_class>
+    </lead_sponsor>
+    <collaborator>
+      <agency>National Cancer Institute (NCI)</agency>
+      <agency_class>NIH</agency_class>
+    </collaborator>
+  </sponsors>
+  <source>Stanford University</source>
+  <brief_summary>
+    <textblock>
+      RATIONALE: Drugs used in chemotherapy use different ways to stop tumor cells from dividing so&#xD;
+      they stop growing or die. Combining more than one drug may kill more tumor cells.&#xD;
+&#xD;
+      PURPOSE: Phase II trial to study the effectiveness of combination chemotherapy in treating&#xD;
+      patients who have advanced Hodgkin's lymphoma.&#xD;
+    </textblock>
+  </brief_summary>
+  <detailed_description>
+    <textblock>
+      OBJECTIVES:&#xD;
+&#xD;
+        -  Determine the feasibility of short term chemotherapy with the Stanford V regimen&#xD;
+           (mechlorethamine, doxorubicin, vinblastine, prednisone, vincristine, bleomycin, and&#xD;
+           etoposide) followed by, as indicated, consolidative radiotherapy in patients with stage&#xD;
+           IIB, IIIA, IIIB, or IV Hodgkin's lymphoma.&#xD;
+&#xD;
+        -  Determine the initial response to 8 weeks of Stanford V chemotherapy in these patients.&#xD;
+&#xD;
+        -  Assess the complete and partial response rate to 12 weeks of Stanford V chemotherapy in&#xD;
+           these patients.&#xD;
+&#xD;
+        -  Determine the acute toxicity associated with this treatment.&#xD;
+&#xD;
+        -  Determine the disease free interval and survival following Stanford V chemotherapy with&#xD;
+           or without consolidative radiotherapy in these patients.&#xD;
+&#xD;
+      OUTLINE: All patients are treated on Regimen A with the Stanford V Regimen; those with&#xD;
+      initial bulky, residual, or splenic disease who achieve a CR/PR proceed to Regimen B.&#xD;
+&#xD;
+        -  Regimen A: Patients receive mechlorethamine IV on weeks 1, 5, and 9; doxorubicin and&#xD;
+           vinblastine IV on weeks 1, 3, 5, 7, 9, and 11; vincristine and bleomycin IV on weeks 2,&#xD;
+           4, 6, 8, 10, and 12; etoposide IV over 30-45 minutes for 2 consecutive days on weeks 3,&#xD;
+           7, and 11; and prednisone orally every other day on days 1-84. Treatment continues for&#xD;
+           8-12 weeks, depending on response, in the absence of disease progression or unacceptable&#xD;
+           toxicity.&#xD;
+&#xD;
+        -  Regimen B: Patients begin radiotherapy 2-4 weeks after completion of Regimen A. Patients&#xD;
+           receive radiotherapy to lungs, pleura, and other extralymphatic sites for approximately&#xD;
+           5 weeks.&#xD;
+&#xD;
+      Patients are followed for survival.&#xD;
+&#xD;
+      PROJECTED ACCRUAL: A total of 50 patients will be entered if at least 16 of the first 22&#xD;
+      patients respond. As of 03/96, it is expected that a total of 45 patients each with stage&#xD;
+      III/IV disease and 40 with unfavorable stage II disease will be accrued.&#xD;
+    </textblock>
+  </detailed_description>
+  <overall_status>Completed</overall_status>
+  <start_date type="Actual">April 1989</start_date>
+  <completion_date type="Actual">October 2015</completion_date>
+  <primary_completion_date type="Actual">January 2007</primary_completion_date>
+  <phase>Phase 2</phase>
+  <study_type>Interventional</study_type>
+  <has_expanded_access>No</has_expanded_access>
+  <study_design_info>
+    <allocation>N/A</allocation>
+    <intervention_model>Single Group Assignment</intervention_model>
+    <primary_purpose>Treatment</primary_purpose>
+    <masking>None (Open Label)</masking>
+  </study_design_info>
+  <number_of_arms>1</number_of_arms>
+  <enrollment type="Anticipated">50</enrollment>
+  <condition>Lymphoma</condition>
+  <arm_group>
+    <arm_group_label>Combination Chemotherapy (Stanford V)</arm_group_label>
+    <arm_group_type>Experimental</arm_group_type>
+    <description>A combination chemotherapy regimen consisting of mechlorethamine, doxorubicin hydrochloride, vinblastine, vincristine, bleomycin, etoposide and prednisone, administered on a compressed schedule</description>
+  </arm_group>
+  <intervention>
+    <intervention_type>Biological</intervention_type>
+    <intervention_name>Bleomycin sulfate</intervention_name>
+    <description>A component of the Stanford V regimen.</description>
+    <arm_group_label>Combination Chemotherapy (Stanford V)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Stanford V regimen</intervention_name>
+    <arm_group_label>Combination Chemotherapy (Stanford V)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Doxorubicin hydrochloride</intervention_name>
+    <description>A component of the Stanford V regimen.</description>
+    <arm_group_label>Combination Chemotherapy (Stanford V)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Etoposide</intervention_name>
+    <description>A component of the Stanford V regimen.</description>
+    <arm_group_label>Combination Chemotherapy (Stanford V)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Mechlorethamine hydrochloride</intervention_name>
+    <description>A component of the Stanford V regimen.</description>
+    <arm_group_label>Combination Chemotherapy (Stanford V)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Prednisone</intervention_name>
+    <description>A component of the Stanford V regimen.</description>
+    <arm_group_label>Combination Chemotherapy (Stanford V)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vinblastine</intervention_name>
+    <description>A component of the Stanford V regimen.</description>
+    <arm_group_label>Combination Chemotherapy (Stanford V)</arm_group_label>
+  </intervention>
+  <intervention>
+    <intervention_type>Drug</intervention_type>
+    <intervention_name>Vincristine sulfate</intervention_name>
+    <description>A component of the Stanford V regimen.</description>
+    <arm_group_label>Combination Chemotherapy (Stanford V)</arm_group_label>
+  </intervention>
+  <eligibility>
+    <criteria>
+      <textblock>
+        DISEASE CHARACTERISTICS:&#xD;
+&#xD;
+          -  Histologically confirmed Hodgkin's lymphoma of any histology&#xD;
+&#xD;
+          -  Unfavorable disease required&#xD;
+&#xD;
+               -  Clinical stage IIIA, IIIB, IV, or IIB (non-bulky)&#xD;
+&#xD;
+               -  Locally extensive stage I or II with either of the following:&#xD;
+&#xD;
+                    -  Mediastinal mass greater than 1/3 the maximum intrathoracic diameter&#xD;
+&#xD;
+                    -  Two or more extranodal sites&#xD;
+&#xD;
+        PATIENT CHARACTERISTICS:&#xD;
+&#xD;
+        Age:&#xD;
+&#xD;
+          -  18 to 60&#xD;
+&#xD;
+        Performance status:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Life expectancy:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hematopoietic:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Hepatic:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Renal:&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Other:&#xD;
+&#xD;
+          -  No prior malignancy except nonmelanomatous skin cancer&#xD;
+&#xD;
+          -  No significant concurrent illness that precludes protocol participation&#xD;
+&#xD;
+        PRIOR CONCURRENT THERAPY:&#xD;
+&#xD;
+          -  No prior treatment for Hodgkin's lymphoma&#xD;
+&#xD;
+        Biologic therapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Chemotherapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Endocrine therapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Radiotherapy&#xD;
+&#xD;
+          -  Not specified&#xD;
+&#xD;
+        Surgery&#xD;
+&#xD;
+          -  Not specified&#xD;
+      </textblock>
+    </criteria>
+    <gender>All</gender>
+    <minimum_age>18 Years</minimum_age>
+    <maximum_age>60 Years</maximum_age>
+    <healthy_volunteers>No</healthy_volunteers>
+  </eligibility>
+  <overall_official>
+    <last_name>Sandra J. Horning, MD</last_name>
+    <role>Study Chair</role>
+    <affiliation>Stanford University</affiliation>
+  </overall_official>
+  <location>
+    <facility>
+      <name>Stanford Cancer Center at Stanford University Medical Center</name>
+      <address>
+        <city>Stanford</city>
+        <state>California</state>
+        <zip>94305</zip>
+        <country>United States</country>
+      </address>
+    </facility>
+  </location>
+  <location_countries>
+    <country>United States</country>
+  </location_countries>
+  <results_reference>
+    <citation>Horning SJ, Rosenberg SA, Hoppe RT. Brief chemotherapy (Stanford V) and adjuvant radiotherapy for bulky or advanced Hodgkin's disease: an update. Ann Oncol. 1996;7 Suppl 4:105-8. doi: 10.1093/annonc/7.suppl_4.s105.</citation>
+    <PMID>8836420</PMID>
+  </results_reference>
+  <results_reference>
+    <citation>Bartlett NL, Rosenberg SA, Hoppe RT, Hancock SL, Horning SJ. Brief chemotherapy, Stanford V, and adjuvant radiotherapy for bulky or advanced-stage Hodgkin's disease: a preliminary report. J Clin Oncol. 1995 May;13(5):1080-8. doi: 10.1200/JCO.1995.13.5.1080.</citation>
+    <PMID>7537796</PMID>
+  </results_reference>
+  <verification_date>August 2020</verification_date>
+  <study_first_submitted>November 1, 1999</study_first_submitted>
+  <study_first_submitted_qc>January 26, 2003</study_first_submitted_qc>
+  <study_first_posted type="Estimate">January 27, 2003</study_first_posted>
+  <last_update_submitted>August 10, 2020</last_update_submitted>
+  <last_update_submitted_qc>August 10, 2020</last_update_submitted_qc>
+  <last_update_posted type="Actual">August 12, 2020</last_update_posted>
+  <responsible_party>
+    <responsible_party_type>Sponsor</responsible_party_type>
+  </responsible_party>
+  <keyword>Stage I adult Hodgkin lymphoma</keyword>
+  <keyword>Stage II adult Hodgkin lymphoma</keyword>
+  <keyword>Stage III adult Hodgkin lymphoma</keyword>
+  <keyword>Stage IV adult Hodgkin lymphoma</keyword>
+  <keyword>Adult lymphocyte predominant Hodgkin lymphoma</keyword>
+  <keyword>Adult lymphocyte depletion Hodgkin lymphoma</keyword>
+  <keyword>Adult nodular sclerosis Hodgkin lymphoma</keyword>
+  <keyword>Adult mixed cellularity Hodgkin lymphoma</keyword>
+  <condition_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Lymphoma</mesh_term>
+  </condition_browse>
+  <intervention_browse>
+    <!-- CAUTION:  The following MeSH terms are assigned with an imperfect algorithm            -->
+    <mesh_term>Prednisone</mesh_term>
+    <mesh_term>Doxorubicin</mesh_term>
+    <mesh_term>Liposomal doxorubicin</mesh_term>
+    <mesh_term>Bleomycin</mesh_term>
+    <mesh_term>Etoposide</mesh_term>
+    <mesh_term>Vincristine</mesh_term>
+    <mesh_term>Vinblastine</mesh_term>
+    <mesh_term>Mechlorethamine</mesh_term>
+  </intervention_browse>
+  <!-- Results have not yet been posted for this study                                          -->
+</clinical_study>
+
